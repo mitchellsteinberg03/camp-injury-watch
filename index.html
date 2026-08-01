@@ -62,14 +62,16 @@
   .wrap { max-width: 1060px; margin: 0 auto; padding: 28px 20px 64px; }
   header.top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 16px; margin-bottom: 6px; }
   h1 { font-size: 24px; font-weight: 700; letter-spacing: -0.01em; margin: 0; text-wrap: balance; }
-  .positions-tag { font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); }
   .runstamp { font-size: 13px; color: var(--muted); margin: 0 0 20px; }
   .runstamp strong { color: var(--ink); font-weight: 600; }
 
   .summary { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 26px; }
-  .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; }
-  .stat .num { font-size: 26px; font-weight: 700; font-variant-numeric: tabular-nums; line-height: 1.1; }
-  .stat .lbl { font-size: 11px; font-weight: 600; letter-spacing: 0.07em; text-transform: uppercase; color: var(--muted); margin-top: 2px; }
+  .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px;
+    font: inherit; color: inherit; text-align: left; cursor: pointer; display: block; width: 100%; }
+  .stat:hover { border-color: var(--accent); }
+  .stat:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .stat .num { font-size: 26px; font-weight: 700; font-variant-numeric: tabular-nums; line-height: 1.1; display: block; }
+  .stat .lbl { font-size: 11px; font-weight: 600; letter-spacing: 0.07em; text-transform: uppercase; color: var(--muted); margin-top: 2px; display: block; }
   .stat.high .num { color: var(--sev-high); }
   .stat.mid .num { color: var(--sev-mid); }
   .stat.low .num { color: var(--sev-low); }
@@ -107,6 +109,21 @@
   .badge.low { background: var(--sev-low-bg); color: var(--sev-low); }
   .badge.new { background: var(--chip-bg); color: var(--accent); }
 
+  .overlay { position: fixed; inset: 0; background: rgba(10, 13, 18, 0.55); display: flex; align-items: center; justify-content: center; padding: 20px; z-index: 10; }
+  .overlay[hidden] { display: none; }
+  .modal { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; width: min(560px, 100%); max-height: 80vh; display: flex; flex-direction: column; }
+  .modal-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 14px 18px; border-bottom: 1px solid var(--line); }
+  .modal-head h3 { margin: 0; font-size: 14px; font-weight: 700; letter-spacing: 0.04em; }
+  .modal-close { font: 700 16px/1 system-ui, sans-serif; background: none; border: none; color: var(--muted); cursor: pointer; padding: 6px 10px; border-radius: 6px; }
+  .modal-close:hover { color: var(--ink); background: var(--chip-bg); }
+  .modal-close:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .modal-list { list-style: none; margin: 0; padding: 8px; overflow-y: auto; }
+  .modal-list button { display: block; width: 100%; text-align: left; font: inherit; color: inherit; background: none; border: none; border-radius: 6px; padding: 9px 10px; cursor: pointer; }
+  .modal-list button:hover { background: var(--chip-bg); }
+  .modal-list button:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+  .modal-list .mplayer { font-weight: 600; }
+  .modal-list .mmeta { display: block; font-size: 13px; color: var(--muted); }
+  tr.flash td { background: var(--chip-bg); transition: background 0.4s; }
   .legend { display: flex; flex-wrap: wrap; gap: 14px; font-size: 12px; color: var(--muted); margin: 26px 0 0; }
   .legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: baseline; }
   .legend .h::before { background: var(--sev-high); }
@@ -120,15 +137,14 @@
 <div class="wrap">
   <header class="top">
     <h1>NFL Camp Injury Watch</h1>
-    <span class="positions-tag">DB · LB · OT · OG · RB</span>
   </header>
-  <p class="runstamp">Last sweep: <strong>Friday, Aug 1, 2026 — afternoon (seed run)</strong> · Updates 4× daily during camp: morning, midday, post-practice, evening ET</p>
+  <p class="runstamp">Last sweep: <strong>Aug 1, 2026, 1:32 PM ET</strong></p>
 
   <div class="summary">
-    <div class="stat high"><div class="num">9</div><div class="lbl">Season-threatening / long-term</div></div>
-    <div class="stat mid"><div class="num">31</div><div class="lbl">Multi-week / PUP–NFI</div></div>
-    <div class="stat low"><div class="num">24</div><div class="lbl">Day-to-day</div></div>
-    <div class="stat"><div class="num">64</div><div class="lbl">Players tracked</div></div>
+    <button class="stat high" data-count="high"><span class="num">9</span><span class="lbl">Season-threatening / long-term</span></button>
+    <button class="stat mid" data-count="mid"><span class="num">31</span><span class="lbl">Multi-week / PUP–NFI</span></button>
+    <button class="stat low" data-count="low"><span class="num">24</span><span class="lbl">Day-to-day</span></button>
+    <button class="stat" data-count="all"><span class="num">64</span><span class="lbl">Players tracked</span></button>
   </div>
 
   <div class="filters" role="group" aria-label="Filter by position">
@@ -274,14 +290,72 @@
   <footer>Sourced from ESPN injury reports, CBS Sports, SI, Yahoo Sports, and beat coverage. Statuses reflect the most recent public reporting at sweep time; camp injuries move fast — verify before acting on any single line.</footer>
 </div>
 
+<div class="overlay" id="overlay" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-head">
+      <h3 id="modal-title"></h3>
+      <button class="modal-close" id="modal-close" aria-label="Close">✕</button>
+    </div>
+    <ul class="modal-list" id="modal-list"></ul>
+  </div>
+</div>
+
 <script>
   const buttons = document.querySelectorAll('.filters button');
   const sections = document.querySelectorAll('section.pos');
-  buttons.forEach(btn => btn.addEventListener('click', () => {
-    buttons.forEach(b => b.setAttribute('aria-pressed', String(b === btn)));
-    const pos = btn.dataset.pos;
+  function setFilter(pos) {
+    buttons.forEach(b => b.setAttribute('aria-pressed', String(b.dataset.pos === pos)));
     sections.forEach(s => { s.style.display = (pos === 'all' || s.dataset.pos === pos) ? '' : 'none'; });
-  }));
+  }
+  buttons.forEach(btn => btn.addEventListener('click', () => setFilter(btn.dataset.pos)));
+
+  const overlay = document.getElementById('overlay');
+  const modalTitle = document.getElementById('modal-title');
+  const modalList = document.getElementById('modal-list');
+  const modalClose = document.getElementById('modal-close');
+  const tierNames = {
+    high: 'Season-threatening / long-term',
+    mid: 'Multi-week / PUP–NFI',
+    low: 'Day-to-day / monitoring',
+    all: 'All players tracked'
+  };
+  function openModal(tier) {
+    const rows = document.querySelectorAll(
+      tier === 'all' ? 'section.pos tbody tr' : 'section.pos tbody tr[data-sev="' + tier + '"]'
+    );
+    modalList.textContent = '';
+    rows.forEach(row => {
+      const [player, team, pos, injury] = Array.from(row.children, td => td.textContent.trim());
+      const li = document.createElement('li');
+      const btn = document.createElement('button');
+      const name = document.createElement('span');
+      name.className = 'mplayer';
+      name.textContent = player;
+      const meta = document.createElement('span');
+      meta.className = 'mmeta';
+      meta.textContent = team + ' · ' + pos + ' · ' + injury;
+      btn.append(name, meta);
+      btn.addEventListener('click', () => {
+        closeModal();
+        setFilter('all');
+        row.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        row.classList.add('flash');
+        setTimeout(() => row.classList.remove('flash'), 2000);
+      });
+      li.appendChild(btn);
+      modalList.appendChild(li);
+    });
+    modalTitle.textContent = rows.length + ' — ' + tierNames[tier];
+    overlay.hidden = false;
+    modalClose.focus();
+  }
+  function closeModal() { overlay.hidden = true; }
+  document.querySelectorAll('.stat').forEach(tile =>
+    tile.addEventListener('click', () => openModal(tile.dataset.count))
+  );
+  modalClose.addEventListener('click', closeModal);
+  overlay.addEventListener('click', e => { if (e.target === overlay) closeModal(); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !overlay.hidden) closeModal(); });
 </script>
 </body>
 </html>
