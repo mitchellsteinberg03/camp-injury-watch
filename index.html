@@ -65,6 +65,8 @@
   .runstamp { font-size: 13px; color: var(--muted); margin: 0 0 20px; }
   .runstamp strong { color: var(--ink); font-weight: 600; }
 
+  .stale-banner { background: var(--sev-high-bg); color: var(--sev-high); border: 1px solid var(--sev-high); border-radius: 6px; padding: 10px 14px; margin: 0 0 20px; font-weight: 600; font-size: 14px; }
+  .stale-banner[hidden] { display: none; }
   .summary { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 26px; }
   .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px;
     font: inherit; color: inherit; text-align: left; cursor: pointer; display: block; width: 100%; }
@@ -138,7 +140,8 @@
   <header class="top">
     <h1>NFL Camp Injury Watch</h1>
   </header>
-  <p class="runstamp">Last sweep: <strong>Aug 1, 2026, 7:35 PM ET</strong></p>
+  <p class="runstamp">Last sweep: <strong data-updated="2026-08-01T19:35:00-04:00">Aug 1, 2026, 7:35 PM ET</strong></p>
+  <div class="stale-banner" id="stale-banner" hidden></div>
 
   <div class="summary">
     <button class="stat high" data-count="high"><span class="num">18</span><span class="lbl">Season-threatening / long-term</span></button>
@@ -414,6 +417,20 @@
   modalClose.addEventListener('click', closeModal);
   overlay.addEventListener('click', e => { if (e.target === overlay) closeModal(); });
   document.addEventListener('keydown', e => { if (e.key === 'Escape' && !overlay.hidden) closeModal(); });
+
+  (function () {
+    const stamp = document.querySelector('.runstamp strong');
+    const iso = stamp && stamp.dataset.updated;
+    if (!iso) return;
+    const ageHours = (Date.now() - new Date(iso).getTime()) / 3600000;
+    if (ageHours > 13) {
+      const banner = document.getElementById('stale-banner');
+      banner.textContent = '⚠ This dashboard may be out of date — the last sweep was ' +
+        stamp.textContent + ', over ' + Math.floor(ageHours) +
+        ' hours ago. Updates normally land 4× daily; treat the data below as unconfirmed.';
+      banner.hidden = false;
+    }
+  })();
 </script>
 </body>
 </html>
