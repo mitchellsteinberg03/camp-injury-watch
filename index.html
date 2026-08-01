@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>NFL Camp Injury Watch — DB · LB · OT · OG · RB</title>
+<style>
+  :root {
+    --bg: #F5F6F8;
+    --surface: #FFFFFF;
+    --ink: #1C2129;
+    --muted: #5B6472;
+    --line: #DDE1E7;
+    --accent: #2F5A8F;
+    --accent-ink: #FFFFFF;
+    --sev-high: #B3324B;
+    --sev-mid: #B87500;
+    --sev-low: #47765B;
+    --sev-high-bg: #F9EDF0;
+    --sev-mid-bg: #F8F1E3;
+    --sev-low-bg: #ECF2EE;
+    --chip-bg: #E8EBF0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16191E;
+      --surface: #1E232B;
+      --ink: #E8EBEF;
+      --muted: #98A1AE;
+      --line: #323945;
+      --accent: #6E9BD1;
+      --accent-ink: #10141A;
+      --sev-high: #E06A83;
+      --sev-mid: #D9A03C;
+      --sev-low: #7FAE92;
+      --sev-high-bg: #33222A;
+      --sev-mid-bg: #322B1D;
+      --sev-low-bg: #202B25;
+      --chip-bg: #2A303A;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #16191E; --surface: #1E232B; --ink: #E8EBEF; --muted: #98A1AE;
+    --line: #323945; --accent: #6E9BD1; --accent-ink: #10141A;
+    --sev-high: #E06A83; --sev-mid: #D9A03C; --sev-low: #7FAE92;
+    --sev-high-bg: #33222A; --sev-mid-bg: #322B1D; --sev-low-bg: #202B25;
+    --chip-bg: #2A303A;
+  }
+  :root[data-theme="light"] {
+    --bg: #F5F6F8; --surface: #FFFFFF; --ink: #1C2129; --muted: #5B6472;
+    --line: #DDE1E7; --accent: #2F5A8F; --accent-ink: #FFFFFF;
+    --sev-high: #B3324B; --sev-mid: #B87500; --sev-low: #47765B;
+    --sev-high-bg: #F9EDF0; --sev-mid-bg: #F8F1E3; --sev-low-bg: #ECF2EE;
+    --chip-bg: #E8EBF0;
+  }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  .wrap { max-width: 1060px; margin: 0 auto; padding: 28px 20px 64px; }
+  header.top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 16px; margin-bottom: 6px; }
+  h1 { font-size: 24px; font-weight: 700; letter-spacing: -0.01em; margin: 0; text-wrap: balance; }
+  .positions-tag { font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); }
+  .runstamp { font-size: 13px; color: var(--muted); margin: 0 0 20px; }
+  .runstamp strong { color: var(--ink); font-weight: 600; }
+
+  .summary { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 26px; }
+  .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; }
+  .stat .num { font-size: 26px; font-weight: 700; font-variant-numeric: tabular-nums; line-height: 1.1; }
+  .stat .lbl { font-size: 11px; font-weight: 600; letter-spacing: 0.07em; text-transform: uppercase; color: var(--muted); margin-top: 2px; }
+  .stat.high .num { color: var(--sev-high); }
+  .stat.mid .num { color: var(--sev-mid); }
+  .stat.low .num { color: var(--sev-low); }
+
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 22px; }
+  .filters button {
+    font: 600 12px/1 system-ui, sans-serif; letter-spacing: 0.05em; text-transform: uppercase;
+    padding: 8px 14px; border-radius: 999px; border: 1px solid var(--line);
+    background: var(--surface); color: var(--muted); cursor: pointer;
+  }
+  .filters button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+  .filters button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+  section.pos { margin-bottom: 30px; }
+  section.pos > h2 {
+    font-size: 13px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--ink); margin: 0 0 10px; padding-bottom: 6px; border-bottom: 2px solid var(--accent);
+    display: flex; justify-content: space-between; align-items: baseline;
+  }
+  section.pos > h2 .count { color: var(--muted); font-weight: 600; letter-spacing: 0; text-transform: none; font-size: 12px; }
+  .tablewrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; }
+  table { border-collapse: collapse; width: 100%; min-width: 720px; font-variant-numeric: tabular-nums; }
+  th { font-size: 11px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+  td { padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; font-size: 14px; }
+  tr:last-child td { border-bottom: none; }
+  td.player { font-weight: 600; white-space: nowrap; }
+  td.team { color: var(--muted); white-space: nowrap; }
+  tr[data-sev] td:first-child { border-left: 3px solid transparent; }
+  tr[data-sev="high"] td:first-child { border-left-color: var(--sev-high); }
+  tr[data-sev="mid"] td:first-child { border-left-color: var(--sev-mid); }
+  tr[data-sev="low"] td:first-child { border-left-color: var(--sev-low); }
+  .badge { display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.04em; padding: 2px 8px; border-radius: 999px; white-space: nowrap; }
+  .badge.high { background: var(--sev-high-bg); color: var(--sev-high); }
+  .badge.mid { background: var(--sev-mid-bg); color: var(--sev-mid); }
+  .badge.low { background: var(--sev-low-bg); color: var(--sev-low); }
+  .badge.new { background: var(--chip-bg); color: var(--accent); }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 14px; font-size: 12px; color: var(--muted); margin: 26px 0 0; }
+  .legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: baseline; }
+  .legend .h::before { background: var(--sev-high); }
+  .legend .m::before { background: var(--sev-mid); }
+  .legend .l::before { background: var(--sev-low); }
+  footer { margin-top: 18px; font-size: 12px; color: var(--muted); max-width: 72ch; }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="top">
+    <h1>NFL Camp Injury Watch</h1>
+    <span class="positions-tag">DB · LB · OT · OG · RB</span>
+  </header>
+  <p class="runstamp">Last sweep: <strong>Friday, Aug 1, 2026 — afternoon (seed run)</strong> · Updates 3× daily during camp: morning, midday, evening ET</p>
+
+  <div class="summary">
+    <div class="stat high"><div class="num">9</div><div class="lbl">Season-threatening / long-term</div></div>
+    <div class="stat mid"><div class="num">31</div><div class="lbl">Multi-week / PUP–NFI</div></div>
+    <div class="stat low"><div class="num">24</div><div class="lbl">Day-to-day</div></div>
+    <div class="stat"><div class="num">64</div><div class="lbl">Players tracked</div></div>
+  </div>
+
+  <div class="filters" role="group" aria-label="Filter by position">
+    <button aria-pressed="true" data-pos="all">All</button>
+    <button aria-pressed="false" data-pos="db">Defensive back</button>
+    <button aria-pressed="false" data-pos="lb">Linebacker</button>
+    <button aria-pressed="false" data-pos="ot">Off. tackle</button>
+    <button aria-pressed="false" data-pos="og">Off. guard</button>
+    <button aria-pressed="false" data-pos="rb">Running back</button>
+  </div>
+
+  <section class="pos" data-pos="db">
+    <h2>Defensive backs <span class="count">CB · S</span></h2>
+    <div class="tablewrap"><table>
+      <thead><tr><th>Player</th><th>Team</th><th>Pos</th><th>Injury</th><th>Status</th></tr></thead>
+      <tbody>
+        <tr data-sev="high"><td class="player">Garrett Williams</td><td class="team">Cardinals</td><td>CB</td><td>Achilles</td><td><span class="badge high">PUP — long-term</span></td></tr>
+        <tr data-sev="high"><td class="player">Billy Bowman Jr.</td><td class="team">Falcons</td><td>CB</td><td>Achilles</td><td><span class="badge high">PUP — long-term</span></td></tr>
+        <tr data-sev="high"><td class="player">Darrell Baker Jr.</td><td class="team">Dolphins</td><td>CB</td><td>Undisclosed</td><td><span class="badge high">Out until ~midseason</span></td></tr>
+        <tr data-sev="high"><td class="player">Storm Duck</td><td class="team">Dolphins</td><td>CB</td><td>Knee</td><td><span class="badge high">Out until ~midseason</span></td></tr>
+        <tr data-sev="mid"><td class="player">Jalen Ramsey</td><td class="team">Steelers</td><td>CB</td><td>Knee</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Joey Porter Jr.</td><td class="team">Steelers</td><td>CB</td><td>Back</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Donte Kent</td><td class="team">Steelers</td><td>CB</td><td>Knee</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Brian Branch</td><td class="team">Lions</td><td>S</td><td>Achilles</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Kerby Joseph</td><td class="team">Lions</td><td>S</td><td>Knee</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Kyler Gordon</td><td class="team">Bears</td><td>CB</td><td>Calf</td><td><span class="badge mid">Out — offseason injury</span></td></tr>
+        <tr data-sev="mid"><td class="player">Trey Amos</td><td class="team">Commanders</td><td>CB</td><td>Lower leg</td><td><span class="badge mid">Out — cautious approach</span></td></tr>
+        <tr data-sev="mid"><td class="player">Nick Emmanwori</td><td class="team">Seahawks</td><td>S</td><td>Ankle (offseason surgery)</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Dorian Strong</td><td class="team">Bills</td><td>CB</td><td>Neck</td><td><span class="badge mid">NFI</span></td></tr>
+        <tr data-sev="mid"><td class="player">Kamal Hadden</td><td class="team">Packers</td><td>CB</td><td>Lower leg</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Al'zillion Hamilton</td><td class="team">Rams</td><td>CB</td><td>Undisclosed</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Chase Lucas</td><td class="team">Buccaneers</td><td>CB</td><td>Undisclosed</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">M.J. Stewart</td><td class="team">Texans</td><td>S</td><td>Quadriceps</td><td><span class="badge mid">Out — may return in camp</span></td></tr>
+        <tr data-sev="mid"><td class="player">Christian Izien</td><td class="team">Lions</td><td>S</td><td>Illness</td><td><span class="badge mid">NFI</span></td></tr>
+        <tr data-sev="low"><td class="player">Greg Newsome II</td><td class="team">Browns</td><td>CB</td><td>Shoulder — left practice</td><td><span class="badge low">Day-to-day</span> <span class="badge new">NEW</span></td></tr>
+        <tr data-sev="low"><td class="player">Carlton Davis III</td><td class="team">Patriots</td><td>CB</td><td>Undisclosed — absent from practice</td><td><span class="badge low">Monitoring</span></td></tr>
+        <tr data-sev="low"><td class="player">P.J. Locke</td><td class="team">Cowboys</td><td>S</td><td>Hyperextended knee</td><td><span class="badge low">Day-to-day</span></td></tr>
+        <tr data-sev="low"><td class="player">Brandon Jones</td><td class="team">Broncos</td><td>S</td><td>Pectoral</td><td><span class="badge low">Day-to-day</span></td></tr>
+        <tr data-sev="low"><td class="player">Malik Mustapha</td><td class="team">49ers</td><td>S</td><td>Hamstring</td><td><span class="badge low">Day-to-day</span></td></tr>
+        <tr data-sev="low"><td class="player">Kool-Aid McKinstry</td><td class="team">Saints</td><td>CB</td><td>Ankle roll</td><td><span class="badge low">Minor</span></td></tr>
+        <tr data-sev="low"><td class="player">Benjamin Morrison</td><td class="team">Buccaneers</td><td>CB</td><td>Hamstring</td><td><span class="badge low">Limited</span></td></tr>
+        <tr data-sev="low"><td class="player">D'Angelo Ponds</td><td class="team">Jets</td><td>CB</td><td>Calf strain</td><td><span class="badge low">Day-to-day</span></td></tr>
+        <tr data-sev="low"><td class="player">Andre Cisco</td><td class="team">Jets</td><td>S</td><td>Pectoral</td><td><span class="badge low">Day-to-day</span></td></tr>
+        <tr data-sev="low"><td class="player">Jarvis Brownlee Jr.</td><td class="team">Jets</td><td>CB</td><td>Hip</td><td><span class="badge low">Day-to-day</span></td></tr>
+        <tr data-sev="low"><td class="player">Mansoor Delane</td><td class="team">Chiefs</td><td>CB</td><td>Shoulder strain</td><td><span class="badge low">Non-contact jersey</span></td></tr>
+        <tr data-sev="low"><td class="player">Jermod McCoy</td><td class="team">Raiders</td><td>CB</td><td>Knee</td><td><span class="badge low">Limited reps</span></td></tr>
+      </tbody>
+    </table></div>
+  </section>
+
+  <section class="pos" data-pos="lb">
+    <h2>Linebackers <span class="count">ILB · OLB · EDGE</span></h2>
+    <div class="tablewrap"><table>
+      <thead><tr><th>Player</th><th>Team</th><th>Pos</th><th>Injury</th><th>Status</th></tr></thead>
+      <tbody>
+        <tr data-sev="high"><td class="player">Nic Scourton</td><td class="team">Panthers</td><td>EDGE</td><td>Torn ACL</td><td><span class="badge high">IR — out for season</span></td></tr>
+        <tr data-sev="high"><td class="player">Teddye Buchanan</td><td class="team">Ravens</td><td>LB</td><td>Knee (ACL)</td><td><span class="badge high">PUP — long-term</span></td></tr>
+        <tr data-sev="high"><td class="player">Noah Sewell</td><td class="team">Bears</td><td>LB</td><td>Achilles</td><td><span class="badge high">PUP — long-term</span></td></tr>
+        <tr data-sev="mid"><td class="player">E.J. Speed</td><td class="team">Texans</td><td>LB</td><td>Quadriceps</td><td><span class="badge mid">Extended absence</span></td></tr>
+        <tr data-sev="mid"><td class="player">Harold Landry III</td><td class="team">Patriots</td><td>EDGE</td><td>Undisclosed</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Jonathan Greenard</td><td class="team">Eagles</td><td>EDGE</td><td>Pectoral strain</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Josh Sweat</td><td class="team">Cardinals</td><td>EDGE</td><td>Knee — "not serious"</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Troy Andersen</td><td class="team">Falcons</td><td>LB</td><td>Knee</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">DeAngelo Malone</td><td class="team">Falcons</td><td>EDGE</td><td>Undisclosed</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Keyshaun Elliott</td><td class="team">Bears</td><td>LB</td><td>Undisclosed</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Trevin Wallace</td><td class="team">Panthers</td><td>LB</td><td>Shoulder — not cleared for contact</td><td><span class="badge mid">Limited</span></td></tr>
+        <tr data-sev="mid"><td class="player">Thomas Incoom</td><td class="team">Panthers</td><td>EDGE</td><td>Shoulder surgery</td><td><span class="badge mid">Out</span></td></tr>
+        <tr data-sev="mid"><td class="player">Gabe Jacas</td><td class="team">Patriots</td><td>EDGE</td><td>Knee</td><td><span class="badge mid">NFI</span></td></tr>
+        <tr data-sev="mid"><td class="player">Kain Medrano</td><td class="team">Commanders</td><td>LB</td><td>Hamstring</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Jordan Turner</td><td class="team">Broncos</td><td>LB</td><td>Undisclosed</td><td><span class="badge mid">NFI</span></td></tr>
+        <tr data-sev="low"><td class="player">Abdul Carter</td><td class="team">Giants</td><td>EDGE</td><td>Ankle sprain</td><td><span class="badge low">Day-to-day</span> <span class="badge new">NEW</span></td></tr>
+        <tr data-sev="low"><td class="player">Kwity Paye</td><td class="team">Raiders</td><td>EDGE</td><td>Left practice early — coach says OK</td><td><span class="badge low">Monitoring</span> <span class="badge new">NEW</span></td></tr>
+        <tr data-sev="low"><td class="player">T.J. Edwards</td><td class="team">Bears</td><td>LB</td><td>Calf</td><td><span class="badge low">Short absence</span></td></tr>
+        <tr data-sev="low"><td class="player">Jake Hansen</td><td class="team">Texans</td><td>LB</td><td>Lower body — carted off</td><td><span class="badge low">Monitoring</span></td></tr>
+        <tr data-sev="low"><td class="player">Jack Kiser</td><td class="team">Jaguars</td><td>LB</td><td>Knee</td><td><span class="badge low">Day-to-day</span></td></tr>
+        <tr data-sev="low"><td class="player">Jimmy Rolder</td><td class="team">Lions</td><td>LB</td><td>Leg — left practice</td><td><span class="badge low">Day-to-day</span></td></tr>
+        <tr data-sev="low"><td class="player">Dorian Williams</td><td class="team">Bills</td><td>LB</td><td>Lower body</td><td><span class="badge low">Day-to-day</span></td></tr>
+      </tbody>
+    </table></div>
+  </section>
+
+  <section class="pos" data-pos="ot">
+    <h2>Offensive tackles</h2>
+    <div class="tablewrap"><table>
+      <thead><tr><th>Player</th><th>Team</th><th>Pos</th><th>Injury</th><th>Status</th></tr></thead>
+      <tbody>
+        <tr data-sev="high"><td class="player">Taylor Moton</td><td class="team">Panthers</td><td>OT</td><td>Blood clot</td><td><span class="badge high">NFI — will miss start of season</span></td></tr>
+        <tr data-sev="high"><td class="player">Isaiah World</td><td class="team">Chargers</td><td>OT</td><td>Knee</td><td><span class="badge high">NFI — long-term</span></td></tr>
+        <tr data-sev="mid"><td class="player">Ikem Ekwonu</td><td class="team">Panthers</td><td>OT</td><td>Knee</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Jawaan Taylor</td><td class="team">Falcons</td><td>OT</td><td>Elbow — progressing</td><td><span class="badge mid">Out — days-to-weeks</span></td></tr>
+        <tr data-sev="mid"><td class="player">Storm Norton</td><td class="team">Falcons</td><td>OT</td><td>Foot</td><td><span class="badge mid">Reserve/PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Alaric Jackson</td><td class="team">Rams</td><td>OT</td><td>Blood clot management</td><td><span class="badge mid">Out — monitoring</span></td></tr>
+        <tr data-sev="mid"><td class="player">Ozzy Trapilo</td><td class="team">Bears</td><td>OT</td><td>Knee</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Giovanni Manu</td><td class="team">Lions</td><td>OT</td><td>Knee</td><td><span class="badge mid">NFI</span></td></tr>
+        <tr data-sev="mid"><td class="player">Nick Saldiveri</td><td class="team">Saints</td><td>OT</td><td>Knee</td><td><span class="badge mid">Reserve/PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Garrett DiGiorgio</td><td class="team">Jaguars</td><td>OT</td><td>Undisclosed</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Cole Van Lanen</td><td class="team">Jaguars</td><td>OT</td><td>Knee</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Vederian Lowe</td><td class="team">49ers</td><td>OT</td><td>High ankle sprain</td><td><span class="badge mid">Weeks</span></td></tr>
+        <tr data-sev="low"><td class="player">Tristan Wirfs</td><td class="team">Buccaneers</td><td>OT</td><td>Hamstring</td><td><span class="badge low">Day-to-day</span> <span class="badge new">NEW</span></td></tr>
+        <tr data-sev="low"><td class="player">Andrew Thomas</td><td class="team">Giants</td><td>OT</td><td>Foot / shoulder</td><td><span class="badge low">Limited</span></td></tr>
+        <tr data-sev="low"><td class="player">Brant Banks</td><td class="team">Packers</td><td>OT</td><td>Hamstring</td><td><span class="badge low">Day-to-day</span></td></tr>
+      </tbody>
+    </table></div>
+  </section>
+
+  <section class="pos" data-pos="og">
+    <h2>Offensive guards</h2>
+    <div class="tablewrap"><table>
+      <thead><tr><th>Player</th><th>Team</th><th>Pos</th><th>Injury</th><th>Status</th></tr></thead>
+      <tbody>
+        <tr data-sev="high"><td class="player">Nick Gargiulo</td><td class="team">Broncos</td><td>G</td><td>Knee</td><td><span class="badge high">Likely reserve/PUP to open season</span></td></tr>
+        <tr data-sev="mid"><td class="player">Justin Dedich</td><td class="team">Rams</td><td>G</td><td>Hand (July 4 injury)</td><td><span class="badge mid">NFI</span></td></tr>
+        <tr data-sev="low"><td class="player">Damien Lewis</td><td class="team">Panthers</td><td>G</td><td>Calf</td><td><span class="badge low">Day-to-day</span></td></tr>
+        <tr data-sev="low"><td class="player">Andrew Vorhees</td><td class="team">Ravens</td><td>G</td><td>Foot</td><td><span class="badge low">Day-to-day</span></td></tr>
+      </tbody>
+    </table></div>
+  </section>
+
+  <section class="pos" data-pos="rb">
+    <h2>Running backs <span class="count">RB · FB</span></h2>
+    <div class="tablewrap"><table>
+      <thead><tr><th>Player</th><th>Team</th><th>Pos</th><th>Injury</th><th>Status</th></tr></thead>
+      <tbody>
+        <tr data-sev="mid"><td class="player">Jordan James</td><td class="team">49ers</td><td>RB</td><td>Fractured rib (Tuesday practice)</td><td><span class="badge mid">Weeks</span> <span class="badge new">NEW</span></td></tr>
+        <tr data-sev="mid"><td class="player">Isaac Guerendo</td><td class="team">49ers</td><td>RB</td><td>Pectoral</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Zach Charbonnet</td><td class="team">Seahawks</td><td>RB</td><td>Knee</td><td><span class="badge mid">PUP</span></td></tr>
+        <tr data-sev="mid"><td class="player">Chris Brooks</td><td class="team">Packers</td><td>RB</td><td>Hamstring</td><td><span class="badge mid">NFI</span></td></tr>
+        <tr data-sev="mid"><td class="player">Terrell Jennings</td><td class="team">Patriots</td><td>RB</td><td>Undisclosed</td><td><span class="badge mid">NFI</span></td></tr>
+        <tr data-sev="low"><td class="player">James Conner</td><td class="team">Cardinals</td><td>RB</td><td>Foot — no full-team drills</td><td><span class="badge low">Limited</span></td></tr>
+        <tr data-sev="low"><td class="player">Jahmyr Gibbs</td><td class="team">Lions</td><td>RB</td><td>Minor back discomfort</td><td><span class="badge low">Monitoring</span></td></tr>
+        <tr data-sev="low"><td class="player">Chris Rodriguez Jr.</td><td class="team">Jaguars</td><td>RB</td><td>Foot — cleared, cautious ramp</td><td><span class="badge low">Limited</span></td></tr>
+        <tr data-sev="low"><td class="player">Ben VanSumeren</td><td class="team">Bills</td><td>FB</td><td>Knee</td><td><span class="badge low">Day-to-day</span></td></tr>
+        <tr data-sev="low"><td class="player">Kyle Monangai</td><td class="team">Bears</td><td>RB</td><td>Absent — undisclosed</td><td><span class="badge low">Monitoring</span></td></tr>
+      </tbody>
+    </table></div>
+  </section>
+
+  <div class="legend">
+    <span class="h">Season-threatening / long-term</span>
+    <span class="m">Multi-week · PUP · NFI</span>
+    <span class="l">Day-to-day / monitoring</span>
+  </div>
+  <footer>Sourced from ESPN injury reports, CBS Sports, SI, Yahoo Sports, and beat coverage. Statuses reflect the most recent public reporting at sweep time; camp injuries move fast — verify before acting on any single line.</footer>
+</div>
+
+<script>
+  const buttons = document.querySelectorAll('.filters button');
+  const sections = document.querySelectorAll('section.pos');
+  buttons.forEach(btn => btn.addEventListener('click', () => {
+    buttons.forEach(b => b.setAttribute('aria-pressed', String(b === btn)));
+    const pos = btn.dataset.pos;
+    sections.forEach(s => { s.style.display = (pos === 'all' || s.dataset.pos === pos) ? '' : 'none'; });
+  }));
+</script>
+</body>
+</html>
