@@ -1,0 +1,58 @@
+name: staleness-watchdog
+
+# Mac-independent failure alarm for the injury dashboard.
+# The dashboard is updated 4x daily by a scheduled cloud agent; if those sweeps
+# silently stop, this workflow opens a GitHub issue, which emails the repo owner.
+# Runs on GitHub's infrastructure — no shared failure domain with the sweeper.
+
+on:
+  schedule:
+    - cron: '0 14 * * *'   # daily 14:00 UTC = 10am EDT
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check dashboard freshness
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PAGE: https://mitchellsteinberg03.github.io/camp-injury-watch/
+        run: |
+          set -u
+          html=$(curl -fsS "${PAGE}?wd=${RANDOM}") || html=""
+          ts=$(printf '%s' "$html" | grep -o 'data-updated="[^"]*"' | head -1 | cut -d'"' -f2)
+
+          if [ -z "$ts" ]; then
+            stale=1
+            reason="The page failed to load or its data-updated timestamp is missing — a broken page is as bad as a stale one."
+          else
+            age=$(( $(date -u +%s) - $(date -u -d "$ts" +%s) ))
+            hours=$(( age / 3600 ))
+            if [ "$age" -gt 46800 ]; then   # 13h; largest normal gap is 11h (9pm -> 8am ET)
+              stale=1
+              reason="Last sweep was ${ts} — ${hours} hours ago (threshold: 13h). Sweeps run 4x daily at 8am/1pm/4pm/9pm ET, so at least one run has been missed."
+            else
+              stale=0
+              echo "Fresh: last sweep ${ts} (${hours}h ago)."
+            fi
+          fi
+
+          if [ "$stale" = "1" ]; then
+            existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+              --search 'Dashboard stale in:title' --json number --jq '.[0].number' || true)
+            if [ -n "$existing" ]; then
+              echo "Alert issue #$existing already open — not duplicating."
+            else
+              gh issue create --repo "$GITHUB_REPOSITORY" \
+                --title "Dashboard stale — injury sweeps appear to have stopped" \
+                --body "$(printf '%s\n\n%s\n\n%s\n\n%s' \
+                  "$reason" \
+                  "Viewers currently see the red staleness banner, so nobody is misreading old data as current — but sweeps need to be restarted." \
+                  "Check the cloud routine's run history: https://claude.ai/code/routines/trig_017kjgTRJvZXLH6TYKmkBD2Y (it can be re-run or re-enabled from that page)." \
+                  "Note: if today is on or after Sept 21, 2026, the routine's built-in backstop has likely halted sweeps intentionally — the Week 1 decision (due Sept 14) needs to be acted on rather than treating this as a breakage.")"
+            fi
+          fi
