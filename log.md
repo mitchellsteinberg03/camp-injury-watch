@@ -45,3 +45,7 @@ No other new injuries or status/designation changes at the tracked positions (DB
 ## Aug 2, 2026, 8:07 AM ET
 
 No new injuries or status/designation changes at the tracked positions (DB/LB/OT/OG/RB) overnight since the 9:10 PM ET sweep. No team practices occurred in this window.
+
+## Aug 2, 2026, 1:06 PM ET
+
+No new injuries or status/designation changes at the tracked positions (DB/LB/OT/OG/RB) since the 8:07 AM ET sweep. Jaeden Roberts (G, Eagles), Keyshawn James-Newby (EDGE, Eagles), and Jaylon Moore (OT, 49ers) remain diagnosis-pending from Saturday's practice with no team update yet.
