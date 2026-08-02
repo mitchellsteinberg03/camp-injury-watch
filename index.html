@@ -75,6 +75,7 @@
   .stat .num { font-size: 26px; font-weight: 700; font-variant-numeric: tabular-nums; line-height: 1.1; display: block; }
   .stat .lbl { font-size: 11px; font-weight: 600; letter-spacing: 0.07em; text-transform: uppercase; color: var(--muted); margin-top: 2px; display: block; }
   .stat.high .num { color: var(--sev-high); }
+  .stat.new .num { color: var(--accent); }
   .stat.mid .num { color: var(--sev-mid); }
   .stat.low .num { color: var(--sev-low); }
 
@@ -148,6 +149,7 @@
     <button class="stat mid" data-count="mid"><span class="num">63</span><span class="lbl">Multi-week / PUP–NFI</span></button>
     <button class="stat low" data-count="low"><span class="num">39</span><span class="lbl">Day-to-day</span></button>
     <button class="stat" data-count="all"><span class="num">120</span><span class="lbl">Players tracked</span></button>
+    <button class="stat new" data-count="new"><span class="num">18</span><span class="lbl">Recently added (24h)</span></button>
   </div>
 
   <div class="filters" role="group" aria-label="Filter by position">
@@ -359,12 +361,19 @@
     high: 'Season-threatening / long-term',
     mid: 'Multi-week / PUP–NFI',
     low: 'Day-to-day / monitoring',
-    all: 'All players tracked'
+    all: 'All players tracked',
+    new: 'Recently added (last 24h)'
   };
   function openModal(tier) {
-    const rows = document.querySelectorAll(
-      tier === 'all' ? 'section.pos tbody tr' : 'section.pos tbody tr[data-sev="' + tier + '"]'
-    );
+    let rows;
+    if (tier === 'all') {
+      rows = document.querySelectorAll('section.pos tbody tr');
+    } else if (tier === 'new') {
+      rows = Array.from(document.querySelectorAll('section.pos tbody tr'))
+        .filter(row => row.querySelector('.badge.new'));
+    } else {
+      rows = document.querySelectorAll('section.pos tbody tr[data-sev="' + tier + '"]');
+    }
     modalList.textContent = '';
     rows.forEach(row => {
       const [player, team, pos, injury] = Array.from(row.children, td => td.textContent.trim());
