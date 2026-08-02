@@ -26,3 +26,10 @@ reserve/PUP to open season).
 Joseph; 49ers RBs Guerendo (PUP) alongside James's rib.
 
 Full baseline (64 players) on the dashboard.
+
+## Aug 1, 2026, 8:26 PM ET
+
+No new injuries at the tracked positions (DB/LB/OT/OG/RB) since the 7:35 PM ET sweep.
+
+**Status update:**
+- C.J. Gardner-Johnson, S, Bills — diagnosed with a lower right leg calf strain (per ESPN's Adam Schefter) after being carted off Saturday's practice; initial fears centered on the Achilles, but imaging cleared that. Out multiple weeks, expected to be ready for the season opener. Severity held at mid.
