@@ -33,3 +33,11 @@ No new injuries at the tracked positions (DB/LB/OT/OG/RB) since the 7:35 PM ET s
 
 **Status update:**
 - C.J. Gardner-Johnson, S, Bills — diagnosed with a lower right leg calf strain (per ESPN's Adam Schefter) after being carted off Saturday's practice; initial fears centered on the Achilles, but imaging cleared that. Out multiple weeks, expected to be ready for the season opener. Severity held at mid.
+
+## Aug 1, 2026, 9:10 PM ET
+
+**New injuries:**
+- Jaylon Moore, OT, 49ers — carted off Saturday's practice with a leg injury; walked off under his own power but was taken in for further evaluation. Diagnosis pending. Severity: mid.
+- Nazeeh Johnson, S, Chiefs — left Saturday's practice after tweaking his right knee/hamstring (he's working back from last August's ACL tear); sat out Sunday's session. Coach Andy Reid said he expects Johnson to be fine. Severity: low, day-to-day.
+
+No other new injuries or status/designation changes at the tracked positions (DB/LB/OT/OG/RB) in this window.
