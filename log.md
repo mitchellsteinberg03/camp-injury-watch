@@ -41,3 +41,7 @@ No new injuries at the tracked positions (DB/LB/OT/OG/RB) since the 7:35 PM ET s
 - Nazeeh Johnson, S, Chiefs — left Saturday's practice after tweaking his right knee/hamstring (he's working back from last August's ACL tear); sat out Sunday's session. Coach Andy Reid said he expects Johnson to be fine. Severity: low, day-to-day.
 
 No other new injuries or status/designation changes at the tracked positions (DB/LB/OT/OG/RB) in this window.
+
+## Aug 2, 2026, 8:07 AM ET
+
+No new injuries or status/designation changes at the tracked positions (DB/LB/OT/OG/RB) overnight since the 9:10 PM ET sweep. No team practices occurred in this window.
