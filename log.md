@@ -49,3 +49,15 @@ No new injuries or status/designation changes at the tracked positions (DB/LB/OT
 ## Aug 2, 2026, 1:06 PM ET
 
 No new injuries or status/designation changes at the tracked positions (DB/LB/OT/OG/RB) since the 8:07 AM ET sweep. Jaeden Roberts (G, Eagles), Keyshawn James-Newby (EDGE, Eagles), and Jaylon Moore (OT, 49ers) remain diagnosis-pending from Saturday's practice with no team update yet.
+
+## Aug 2, 2026, 4:10 PM ET
+
+**New injuries:**
+- Kenny Moore II, CB, Colts — left Sunday's practice with a right knee injury, walking off gingerly with a trainer; early word from ESPN's Stephen Holder is that it's "not a major injury," though no timeline has been given. Severity: low, day-to-day.
+- Carrington Valentine, CB, Packers — dropped out of Sunday's (4th) training camp practice with an undisclosed injury; replaced by rookie Brandon Cisse with the No. 1 defense. Severity: low, day-to-day.
+
+**Status and designation changes:**
+- Jaeden Roberts (G, Eagles), Keyshawn James-Newby (EDGE, Eagles), and Jaylon Moore (OT, 49ers) remain diagnosis-pending with no team update yet.
+
+**Removals:**
+- Kamal Hadden, CB, Packers — removed: activated off the PUP list and returned to practice Sunday, roughly three weeks after suffering gruesome leg/ankle injuries last season.
