@@ -67,3 +67,20 @@ No new injuries or status/designation changes at the tracked positions (DB/LB/OT
 No new injuries or status/designation changes at the tracked positions (DB/LB/OT/OG/RB) since the 4:10 PM ET sweep. Note: ESPN's injuries page returned an access error (403) on both direct fetch attempts this run, as did several other tracker pages (CBS Sports, Covers, Wikipedia), so full row-by-row reconciliation against ESPN's live report could not be performed this sweep; targeted searches on the three diagnosis-pending players (Jaeden Roberts, Keyshawn James-Newby, Jaylon Moore) turned up no update. No rows removed as a result — reconciliation resumes next sweep once the source page is reachable again.
 
 18 NEW badges aged off (24h+ since being added): C.J. Gardner-Johnson, Jalen Thompson, Zion Childress, Xavier Watts, Cole Wisniewski, Greg Newsome II, Keyshawn James-Newby, Keion White, Mikail Kamara, Romello Height, Cameron Sample, Quintayvious Hutchins, Abdul Carter, Kwity Paye, Tristan Wirfs, Cameron Williams, Jaeden Roberts, Jordan James. "Recently added (24h)" tile now reflects the 4 remaining NEW rows (Kenny Moore II, Carrington Valentine, Nazeeh Johnson, Jaylon Moore).
+
+## Aug 3, 2026, 8:22 AM ET
+
+**New injuries:**
+- Myles Garrett, EDGE, Rams — missed a third straight practice with lower-body soreness; HC Sean McVay called it precautionary ("nothing to worry about") and said Garrett will sit Monday too but is expected back for the next practice block. Severity: low, day-to-day.
+- Kaelon Black, RB, 49ers — left Saturday's practice early with an undisclosed injury, not believed serious. Severity: low, day-to-day.
+
+**Status and designation changes:**
+- Mikail Kamara, EDGE, 49ers — waived/injured Sunday after being carted off Saturday's practice with a knee injury; will revert to injured reserve once he clears waivers, ending his 2026 season barring an injury settlement. Severity raised low → high.
+- Jahmyr Gibbs, RB, Lions — the previously reported "minor back discomfort" is confirmed as a lower-back issue that surfaced during a conditioning test; HC Dan Campbell: "I don't think it's severe." No timetable given. Severity held at low; source link added.
+- Jaeden Roberts (G, Eagles), Keyshawn James-Newby (EDGE, Eagles), and Jaylon Moore (OT, 49ers) remain diagnosis-pending from Saturday's practice with no team update yet.
+
+**Removals:** none this sweep.
+
+Note: ESPN's injuries page and several other tracker pages (CBS Sports, NFL.com, Stadium Rant, RotoWire) again returned access errors (403) on direct fetch, so full row-by-row reconciliation against a live tracker could not be performed. Targeted searches were run on outstanding diagnosis-pending players and a broad news sweep for the window; no evidence surfaced that any other tracked player has returned to practice or been cleared, so no rows were removed. Full reconciliation resumes once a source page is fetchable.
+
+2 NEW badges aged off (24h+ since being added): Nazeeh Johnson, Jaylon Moore. "Recently added (24h)" tile reflects 4 current NEW rows (Kenny Moore II, Carrington Valentine, Myles Garrett, Kaelon Black).
