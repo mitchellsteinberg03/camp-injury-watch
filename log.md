@@ -61,3 +61,9 @@ No new injuries or status/designation changes at the tracked positions (DB/LB/OT
 
 **Removals:**
 - Kamal Hadden, CB, Packers — removed: activated off the PUP list and returned to practice Sunday, roughly three weeks after suffering gruesome leg/ankle injuries last season.
+
+## Aug 2, 2026, 9:10 PM ET
+
+No new injuries or status/designation changes at the tracked positions (DB/LB/OT/OG/RB) since the 4:10 PM ET sweep. Note: ESPN's injuries page returned an access error (403) on both direct fetch attempts this run, as did several other tracker pages (CBS Sports, Covers, Wikipedia), so full row-by-row reconciliation against ESPN's live report could not be performed this sweep; targeted searches on the three diagnosis-pending players (Jaeden Roberts, Keyshawn James-Newby, Jaylon Moore) turned up no update. No rows removed as a result — reconciliation resumes next sweep once the source page is reachable again.
+
+18 NEW badges aged off (24h+ since being added): C.J. Gardner-Johnson, Jalen Thompson, Zion Childress, Xavier Watts, Cole Wisniewski, Greg Newsome II, Keyshawn James-Newby, Keion White, Mikail Kamara, Romello Height, Cameron Sample, Quintayvious Hutchins, Abdul Carter, Kwity Paye, Tristan Wirfs, Cameron Williams, Jaeden Roberts, Jordan James. "Recently added (24h)" tile now reflects the 4 remaining NEW rows (Kenny Moore II, Carrington Valentine, Nazeeh Johnson, Jaylon Moore).
