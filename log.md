@@ -79,6 +79,18 @@ No new injuries or status/designation changes at the tracked positions (DB/LB/OT
 - Jahmyr Gibbs, RB, Lions — the previously reported "minor back discomfort" is confirmed as a lower-back issue that surfaced during a conditioning test; HC Dan Campbell: "I don't think it's severe." No timetable given. Severity held at low; source link added.
 - Jaeden Roberts (G, Eagles), Keyshawn James-Newby (EDGE, Eagles), and Jaylon Moore (OT, 49ers) remain diagnosis-pending from Saturday's practice with no team update yet.
 
+## Aug 3, 2026, 4:12 PM ET
+
+**New injuries:**
+- Coby Bryant, S, Bears — carted off Monday's first padded practice with a left knee injury after coming down awkwardly on a 1-on-1 rep; per ESPN's Adam Schefter, out 8–10 weeks, no surgery required. Severity: mid.
+- Caedan Wallace, G, Patriots — banged up in Saturday's OL/DL drill and has been absent from practice since (through Monday). Severity: low, day-to-day.
+
+**Status and designation changes:**
+- Jaeden Roberts (G, Eagles) and Jaylon Moore (OT, 49ers) remain diagnosis-pending from Saturday's practice with no team update yet. Keyshawn James-Newby (EDGE, Eagles) is out with an ankle injury (carted to the medical tent Saturday); no firm timetable reported.
+- James Hudson, OT, Patriots — was banged up in Saturday's practice but returned as a full participant Monday; not added to the tracker.
+
+No removals this run. ESPN's injuries page and most tracker/aggregator sites (CBS, Yahoo, PFT) again returned 403 errors on direct fetch, so full row-by-row reconciliation against the live injury report could not be performed; targeted searches on previously diagnosis-pending players turned up no new updates beyond what's noted above.
+
 **Removals:** none this sweep.
 
 Note: ESPN's injuries page and several other tracker pages (CBS Sports, NFL.com, Stadium Rant, RotoWire) again returned access errors (403) on direct fetch, so full row-by-row reconciliation against a live tracker could not be performed. Targeted searches were run on outstanding diagnosis-pending players and a broad news sweep for the window; no evidence surfaced that any other tracked player has returned to practice or been cleared, so no rows were removed. Full reconciliation resumes once a source page is fetchable.
