@@ -84,3 +84,13 @@ No new injuries or status/designation changes at the tracked positions (DB/LB/OT
 Note: ESPN's injuries page and several other tracker pages (CBS Sports, NFL.com, Stadium Rant, RotoWire) again returned access errors (403) on direct fetch, so full row-by-row reconciliation against a live tracker could not be performed. Targeted searches were run on outstanding diagnosis-pending players and a broad news sweep for the window; no evidence surfaced that any other tracked player has returned to practice or been cleared, so no rows were removed. Full reconciliation resumes once a source page is fetchable.
 
 2 NEW badges aged off (24h+ since being added): Nazeeh Johnson, Jaylon Moore. "Recently added (24h)" tile reflects 4 current NEW rows (Kenny Moore II, Carrington Valentine, Myles Garrett, Kaelon Black).
+
+## Aug 3, 2026, 1:08 PM ET
+
+No new injuries or status/designation changes at the tracked positions (DB/LB/OT/OG/RB) since the 8:22 AM ET sweep. Jaeden Roberts (G, Eagles), Keyshawn James-Newby (EDGE, Eagles), and Jaylon Moore (OT, 49ers) remain diagnosis-pending from Saturday's practice with no team update yet.
+
+**Removals:** none this sweep.
+
+Note: ESPN's injuries page and essentially every other tracker/aggregator page attempted (CBS Sports, SI, Stadium Rant, Yahoo Sports live blog, ProFootballTalk, Bleeding Green Nation, 49ers Webzone) again returned access errors (403) on direct fetch, so full row-by-row reconciliation against a live tracker could not be performed. Targeted searches were run on the outstanding diagnosis-pending players and a broad news sweep across the five tracked positions for this window; nothing surfaced indicating any tracked player has returned to practice, been cleared, or suffered a new in-scope injury. No rows removed as a result. Full reconciliation resumes once a source page is fetchable.
+
+No NEW badges aged off this run (all four current NEW rows — Kenny Moore II, Carrington Valentine, Myles Garrett, Kaelon Black — are under 24h old). Tile counts unchanged (19 high / 63 mid / 43 low / 125 all / 4 new) and verified against current table rows.
