@@ -166,3 +166,19 @@ No new injuries at the tracked positions (DB, LB, OT, OG, RB) in this window (Au
 NOTE: ESPN's injuries page (both the league-wide page and the 49ers team page) again returned a 403 Forbidden on direct fetch, so full row-by-row reconciliation against a live tracker could not be performed this run; relied on web search only, per the standing reconciliation-skip rule. The Monangai removal above was based on explicit, multiply-corroborated return-to-practice reporting surfaced by search, not a full reconciliation sweep. A "Colts rookie OL ankle injury" lead traced back to a mismatched/recycled old article (2013-era Khaled Holmes piece, and the player is a center, out of scope) and was discarded.
 
 4 current NEW rows (Coby Bryant, Caedan Wallace, Micah Morris, Edgerrin Cooper) — none aged off this run (all under 24h old; oldest is Coby Bryant/Caedan Wallace at ~23h). Tile counts verified against current table rows: 18 high / 64 mid / 45 low / 127 all / 4 new.
+
+## Aug 4, 2026, 5:11 PM ET
+
+**New injuries:**
+- Jalon Walker, EDGE, Falcons — carted off Tuesday's practice with a knee injury after an 11-on-11 rep; per Ian Rapoport and Steve Wyche, feared to have torn his ACL, with an MRI pending to confirm. Severity: high.
+- Jared Bartlett, LB, Jaguars — carted off Day 6 practice with an apparent right leg injury sustained during a special-teams drill; diagnosis pending. Severity: mid.
+- Myles Bryant, CB, Browns — left Monday's practice with a member of the team's medical staff; nature of the injury not yet detailed. Severity: low, day-to-day.
+- Sione Vaki, RB, Lions — poked in the eye and suffered a broken nose during Monday's team drill; HC Dan Campbell says he'll be out a few days and is hopeful his vision is unaffected. Severity: low, day-to-day.
+
+**Status and designation changes:** none this window beyond the additions above. Jaylon Moore (OT, 49ers) remains diagnosis-pending with no team update found.
+
+**Removals:** none this sweep — reconciliation skipped (see note below).
+
+NOTE: ESPN's injuries page again returned a 403 Forbidden on direct fetch, so full row-by-row reconciliation against a live tracker could not be performed this run; relied on web search only, per the standing reconciliation-skip rule. Several leads from this window's search (Jack Kiser roster-move signing misattributed as a Bartlett injury on first pass, a "Colts rookie OL ankle injury" and "Scott Lutrus knee injury" both tracing to recycled decade-old articles, a "Browns place O-lineman on IR" story that was 2024/2025-dated) were checked for internal date consistency and discarded as false leads before publication; only the four items above were corroborated by multiple 2026-camp-specific, internally consistent sources.
+
+2 NEW badges aged off (24h+ since being added): Coby Bryant, Caedan Wallace. 4 new NEW badges added this run (Jalon Walker, Jared Bartlett, Myles Bryant, Sione Vaki). "Recently added (24h)" tile now reflects 6 current NEW rows (Micah Morris, Edgerrin Cooper, Jalon Walker, Jared Bartlett, Myles Bryant, Sione Vaki). Tile counts verified against current table rows: 19 high / 65 mid / 47 low / 131 all / 6 new.
