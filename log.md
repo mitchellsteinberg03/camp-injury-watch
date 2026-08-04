@@ -122,3 +122,13 @@ No NEW badges aged off this run (all four current NEW rows — Kenny Moore II, C
 ESPN's injuries page again returned a 403 access error on direct fetch, consistent with recent sweeps, so full row-by-row reconciliation against a live tracker could not be performed. Targeted searches were run on outstanding diagnosis-pending players and a broad news sweep across the five tracked positions for this window (roughly 4:12 PM–9:08 PM ET); nothing surfaced indicating any other tracked player returned to practice, was cleared, or suffered a new in-scope injury.
 
 No NEW badges aged off this run (all five current NEW rows — Coby Bryant, Myles Garrett, Kaelon Black, Caedan Wallace, Micah Morris — are under 24h old). "Recently added (24h)" tile now reflects 5 current NEW rows. Tile counts verified against current table rows: 19 high / 64 mid / 44 low / 127 all / 5 new.
+
+## Aug 4, 2026, 9:23 AM ET
+
+No new injuries or status/designation changes at the tracked positions (DB/LB/OT/OG/RB) since the 9:08 PM ET sweep — an overnight window with no team practices. Jaeden Roberts (G, Eagles) and Jaylon Moore (OT, 49ers) remain diagnosis-pending from Saturday's practice with no team update yet; Keyshawn James-Newby (EDGE, Eagles) remains out with the ankle injury.
+
+**Removals:** none this sweep.
+
+NOTE: ESPN's injuries page again returned a 403 access error on direct fetch, so full row-by-row reconciliation against a live tracker could not be performed; relied on web search only. Targeted searches were run on outstanding diagnosis-pending players and a broad news sweep across the five tracked positions for this window; nothing surfaced indicating any tracked player returned to practice, was cleared, or suffered a new in-scope injury. No rows removed as a result. Full reconciliation resumes once a source page is fetchable.
+
+2 NEW badges aged off (24h+ since being added): Myles Garrett, Kaelon Black. "Recently added (24h)" tile now reflects 3 current NEW rows (Coby Bryant, Caedan Wallace, Micah Morris). Tile counts verified against current table rows: 19 high / 64 mid / 44 low / 127 all / 3 new.
