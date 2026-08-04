@@ -106,3 +106,19 @@ No new injuries or status/designation changes at the tracked positions (DB/LB/OT
 Note: ESPN's injuries page and essentially every other tracker/aggregator page attempted (CBS Sports, SI, Stadium Rant, Yahoo Sports live blog, ProFootballTalk, Bleeding Green Nation, 49ers Webzone) again returned access errors (403) on direct fetch, so full row-by-row reconciliation against a live tracker could not be performed. Targeted searches were run on the outstanding diagnosis-pending players and a broad news sweep across the five tracked positions for this window; nothing surfaced indicating any tracked player has returned to practice, been cleared, or suffered a new in-scope injury. No rows removed as a result. Full reconciliation resumes once a source page is fetchable.
 
 No NEW badges aged off this run (all four current NEW rows — Kenny Moore II, Carrington Valentine, Myles Garrett, Kaelon Black — are under 24h old). Tile counts unchanged (19 high / 63 mid / 43 low / 125 all / 4 new) and verified against current table rows.
+
+## Aug 3, 2026, 9:08 PM ET
+
+**New injuries:**
+- Micah Morris, G, Eagles — left Saturday's practice early with a shoulder injury (walked off under his own power) and remains sidelined as of Monday's practice. Severity: low, day-to-day.
+
+**Status and designation changes:**
+- Cole Wisniewski, S, Eagles — previously undisclosed absence now confirmed as a hamstring injury; still not practicing, no timeline given. Severity held at low; source link added.
+- Jaeden Roberts (G, Eagles) and Jaylon Moore (OT, 49ers) remain diagnosis-pending from Saturday's practice with no team update yet. Keyshawn James-Newby (EDGE, Eagles) remains out with the ankle injury (brace, not practicing as of Monday).
+
+**Removals:**
+- Cameron Williams, OT, Eagles — removed: returned to practice in limited form Sunday; knee contusion no longer sidelining him.
+
+ESPN's injuries page again returned a 403 access error on direct fetch, consistent with recent sweeps, so full row-by-row reconciliation against a live tracker could not be performed. Targeted searches were run on outstanding diagnosis-pending players and a broad news sweep across the five tracked positions for this window (roughly 4:12 PM–9:08 PM ET); nothing surfaced indicating any other tracked player returned to practice, was cleared, or suffered a new in-scope injury.
+
+No NEW badges aged off this run (all five current NEW rows — Coby Bryant, Myles Garrett, Kaelon Black, Caedan Wallace, Micah Morris — are under 24h old). "Recently added (24h)" tile now reflects 5 current NEW rows. Tile counts verified against current table rows: 19 high / 64 mid / 44 low / 127 all / 5 new.
