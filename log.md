@@ -147,3 +147,11 @@ NOTE: ESPN's injuries page again returned a 403 access error on direct fetch, so
 NOTE: ESPN's injuries page again returned a 403 access error on direct fetch, so full row-by-row reconciliation against a live tracker could not be performed this run either; relied on web search only, per the standing reconciliation-skip rule. A batch of other leads surfaced by search this run (Colts, Panthers, Lions items citing "Tuesday" camp injuries) traced back to old, previously-published articles being resurfaced with mismatched dates rather than genuine news from this window — those were verified against internal consistency (old ESPN story IDs, a 2012-dated incident, a regular-season game description misattributed to camp) and discarded rather than added. Only the Cooper and Roberts items above were corroborated by multiple 2026-camp-specific, internally consistent sources.
 
 4 current NEW rows (Coby Bryant, Caedan Wallace, Micah Morris, Edgerrin Cooper) — none aged off this run (all under 24h old). Tile counts verified against current table rows: 18 high / 64 mid / 46 low / 128 all / 4 new.
+
+## Aug 4, 2026, 1:12 PM ET
+
+No new injuries at the tracked positions (DB, LB, OT, OG, RB) in this window (Aug 4, 11:15 AM–1:12 PM ET, ~2 hours). No status or designation changes. No removals — reconciliation skipped (see note below).
+
+NOTE: ESPN's injuries page returned a 403 Forbidden on direct fetch again this run; relied on web search only, per the standing reconciliation-skip rule. Search turned up nothing new at the five tracked positions within this window — items surfacing (Jager Burton hamstring, Keisean Nixon hamstring) were older (late July) camp notes about players already returned to practice, not new injuries, and were not added.
+
+4 current NEW rows (Coby Bryant, Caedan Wallace, Micah Morris, Edgerrin Cooper) — none aged off this run (all under 24h old). Tile counts unchanged and verified against current table rows: 18 high / 64 mid / 46 low / 128 all / 4 new.
