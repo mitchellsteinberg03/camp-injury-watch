@@ -155,3 +155,14 @@ No new injuries at the tracked positions (DB, LB, OT, OG, RB) in this window (Au
 NOTE: ESPN's injuries page returned a 403 Forbidden on direct fetch again this run; relied on web search only, per the standing reconciliation-skip rule. Search turned up nothing new at the five tracked positions within this window — items surfacing (Jager Burton hamstring, Keisean Nixon hamstring) were older (late July) camp notes about players already returned to practice, not new injuries, and were not added.
 
 4 current NEW rows (Coby Bryant, Caedan Wallace, Micah Morris, Edgerrin Cooper) — none aged off this run (all under 24h old). Tile counts unchanged and verified against current table rows: 18 high / 64 mid / 46 low / 128 all / 4 new.
+
+## Aug 4, 2026, 3:12 PM ET
+
+No new injuries at the tracked positions (DB, LB, OT, OG, RB) in this window (Aug 4, 1:12 PM–3:12 PM ET). No status or designation changes.
+
+**Removals:**
+- Kyle Monangai, RB, Bears — removed: returned to practice. Confirmed day-to-day with a soft-tissue injury sustained on camp's first day; multiple independent camp reports (Chicago Sun-Times, NBC Chicago, Yardbarker) show him back in action at Monday's (Aug 3) practice taking handoffs.
+
+NOTE: ESPN's injuries page (both the league-wide page and the 49ers team page) again returned a 403 Forbidden on direct fetch, so full row-by-row reconciliation against a live tracker could not be performed this run; relied on web search only, per the standing reconciliation-skip rule. The Monangai removal above was based on explicit, multiply-corroborated return-to-practice reporting surfaced by search, not a full reconciliation sweep. A "Colts rookie OL ankle injury" lead traced back to a mismatched/recycled old article (2013-era Khaled Holmes piece, and the player is a center, out of scope) and was discarded.
+
+4 current NEW rows (Coby Bryant, Caedan Wallace, Micah Morris, Edgerrin Cooper) — none aged off this run (all under 24h old; oldest is Coby Bryant/Caedan Wallace at ~23h). Tile counts verified against current table rows: 18 high / 64 mid / 45 low / 127 all / 4 new.
