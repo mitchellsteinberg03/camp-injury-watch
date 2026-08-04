@@ -56,3 +56,38 @@ jobs:
                   "Note: if today is on or after Sept 21, 2026, the routine's built-in backstop has likely halted sweeps intentionally — the Week 1 decision (due Sept 14) needs to be acted on rather than treating this as a breakage.")"
             fi
           fi
+
+          # Structural integrity: tile counts must match actual table rows.
+          if [ -n "$html" ]; then
+            tile() { printf '%s' "$html" | grep -o "data-count=\"$1\"><span class=\"num\">[0-9]*" | grep -o '[0-9]*$' | head -1; }
+            t_high=$(tile high); t_mid=$(tile mid); t_low=$(tile low); t_all=$(tile all); t_new=$(tile new)
+            r_high=$(printf '%s' "$html" | grep -o 'tr data-sev="high"' | wc -l | tr -d ' ')
+            r_mid=$(printf '%s' "$html" | grep -o 'tr data-sev="mid"' | wc -l | tr -d ' ')
+            r_low=$(printf '%s' "$html" | grep -o 'tr data-sev="low"' | wc -l | tr -d ' ')
+            r_all=$(printf '%s' "$html" | grep -o 'tr data-sev="' | wc -l | tr -d ' ')
+            r_new=$(printf '%s' "$html" | grep -o 'badge new">NEW' | wc -l | tr -d ' ')
+            problems=""
+            [ "$r_all" -eq 0 ] && problems="table has zero player rows; "
+            [ "${t_high:-x}" != "$r_high" ] && problems="${problems}high tile ${t_high:-missing} vs ${r_high} rows; "
+            [ "${t_mid:-x}" != "$r_mid" ] && problems="${problems}mid tile ${t_mid:-missing} vs ${r_mid} rows; "
+            [ "${t_low:-x}" != "$r_low" ] && problems="${problems}low tile ${t_low:-missing} vs ${r_low} rows; "
+            [ "${t_all:-x}" != "$r_all" ] && problems="${problems}all tile ${t_all:-missing} vs ${r_all} rows; "
+            [ "${t_new:-x}" != "$r_new" ] && problems="${problems}new tile ${t_new:-missing} vs ${r_new} NEW badges; "
+            if [ -n "$problems" ]; then
+              echo "Structure problems: $problems"
+              existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+                --search 'structure anomaly in:title' --json number --jq '.[0].number' || true)
+              if [ -n "$existing" ]; then
+                echo "Structure issue #$existing already open — not duplicating."
+              else
+                gh issue create --repo "$GITHUB_REPOSITORY" \
+                  --title "Dashboard structure anomaly — tile counts do not match table rows" \
+                  --body "$(printf '%s\n\n%s\n\n%s' \
+                    "Daily structural check found: ${problems}" \
+                    "A sweep likely produced malformed rows or miscounted tiles. The data may still be correct — but the pop-up tiles now lie, and markup drift can compound across sweeps." \
+                    "Fix: open the repo in a Claude session and ask it to audit index.html tile counts against rows (git history has every sweep if a revert is easier).")"
+              fi
+            else
+              echo "Structure OK: tiles ${t_high}/${t_mid}/${t_low}/${t_all}/${t_new} match rows ${r_high}/${r_mid}/${r_low}/${r_all}/${r_new}."
+            fi
+          fi
