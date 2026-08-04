@@ -132,3 +132,18 @@ No new injuries or status/designation changes at the tracked positions (DB/LB/OT
 NOTE: ESPN's injuries page again returned a 403 access error on direct fetch, so full row-by-row reconciliation against a live tracker could not be performed; relied on web search only. Targeted searches were run on outstanding diagnosis-pending players and a broad news sweep across the five tracked positions for this window; nothing surfaced indicating any tracked player returned to practice, was cleared, or suffered a new in-scope injury. No rows removed as a result. Full reconciliation resumes once a source page is fetchable.
 
 2 NEW badges aged off (24h+ since being added): Myles Garrett, Kaelon Black. "Recently added (24h)" tile now reflects 3 current NEW rows (Coby Bryant, Caedan Wallace, Micah Morris). Tile counts verified against current table rows: 19 high / 64 mid / 44 low / 127 all / 3 new.
+
+## Aug 4, 2026, 11:15 AM ET
+
+**New injuries:**
+- Edgerrin Cooper, LB, Packers — unable to finish Tuesday's practice, dropping out during a special-teams period; stayed on the field, and HC Matt LaFleur characterized it as "standard camp nicks and bruises." Severity: low, day-to-day.
+
+**Status and designation changes:**
+- Jaeden Roberts, G, Eagles — diagnosis in from Saturday's cart-off: calf contusion, worse outcome (originally feared) avoided; expected to miss some practice time but not considered serious long-term. Severity downgraded high → low; source link added.
+- Jaylon Moore (OT, 49ers) and Keyshawn James-Newby (EDGE, Eagles) remain diagnosis-pending/out with no new team update found this window.
+
+**Removals:** none this sweep — reconciliation skipped (see note below).
+
+NOTE: ESPN's injuries page again returned a 403 access error on direct fetch, so full row-by-row reconciliation against a live tracker could not be performed this run either; relied on web search only, per the standing reconciliation-skip rule. A batch of other leads surfaced by search this run (Colts, Panthers, Lions items citing "Tuesday" camp injuries) traced back to old, previously-published articles being resurfaced with mismatched dates rather than genuine news from this window — those were verified against internal consistency (old ESPN story IDs, a 2012-dated incident, a regular-season game description misattributed to camp) and discarded rather than added. Only the Cooper and Roberts items above were corroborated by multiple 2026-camp-specific, internally consistent sources.
+
+4 current NEW rows (Coby Bryant, Caedan Wallace, Micah Morris, Edgerrin Cooper) — none aged off this run (all under 24h old). Tile counts verified against current table rows: 18 high / 64 mid / 46 low / 128 all / 4 new.
