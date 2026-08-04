@@ -34,7 +34,7 @@ jobs:
             hours=$(( age / 3600 ))
             if [ "$age" -gt 46800 ]; then   # 13h; largest normal gap is 11h (9pm -> 8am ET)
               stale=1
-              reason="Last sweep was ${ts} — ${hours} hours ago (threshold: 13h). Sweeps run 4x daily at 8am/1pm/4pm/9pm ET, so at least one run has been missed."
+              reason="Last sweep was ${ts} — ${hours} hours ago (threshold: 13h). Sweeps run every 2 hours 9am-9pm ET (hourly during cut week), so multiple runs have been missed."
             else
               stale=0
               echo "Fresh: last sweep ${ts} (${hours}h ago)."
