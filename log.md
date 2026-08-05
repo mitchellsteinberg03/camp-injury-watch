@@ -294,3 +294,36 @@ No new injuries or status/designation changes at the tracked positions (DB, LB, 
 NOTE ON RECONCILIATION: The ESPN snapshot (`data/espn-injuries.json`) is unchanged since the prior two sweeps — still fetched 2026-08-05T17:49:16Z (now ~3h24m old, current per the freshness rule), with no new commit from the fetch job in this window. It was already fully reconciled as of the 1:57 PM sweep; no discrepancies found on re-check.
 
 4 NEW badges aged off (24h+ since being added): Myles Bryant, Jalon Walker, Jared Bartlett, Sione Vaki. "Recently added (24h)" tile now reflects 9 current NEW rows (Julian Neal, Lonnie Johnson Jr., Alijah Clark, Johnathan Baldwin II, Nick Allegretti, Malcolm Rodriguez, Jonathan Garvin, Nik Bonitto, Derrick Moore). Tile counts unchanged otherwise and verified against current table rows: 20 high / 62 mid / 50 low / 132 all / 9 new.
+
+## Aug 5, 2026, 7:25 PM ET
+
+**Second full reconciliation vs. live ESPN snapshot.** Snapshot refreshed this window (`data/espn-injuries.json`, fetched 2026-08-05T22:31:56Z — under 1h old at sweep time, current). Cross-checked all 132 dashboard rows against it, plus WebSearch for breaking news at the five tracked positions in the ~2h window since the 5:13 PM sweep.
+
+**New injuries:**
+- Joey Blount, S, Cardinals — stinger, did not practice Aug 1; day-to-day per HC Mike LaFleur, though the team is running extra testing given his prior neck-surgery history. Severity: low.
+- Kristian Fulton, CB, Chiefs — hip flexor strain, missed a second straight practice (Tue.–Wed.). Severity: low, day-to-day.
+- Jeffrey Bassa, LB, Chiefs — groin strain, left Wednesday's practice early; HC Andy Reid gave no timetable. Severity: low, day-to-day.
+- Drue Tranquill, LB, Chiefs — back spasm, held out of Wednesday's practice; a recurrence of an issue that flared last summer. Severity: low, day-to-day.
+- Nick Zakelj, OT, 49ers — left Wednesday's practice, no injury details disclosed yet. Severity: low, diagnosis pending.
+- Carver Willis, OT, 49ers (rookie) — in the concussion protocol, did not practice Wednesday; had been slated for LG reps with the starters before the injury. Severity: low.
+- Brett Toth, G, 49ers — undisclosed injury, did not practice Wednesday. Severity: low.
+
+**Status and designation changes:** none beyond the removals below — every other still-tracked row that appeared in the snapshot (Tucker Large, Daequan Hardy, Greg Newsome II, Myles Bryant, Trevin Wallace, Thomas Incoom, Mykel Williams, Ikem Ekwonu, Storm Norton, Nick Saldiveri, Jaylon Moore, Caedan Wallace, Isaac Guerendo) was reconfirmed as still accurate with no update needed.
+
+**Removals (10 — reconciled against the snapshot plus individual WebSearch confirmation):**
+- Kenny Moore II, CB, Colts — removed: returned to practice.
+- Blake Cotton, CB, Broncos — removed: waived/injury-settlement release, no longer on the roster.
+- Xavier Watts, S, Falcons — removed: no longer on injury reports, actively practicing/intercepting in camp.
+- Andre Cisco, S, Jets — removed: fully recovered from the 2025 season-ending pectoral injury, competing normally.
+- Jarvis Brownlee Jr., CB, Jets — removed: 2025 season-ending hip injury resolved, no issues this camp.
+- Quintayvious Hutchins, LB, Patriots — removed: the tracked injury was from May rookie minicamp, not current camp; no issues reported now.
+- Kwity Paye, EDGE, Raiders — removed: returned to practice after the Friday scare, deemed not serious.
+- Andrew Thomas, OT, Giants — removed: reported fully healthy, practicing at full go.
+- Kejon Owens, RB, Vikings — removed: waived by the team Aug 2, no longer on the roster.
+- Ben VanSumeren, FB, Bills — removed: no injury reports found, participating at camp without incident.
+
+Two exempt high-severity rows absent from the snapshot (Thaddeus Dixon, CB, Giants; Taylor Moton, OT, Panthers) were left in place per the vanished-check exemption — no explicit activation/return news found for either. 10 removals against 132 prior rows (7.6%) — well under the 25% circuit-breaker threshold.
+
+NOTE ON RECONCILIATION: Ran in full against the fresh ESPN snapshot (2026-08-05T22:31:56Z, <1h old) plus targeted WebSearch for each of the 23 non-exempt vanished rows and a separate breaking-news sweep of the 5:13–7:25 PM ET window. Several leads were checked and discarded as recycled/misdated or out-of-window: a "Brandon Jones (S, Broncos) placed on IR" story traced to a Week 15 regular-season game that hasn't happened yet; "Denzel Ward carted off" / "Cedric Gray concussion" items referenced a regular-season loss that hasn't occurred; "Jamaree Salyer (G, Dolphins) carted off Wednesday" traced back to a June 2026 minicamp story; Ashton Gillotte's (EDGE, Chiefs) hamstring and Austin Jackson's (OT, Dolphins) issues are pre-existing and outside this window; Michael Hoecht, Dayo Odeyingbo, James Houston, and Sauce Gardner (all previously assessed as managing/recovering from 2025 injuries with no new acute event) remain unchanged, not added.
+
+3 NEW badges aged off (24h+ since being added): Jonathan Garvin, Nik Bonitto, Derrick Moore. 7 new NEW badges added this run (Joey Blount, Kristian Fulton, Jeffrey Bassa, Drue Tranquill, Nick Zakelj, Carver Willis, Brett Toth). "Recently added (24h)" tile now reflects 13 current NEW rows. Tile counts verified against current table rows: 20 high / 60 mid / 49 low / 129 all / 13 new.
