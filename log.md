@@ -197,3 +197,18 @@ NOTE: ESPN's injuries page again returned a 403 Forbidden on direct fetch, so fu
 NOTE: ESPN's injuries page returned a 403 Forbidden on direct fetch again this run. Additionally, WebFetch failed with 403 on every other URL attempted this run (chicagobears.com, prideofdetroit.com, yardbarker.com, cbssports.com, si.com) — a broader fetch-tool issue tonight, not source-specific blocking. Relied entirely on WebSearch results for both discovery and corroboration; full row-by-row reconciliation against a live tracker could not be performed, per the standing reconciliation-skip rule. Several leads were checked for internal date/content consistency and discarded as recycled old stories misdated into current search results: a "49ers' Jaylon Moore carted off" CBS item (matches his existing tracked Aug 1 injury, likely the same event resurfacing — no new update), a "Colts' Salvon Ahmed hospitalized" story (dated 2025 camp, one year old), a "Cowboys' Rob Jones broken neck" story (dated 2025), a "Mitch Hyatt carted off" Cowboys item (2020, player since retired), a "Patriots' Tre' Jackson carted off" item (2015-era rookie, unrelated current-day player), "Martin Emerson Jr. Achilles" (2025, and he's now with the Saints per his bio, not the Browns), and Tyler Smith's knee tendinitis (a managed 2025 issue, resolved with offseason cleanup surgery, not a new injury). Rashawn Slater (Chargers OT) briefly visited the medical tent Tuesday after an 11-on-11 period but returned to individual work with no injury diagnosed — not added, as it resolved without a reported injury.
 
 No NEW badges aged off this run (all 9 current NEW rows are under 24h old; Micah Morris is oldest at ~22h). 3 new NEW badges added this run (Jonathan Garvin, Nik Bonitto, Derrick Moore). "Recently added (24h)" tile now reflects 9 current NEW rows (Micah Morris, Edgerrin Cooper, Jalon Walker, Jared Bartlett, Myles Bryant, Sione Vaki, Jonathan Garvin, Nik Bonitto, Derrick Moore). Tile counts verified against current table rows: 20 high / 65 mid / 49 low / 134 all / 9 new.
+
+## Aug 4, 2026, 9:12 PM ET
+
+**New injuries:**
+- Malcolm Rodriguez, LB, Lions — left Tuesday's padded practice with an ankle injury; walked around comfortably afterward with the ankle lightly taped. Team hasn't announced severity or a timetable. Severity: low, day-to-day.
+
+**Status and designation changes:**
+- Jared Bartlett (LB, Jaguars, carted off Tuesday) and Myles Bryant (CB, Browns, left practice with medical staff Monday, still out Tuesday) remain diagnosis-pending with no team update yet.
+
+**Removals:**
+- None this run.
+
+NOTE: ESPN's injuries page returned 403 again this run, and every other tracker/beat page attempted via direct fetch (Yahoo Sports, CBS Sports, Bleacher Report, Steelers Depot, Pride of Detroit, AOL) also returned 403 — WebFetch appears broadly blocked this sweep, not just ESPN. Relied entirely on WebSearch for this window. Reconciliation against the ESPN injury report was skipped per protocol; all existing rows carried forward unchanged aside from the NEW-badge aging below. If this persists across further runs, the source-fetch path likely needs attention.
+
+1 NEW badge aged off (24h+ since being added): Micah Morris. "Recently added (24h)" tile now reflects 9 NEW rows (Myles Bryant, Edgerrin Cooper, Jalon Walker, Jared Bartlett, Jonathan Garvin, Nik Bonitto, Derrick Moore, Sione Vaki, Malcolm Rodriguez).
