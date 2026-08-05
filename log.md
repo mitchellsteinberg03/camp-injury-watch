@@ -212,3 +212,13 @@ No NEW badges aged off this run (all 9 current NEW rows are under 24h old; Micah
 NOTE: ESPN's injuries page returned 403 again this run, and every other tracker/beat page attempted via direct fetch (Yahoo Sports, CBS Sports, Bleacher Report, Steelers Depot, Pride of Detroit, AOL) also returned 403 — WebFetch appears broadly blocked this sweep, not just ESPN. Relied entirely on WebSearch for this window. Reconciliation against the ESPN injury report was skipped per protocol; all existing rows carried forward unchanged aside from the NEW-badge aging below. If this persists across further runs, the source-fetch path likely needs attention.
 
 1 NEW badge aged off (24h+ since being added): Micah Morris. "Recently added (24h)" tile now reflects 9 NEW rows (Myles Bryant, Edgerrin Cooper, Jalon Walker, Jared Bartlett, Jonathan Garvin, Nik Bonitto, Derrick Moore, Sione Vaki, Malcolm Rodriguez).
+
+## Aug 5, 2026, 9:29 AM ET
+
+No new injuries or status/designation changes at the tracked positions (DB, LB, OT, OG, RB) in this overnight window (Aug 4, 9:12 PM–Aug 5, 9:29 AM ET; no team practices occurred). Jared Bartlett (LB, Jaguars) and Myles Bryant (CB, Browns) remain diagnosis-pending with no team update found. Rashawn Slater (OT, Chargers) briefly exited Tuesday's practice with a left-leg scare but returned to watch practice with no injury diagnosed as of the latest reporting — not added, consistent with the prior run's assessment. A recycled "Jaylon Moore placed on IR, Charlie Heck signed" story traced back to a December 2024 transaction, not a current update on his still-pending camp leg injury — discarded.
+
+**Removals:** none this sweep — reconciliation skipped (see note below).
+
+NOTE: ESPN's injuries API and the HTML injuries/team pages again returned 403 Forbidden on every direct-fetch attempt this run (both curl and WebFetch), consistent with every sweep since Aug 2 — relied entirely on WebSearch, per the standing reconciliation-skip rule.
+
+No NEW badges aged off this run (all 9 current NEW rows remain under 24h old; Edgerrin Cooper is oldest at ~22h). Tile counts unchanged and verified against current table rows: 20 high / 65 mid / 50 low / 135 all / 9 new.
