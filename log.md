@@ -222,3 +222,16 @@ No new injuries or status/designation changes at the tracked positions (DB, LB, 
 NOTE: ESPN's injuries API and the HTML injuries/team pages again returned 403 Forbidden on every direct-fetch attempt this run (both curl and WebFetch), consistent with every sweep since Aug 2 — relied entirely on WebSearch, per the standing reconciliation-skip rule.
 
 No NEW badges aged off this run (all 9 current NEW rows remain under 24h old; Edgerrin Cooper is oldest at ~22h). Tile counts unchanged and verified against current table rows: 20 high / 65 mid / 50 low / 135 all / 9 new.
+
+## Aug 5, 2026, 11:25 AM ET
+
+**Status and designation changes:**
+- Jalon Walker, EDGE, Falcons — torn ACL confirmed by imaging (previously reported as feared); per the team, he will have season-ending surgery and be placed on injured reserve in the coming days. Severity held at high; status text updated, source link updated to the team's official announcement.
+
+No other new injuries or status/designation changes at the tracked positions (DB, LB, OT, OG, RB) in this window (Aug 5, 9:29–11:25 AM ET). Jared Bartlett (LB, Jaguars) and Myles Bryant (CB, Browns) remain diagnosis-pending with no team update found.
+
+**Removals:** none this sweep — reconciliation skipped (see note below).
+
+NOTE: ESPN's injuries API (curl) and the HTML injuries/team pages (WebFetch) again returned 403/unreachable on every direct-fetch attempt this run — consistent with every sweep since Aug 2 — relied entirely on WebSearch, per the standing reconciliation-skip rule. Several other leads surfaced by search this run were checked for internal date consistency and discarded as recycled old stories: Kyler Gordon's (CB, Bears) "frustrated" recovery-delay comments trace back to Ryan Poles' camp-opening remarks (~July 28), Kaelon Black's (RB, 49ers) adductor-injury detail traces back to his already-tracked Aug 3 absence with no new development, Keisean Nixon (CB, Packers) hamstring tightness resolved within a day and he has since returned to full practice, Joe Mixon (RB, Texans) was released by the team in March 2026 and is no longer on the roster, and D'Onta Foreman's (RB, Browns) hospitalization story is from August 2024.
+
+1 NEW badge aged off (24h+ since being added): Edgerrin Cooper. "Recently added (24h)" tile now reflects 8 current NEW rows (Myles Bryant, Jalon Walker, Jared Bartlett, Malcolm Rodriguez, Jonathan Garvin, Nik Bonitto, Derrick Moore, Sione Vaki). Tile counts verified against current table rows: 20 high / 65 mid / 50 low / 135 all / 8 new.
