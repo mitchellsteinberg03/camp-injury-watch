@@ -245,3 +245,32 @@ No new injuries or status/designation changes at the tracked positions (DB, LB, 
 NOTE: ESPN's injuries API (curl) returned a 403 proxy-tunnel failure, and the HTML injuries/team pages (WebFetch) again returned 403 on every direct-fetch attempt this run — consistent with every sweep since Aug 2 — relied entirely on WebSearch, per the standing reconciliation-skip rule.
 
 No NEW badges aged off this run (all 8 current NEW rows remain under 24h old; Myles Bryant, Jalon Walker, Jared Bartlett, and Sione Vaki are oldest at ~20h). Tile counts unchanged and verified against current table rows: 20 high / 65 mid / 50 low / 135 all / 8 new.
+
+## Aug 5, 2026, 1:57 PM ET
+
+**First run with a working ESPN snapshot.** The Actions data-bridge job landed in the repo this window (`data/espn-injuries.json`, fetched 2026-08-05 17:49 UTC — 2 minutes old at sweep time). Full primary-source reconciliation ran for the first time since the tracker launched. Note on the snapshot's shape: it is a rolling per-team news feed capped at the 25 most recent items (injury updates mixed with trades/extensions/signings), not a full current-injury list — so a player's *absence* from it isn't a reliable "recovered" signal on its own. Removals below are based on explicit return/activation/recovery text found in the snapshot or corroborated by search, not on absence.
+
+**New injuries:**
+- Julian Neal, CB, Seahawks — upper-leg injury, out since Day 3 of camp (~July 27); HC Mike Macdonald calls it a "shorter-term" issue and expects him back soon. Severity: low, day-to-day.
+- Lonnie Johnson Jr., S, Dolphins — left Monday's practice with a lower-body injury. Severity: low, day-to-day.
+- Alijah Clark, S, Cowboys — left Tuesday's practice with an ankle injury. Severity: low, day-to-day.
+- Johnathan Baldwin II, S, Packers — did not participate in Tuesday's practice due to a knee injury. Severity: low, day-to-day.
+- Nick Allegretti, G, Commanders — calf strain suffered Day 1 of camp; HC Dan Quinn says he'll miss about a week, not considered long-term. Severity: low.
+
+**Status and designation changes:** none this window beyond the removals below. Jaeden Roberts (G, Eagles) and Jaylon Moore (OT, 49ers) remain as previously reported — the snapshot corroborates both (Roberts: calf contusion, avoided a major injury, sat out Monday; Moore: still no diagnosis reported since being carted off). Micah Morris (G, Eagles) confirmed still out Monday and Tuesday with the shoulder injury — consistent with the tracked status, no line change. Andrew Vorhees (G, Ravens) — search turned up conflicting/older results; kept as-is. Myles Bryant (CB, Browns) remains diagnosis-pending; the Browns' signing of CB Tyler Hall this week suggests he may be out a bit, but no formal update found.
+
+**Removals (explicit return/activation signal found in the snapshot):**
+- Kain Medrano, LB, Commanders — activated off the active/PUP list.
+- T.J. Edwards, LB, Bears — activated off the NFI list and returned to practice Wednesday (confirmed by search).
+- Dorian Williams, LB, Bills — participated in team drills Tuesday for the first time since the start of camp.
+- Brant Banks, OT, Packers — activated off the active/PUP list.
+- Christian Izien, S, Lions — activated off the active/non-football-illness list.
+- Kool-Aid McKinstry, CB, Saints — returned to practice Sunday.
+- Benjamin Morrison, CB, Buccaneers — full participant in Sunday's practice.
+- Terrell Jennings, RB, Patriots — worked with the Patriots' starting offense Wednesday with no injury mentioned, off the NFI list.
+
+8 removals against 135 prior rows (5.9%) — well under the 25% circuit-breaker threshold, so all were applied.
+
+NOTE ON RECONCILIATION: Ran in full against the fresh ESPN snapshot (2026-08-05 17:49 UTC, <5 min old) plus WebSearch corroboration for ambiguous cases. This is the first sweep able to do this — every prior run since Aug 2 relied on WebSearch alone after persistent 403s on direct ESPN fetches. Two snapshot leads were checked and discarded: Joey Blount (S, Cardinals) — an "Aug 2, did not participate" item in the feed, but search results kept surfacing a since-unrelated 2025 season-ending neck/IR story for the same player, too muddled to add with confidence; Ray Davis (RB, Bills) — briefly exited Tuesday's practice with an apparent ankle injury but checked back into the same session, resolved without a reported injury, consistent with the standing practice of not adding same-session scares.
+
+No NEW badges aged off this run (all prior NEW rows are under 24h old; earliest is ~20h47m). 5 new NEW badges added this run (Julian Neal, Lonnie Johnson Jr., Alijah Clark, Johnathan Baldwin II, Nick Allegretti). "Recently added (24h)" tile now reflects 13 current NEW rows. Tile counts verified against current table rows: 20 high / 62 mid / 50 low / 132 all / 13 new.
