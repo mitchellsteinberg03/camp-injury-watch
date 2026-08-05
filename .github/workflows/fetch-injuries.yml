@@ -1,0 +1,49 @@
+name: fetch-injuries
+
+# Data bridge for the cloud sweeps.
+# The cloud agent's sandbox proxy 403s all direct web fetches, so it cannot reach
+# ESPN itself. This job runs on GitHub's runners (normal internet access), pulls
+# ESPN's injuries API every 2 hours, and commits the JSON into the repo — the
+# sweep then reads it from its own checkout, no network needed.
+
+on:
+  schedule:
+    - cron: '17 */2 * * *'   # every 2 hours at :17
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch ESPN injuries API and commit snapshot
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if curl -fsS --max-time 60 "https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries" -o /tmp/injuries.json \
+             && jq -e '.injuries | length > 0' /tmp/injuries.json >/dev/null; then
+            mkdir -p data
+            jq . /tmp/injuries.json > data/espn-injuries.json
+            date -u +%Y-%m-%dT%H:%M:%SZ > data/espn-injuries-fetched-at.txt
+            git config user.name "injuries-fetcher"
+            git config user.email "actions@users.noreply.github.com"
+            git add data/
+            git commit -m "Data: ESPN injuries snapshot $(date -u +'%Y-%m-%d %H:%MZ')"
+            git pull --rebase
+            git push
+            echo "Snapshot committed."
+          else
+            echo "Fetch or JSON validation failed."
+            existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+              --search 'snapshot fetch failing in:title' --json number --jq '.[0].number' || true)
+            if [ -z "$existing" ]; then
+              gh issue create --repo "$GITHUB_REPOSITORY" \
+                --title "ESPN injuries snapshot fetch failing" \
+                --body "The fetch-injuries workflow could not retrieve or validate the ESPN injuries API from GitHub's runners. Sweeps fall back to web-search-only mode (and say so in log.md) until this recovers. Check the Actions run logs for the error."
+            fi
+            exit 1
+          fi
