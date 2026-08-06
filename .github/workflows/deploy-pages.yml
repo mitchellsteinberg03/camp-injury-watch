@@ -1,0 +1,59 @@
+name: deploy-pages
+
+# Publishes ONLY the site files to GitHub Pages.
+#
+# Why this exists: legacy Pages (build-from-branch) packaged the entire repo tree
+# into every deployment, including data/espn-injuries.json — an ~18 MB sweep-input
+# snapshot the page never reads. Deploy times crept from ~25s to timeout, and on
+# 2026-08-06 the deploy step began failing with "Timeout reached, aborting!".
+# Sweeps kept committing successfully while the live site stayed frozen at the
+# 2026-08-05 9:12 PM ET stamp — the exact silent-staleness failure the dashboard's
+# red banner and the watchdog task exist to catch.
+#
+# The sweep still reads data/ from its own checkout of main; only the *published*
+# artifact is narrowed. Keep this list to files the page actually serves.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - '.nojekyll'
+      - '.github/workflows/deploy-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never let two deploys race; a sweep can land mid-deploy.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stage site files only
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp .nojekyll _site/
+          echo "Staged $(du -sh _site | cut -f1) — files:"
+          ls -la _site
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
