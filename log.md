@@ -337,3 +337,31 @@ No new injuries or status/designation changes at the tracked positions (DB, LB, 
 NOTE ON RECONCILIATION: The ESPN snapshot (`data/espn-injuries.json`) is unchanged since the prior sweep — still fetched 2026-08-05T22:31:56Z (now ~2h41m old, current per the freshness rule; no new commit from the fetch job in this window). It was already fully reconciled as of the 7:25 PM sweep; a light re-check this run (all snapshot "Out"/"Injured Reserve" entries at the five tracked positions cross-referenced against current dashboard rows) found only the two activations noted above, neither previously tracked.
 
 1 NEW badge aged off (24h+ since being added): Malcolm Rodriguez. "Recently added (24h)" tile now reflects 12 current NEW rows. Tile counts otherwise unchanged and verified against current table rows: 20 high / 60 mid / 49 low / 129 all / 12 new.
+
+## Aug 6, 2026, 9:40 AM ET
+
+Full reconciliation vs. fresh ESPN snapshot (`data/espn-injuries.json`, fetched 2026-08-06T10:17:24Z — ~3h20m old at sweep time, current) plus WebSearch for breaking news at the five tracked positions across the ~12h25m window since the 9:12 PM ET sweep, and a full spot-check of every dashboard row absent from today's snapshot.
+
+**New injuries (roster designations):**
+- Saahdiq Charles, G, Panthers — recurring calf issue, placed on injured reserve Wednesday; per Yardbarker/Panthers.com, rules him out for the rest of the season. Severity: high.
+- Cameron Mitchell, CB, Colts — shoulder injury suffered in practice; waived/injured, reverted to injured reserve Tuesday after clearing waivers. Severity: mid.
+- Charles Snowden, LB, Cowboys — groin issue; waived/injured, reverts to injured reserve. Severity: mid. (An unrelated 3-game suspension tied to a prior DUI plea deal was also reported — out of scope, not an injury fact.)
+- Chris Collier, RB, Raiders — undisclosed injury; waived/injured, reverted to injured reserve after clearing waivers. Severity: mid.
+
+**Status/designation changes:**
+- Nick Saldiveri, OT, Saints — upgraded mid → high. Multiple outlets (Louisiana Sports, Yahoo, PFR) confirm his reserve/PUP placement (recurring knee issue dating to a 2025 camp injury) ends his 2026 season before it started.
+- Nick Zakelj, OT, 49ers — injury detail refined from "undisclosed" to "upper body" per NBC Sports Bay Area; status (day-to-day, diagnosis pending) unchanged.
+- Carlton Davis III, CB, Patriots — added a source link (ESPN Patriots injuries page) to this previously-unlinked legacy row; status unchanged (still absent from practice, monitoring).
+
+**Removals (7):**
+- Al'zillion Hamilton, CB, Rams — removed: activated off the active/PUP list Wednesday after passing his physical (CBS Sports).
+- Myles Garrett, EDGE, Rams — removed: returned to practice Wednesday as a full participant after missing four straight sessions with lower-body soreness (Yahoo, CBS Sports, NBC Sports).
+- Cameron Sample, EDGE, 49ers — removed: waived by the team following a knee injury that had kept him out of practice; no longer on the roster.
+- Thomas Incoom, EDGE, Panthers — removed: getting first-team defensive reps in camp with no injury designation found; appears fully recovered/active.
+- Jaylon Moore, OT, 49ers — removed: recovered from the leg injury that had him carted off; no longer on the 49ers' injury report.
+- Greg Newsome II, CB, Browns — removed: data-quality correction. He was traded to Jacksonville in October 2025 and signed with the New York Giants in March 2026 — he has not been a Brown all 2026 season, so the tracked "Browns" shoulder-injury row was a stale/misattributed story.
+- Nazeeh Johnson, S, Chiefs — removed: same class of correction. He signed with the Tennessee Titans in July 2026 and has not been on the Chiefs' roster this camp; the tracked "Chiefs" row was stale/misattributed.
+
+NOTE ON RECONCILIATION: Ran in full against the fresh snapshot (2026-08-06T10:17:24Z, ~3h20m old, current). Cross-checked all 129 prior dashboard rows; 103 matched directly, 26 were absent from the snapshot. Of those, Thaddeus Dixon, Jaden Davis, Jeremiah Owusu-Koramoah, and Taylor Moton are exempt high-severity rows (kept, no activation/return evidence found). The remaining 22 non-exempt absent rows were each individually WebSearched: 5 produced removals (Hamilton, Newsome, Johnson, Sample, Incoom — see above; Myles Garrett's removal was separately triggered by a positive-window snapshot/search hit, not the absence-check), and the other ~17 (Tucker Large, Daequan Hardy, Malik Mustapha, Myles Bryant, Kristian Fulton, Trevin Wallace, Mykel Williams, Andrew Farmer II, William Bradley-King, Ikem Ekwonu, Storm Norton, Vederian Lowe, Caedan Wallace, Jordan James, Isaac Guerendo, plus Nick Saldiveri who was updated rather than removed) turned up continuing, corroborating injury coverage and were kept unchanged. 7 removals against 129 prior rows (5.4%) — well under the 25% circuit-breaker threshold. Separately, three snapshot IR entries not yet on the tracker (Cameron Mitchell, Charles Snowden, Chris Collier) were confirmed via WebSearch and added above.
+
+16 NEW badges currently active, all under 24h old (oldest ~19h39m: Julian Neal, Lonnie Johnson Jr., Alijah Clark, Johnathan Baldwin II, Nick Allegretti); none aged off this run. Tile counts verified against current table rows: 22 high / 59 mid / 45 low / 126 all / 16 new.
