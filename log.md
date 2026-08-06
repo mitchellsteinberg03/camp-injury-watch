@@ -395,3 +395,20 @@ No new injuries or status/designation changes at the tracked positions (DB, LB, 
 NOTE ON RECONCILIATION: The ESPN snapshot (`data/espn-injuries.json`) is unchanged since the 9:40 AM sweep — still fetched 2026-08-06T10:17:26Z, now ~8h50m old. Usable per the 6–24h reconciliation rule, but its age is notable: the fetch job normally refreshes every 2h and hasn't produced a new commit in nearly 9h. No fetch-failure issue is currently open on the repo, so this is being noted rather than escalated. It was already fully reconciled as of the 9:40 AM sweep; skipped a redundant full pass since no new snapshot data exists. A breaking-news WebSearch across the five tracked positions turned up nothing new in-window — every notable hit was either already tracked (Jalon Walker/EDGE-Falcons, Nic Scourton/EDGE-Panthers, Jahmyr Gibbs/RB-Lions) or recycled/misdated: a "Tylan Grable (OT, Bills) placed on IR" item traced to the 2025 preseason/season (activated off IR Nov 29, 2025, played through Week 18); a "Liam Anderson (LB) injury settlement" item traced to an August 2025 Colts release — he signed a 2026 futures deal with Cincinnati and has no current injury; a "Drew Sanders (LB, Broncos) foot injury/IR designation" item carried internally inconsistent dates (camp-injury framing mixed with a "designated for return... January 10, 2026" reference) and could not be corroborated to this window.
 
 5 NEW badges aged off (24h+ since being added): Julian Neal, Lonnie Johnson Jr., Alijah Clark, Johnathan Baldwin II, Nick Allegretti. "Recently added (24h)" tile now reflects 11 current NEW rows. Tile counts verified against current table rows: 22 high / 59 mid / 45 low / 126 all / 11 new.
+
+## Aug 6, 2026, 5:15 PM ET
+
+**New injuries:**
+- Demetrius Flannigan-Fowles, LB, Bills — placed on injured reserve Thursday morning ahead of practice (specific injury undisclosed); Bills signed LB Otis Reese IV in the corresponding move. Severity: high.
+- Max Iheanachor, OT, Steelers — first-round rookie exited Thursday's practice with an upper-body injury (trainers evaluated his neck/shoulder area); walked to the locker room under his own power. Nature and severity not yet disclosed by the team. Severity: low, diagnosis pending.
+- Brandin Echols, CB, Steelers — ankle injury during a Thursday passing drill, limped off, ankle wrapped, did not return to practice. HC Mike Tomlin expected to update status Friday. Severity: low.
+- Josh Jacobs, RB, Packers — sat out Thursday's practice with a groin injury; HC Matt LaFleur said it is not considered major. Severity: low.
+
+**Status/designation changes:**
+- Carrington Valentine, CB, Packers — injury detail refined from "undisclosed" to hamstring; out at least a week per beat reporting, HC LaFleur reiterated it's not long-term. Severity held at low; source link added.
+
+**Removals:** none this sweep.
+
+NOTE ON RECONCILIATION: The ESPN snapshot (`data/espn-injuries.json`) is unchanged since the 9:40 AM sweep — still fetched 2026-08-06T10:17:26Z, now ~10h51m old (6–24h band, usable but aging). The fetch-injuries Actions job shows only 4 total runs in its history and one outright failure at 2026-08-06T18:15:39Z (schedule event, conclusion: failure); expected runs around 12:17/14:17/16:17 ET did not land. No fetch-failure issue is open on the repo yet, so this is being flagged here rather than escalated — worth a look if the snapshot keeps aging past the next sweep. Skipped a redundant full reconciliation pass since the snapshot carries no new data beyond what was already reconciled at 9:40 AM; this run's additions came entirely from WebSearch. One lead was checked and set aside as too stale/unconfirmed to add: a "Kendre Miller (RB, Saints) back issue" comment from HC Kellen Moore dated to an Aug 2 article ("nothing worrisome, just something to keep an eye on") — four days old, no missed-practice confirmation, not added.
+
+No NEW badges aged off this run (oldest active badges, added Aug 5 7:25 PM ET, are ~21h50m old — under the 24h threshold). Tile counts verified against current table rows: 23 high / 59 mid / 48 low / 130 all / 15 new.
