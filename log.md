@@ -412,3 +412,17 @@ NOTE ON RECONCILIATION: The ESPN snapshot (`data/espn-injuries.json`) is unchang
 NOTE ON RECONCILIATION: The ESPN snapshot (`data/espn-injuries.json`) is unchanged since the 9:40 AM sweep — still fetched 2026-08-06T10:17:26Z, now ~10h51m old (6–24h band, usable but aging). The fetch-injuries Actions job shows only 4 total runs in its history and one outright failure at 2026-08-06T18:15:39Z (schedule event, conclusion: failure); expected runs around 12:17/14:17/16:17 ET did not land. No fetch-failure issue is open on the repo yet, so this is being flagged here rather than escalated — worth a look if the snapshot keeps aging past the next sweep. Skipped a redundant full reconciliation pass since the snapshot carries no new data beyond what was already reconciled at 9:40 AM; this run's additions came entirely from WebSearch. One lead was checked and set aside as too stale/unconfirmed to add: a "Kendre Miller (RB, Saints) back issue" comment from HC Kellen Moore dated to an Aug 2 article ("nothing worrisome, just something to keep an eye on") — four days old, no missed-practice confirmation, not added.
 
 No NEW badges aged off this run (oldest active badges, added Aug 5 7:25 PM ET, are ~21h50m old — under the 24h threshold). Tile counts verified against current table rows: 23 high / 59 mid / 48 low / 130 all / 15 new.
+
+## Aug 6, 2026, 7:15 PM ET
+
+**New injuries:**
+- Shad Banks Jr., LB, Titans — undisclosed injury; waived/injured Thursday, reverts to injured reserve if he clears waivers (corresponding move: Titans signed LB Dominique Hampton). Severity: mid.
+
+**Status/designation changes:**
+- Saahdiq Charles, G, Panthers — released via injury settlement Thursday, having been placed on IR with a calf injury Wednesday; no longer on the Panthers' roster. Severity held at high; source link updated to the release report.
+
+**Removals:** none this sweep.
+
+NOTE ON RECONCILIATION: The ESPN snapshot (`data/espn-injuries.json`) is unchanged since the 9:40 AM sweep — still fetched 2026-08-06T10:17:26Z, now ~12h58m old (6–24h band, usable but aging further; the fetch job's expected 12:17/14:17/16:17/18:17 ET runs still have not landed, consistent with the failure already noted at 18:15Z last run). No fetch-failure issue is open on the repo (checked this run). Skipped a redundant full reconciliation pass since the snapshot carries no new data beyond what was already reconciled at 9:40 AM; this run's additions came entirely from WebSearch across the ~2-hour window since the 5:15 PM sweep. One lead (Saahdiq Charles) was cross-checked against two independent sources (NFL.com, Panthers.com) to confirm the injury-settlement release was dated Thursday Aug 6, not a recycled Wednesday IR story. Discarded as stale/date-inconsistent: Austin Ekeler (Commanders) "Achilles tear" traced to a 2025 regular-season game; a recycled C.J. Gardner-Johnson "carted off, Texans" item traced to a 2025 training-camp incident (his actual most recent injury, with the Bills, is already tracked from Aug 1); Rashawn Slater (Chargers) and Vederian Lowe (49ers) items both traced outside this window (Aug 4 and late July respectively); a Kendre Miller (Saints) back-issue item remained unconfirmable to this specific window and was not added.
+
+No NEW badges aged off this run (oldest active badges, added Aug 5 7:25 PM ET, are ~23h50m old — just under the 24h threshold; will age off next sweep). Tile counts verified against current table rows: 23 high / 60 mid / 48 low / 131 all / 16 new.
