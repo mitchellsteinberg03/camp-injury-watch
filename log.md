@@ -490,3 +490,19 @@ No new injuries, status/designation changes, or removals at the tracked position
 NOTE ON RECONCILIATION: Reconciliation was skipped this run — `data/espn-injuries.json` is the same snapshot already fully reconciled against every tracked position at the 10:03 AM sweep (fetched 2026-08-07T12:32:02Z; no new fetch-job commit has landed since, ~40m old at this sweep, well within the "current" <6h band). A breaking-news WebSearch across the five tracked positions in the ~1h48m window turned up nothing new: hits either restated already-tracked entries (Coby Bryant, Brandin Echols, Josh Jacobs, Zak Zinter — still diagnosis pending, no update) or were positive/status-quo notes with no actionable change — Steelers HC McCarthy said there's "no high concern" for DeShon Elliott, Joey Porter Jr., Jalen Ramsey, and Donte Kent, but all four remain sidelined/PUP with no practice return or activation reported, so their rows are unchanged. One recycled lead was checked and discarded: the Austin Ekeler (Commanders) "Achilles tear" item resurfaced again, still tracing to a 2025 regular-season game (previously flagged and discarded in the 5:15 PM Aug 6 sweep). A Quintayvious Hutchins search surfaced an unrelated stale item (a May 2026 rookie-minicamp injury) — distinct from his already-tracked Aug 6 training-camp injury; not conflated.
 
 No NEW badges aged off this run (earliest active badges, added Aug 6 5:15 PM ET, are ~19h55m old — under the 24h threshold). Tile counts unchanged from last sweep: 24 high / 57 mid / 40 low / 121 all / 9 new.
+
+## Aug 7, 2026, 3:15 PM ET
+
+**New injuries:**
+- Gervarrius Owens, S, Bears — left leg, carted off during Thursday's special-teams drill; feared significant per initial reports, official diagnosis pending. Severity: mid.
+- Dallis Flowers, CB, Bears — right leg, non-contact injury, helped off by two trainers during Thursday's practice (practice was stopped); diagnosis pending. Severity: mid.
+- Montez Sweat, EDGE, Bears — undisclosed, slowed up during an 11-on-11 rep and left Thursday's practice; walked off under his own power, initial reports say not considered significant. Severity: low.
+- Braxton Jones, OT, Bears — undisclosed, exited Thursday's practice after a one-on-one rep; "dodged a significant injury" per initial reports, more testing pending. Severity: low.
+
+**Status/designation changes:** none this sweep — Zak Zinter (Browns G) and Keyshawn James-Newby (Eagles EDGE) checked, both still diagnosis-pending/out with no update since prior entries.
+
+**Removals:** none this sweep.
+
+NOTE ON RECONCILIATION: A new ESPN snapshot landed since the last sweep (`data/espn-injuries.json`, fetched 2026-08-07T17:13:03Z, well within the "current" <6h band), so a diff was run against the prior 12:32Z snapshot for all five tracked positions across all 32 teams: only rolling-feed churn (one recycled stale item — Xavier Watts, S, Falcons, a June minicamp mention with no camp-injury relevance — newly surfaced in the feed window; a few items aged out with no status change) and zero actual status changes among matched entries. Given this, a full vanished-row reconciliation pass was skipped as redundant with the 10:03 AM full pass — same underlying news, no new signal to reconcile against. A breaking-news WebSearch across the five tracked positions caught what the snapshot itself only listed without follow-up: Thursday's (Aug 6) Bears Day 8 practice, described in multiple recaps as their most physical/injury-filled session, produced four notable injuries at tracked positions (Owens, Flowers, Sweat, Jones — added above) that had not yet been added to the dashboard. No other new items surfaced beyond already-tracked players or out-of-scope positions/topics.
+
+No NEW badges aged off this run (earliest active badges, added Aug 6 5:15 PM ET, are ~22h old — under the 24h threshold). Tile counts verified against current table rows: 24 high / 59 mid / 42 low / 125 all / 13 new.
