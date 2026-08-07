@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T08:32:54Z",
+  "timestamp": "2026-08-07T12:32:00Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -62316,7 +62316,7 @@
                   "type": "news",
                   "date": "2026-08-07T03:54Z",
                   "headline": "Etienne started the Panthers' 33-30 preseason win over the Cardinals on Thursday, rushing four times for 12 yards and bringing in his only target for minus-1 yard.",
-                  "text": "With Chuba Hubbard and Jonathon Brooks both getting the night off, Etienne was the first back on the field for the Panthers and logged touches on each of the first three drives. He netted 12 yards via back-to-back runs on Carolina's third possession, but he was ultimately outperformed by both Miles Davis and veteran AJ Dillon after exiting the game. Etienne appeared in all 17 regular-season games as a rookie in 2025 and contributed 107 scrimmage yards, but he also added value on special teams with 733 kickoff-return yards and 163 yards on punt returns. Etienne will continue attempting to make a case for a roster spot in Carolina's second preseason game, which unfolds Saturday, Aug. 15 on the road against the Bills.",
+                  "text": "With Chuba Hubbard and Jonathon Brooks both getting the night off, Etienne was the first back on the field for the Panthers and logged touches on each of the first three drives. He netted 12 yards via back-to-back runs on Carolina's third possession, but he was ultimately outperformed by both Miles Davis and veteran AJ Dillon after exiting the game. Etienne appeared in all 17 regular-season games as a rookie in 2025 and contributed 107 scrimmage yards, but he also added value on special teams with 733 kickoff-return yards and 163 yards on punt returns. Etienne will continue attempting to make a case for a role behind Hubbard and Brooks in Carolina's second preseason game, which unfolds Saturday, Aug. 15 on the road against the Bills.",
                   "source": "RotoWire"
                 }
               ]
@@ -468697,6 +468697,1210 @@
       "displayName": "Washington Commanders",
       "injuries": [
         {
+          "id": "-1987004",
+          "longComment": "",
+          "shortComment": "",
+          "status": "Active",
+          "date": "2026-08-07T12:08Z",
+          "athlete": {
+            "firstName": "Dorance",
+            "lastName": "Armstrong",
+            "displayName": "Dorance Armstrong",
+            "shortName": "D. Armstrong",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/3928979/dorance-armstrong",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/3928979/dorance-armstrong",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3928979&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/3928979/dorance-armstrong",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/3928979/dorance-armstrong",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3928979&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/3928979/dorance-armstrong",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3928979&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/3928979/dorance-armstrong",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3928979&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/3928979/dorance-armstrong",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3928979",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/3928979.png",
+              "alt": "Dorance Armstrong"
+            },
+            "position": {
+              "id": "31",
+              "name": "Defensive End",
+              "displayName": "Defensive End",
+              "abbreviation": "DE",
+              "leaf": true
+            },
+            "team": {
+              "id": "28",
+              "uid": "s:20~l:28~t:28",
+              "slug": "washington-commanders",
+              "name": "Commanders",
+              "abbreviation": "WSH",
+              "displayName": "Washington Commanders",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2024-06-25T18:58Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/wsh.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:58Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2024-06-25T18:58Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/wsh.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:58Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-31T12:53Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/wsh/washington-commanders",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/wsh/washington-commanders",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/wsh",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/wsh",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/washington-commanders-tickets--sports-nfl-football/performer/925?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/wsh/washington-commanders",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/wsh",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/wsh",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/wsh",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "-1987004",
+                  "type": "news",
+                  "date": "2026-08-07T12:08Z",
+                  "headline": "",
+                  "text": "",
+                  "source": "RotoWire"
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "0",
+            "name": "INJURY_STATUS_ACTIVE",
+            "description": "active",
+            "abbreviation": "A"
+          }
+        },
+        {
+          "id": "-1987003",
+          "longComment": "",
+          "shortComment": "",
+          "status": "Active",
+          "date": "2026-08-07T12:07Z",
+          "athlete": {
+            "firstName": "Trey",
+            "lastName": "Amos",
+            "displayName": "Trey Amos",
+            "shortName": "T. Amos",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4574689/trey-amos",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/4574689/trey-amos",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4574689&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/4574689/trey-amos",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4574689/trey-amos",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4574689&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/4574689/trey-amos",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4574689&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/4574689/trey-amos",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4574689&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4574689/trey-amos",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4574689",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4574689.png",
+              "alt": "Trey Amos"
+            },
+            "position": {
+              "id": "29",
+              "name": "Cornerback",
+              "displayName": "Cornerback",
+              "abbreviation": "CB",
+              "leaf": true
+            },
+            "team": {
+              "id": "28",
+              "uid": "s:20~l:28~t:28",
+              "slug": "washington-commanders",
+              "name": "Commanders",
+              "abbreviation": "WSH",
+              "displayName": "Washington Commanders",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2024-06-25T18:58Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/wsh.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:58Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2024-06-25T18:58Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/wsh.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:58Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-31T12:53Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/wsh/washington-commanders",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/wsh/washington-commanders",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/wsh",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/wsh",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/washington-commanders-tickets--sports-nfl-football/performer/925?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/wsh/washington-commanders",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/wsh",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/wsh",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/wsh",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "-1987003",
+                  "type": "news",
+                  "date": "2026-08-07T12:07Z",
+                  "headline": "",
+                  "text": "",
+                  "source": "RotoWire"
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "0",
+            "name": "INJURY_STATUS_ACTIVE",
+            "description": "active",
+            "abbreviation": "A"
+          }
+        },
+        {
           "id": "632700",
           "longComment": "\"They just want to be able to do more,\" Croskey-Merritt said. \"The more you can do, the better.\" The second-year running back has been given more opportunities to catch the ball in practice, and coach Dan Quinn said he's been \"digging into him a bunch\" to improve that area of his game. Croskey-Merritt has added eight pounds of muscle this offseason and is expected to operate as the team's lead back on early downs ahead of newcomer Rachaad White. If he can provide more in the passing game, it would go a long way to raising Croskey-Merritt's fantasy floor.",
           "shortComment": "Croskey-Merritt made it a point over the offseason to improve his ability in the passing game, Zach Selby of the Commanders' official site reports.",
@@ -475375,622 +476579,6 @@
           }
         },
         {
-          "id": "632051",
-          "longComment": "\"[Amos is] doing really well...Had some soft tissue soreness in the offseason so we wanted to take it slow. He should be back soon. We wanted to be overly cautious,\" Peters relayed Tuesday. Amos was a second-round selection of the Commanders in the 2025 NFL Draft, and the Ole Miss product started in each of the first 10 games of the regular season before fracturing his fibula against the Lions in early November. Given Peters' comments, it seems like Amos will be ready to return to practice at some point during training camp, perhaps before the Commanders' first preseason game against the Dolphins on Friday, Aug. 14.",
-          "shortComment": "Commanders general manager Adam Peters told reporters Tuesday that the team has taken a cautious approach to Amos' lower leg injury, John Keim of ESPN.com reports.",
-          "status": "Out",
-          "date": "2026-07-28T23:16Z",
-          "athlete": {
-            "firstName": "Trey",
-            "lastName": "Amos",
-            "displayName": "Trey Amos",
-            "shortName": "T. Amos",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4574689/trey-amos",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/4574689/trey-amos",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4574689&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/4574689/trey-amos",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4574689/trey-amos",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4574689&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/4574689/trey-amos",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4574689&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/4574689/trey-amos",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4574689&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4574689/trey-amos",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4574689",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4574689.png",
-              "alt": "Trey Amos"
-            },
-            "position": {
-              "id": "29",
-              "name": "Cornerback",
-              "displayName": "Cornerback",
-              "abbreviation": "CB",
-              "leaf": true
-            },
-            "team": {
-              "id": "28",
-              "uid": "s:20~l:28~t:28",
-              "slug": "washington-commanders",
-              "name": "Commanders",
-              "abbreviation": "WSH",
-              "displayName": "Washington Commanders",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2024-06-25T18:58Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/wsh.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:58Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2024-06-25T18:58Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/wsh.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:58Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-31T12:53Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/wsh/washington-commanders",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/wsh/washington-commanders",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/wsh",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/wsh",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/washington-commanders-tickets--sports-nfl-football/performer/925?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/wsh/washington-commanders",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/wsh",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/wsh",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/wsh",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "632051",
-                  "type": "news",
-                  "date": "2026-07-28T23:16Z",
-                  "headline": "Commanders general manager Adam Peters told reporters Tuesday that the team has taken a cautious approach to Amos' lower leg injury, John Keim of ESPN.com reports.",
-                  "text": "\"[Amos is] doing really well...Had some soft tissue soreness in the offseason so we wanted to take it slow. He should be back soon. We wanted to be overly cautious,\" Peters relayed Tuesday. Amos was a second-round selection of the Commanders in the 2025 NFL Draft, and the Ole Miss product started in each of the first 10 games of the regular season before fracturing his fibula against the Lions in early November. Given Peters' comments, it seems like Amos will be ready to return to practice at some point during training camp, perhaps before the Commanders' first preseason game against the Dolphins on Friday, Aug. 14.",
-                  "source": "RotoWire",
-                  "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4574689/injuries/632051?lang=en&region=us"
-                  }
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "4",
-            "name": "INJURY_STATUS_OUT",
-            "description": "out",
-            "abbreviation": "O"
-          },
-          "details": {
-            "fantasyStatus": {
-              "description": "PUP-P",
-              "abbreviation": "PUP-P"
-            },
-            "type": "Lower Leg",
-            "location": "Leg",
-            "detail": "Fracture",
-            "side": "Not Specified",
-            "returnDate": "2026-08-14"
-          }
-        },
-        {
           "id": "631887",
           "longComment": "Wise missed nearly the entire 2025 campaign due to a quadriceps injury and is now dealing with an undisclosed issue to open up training camp. While there's currently no timetable for the 31-year-old's return, he will be eligible to participate in practice once healthy but will be limited to side work until then.",
           "shortComment": "The Commanders placed Wise (undisclosed) on the active/PUP list Saturday.",
@@ -476600,622 +477188,6 @@
               "abbreviation": "PUP-P"
             },
             "type": "Quadriceps",
-            "location": "Leg",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-08-14"
-          }
-        },
-        {
-          "id": "631886",
-          "longComment": "Armstrong will open up training camp on the sideline as he continues to work his way back from a knee injury he suffered last October. The 28-year-old is expected to serve as a depth linebacker once healthy.",
-          "shortComment": "The Commanders placed Armstrong (knee) on the active/PUP list Saturday.",
-          "status": "Out",
-          "date": "2026-07-25T21:09Z",
-          "athlete": {
-            "firstName": "Dorance",
-            "lastName": "Armstrong",
-            "displayName": "Dorance Armstrong",
-            "shortName": "D. Armstrong",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/3928979/dorance-armstrong",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/3928979/dorance-armstrong",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3928979&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/3928979/dorance-armstrong",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/3928979/dorance-armstrong",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3928979&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/3928979/dorance-armstrong",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3928979&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/3928979/dorance-armstrong",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3928979&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/3928979/dorance-armstrong",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3928979",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/3928979.png",
-              "alt": "Dorance Armstrong"
-            },
-            "position": {
-              "id": "31",
-              "name": "Defensive End",
-              "displayName": "Defensive End",
-              "abbreviation": "DE",
-              "leaf": true
-            },
-            "team": {
-              "id": "28",
-              "uid": "s:20~l:28~t:28",
-              "slug": "washington-commanders",
-              "name": "Commanders",
-              "abbreviation": "WSH",
-              "displayName": "Washington Commanders",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2024-06-25T18:58Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/wsh.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:58Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2024-06-25T18:58Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/wsh.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:58Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-31T12:53Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/wsh/washington-commanders",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/wsh/washington-commanders",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/wsh",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/wsh",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/washington-commanders-tickets--sports-nfl-football/performer/925?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/wsh/washington-commanders",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/wsh",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/wsh",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/wsh",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "631886",
-                  "type": "news",
-                  "date": "2026-07-25T21:09Z",
-                  "headline": "The Commanders placed Armstrong (knee) on the active/PUP list Saturday.",
-                  "text": "Armstrong will open up training camp on the sideline as he continues to work his way back from a knee injury he suffered last October. The 28-year-old is expected to serve as a depth linebacker once healthy.",
-                  "source": "RotoWire",
-                  "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3928979/injuries/631886?lang=en&region=us"
-                  }
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "4",
-            "name": "INJURY_STATUS_OUT",
-            "description": "out",
-            "abbreviation": "O"
-          },
-          "details": {
-            "fantasyStatus": {
-              "description": "PUP-P",
-              "abbreviation": "PUP-P"
-            },
-            "type": "Knee - ACL",
             "location": "Leg",
             "detail": "Not Specified",
             "side": "Not Specified",
