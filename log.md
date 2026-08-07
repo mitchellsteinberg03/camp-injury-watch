@@ -438,3 +438,34 @@ NOTE ON RECONCILIATION: The ESPN snapshot (`data/espn-injuries.json`) is unchang
 Jeremiyah Love (RB, Cardinals) sitting out the Hall of Fame Game was checked and confirmed non-injury (rookie being rested per HC LaFleur) — correctly excluded.
 
 7 NEW badges aged off (24h+ since being added, all added Aug 5 7:25 PM ET): Joey Blount, Kristian Fulton, Jeffrey Bassa, Drue Tranquill, Nick Zakelj, Carver Willis, Brett Toth. Tile counts verified against current table rows: 23 high / 60 mid / 48 low / 131 all / 9 new.
+
+## Aug 7, 2026, 10:03 AM ET
+
+**New injuries:**
+- Ja'Markis Weston, LB, Seahawks — waived/injured, injury settlement reached; off the roster. Severity: high.
+- Zak Zinter, G, Browns — carted off Thursday's practice, injury type undisclosed pending team evaluation. Severity: mid.
+- DeShon Elliott, S, Steelers — hamstring, sidelined. Severity: low.
+- Quintayvious Hutchins, LB, Patriots — left Thursday's training camp session early with an undisclosed injury. Severity: low, diagnosis pending.
+
+**Status/designation changes:**
+- Jared Bartlett, LB, Jaguars — updated from "diagnosis pending" to waived/injured (Aug 6); reverts to injured reserve if he clears waivers. Severity held at mid; source link updated.
+
+**Removals (14):**
+- Romello Height, EDGE, 49ers — removed: returned to practice (confirmed back Aug 4, taking full pass-rush reps).
+- C.J. Gardner-Johnson, S, Bills — removed: resumed practicing Aug 6, five days after calf strain.
+- Brandon Jones, S, Broncos — removed: fully cleared from pectoral injury, participating in camp.
+- Alijah Clark, S, Cowboys — removed: MRI came back clear, limited practice Thursday, not expected to miss time.
+- Trevin Wallace, LB, Panthers — removed: cleared and participating fully in camp.
+- Abdul Carter, EDGE, Giants — removed: ankle sprain was from June minicamp; long since returned and full-go.
+- Nik Bonitto, OLB, Broncos — removed: HC Payton confirmed he'll be fine; no lingering absence.
+- Caedan Wallace, G, Patriots — removed: returned to practice after missing several days.
+- Malcolm Rodriguez, LB, Lions — removed: no update since the initial report beyond walking off under his own power; no evidence he's still out.
+- Trey Amos, CB, Commanders — removed: activated off PUP.
+- Dorance Armstrong, EDGE, Commanders — removed: activated off PUP (same transaction as Amos).
+- Jaeden Roberts, G, Eagles — removed: back at practice (limited, not yet full team drills) as of Day 6.
+- Micah Morris, G, Eagles — removed: back at practice (limited, not yet full team drills) as of Day 6.
+- Edgerrin Cooper, LB, Packers — removed: practiced normally the day after the tweak; HC LaFleur called it standard camp bumps.
+
+NOTE ON RECONCILIATION: A genuinely fresh ESPN snapshot landed today (`data/espn-injuries.json`, fetched 2026-08-07T12:32:02Z, ~1h20m old at sweep start — well within the "current" band) after several days of staleness. Full reconciliation ran against it: every tracked position across all 32 teams was cross-checked against the snapshot's injury entries. ESPN's feed is a rolling news feed rather than a full status list, so plain absence from it was treated only as a prompt to verify via WebSearch, not as proof of recovery — roughly 60 dashboard players who don't currently appear in the snapshot were checked this way (grouped by team, largest cluster: 13 49ers). Of those, 12 of 13 49ers players remain out (feed staleness, not recovery) and only Romello Height had actually returned; most Steelers/Chiefs/other-team players checked were confirmed still out. The 14 removals above reflect confirmed recoveries/activations/no-evidence-still-out, well under the 25% circuit-breaker threshold (14 of 131 rows, ~11%). Reconciliation also caught several ESPN-flagged players not yet on the dashboard who turned out to be false positives on inspection — resolved, pre-existing, or non-injury (illness) situations, not added: Ben VanSumeren (FB, Bills), Blake Freeland (OT, Colts — stale 2025 leg fracture, fully recovered), Nathaniel Watson (LB, Browns — recovered 2025 biceps tear), James Houston (LB, Cowboys — minor, fully participating), Jevon Holland (S, Giants — full participant, not a real injury), AJ Finley (S, Seahawks — recovered from 2025 knee injury), Sauce Gardner (CB, Colts — illness, not an injury, out of scope), Dorian Williams (LB, Bills — returning to practice, not new), Brant Banks (OT, Packers — activated off PUP), Christian Izien (S, Lions — activated off NFI/illness list). A breaking-news WebSearch across the five tracked positions also discarded several recycled/misdated leads: Jaylon Moore "carted off" (49ers OT — he's been with the Chiefs since 2025 free agency), Greg Newsome II shoulder (Browns CB — 2025 article), Zach Charbonnet ACL (Seahawks RB — Jan 2026 playoff injury, pre-camp, already reflected in his existing PUP row), Nic Scourton and Nick Emmanwori items (both pre-window, already tracked).
+
+4 NEW badges aged off (24h+ since being added, all added Aug 6, 9:40 AM ET): Cameron Mitchell, Charles Snowden, Saahdiq Charles, Chris Collier. 4 new NEW badges added this sweep (Weston, Zinter, Elliott, Hutchins), net unchanged. Tile counts verified against current table rows: 24 high / 57 mid / 40 low / 121 all / 9 new.
