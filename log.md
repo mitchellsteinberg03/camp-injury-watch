@@ -1059,3 +1059,17 @@ No new injuries at the tracked positions (DB/LB/OT/OG/RB) since the 9:40 AM ET s
 **Reconciliation:** Ran against the ESPN snapshot fetched 2026-08-12T14:34 UTC (well under 6 hours old — current). Cross-checked all 173 dashboard rows; 39 were absent from the snapshot's per-team lists, but ESPN's feed only surfaces each team's 25 most-recent injury-report entries, so absence there reflects older news rolling off the list, not necessarily recovery. 15 of the 39 carry data-sev="high" and are exempt from the vanished-check per policy. The remaining 24 (mostly a cluster of 7 49ers players whose older injury notes had been crowded out by newer camp news) were individually verified via search — all 24 are still injured; none showed evidence of activation or return, so none were removed. 7 of the 24 had updated status detail worth reflecting on the dashboard (listed above); the other 17 are unchanged from last sweep.
 
 3 NEW badges aged off (24h+ since being added): Kemon Hall (CB, Buccaneers), Nick Hampton (LB, Panthers), Chauncey Golston (EDGE, Giants). "Recently added (24h)" tile now reflects the 10 remaining NEW rows (Nate Wiggins, Qwan'tez Stiggers, Damarri Mathis, Jonathan Jones, Charvarius Ward, Domani Jackson, Christian Gonzalez, Cameron Jordan, Lorenzo Thompson, Jack Nelson).
+
+## Aug 12, 2026, 1:15 PM ET
+
+No new injuries at the tracked positions (DB/LB/OT/OG/RB) since the 12:40 PM ET sweep — a short, ~35-minute window.
+
+**Status and designation changes:** none.
+
+**Removals:** none.
+
+**Reconciliation:** `data/espn-injuries-fetched-at.txt` still reads 2026-08-12T14:34:10Z, the identical fetch already fully reconciled against all 173 dashboard rows at the 12:40 PM ET sweep. No new snapshot content to diff, so no name-by-name vanished-row check was repeated this run.
+
+A WebSearch sweep for breaking news in the window turned up nothing new at the five tracked positions. Several leads were checked and discarded as recycled/stale or misdated: Nate Wiggins (Ravens CB, carted off), Nic Scourton (Panthers EDGE, torn ACL), Laremy Tunsil (Commanders OT, torn triceps), Isiah Pacheco (Lions RB, MCL sprain), Jalon Walker (Falcons EDGE, torn ACL), and Jonathan Greenard (Eagles EDGE, pectoral) all resurfaced in search but are already accurately reflected in their existing rows with no new information. Ja'Markis Weston (Seahawks LB) and Saahdiq Charles (Panthers G) injury-settlement items also resurfaced but are already tracked as removals from prior sweeps. Three additional injury-settlement leads were checked and discarded as false positives with internally inconsistent dates: Corey Kiner (RB) traced to a 49ers item dated Aug. 27, 2026 — 15 days in the future, not yet happened; Liam Anderson (Bengals LB) traced to a Colts item dated Aug. 13, 2026 with a signing reference from Oct. 30, 2025, i.e. next-season reporting recycled under today's byline; Shaun Jolly (Rams CB) traced to an Aug./Sept. 2025 item, a full year stale. None of the three were ever tracked rows and none were added. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
+
+Badges recomputed fresh from data-added timestamps this run: 0 aged off (oldest active NEW badges — Nate Wiggins and Qwan'tez Stiggers, added Aug 11, 5:13 PM ET — sit at ~20h, still inside the 24h mark). No new NEW badges added. Tile counts unchanged and verified against current table rows: 36 high / 62 mid / 75 low / 173 all / 10 new.
