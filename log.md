@@ -1109,3 +1109,23 @@ No new injury-onset news at the tracked positions (DB/LB/OT/OG/RB) since the 3:2
 A WebSearch sweep for additional breaking news in the ~2-hour window turned up nothing new beyond McNichols at the five tracked positions; Laremy Tunsil, Trey Amos, and Keisean Nixon leads were checked and are either already tracked accurately or unconfirmed/unsourced (Nixon). Direct fetches of espn.com and other sites continued to return 403 from the sandbox's egress proxy as expected.
 
 Badges recomputed fresh from data-added timestamps this run: 2 aged off (past the 24h mark) — Nate Wiggins and Qwan'tez Stiggers, both added Aug 11, 5:13 PM ET, at ~24h04m old at this sweep. 1 new NEW badge added this sweep (Jeremy McNichols). Tile counts recomputed and verified against current table rows: 36 high / 62 mid / 75 low / 173 all / 9 new.
+
+## Aug 12, 2026, 7:13 PM ET
+
+New injury-onset news at the tracked positions (DB/LB/OT/OG/RB) since the 5:17 PM ET sweep — a ~2-hour window.
+
+**New injuries:**
+- Marlon Humphrey, CB, Ravens — left Wednesday's practice roughly an hour in under his own power, headed to the sideline with trainers; per The Athletic's Jeff Zrebiec, no clear incident and nature undisclosed. One day after fellow starting CB Nate Wiggins was carted off, the Ravens are now down both top corners. Severity: low, day-to-day.
+- Quinyon Mitchell, CB, Eagles — shaken up in a 1-on-1 rep vs. Hollywood Brown during Wednesday's practice, left early and did not return; per The Daily Local News's Christiaan DeFranco, precise nature of the injury still unknown. Severity: low, day-to-day.
+
+**Status and designation changes:**
+- Qwan'tez Stiggers, CB, Jets — confirmed to have entered the NFL's concussion protocol after displaying symptoms following Tuesday's on-field collapse; has been released from the hospital and is "doing fine" per HC Aaron Glenn. Severity held at low.
+- J.K. Dobbins, RB, Broncos — was present for and participated in Wednesday's practice, an improvement from Monday's trainer exit and Tuesday's individual-drills-only session. Severity held at low.
+
+**Removals:** none.
+
+**Reconciliation:** Ran against the ESPN snapshot fetched 2026-08-12T22:24:28Z (~50 min old at run time — well within the "current" <6h band). Cross-checked all 173 pre-sweep dashboard rows by player+team against the new snapshot. 17 data-sev="high" rows had no match and are exempt from the vanished-check per policy (no explicit activation/return news surfaced for any of them). Of the 156 mid/low rows, 121 matched the snapshot with no material drift beyond the two status updates above; 35 had no match — the same persistent set as the immediately preceding sweep (older camp notes rolled off ESPN's 25-entries-per-team cap, not evidence of recovery). That full 35-name set was individually verified via WebSearch at the 5:17 PM sweep two hours ago with 34/35 confirmed still injured (the 35th, Gillotte, was already removed); this run spot-checked five of the more dynamic entries most likely to have moved in the interim — Ozzy Trapilo (Bears OT, still on PUP, "could" return before camp ends but not yet activated), Zak Zinter (Browns G, still diagnosis-pending from his cart-off), Chauncey Golston (Giants EDGE, still individual drills only, not full team periods), and Walker Little / Chuma Edoga (Jaguars OT, both still out of Jaguars' O-line rotation per Tuesday practice reports) — all five confirmed unchanged. No removals this run. Circuit breaker: not applicable (0 planned removals).
+
+A WebSearch sweep for additional breaking news in the ~2-hour window, beyond the two additions above, turned up nothing new at the five tracked positions.
+
+Badges recomputed fresh from data-added timestamps this run: 0 aged off (oldest active NEW badges — Cameron Jordan, Lorenzo Thompson, Jack Nelson, added Aug 11, 9:17 PM ET — sit at ~22h, still inside the 24h mark). 2 new NEW badges added this sweep (Marlon Humphrey, Quinyon Mitchell). Tile counts recomputed and verified against current table rows: 36 high / 62 mid / 77 low / 175 all / 11 new.
