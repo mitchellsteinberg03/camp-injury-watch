@@ -1073,3 +1073,18 @@ No new injuries at the tracked positions (DB/LB/OT/OG/RB) since the 12:40 PM ET 
 A WebSearch sweep for breaking news in the window turned up nothing new at the five tracked positions. Several leads were checked and discarded as recycled/stale or misdated: Nate Wiggins (Ravens CB, carted off), Nic Scourton (Panthers EDGE, torn ACL), Laremy Tunsil (Commanders OT, torn triceps), Isiah Pacheco (Lions RB, MCL sprain), Jalon Walker (Falcons EDGE, torn ACL), and Jonathan Greenard (Eagles EDGE, pectoral) all resurfaced in search but are already accurately reflected in their existing rows with no new information. Ja'Markis Weston (Seahawks LB) and Saahdiq Charles (Panthers G) injury-settlement items also resurfaced but are already tracked as removals from prior sweeps. Three additional injury-settlement leads were checked and discarded as false positives with internally inconsistent dates: Corey Kiner (RB) traced to a 49ers item dated Aug. 27, 2026 — 15 days in the future, not yet happened; Liam Anderson (Bengals LB) traced to a Colts item dated Aug. 13, 2026 with a signing reference from Oct. 30, 2025, i.e. next-season reporting recycled under today's byline; Shaun Jolly (Rams CB) traced to an Aug./Sept. 2025 item, a full year stale. None of the three were ever tracked rows and none were added. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
 
 Badges recomputed fresh from data-added timestamps this run: 0 aged off (oldest active NEW badges — Nate Wiggins and Qwan'tez Stiggers, added Aug 11, 5:13 PM ET — sit at ~20h, still inside the 24h mark). No new NEW badges added. Tile counts unchanged and verified against current table rows: 36 high / 62 mid / 75 low / 173 all / 10 new.
+
+## Aug 12, 2026, 3:20 PM ET
+
+No new injuries at the tracked positions (DB/LB/OT/OG/RB) since the 1:15 PM ET sweep — a ~2-hour window.
+
+**Status and designation changes:**
+- Lorenzo Thompson, OT, Steelers — cleared waivers Tuesday and reverted to injured reserve, confirming the prior sweep's "reverts if unclaimed" entry. Severity held at mid.
+
+**Removals:** none.
+
+**Reconciliation:** `data/espn-injuries-fetched-at.txt` still reads 2026-08-12T14:34:10Z — the same fetch already fully reconciled against all 173 dashboard rows at the 12:40 PM ET sweep, with no newer snapshot pulled at run time. No name-by-name vanished-row check was repeated against this identical, already-diffed snapshot.
+
+A WebSearch sweep for breaking news in the window turned up nothing new at the five tracked positions. Several leads were checked and discarded as recycled/stale or misdated: a Martin Emerson Jr. (Browns CB) Achilles/carted-off item traced to the 2025 season, a full year stale; Cam Mitchell (Browns CB) depth-chart coverage referenced only the already-tracked Cameron Mitchell (Colts, IR) move, no new information; Shemar Stewart (Bengals EDGE) "carted off Wednesday" items traced to the original July 29, 2026 injury, already reflected in his existing row; Bryan Bresee (Saints) ACL-tear coverage traced to the team's first camp practice weeks ago and is a DL, out of scope regardless. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected; the Lorenzo Thompson update above was corroborated via a dated Steelers Depot article confirming the Tuesday waiver-clearance.
+
+Badges recomputed fresh from data-added timestamps this run: 0 aged off (oldest active NEW badges — Nate Wiggins and Qwan'tez Stiggers, added Aug 11, 5:13 PM ET — sit at ~22h, still inside the 24h mark). No new NEW badges added. Tile counts unchanged and verified against current table rows: 36 high / 62 mid / 75 low / 173 all / 10 new.
