@@ -1178,3 +1178,17 @@ No new injury-onset news at the tracked positions (DB/LB/OT/OG/RB) since the 9:4
 A WebSearch sweep for breaking news in the ~2.5-hour window turned up nothing new at the five tracked positions. Several leads were checked and discarded: Mitch Hyatt (Cowboys OT, "carted off") traced to a 2020 training-camp article, six years stale; Rob Havenstein (Rams OT, ankle) traced to a 2025-season/January-2026 IR-return item, not current camp; Tate Ratledge (Lions G) sitting out Thursday's Bengals game was checked but appears to be a coach's-decision veteran-rest situation rather than a new injury, with search results also surfacing an internally inconsistent "questionable for Week 12" reference (impossible in August) — not added given the ambiguity; Josh Uche and Willie Gay Jr. (Dolphins EDGE/LB) "didn't finish Monday's practice" items were checked but neither appears in the ESPN snapshot at all, the injury nature was never specified, and three full sweeps have passed since Monday with no follow-up reporting — not added for lack of current-status confirmation. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
 
 Badges recomputed fresh from data-added timestamps this run: 0 aged off (oldest active NEW badge — Jeremy McNichols, added Aug 12, 5:14 PM ET — sits at ~19h02m, still inside the 24h mark). No new NEW badges added. Tile counts recomputed and verified against current table rows: 36 high / 64 mid / 77 low / 177 all / 6 new.
+
+## Aug 13, 2026, 1:31 PM ET
+
+No new injury activity at the five tracked positions in this ~75-minute window (12:16–1:31 PM ET).
+
+**New injuries:** none this sweep.
+
+**Status and designation changes:** none this sweep.
+
+**Removals:** none this sweep.
+
+NOTE ON RECONCILIATION: `data/espn-injuries.json` is still the same snapshot fetched 2026-08-13T14:35:22Z (~2h56m old at run time, within the <6h current band) already fully reconciled against all 177 dashboard rows at the 12:16 PM sweep — no newer snapshot has landed since. A full vanished-row reconciliation pass was skipped as redundant with that prior pass; no new signal to reconcile against, so no removals. A breaking-news WebSearch across the five tracked positions in this window surfaced no net-new items — every notable result traced to players already tracked on the dashboard (Nate Wiggins, Jalon Walker, Nick Bosa) or was out of scope by position (Cyrus Allen — WR, shin bruise; Luther Burden III — WR, groin; Martin Rucker — TE, ACL/IR). Circuit breaker: not applicable (0 removals proposed).
+
+No NEW badges aged off this run (oldest active badge — Jeremy McNichols, added Aug 12, 5:14 PM ET — sits at ~20h17m, still inside the 24h mark). No new NEW badges added. Tile counts unchanged and reverified against current table rows: 36 high / 64 mid / 77 low / 177 all / 6 new.
