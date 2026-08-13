@@ -1192,3 +1192,17 @@ No new injury activity at the five tracked positions in this ~75-minute window (
 NOTE ON RECONCILIATION: `data/espn-injuries.json` is still the same snapshot fetched 2026-08-13T14:35:22Z (~2h56m old at run time, within the <6h current band) already fully reconciled against all 177 dashboard rows at the 12:16 PM sweep — no newer snapshot has landed since. A full vanished-row reconciliation pass was skipped as redundant with that prior pass; no new signal to reconcile against, so no removals. A breaking-news WebSearch across the five tracked positions in this window surfaced no net-new items — every notable result traced to players already tracked on the dashboard (Nate Wiggins, Jalon Walker, Nick Bosa) or was out of scope by position (Cyrus Allen — WR, shin bruise; Luther Burden III — WR, groin; Martin Rucker — TE, ACL/IR). Circuit breaker: not applicable (0 removals proposed).
 
 No NEW badges aged off this run (oldest active badge — Jeremy McNichols, added Aug 12, 5:14 PM ET — sits at ~20h17m, still inside the 24h mark). No new NEW badges added. Tile counts unchanged and reverified against current table rows: 36 high / 64 mid / 77 low / 177 all / 6 new.
+
+## Aug 13, 2026, 3:14 PM ET
+
+No new injury activity at the five tracked positions in this ~1h43m window (1:31–3:14 PM ET).
+
+**New injuries:** none this sweep.
+
+**Status and designation changes:** none this sweep.
+
+**Removals:** none this sweep.
+
+NOTE ON RECONCILIATION: `data/espn-injuries.json` is still the same snapshot (timestamp field 2026-08-13T14:35:22Z; fetched-at file reads 2026-08-13T14:35:30Z, an 8-second write-time difference, not a new pull) already fully reconciled against all 177 dashboard rows at the 12:16 PM sweep and unchanged since the 1:31 PM sweep — no newer snapshot has landed. A full vanished-row reconciliation pass was skipped as redundant; no new signal to reconcile against, so no removals. A broad WebSearch sweep across the five tracked positions in this window surfaced no net-new items — every notable result traced to players already tracked on the dashboard (Cam Lewis, Jordan James, Zach Charbonnet, Josh Jacobs, Isiah Pacheco, Alaric Jackson, Laremy Tunsil, Jonathan Greenard) or to leads already checked and discarded in prior sweeps as stale/recycled: Jaylon Jones, D'Marco Jackson, and Tyrqiue Stevenson (Bears, Day 8-9 practice absences with no diagnosis, previously determined not serious); Rob Havenstein (Rams OT ankle) re-traced again to the same 2025-season/January-2026 IR-return item; Will Campbell (Patriots OT) "ankle"/"MCL" references traced to his 2025 in-season injury history, mixed into search summaries around his already-resolved (and already removed, Aug 10) elbow-brace camp absence — no new injury; Jonah Jackson "Rams" shoulder item traced to a 2024 injury with the Rams before his 2025 trade to the Bears, roster-mismatched and stale; Tyler Smith (Cowboys OG) knee tendinitis re-confirmed as the same resolved 2025 issue flagged in multiple prior sweeps. Circuit breaker: not applicable (0 removals proposed). Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
+
+No NEW badges aged off this run (oldest active badges — Marlon Humphrey and Quinyon Mitchell, added Aug 12, 7:13 PM ET — sit at ~20h01m, still inside the 24h mark). No new NEW badges added. Tile counts unchanged and reverified against current table rows: 36 high / 64 mid / 77 low / 177 all / 6 new.
