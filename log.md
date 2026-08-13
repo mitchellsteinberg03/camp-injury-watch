@@ -1129,3 +1129,18 @@ New injury-onset news at the tracked positions (DB/LB/OT/OG/RB) since the 5:17 P
 A WebSearch sweep for additional breaking news in the ~2-hour window, beyond the two additions above, turned up nothing new at the five tracked positions.
 
 Badges recomputed fresh from data-added timestamps this run: 0 aged off (oldest active NEW badges — Cameron Jordan, Lorenzo Thompson, Jack Nelson, added Aug 11, 9:17 PM ET — sit at ~22h, still inside the 24h mark). 2 new NEW badges added this sweep (Marlon Humphrey, Quinyon Mitchell). Tile counts recomputed and verified against current table rows: 36 high / 62 mid / 77 low / 175 all / 11 new.
+
+## Aug 12, 2026, 9:10 PM ET
+
+No new injury-onset news at the tracked positions (DB/LB/OT/OG/RB) since the 7:13 PM ET sweep — a ~2-hour, quiet Wednesday-evening window.
+
+**Status and designation changes:**
+- Javon Bullard, S, Packers — nature of his Aug 9 exit now confirmed as a foot bone bruise; wore a walking boot Monday, Aug 10, but called it precautionary ("If we had a game tomorrow, I'd play"). Severity held at low; this backfills detail that had been sitting as "nature not yet detailed" since his row was added three sweeps ago.
+
+**Removals:** none.
+
+**Reconciliation:** `data/espn-injuries-fetched-at.txt` still reads 2026-08-12T22:24:40Z — the identical snapshot already fully reconciled against all 175 dashboard rows at the 7:13 PM ET sweep, with no newer pull available at run time (~2h44m old, well within the <6h current band, but unchanged content). No name-by-name vanished-row check was repeated against this already-diffed snapshot.
+
+A WebSearch sweep for breaking news in the window turned up nothing new at the five tracked positions beyond the Bullard update above. Several leads were checked and discarded as recycled/already-tracked: Nate Wiggins (Ravens CB, carted off), Laremy Tunsil (Commanders OT, torn triceps), Coby Bryant (Bears S, hyperextended knee/surgery) all resurfaced in search but are already accurately reflected in existing rows. C.J. Gardner-Johnson (Bills S) surfaced as a lower-body/calf-strain item but is not a tracked row and the available reporting couldn't be pinned to a date inside this window (appears to predate it, already resolved as minor); not added. Miles Kitselman (Lions, injury settlement) is a TE, out of scope. Chris Brazzell II (Panthers, torn LCL) and Emeka Egbuka (Buccaneers, toe) are both WRs, out of scope. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
+
+Badges recomputed fresh from data-added timestamps this run: 0 aged off (oldest active NEW badges — Cameron Jordan, Lorenzo Thompson, Jack Nelson, added Aug 11, 9:17 PM ET — sit at ~23h53m, still just inside the 24h mark; expected to age off next sweep). No new NEW badges added. Tile counts unchanged and verified against current table rows: 36 high / 62 mid / 77 low / 175 all / 11 new.
