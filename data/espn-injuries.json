@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T09:44:42Z",
+  "timestamp": "2026-08-14T12:30:37Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -410809,7 +410809,7 @@
                   "type": "news",
                   "date": "2026-08-14T00:44Z",
                   "headline": "James (ribs) will not play in Thursday's preseason opener against the Titans, Nick Wagoner of ESPN.com reports.",
-                  "text": "James fractured his rib in late July and has still not recovered from the issue. The running back is set to be the primary relief back behind Christian McCaffrey (undisclosed), but if he can get healthy may see starting snaps depending on McCaffrey's outlook for the season. Running back Kaelon Black (thigh) is also not participating in Thursday's game, leaving Patrick Taylor, Sincere McCormick, Khalil Herbert and Zamir White to absorb all of Thursday's carries in an effort to climb a depth chart littered with injuries before cutdown day.",
+                  "text": "James fractured his rib in late July and has still not recovered from the issue. Once healthy, the running back will have a chance to earn complementary work behind Christian McCaffrey (undisclosed), though as long as McCaffrey is available this season, he'll be busy, leaving limited touches for his backups. With fellow RB Kaelon Black (thigh) also not participating in Thursday's game, Patrick Taylor, Sincere McCormick, Khalil Herbert and Zamir White are on hand to absorb Thursday's carries in an effort to climb a depth chart littered with injuries before cutdown day.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4685397/injuries/633462?lang=en&region=us"
@@ -410849,7 +410849,7 @@
         },
         {
           "id": "633461",
-          "longComment": "Kirk will spend Thursday night's contest out of uniform on the sideline as he continues to deal with the calf injury he sustained in late July. The wide receiver is set to be the No. 3 option behind Mike Evans (quadriceps) and recently re-signed Deebo Samuel, though Evans' age and injury could allow Kirk to see an increased snap share over the course of the regular season.",
+          "longComment": "Kirk will spend Thursday night's contest out of uniform on the sideline as he continues to deal with the calf injury he sustained in late July. Once healthy, Kirk will look look to solidify his standing in a 49ers' WR corps that also features Mike Evans (quad), Deebo Samuel and De'Zhaun Stribling. The 29-year-old is coming off a 2025 regular season in which he recorded 28 catches (on 52 targets) for 239 yards and one touchdown across 13 games with the Texans.",
           "shortComment": "Kirk (calf) is not suited up for Thursday's preseason opener against the Titans, Nick Wagoner of ESPN.com reports.",
           "status": "Questionable",
           "date": "2026-08-14T00:40Z",
@@ -411425,7 +411425,7 @@
                   "type": "news",
                   "date": "2026-08-14T00:40Z",
                   "headline": "Kirk (calf) is not suited up for Thursday's preseason opener against the Titans, Nick Wagoner of ESPN.com reports.",
-                  "text": "Kirk will spend Thursday night's contest out of uniform on the sideline as he continues to deal with the calf injury he sustained in late July. The wide receiver is set to be the No. 3 option behind Mike Evans (quadriceps) and recently re-signed Deebo Samuel, though Evans' age and injury could allow Kirk to see an increased snap share over the course of the regular season.",
+                  "text": "Kirk will spend Thursday night's contest out of uniform on the sideline as he continues to deal with the calf injury he sustained in late July. Once healthy, Kirk will look look to solidify his standing in a 49ers' WR corps that also features Mike Evans (quad), Deebo Samuel and De'Zhaun Stribling. The 29-year-old is coming off a 2025 regular season in which he recorded 28 catches (on 52 targets) for 239 yards and one touchdown across 13 games with the Texans.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3895856/injuries/633461?lang=en&region=us"
