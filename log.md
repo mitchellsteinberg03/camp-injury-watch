@@ -1582,3 +1582,22 @@ No new injury news at the tracked positions (DB/LB/OT/OG/RB) since the 1:09 PM E
 A WebSearch sweep for breaking news in this window found nothing new at the tracked positions. Discarded leads: a "Steelers waive OLB Jeremiah Moon with injury settlement" result traced to July/August 2025 — recycled, not used. Chase Bisontis (G, Cardinals, IR — torn MCL) and Jeremiyah Love (RB, Cardinals, ankle) both surfaced in general injury-tracker results but are already tracked on the dashboard with no new information. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
 
 Badges recomputed fresh from data-added timestamps this run: 3 aged off (Levelle Bailey, James Conner, Trey Benson — all added Aug 15, 1:15 PM ET, now past the 24h mark). 0 new NEW badges added. Tile counts recomputed and verified against current table rows: 49 high / 70 mid / 95 low / 214 all / 30 new.
+
+## Aug 16, 2026, 5:14 PM ET
+
+New injury news at the tracked positions (DB/LB/OT/OG/RB) since the 3:07 PM ET sweep — a ~2h07m window covering Sunday late afternoon.
+
+**New injuries:**
+- Lukas Van Ness, EDGE, Packers — shoulder injury, timing of onset unclear; did not participate in Sunday's practice. Likely to sit out Friday's preseason game vs. the Broncos if there's any reaggravation risk; no firm return timeline. Severity: low.
+- Jaquan Brisker, S, Steelers — undisclosed injury that kept him out of Thursday's preseason opener as well as subsequent practices; return timeline unknown. Severity: low.
+
+**Status and designation changes:**
+- Javon Bullard, S, Packers — foot (bone bruise) update: has removed his walking boot and is progressing well in rehab, per Packers' official site, but is still not practicing as of Sunday. Status text and source link updated; severity held at low.
+
+**Removals:** none this sweep.
+
+**Reconciliation:** Ran `git pull` (fast-forwarded 9 commits, including a newer snapshot). Working against a fresh ESPN snapshot (timestamp 2026-08-16T20:57:40Z, fetched-at 20:58:00Z, ~13 minutes old at run time, well within the <6h current band). Filtered the snapshot to entries dated after the 3:07 PM ET sweep's cutoff (19:07 UTC) at the five tracked positions — 4 results at tracked positions (Bullard, Van Ness, Brisker, and a Zach Charbonnet PUP-status reaffirmation carrying no new information — not added, row already accurately reflects "Knee"/PUP). The other 2 (Bullard, and the two adds above) are reflected above. No broader vanished-check was run this cycle given the short ~2h gap since the 3:07 PM sweep's most recent full reconciliation; nothing in this window's snapshot slice indicated any tracked player returning to practice or being activated. Circuit breaker: not applicable (0 removals proposed).
+
+A WebSearch sweep for breaking news in this window found nothing new at the tracked positions beyond the snapshot-sourced items above. One lead was investigated at length and discarded: a "Dicaprio Bootle (CB, Lions) waived from IR with injury settlement, joint practice injury vs. Dolphins" story recurring across several outlets traced via the linked Detroit Lions transaction tweet to August 24, **2025** (confirmed via the tweet's timestamp) — a near-identical injury/IR/settlement sequence from the prior season being resurfaced by search indexing, not a current event; Bootle does not appear anywhere in today's ESPN snapshot. Not used. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
+
+Badges recomputed fresh from data-added timestamps this run: 7 aged off (past the 24h mark as of 5:14 PM ET) — Michael Coats Jr., Nate Evans, Kader Kohou, Brennan Jackson, Austin Keys, Keagen Trost (all added Aug 15, 5:12 PM ET), and Jamal Adams (added Aug 15, 3:09 PM ET). 2 new NEW badges added (Lukas Van Ness, Jaquan Brisker). Tile counts recomputed and verified against current table rows: 49 high / 70 mid / 97 low / 216 all / 25 new.
