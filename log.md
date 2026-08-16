@@ -1566,3 +1566,19 @@ No new injury news at the tracked positions (DB/LB/OT/OG/RB) since the 11:11 AM 
 A WebSearch sweep for breaking news in this window found nothing new at the tracked positions. Discarded leads: a "Wanya Morris (Chiefs OT) placed on IR" result traced to a December 2025 knee injury — recycled, not used. A "Quentin Poling (LB) waived from injured reserve" Saints result traced to an August 2021 transaction — recycled, not used. Kristian Fulton (Chiefs CB, hip flexor) surfaced but traces to Aug. 4–5 reporting, predates and is unrelated to this sweep's window, and is not currently tracked on the dashboard — flagged here rather than added, in case a broader historical audit of early-camp CB injuries is wanted. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
 
 Badges recomputed fresh from data-added timestamps this run: 0 aged off (oldest active NEW badges — the Aug. 15, 1:15 PM ET batch — are ~23h50m old, still under the 24h mark). 0 new NEW badges added. Tile counts unchanged and verified against current table rows: 49 high / 70 mid / 95 low / 214 all / 33 new.
+
+## Aug 16, 2026, 3:07 PM ET
+
+No new injury news at the tracked positions (DB/LB/OT/OG/RB) since the 1:09 PM ET sweep — a ~1h58m window covering Sunday afternoon with no games in progress.
+
+**New injuries:** none this sweep.
+
+**Status and designation changes:** none this sweep.
+
+**Removals:** none this sweep.
+
+**Reconciliation:** Ran `git pull` (fast-forwarded to the latest commit; no new commits beyond the prior sweep's own commit). The ESPN snapshot is unchanged from the prior run (timestamp 2026-08-16T17:00:46Z, fetched-at 17:00:50Z, ~2h06m old at run time, still within the <6h current band — the fetch job has not produced a newer snapshot in this window). Since this exact snapshot was already fully reconciled against all pre-sweep rows in the 1:09 PM entry, no further snapshot-driven reconciliation was run this cycle.
+
+A WebSearch sweep for breaking news in this window found nothing new at the tracked positions. Discarded leads: a "Steelers waive OLB Jeremiah Moon with injury settlement" result traced to July/August 2025 — recycled, not used. Chase Bisontis (G, Cardinals, IR — torn MCL) and Jeremiyah Love (RB, Cardinals, ankle) both surfaced in general injury-tracker results but are already tracked on the dashboard with no new information. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
+
+Badges recomputed fresh from data-added timestamps this run: 3 aged off (Levelle Bailey, James Conner, Trey Benson — all added Aug 15, 1:15 PM ET, now past the 24h mark). 0 new NEW badges added. Tile counts recomputed and verified against current table rows: 49 high / 70 mid / 95 low / 214 all / 30 new.
