@@ -1727,4 +1727,29 @@ Cross-checked all 220 dashboard rows by name against the full snapshot's tracked
 
 A WebSearch sweep for breaking news in this window (general IR/PUP/settlement search plus position-targeted searches across RB, DB, and OL) surfaced no new events at the tracked positions — only already-tracked ground (Tristan Wirfs/Bucs, Trey Smith/Chiefs, Ikem Ekwonu/Panthers, Christian Gonzalez/Patriots, Nic Scourton/Panthers, Jalon Walker/Falcons, Mikail Kamara/49ers). Two borderline leads were checked and not added: Joshua Williams (CB, Titans) pec-injury coverage read as a continuing-recovery status update with no new event date in this window, already effectively covered by his ongoing non-contact-jersey status; Kevin Winston Jr. (S, Titans) coverage traced to an August 3rd absence, well outside this window, and centers on ACL-recovery management rather than a new injury. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
 
+## Aug 17, 2026, 7:10 PM ET
+
+New injury news at the tracked positions (DB/LB/OT/OG/RB) since the 5:07 PM ET sweep — a ~2h03m window.
+
+**New injuries:**
+- Esa Pole, OT, Chiefs — dehydration, left Monday's practice early. Day-to-day. Per Arrowhead Pride.
+- Jack Cochrane, LB, Chiefs — knee, hurt during Monday's practice but finished the session. Day-to-day. Per Arrowhead Pride.
+- Matt Waletzko, OT, Chiefs — knee, left Monday's practice early. Day-to-day, no timeline given. Per Arrowhead Pride.
+- DeShon Singleton, S, Chiefs — hamstring, left Monday's practice early. Day-to-day, no timeline given. Per Arrowhead Pride.
+
+(All four are from the same Monday, Aug. 17 Chiefs camp practice, reported after the primary ESPN snapshot's cutoff for this window — not yet reflected in the league-wide feed.)
+
+**Status and designation changes:**
+- Kyle Monangai, RB, Bears — right-knee injury (added last sweep as a non-contact tackle-from-behind incident) now reported as a hyperextension expected to sideline him multiple weeks, per Jeremy Fowler of ESPN. Severity raised from low to mid; source updated to the ESPN snapshot.
+- Trey Smith, G, Chiefs — hip injury (tracked since Aug. 7) now reported as nearing a return and trending toward being available for Week 1, per the ESPN snapshot (AtoZSports.com). Severity held at low; source updated.
+
+**Removals:**
+- Jadarian Price, RB, Seahawks — removed: returned to practice. ESPN snapshot shows him fully participating in Monday's practice (previously "limited"), the healthy signal called for under this tracker's reconciliation rules.
+
+**Reconciliation:** Ran `git checkout main` + `git pull` (fast-forwarded 28 commits; checkout was again left in a detached-HEAD state pointing at the latest snapshot commit, reset onto `main` tracking `origin/main`). Working against a fresh ESPN snapshot (timestamp 2026-08-17T23:00:41Z, fetched-at 23:00:49Z, ~7 minutes old at run time, well within the current band). Filtered the snapshot to entries dated after the prior sweep's 21:07 UTC cutoff at the five tracked positions: 3 results (Jadarian Price, Kyle Monangai, Breece Hall) — handled above; Breece Hall's entry was a pure reconfirmation ("injury is minor") of the already-accurate existing row, no change needed. Did not run a full 223-row exhaustive vanished-check this cycle (one was completed two sweeps ago and found no removals beyond the recurring stable PUP/IR/NFI cohort); this run's removal came directly from a positive "fully participated" signal in the snapshot, not from an absence-based check. Circuit breaker: not triggered (1 removal against 220 pre-sweep rows, well under the 25% threshold).
+
+A WebSearch sweep for breaking news in this window surfaced the Chiefs cluster added above (via an Arrowhead Pride recap of Monday's practice, ahead of the ESPN snapshot) plus two additional Chiefs items checked and not added: Chamarri Conner (S) — reported as out of Monday's practice with a knee issue, but this traces back to a preseason Week 1 absence (~Aug. 13) rather than a new event this window, and he remains untracked on the dashboard pending clearer onset-date sourcing; and Mansoor Delane (CB) — fully participated in Monday's padded practice for the first time, a recovery/positive-progress note with no corresponding dashboard row to update. Also checked and discarded as stale/misdated: a "Liam Anderson (LB, Colts) injury settlement" result that traced to August 2025, a full year stale; a Lorenzo Thompson (OT, Steelers) settlement recap that restates his existing, already-accurate high-severity row from Aug. 15. Nic Scourton and Jalon Walker torn-ACL results were reconfirmed as the same already-tracked entries. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
+
+Badges recomputed fresh from data-added timestamps this run: 2 aged off (past the 24h mark) — Jaquan Brisker (S, Steelers) and Lukas Van Ness (EDGE, Packers), both added Aug. 16, 5:14 PM ET. 4 new NEW badges added this sweep (Esa Pole, Jack Cochrane, Matt Waletzko, DeShon Singleton). Tile counts recomputed and verified against current table rows: 53 high / 69 mid / 101 low / 223 all / 11 new.
+
 Badges recomputed fresh from data-added timestamps this run: 0 aged off (oldest active NEW badges — Jaquan Brisker/Lukas Van Ness, added Aug 16, 5:14 PM ET — 23h53m old at this sweep, still under the 24h mark). No new NEW badges added this run (no additions). Tile counts recomputed and verified against current table rows: 53 high / 68 mid / 99 low / 220 all / 9 new (unchanged).
