@@ -1668,3 +1668,22 @@ Cross-checked all 219 pre-removal dashboard rows by name against the full snapsh
 A WebSearch sweep for breaking news in this window found the Jamal Adams and Kye Robichaux updates above, plus one recycled false lead that was checked and discarded: a "Douglas Coleman III (Bears DB) hospitalized after scary tackle injury" story that referenced then-head-coach Matt Eberflus (fired after the 2024 season, since replaced by Ben Johnson) and ESPN story IDs far outside the current numbering range — confirmed as a 2024-dated recycled story, not current, not added. General searches for QB/WR/TE injury news (Marcus Mariota, Emeka Egbuka, Kenyon Sadiq, Malik Nabers, Ricky Pearsall, Luther Burden III) returned nothing relevant at the tracked positions and were out of scope regardless. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
 
 Badges recomputed fresh from data-added timestamps this run: 4 aged off (past the 24h mark as of 9:40 AM ET) — Jakorian Bennett, Amari Kight, Kyle Murphy, and Phil Mafah (all added Aug 16, 9:29 AM ET). No new NEW badges added this run (no additions). Tile counts recomputed and verified against current table rows: 52 high / 69 mid / 98 low / 219 all / 8 new.
+
+## Aug 17, 2026, 11:22 AM ET
+
+New injury news at the tracked positions (DB/LB/OT/OG/RB) since the 9:40 AM ET sweep — a ~1h42m window.
+
+**New injuries:**
+- Breece Hall, RB, Jets — groin strain suffered on a non-contact play during Monday's practice. HC Aaron Glenn said he doesn't believe it's a "big deal"; Hall is being sent for imaging before a return timeline is set. Severity: low.
+
+**Status and designation changes:** none this sweep.
+
+**Removals:** none this sweep.
+
+**Reconciliation:** Ran `git pull` (fast-forwarded cleanly; checkout had been left in a detached-HEAD state pointing at the latest snapshot commit, reset onto `main` tracking `origin/main`). Working against a fresh ESPN snapshot (timestamp 2026-08-17T15:12:11Z, fetched-at 15:12:19Z, ~6 minutes old at run time — well within the current band). Filtered the snapshot to entries dated after the prior sweep's 13:40 UTC cutoff at the five tracked positions: one result, the Breece Hall entry added above.
+
+Cross-checked all 219 pre-sweep dashboard rows by name against the full snapshot's tracked-position roster (390 entries). 28 high-severity rows exempt from the vanished-check per policy. Of the mid/low rows, 45 had no snapshot name match (20.6% of total rows, under the 25% circuit-breaker threshold) — the same recurring PUP/IR/NFI/waived cohort flagged and individually re-verified as still-accurate in the prior sweep (Jalen Ramsey, Ikem Ekwonu, Isaac Guerendo, Storm Norton, Giovanni Manu, Vederian Lowe, DJ James, etc.), unchanged since then. No new re-verification of that cohort was run this short cycle. Circuit breaker: not triggered (0 removals against 219 pre-sweep rows).
+
+A WebSearch sweep for breaking news in this window surfaced mostly already-tracked ground: Nate Wiggins (Ravens CB), Coby Bryant (Bears S), Jalon Walker (Falcons EDGE), DJ James (Giants CB), and Jamaree Salyer (Dolphins G) all matched rows already accurately reflected on the dashboard. A Colts news item ("CJ Allen/Alec Pierce to PUP list, Lincoln Pare waived") traced to a July 27–28 start-of-camp article, well outside this tracker's window — not added. A "Deveron Carr (CB, Colts) waived/injured Monday" lead could not be date-verified (no corroborating detail beyond "Monday," absent from the fresh league-wide ESPN snapshot's current Colts entries, and surrounded in search results by other clearly stale recycled items) — discarded per this tracker's standing caution on unverifiable/recycled leads rather than added on ambiguous sourcing. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
+
+Badges recomputed fresh from data-added timestamps this run: 0 aged off (all 8 existing NEW rows added Aug 16 between 5:14–9:18 PM ET, under 24h old). 1 new NEW badge added (Breece Hall). Tile counts recomputed and verified against current table rows: 52 high / 69 mid / 99 low / 220 all / 9 new.
