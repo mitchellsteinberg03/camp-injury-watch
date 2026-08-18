@@ -1855,6 +1855,28 @@ A WebSearch sweep for breaking news in this window surfaced nothing new at the t
 
 Badges recomputed fresh from data-added timestamps this run: 0 aged off (oldest active NEW badges — DeShon Singleton, Shemar Jean-Charles, Jack Cochrane, Esa Pole, Matt Waletzko, all added Aug. 17, 7:10–9:10 PM ET — sit at ~20–22 hours, still under the 24h mark). 0 new NEW badges added (no new injuries this sweep). Tile counts recomputed and verified against current table rows: 57 high / 74 mid / 95 low / 226 all / 11 new.
 
+## Aug 18, 2026, 7:10 PM ET
+
+New injury news at the tracked positions (DB/LB/OT/OG/RB) since the 5:15 PM ET sweep — a ~2h window.
+
+**New injuries:**
+- Odafe Oweh, LB, Commanders — undisclosed injury, did not participate in Tuesday's practice; per ESPN's John Keim, unclear when it was sustained since he also missed last Friday's preseason opener. HC Dan Quinn gave no update. Severity: low.
+- K'Lavon Chaisson, LB, Commanders — undisclosed injury, did not participate in Tuesday's practice alongside fellow outside linebacker Oweh; per ESPN. HC Dan Quinn gave no update. Severity: low.
+- Jordan Magee, LB, Commanders — undisclosed injury, did not participate in Tuesday's practice; per ESPN's John Keim, no return timeline set, and the team signed an additional linebacker Tuesday morning as a hedge. Severity: low.
+
+**Status and designation changes:** none this sweep.
+
+**Removals:**
+- Kingsley Enagbare, EDGE, Jets (ankle, low) — removed: returned to practice. Was a full participant in Tuesday's practice per the ESPN snapshot (Brian Costello, New York Post); the item notes he now appears ready to resume preseason game action.
+
+**Reconciliation:** Ran `git checkout main` + `git pull`, which fast-forwarded 46 commits onto `origin/main` cleanly (session started in a detached-HEAD state pointing at the newest snapshot commit, same recurring pattern as prior runs — switched to `main` first). Working against a fresh ESPN snapshot (timestamp 2026-08-18T23:00:46Z, fetched-at 23:00:59Z, ~8 minutes old at run time — as current as the data gets). Filtered the full snapshot (all 32 teams) to entries at the five tracked positions dated strictly after the prior sweep's 21:15 UTC cutoff: exactly 4 results — the three new Commanders LB entries above, plus Kingsley Enagbare's full-participant note, actioned as the removal above. No other tracked-position entries fell in the window.
+
+Spot-checked all 11 rows carrying a NEW badge going into this run against the snapshot and WebSearch: DeShon Singleton, Ethan Robinson, Mory Bamba, Patrick Mekari, Dante Miller, LeQuint Allen Jr., and Jerome Ford all reconfirmed via the snapshot or search with no change in status. Shemar Jean-Charles (high, IR) is badge-exempt from the vanished-check by rule but reconfirmed anyway — still on IR, no activation news. Did not run a full exhaustive name-by-name vanished-check across all 228 rows this cycle (the two-sweeps-ago full check found 91/228 unmatched, consistent with the long-flagged stable PUP/IR/NFI cohort that structurally doesn't appear in ESPN's rolling day-to-day report); this cycle's snapshot-filtered results and NEW-badge spot-check surfaced no further signal warranting one. Circuit breaker: not applicable (1 of 228 rows removed, well under the 25% threshold).
+
+A WebSearch sweep for breaking news in this window corroborated the Commanders LB cluster (three separate outlets: Roundtable.io, Hogs Haven, and a general "Commanders notes" roundup all listing Johnny Newton — a DT, out of scope — alongside Magee, Oweh, and Chaisson as out of Tuesday's practice) and surfaced nothing else new at the tracked positions. Leads checked and discarded: a Patriots item about rookie tackle Caleb Lomu being "taken slow" amid the team's O-line injury situation traced to workload management around Andrew Rupcich's (already-tracked) IR stint, not an injury of Lomu's own — not actioned. A recycled "Coby Bryant out 8-10 weeks" line from a lower-tier aggregator (sicscore.com) restates his already-tracked mid-August surgery story with different phrasing than the original ESPN/Schefter "4-6 months" report — not actioned, no change to the existing row. Josh Jacobs (Packers RB) and Jeremiyah Love (Cardinals RB) reconfirmed already-tracked, no changes. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
+
+Badges recomputed fresh from data-added timestamps this run: 4 aged off (past the 24h mark) — DeShon Singleton, Jack Cochrane, Esa Pole, and Matt Waletzko, all added Aug. 17, 7:10 PM ET, now just past 24 hours old. 3 new NEW badges added this sweep (Odafe Oweh, K'Lavon Chaisson, Jordan Magee — all Commanders LB). Net badge count: 11 → 10. Tile counts recomputed and verified against current table rows: 57 high / 74 mid / 97 low / 228 all / 10 new.
+
 ## Aug 18, 2026, 3:10 PM ET
 
 New injury news at the tracked positions (DB/LB/OT/OG/RB) since the 1:11 PM ET sweep — a ~2h window.
