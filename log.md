@@ -1834,6 +1834,27 @@ A WebSearch sweep for breaking news in this window surfaced the two items above 
 
 Badges recomputed fresh from data-added timestamps this run: 1 aged off (past the 24h mark) — Breece Hall (RB, Jets), added Aug. 17, 11:22 AM ET, whose badge is removed as part of this run's status update above. 1 new NEW badge added this sweep (Jerome Ford). Net badge count unchanged at 11 (one aged off, one added). Tile counts recomputed and verified against current table rows: 57 high / 74 mid / 99 low / 230 all / 11 new.
 
+## Aug 18, 2026, 5:15 PM ET
+
+New injury news at the tracked positions (DB/LB/OT/OG/RB) since the 3:10 PM ET sweep — a ~2h window.
+
+**New injuries:** none this sweep.
+
+**Status and designation changes:**
+- D'Angelo Ponds, CB, Jets — calf strain (July 29). HC Aaron Glenn says he's nearing a return and expects him available for the Week 1 opener at Tennessee, per the Jets' official site via ESPN. Severity held at low; legacy row given its first source link (ESPN's Jets injuries page).
+
+**Removals:**
+- Christian McCaffrey, RB, 49ers (general tightness/soreness, low) — removed: returned to practice. HC Kyle Shanahan said Tuesday McCaffrey would have practiced if the 49ers hadn't been in a joint session with the Chargers — a full-health signal, per ESPN.
+- Lukas Van Ness, EDGE, Packers (shoulder, low) — removed: returned to practice. Resumed practicing Tuesday after sitting out Sunday, per The Athletic via ESPN.
+
+**Reconciliation:** `git checkout main` + `git pull` cleanly fast-forwarded 44 commits onto `origin/main` (no detached-HEAD issue this run, though the checkout did start in a detached-HEAD state pointing at the latest snapshot commit before switching to `main`). Working against a fresh ESPN snapshot (timestamp 2026-08-18T21:00:22Z, fetched-at 21:00:36Z, ~8 minutes old at run time — as current as the data gets). Filtered the snapshot to entries dated strictly after the prior sweep's 19:10 UTC cutoff at the five tracked positions: 5 results — Christian McCaffrey and Kaelon Black (49ers RB; already removed from the dashboard two sweeps ago, reconfirmed still fine, no action), D'Angelo Ponds (Jets CB), Kenny Gainwell (Bucs RB — pure praise-for-talent quote, no injury content, not actioned), and Lukas Van Ness (Packers EDGE). McCaffrey and Van Ness actioned as removals above; Ponds actioned as a status update; Gainwell out of scope.
+
+Spot-checked all 11 rows currently carrying a NEW badge against the snapshot and WebSearch for return/activation signals: LeQuint Allen Jr., Patrick Mekari, Ethan Robinson, Mory Bamba, Shemar Jean-Charles, and Jerome Ford all appear in the snapshot as pure reconfirmations of their existing rows (no change). DeShon Singleton, Jack Cochrane, Esa Pole, Matt Waletzko, and Dante Miller don't yet appear in the snapshot; a WebSearch for each turned up Chiefs beat reporting confirming Singleton (hamstring tweak), Cochrane (knee, did not finish Monday's practice), Pole and Waletzko (both did not practice Tuesday) are all still out, and confirmed Dante Miller's waived/injured Giants transaction — no removals. Did not run a full exhaustive name-by-name vanished-check across all 226 rows this cycle (the two-sweeps-ago full check found 91/228 unmatched, consistent with the long-flagged stable PUP/IR/NFI cohort that structurally doesn't appear in ESPN's rolling day-to-day report); this cycle's snapshot-filtered results and NEW-badge spot-check surfaced no further signal warranting one. Circuit breaker: not applicable (2 of 228 rows removed, both on explicit return-to-practice evidence, well under the 25% threshold).
+
+A WebSearch sweep for breaking news in this window surfaced nothing new at the tracked positions beyond the items above. Leads checked and discarded: a "David Bailey (Jets EDGE) ankle injury, day-to-day" story traced to an Aug. 8 incident, over a week stale and never significant enough to have been added — not actioned. A "Tyler Biadasz carted off at Chargers practice" story is a center, out of scope regardless of date. "Nick Emmanwori activated off PUP" and "Cam Skattebo not fully recovered" leads both traced to vague, undated recycled roundup content with no current-window confirmation — not actioned (Emmanwori's framing referenced events "before the Super Bowl," a clear stale-article tell). Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
+
+Badges recomputed fresh from data-added timestamps this run: 0 aged off (oldest active NEW badges — DeShon Singleton, Shemar Jean-Charles, Jack Cochrane, Esa Pole, Matt Waletzko, all added Aug. 17, 7:10–9:10 PM ET — sit at ~20–22 hours, still under the 24h mark). 0 new NEW badges added (no new injuries this sweep). Tile counts recomputed and verified against current table rows: 57 high / 74 mid / 95 low / 226 all / 11 new.
+
 ## Aug 18, 2026, 3:10 PM ET
 
 New injury news at the tracked positions (DB/LB/OT/OG/RB) since the 1:11 PM ET sweep — a ~2h window.
