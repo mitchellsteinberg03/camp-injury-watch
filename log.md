@@ -1753,3 +1753,21 @@ A WebSearch sweep for breaking news in this window surfaced the Chiefs cluster a
 Badges recomputed fresh from data-added timestamps this run: 2 aged off (past the 24h mark) — Jaquan Brisker (S, Steelers) and Lukas Van Ness (EDGE, Packers), both added Aug. 16, 5:14 PM ET. 4 new NEW badges added this sweep (Esa Pole, Jack Cochrane, Matt Waletzko, DeShon Singleton). Tile counts recomputed and verified against current table rows: 53 high / 69 mid / 101 low / 223 all / 11 new.
 
 Badges recomputed fresh from data-added timestamps this run: 0 aged off (oldest active NEW badges — Jaquan Brisker/Lukas Van Ness, added Aug 16, 5:14 PM ET — 23h53m old at this sweep, still under the 24h mark). No new NEW badges added this run (no additions). Tile counts recomputed and verified against current table rows: 53 high / 68 mid / 99 low / 220 all / 9 new (unchanged).
+
+## Aug 17, 2026, 9:10 PM ET
+
+New injury news at the tracked positions (DB/LB/OT/OG/RB) since the 7:10 PM ET sweep — a ~2h window.
+
+**New injuries:**
+- Shemar Jean-Charles, CB, Seahawks — undisclosed injury suffered in Sunday's preseason game; placed on injured reserve Monday as part of six Seahawks roster moves. Season considered over barring a waived injury settlement. Severity: high. Per Field Gulls.
+- Dante Miller, RB, Giants — groin injury suffered in Saturday's preseason loss to the Vikings; waived/injured Monday as the Giants freed a roster spot (also signed QB Jake Haener and LB Chandler Martin). Off roster unless he clears waivers and reverts to IR. Severity: mid. Per Giants.com.
+
+**Status and designation changes:** none this sweep.
+
+**Removals:** none this sweep.
+
+**Reconciliation:** Ran `git pull` — already up to date on `main` (checkout was on `main` correctly this time, no detached-HEAD reset needed). No new ESPN snapshot arrived this cycle: `data/espn-injuries-fetched-at.txt` is still stamped 2026-08-17T23:00:49Z, the same snapshot already fully reconciled in the prior (7:10 PM) sweep, ~2h08m old at run time and still within the current band but contributing no new signal. Dante Miller does appear in the snapshot (Active status, groin-injury note dated Aug 16 21:03Z) but without the waiver transaction, which came from the Giants' own site — consistent with the recurring pattern where roster moves lag the day-to-day practice-report feed. Shemar Jean-Charles does not appear in the snapshot at all, consistent with players who move to IR falling off ESPN's rolling report. No exhaustive vanished-row check was run this cycle since the snapshot carried no new signal to reconcile against; the standing stable PUP/IR/NFI cohort was last fully re-verified in the 5:07 PM sweep. Circuit breaker: not applicable (0 removals planned).
+
+A WebSearch sweep for breaking news in this window surfaced the two additions above plus several leads checked and discarded: Jamal Adams (Vikings, IR) and Laremy Tunsil (Commanders, torn triceps) reconfirmed as already-accurate existing rows, no changes needed. A "Ryan Hayes (OT) reverts to IR" result traced to a 2024 Dolphins story predating his current team (Panthers, claimed off waivers July 24, 2026) — stale, not added. A "Jadarian Price injury news" headline attached to an unrelated Seahawks RB signing traced back to his early-August lower-body soreness, the same injury already resolved and removed as an activation in the prior sweep — no new injury found, row stays removed. A Lorenzo Thompson (OT, Steelers) settlement item reconfirmed his existing high-severity row from Aug. 15, already accurate. Ja'Marcus Ingram (CB, Texans) shoulder coverage remains at the same "status developing" stage as his existing row, no update warranted. A British Brooks (RB, Texans) broken-hand item traced to an already-tracked Aug. 8 row, unchanged. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
+
+Badges recomputed fresh from data-added timestamps this run: 3 aged off (past the 24h mark) — Darian Kinnard (OT, Packers), Jamaree Salyer (G, Dolphins), and Kyle Monangai (RB, Bears), all added Aug. 16, 7:15 PM ET. 2 new NEW badges added this sweep (Shemar Jean-Charles, Dante Miller). Tile counts recomputed and verified against current table rows: 54 high / 70 mid / 101 low / 225 all / 10 new.
