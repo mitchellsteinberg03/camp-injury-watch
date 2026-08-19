@@ -1974,3 +1974,31 @@ New injury news at the tracked positions (DB/LB/OT/OG/RB) since the 11:18 AM ET 
 A WebSearch sweep for breaking news in this window corroborated the Rachaad White report and surfaced nothing else new at the tracked positions. One recycled-article trap caught and discarded: a "Mekhi Blackmon (CB) tears ACL in first camp practice" story traced to July 24, 2024 — two years stale, and Blackmon is now with the Colts, not a Vikings roster injury — not actioned. Direct fetches of espn.com, cbssports.com, and other sites continued to return 403 from the sandbox's egress proxy as expected.
 
 Badges recomputed fresh from data-added timestamps this run: 1 aged off (past the 24h mark) — LeQuint Allen Jr. (RB, Jaguars), added Aug. 18, 11:24 AM ET, now ~25h46m old. 1 new NEW badge added this sweep (Rachaad White). Net badge count: 9 → 9. Tile counts recomputed and verified against current table rows: 57 high / 76 mid / 98 low / 231 all / 9 new.
+
+## Aug 19, 2026, 3:13 PM ET
+
+New injury news at the tracked positions (DB/LB/OT/OG/RB) since the 1:10 PM ET sweep — a ~2h03m window.
+
+**New injuries:**
+- Ashton Gillotte, EDGE, Chiefs — right foot; left Tuesday's practice early and was evaluated in the medical tent after his foot got caught up in a tackle attempt on TE Jared Wiley during a 1-on-1 rep. Severity/timeline unknown. Day-to-day; low severity.
+
+**Status and designation changes:**
+- Kingsley Jonathan, EDGE, Jets — waived/injured Tuesday (prior "thigh bruise, day-to-day" entry superseded); will revert to injured reserve if he clears waivers unclaimed. Severity raised low → mid.
+- Odafe Oweh, LB, Commanders — injury specified as a calf strain (previously undisclosed); sitting out until he recovers, HC Quinn not concerned about a long absence. Severity held at low.
+- K'Lavon Chaisson, LB, Commanders — injury specified as a knee issue suffered during Tuesday's joint practice vs. the Dolphins (previously undisclosed); team being cautious with the recovery, HC Quinn not concerned about a long absence. Severity held at low.
+- Jordan Magee, LB, Commanders — injury specified as a shoulder issue (previously undisclosed); will be held out for the rest of the week. Severity held at low.
+
+**Removals:**
+- Walker Little, OT, Jaguars — removed: returned to practice Tuesday (practiced a second consecutive day per beat reporting), no longer sidelined.
+- Emmanuel Pregnon, G, Jaguars — removed: returned to practice, took reps with the first-team offense Tuesday.
+- Cole Wisniewski, S, Eagles — removed: returned to practice (limited participant, hamstring) after an extended absence.
+- Keyshawn James-Newby, EDGE, Eagles — removed: returned to practice (limited participant, ankle) after an extended absence; the "carted to medical tent" entry from Aug. 1 was stale.
+- Edgerrin Cooper, LB, Packers — removed: returned to practice after missing Sunday's session with a foot injury.
+- Zak Zinter, G, Browns — removed: returned to practice after being carted off earlier in camp.
+- Myles Bryant, CB, Browns — removed: returned to practice after missing multiple sessions.
+
+**Reconciliation:** Ran against the ESPN snapshot (fetch timestamp 2026-08-19T17:41:59Z / 17:42:24Z fetched-at, ~1h24m old at run start — current). Session again started in a detached-HEAD state with a stale local `main`; working tree was clean, so `git checkout main && git reset --hard origin/main` brought the checkout in line with `origin/main` before any edits — no local work at risk. Filtered the snapshot to the five tracked positions using ESPN's raw position abbreviations (CB/S/LB/DE/OT/G/RB/FB — note ESPN files pass-rushers under "DE," not "EDGE"); 395 snapshot rows matched. Cross-checked all 231 pre-run dashboard rows by name: 83 were absent from the snapshot. Of those, 30 were data-sev="high" and exempt from the vanished-check per the standing rule; a further ~40 were established, unresolved PUP/NFI/IR designations or already off-roster via injury settlement, whose absence from ESPN's rolling game-status report is structurally expected (that report tracks weekly practice/game participation, not standing IR/PUP rolls) rather than a recovery signal — left untouched pending explicit news. Ran targeted WebSearch checks (grouped by team) on the remaining day-to-day/mid candidates; confirmed 7 explicit returns-to-practice (removed above), 1 waived/injured transaction (updated above), and 3 injury-detail refinements on already-NEW Commanders rows (updated above). Checked but found no return/removal signal, left in place: Jakorian Bennett (Eagles CB, still out), Malik Mustapha (49ers S, hamstring strain confirmed ongoing), Keion White (49ers EDGE, adductor issue, no update), Brett Toth (49ers G, concussion protocol confirmed), Jordan James (49ers RB, rib fracture confirmed), Isaac Guerendo (49ers RB, still on PUP), Nyjalik Kelly (Packers EDGE, still out), Elijah Hicks and Keyshaun Elliott (Bears, still on PUP), Zion Childress (Cowboys, still rehabbing, no return timeline), Steelers CB trio Ramsey/Porter Jr./Kent (confirmed still on PUP as of an Aug. 16 report), Dante Trader Jr. (Dolphins, still dealing with injury). Circuit breaker: not applicable — 7 removals against 231 pre-run rows is 3.0%, far under the 25% threshold.
+
+A broader WebSearch sweep for breaking news in this window surfaced nothing else new at the tracked positions beyond the items above (Alvin Kamara's MCL timeline was reconfirmed unchanged by an Aug. 19 nfl.com roundup; a Saints-Cowboys joint-practice brawl story mentioned only WR/TE injuries, out of scope). One dated-lookalike caught and discarded: a "Chiefs' Wanya Morris: Placed on IR" headline traced to a season-ending injury from December 2025, not a fresh move — not actioned. Direct fetches of espn.com and other sites continued to return 403 from the sandbox's egress proxy as expected.
+
+Badges recomputed fresh from data-added timestamps this run: 1 aged off (past the 24h mark) — Jerome Ford (RB, Commanders), added Aug. 18, 1:11 PM ET, now ~26h02m old. 1 new NEW badge added this sweep (Ashton Gillotte). Net badge count: 9 → 9. Tile counts recomputed and verified against current table rows: 57 high / 75 mid / 93 low / 225 all / 9 new.
