@@ -2024,3 +2024,25 @@ Badges recomputed fresh from data-added timestamps this run: 1 aged off (past th
 A broader WebSearch sweep for breaking news at the five tracked positions in the roughly two-hour window since the last sweep (3:13–5:14 PM ET) surfaced nothing new beyond the two additions above; no carted-off incidents, new IR/PUP/NFI placements, or injury settlements could be confirmed as occurring in that specific window. Some search results that appeared to be dated to today were traced to earlier-camp stories recirculating and were not actioned.
 
 Badges recomputed fresh from data-added timestamps this run: none aged off (all 9 pre-existing NEW rows were added within the last 24 hours). 2 new NEW badges added this sweep (Quinshon Judkins, Shaun Wade). Net badge count: 9 → 11. Tile counts recomputed and verified against current table rows: 59 high / 72 mid / 69 low / 200 all / 11 new.
+
+## Aug 19, 2026, 7:13 PM ET
+
+New injury news at the tracked positions (DB/LB/OT/OG/RB) since the 5:14 PM ET sweep — a ~2h window.
+
+**New injuries/designations:**
+- Trey Sermon, RB, Falcons — placed on injured reserve Wednesday (undisclosed injury); out for the 2026 season unless waived with an injury settlement. Severity: high.
+- Mason Reiger, EDGE, Dolphins — waived/injured Tuesday (undisclosed injury) after an otherwise promising preseason debut; cleared waivers and reverted to injured reserve Wednesday. Out for the 2026 season unless waived with an injury settlement. Severity: high.
+- Zyon McCollum, CB, Buccaneers — groin; missed the last week of practice and will not play in Saturday's preseason game vs. the Chiefs. Severity: low, day-to-day.
+
+**Status and designation changes:**
+- Jonathan Greenard, EDGE, Eagles — existing PUP/pectoral-strain row updated: per an NFL Network report, his recovery is behind schedule and the Eagles are worried he could miss the Week 1 divisional game vs. the Commanders. Severity held at mid; source link added.
+
+Checked but not actioned (matches info already logged, no new signal): K'Lavon Chaisson (Commanders LB, knee) — the ESPN snapshot's Wednesday update restates the same joint-practice knee injury already on the board from Tuesday's sweep.
+
+**Removals:** None this run — a snapshot cross-check of all 200 pre-run rows against players ESPN currently lists as "Active" at the five tracked positions found zero matches, consistent with the thorough 27-row reconciliation completed at the prior (5:14 PM) sweep less than two hours ago.
+
+**Reconciliation:** Working against a fresh ESPN snapshot (fetch timestamp 2026-08-19T23:01:59Z / fetched-at 23:02:03Z, ~7 minutes old at run start — current). Given the short ~2h window and the full name-by-name reconciliation already completed at the immediately prior sweep, this run scanned the snapshot for tracked-position entries dated after the prior sweep's cutoff (2026-08-19T21:14Z) rather than repeating a full 200-row pass — five entries fell in that window (Sermon, Reiger, Chaisson, Greenard, McCollum), all handled above. Separately cross-checked all 200 pre-run dashboard rows by exact name against every tracked-position snapshot entry currently marked "Active" (220 such entries) — zero matches, so no return-to-practice removals this cycle. Circuit breaker: not applicable — 0 removals proposed.
+
+A WebSearch sweep for breaking news at the five positions in this window corroborated the Sermon, Reiger, and Greenard items (official team pages and beat reporting) and surfaced nothing else new. Checked and confirmed already-tracked, no update needed: Chuba Hubbard (Panthers RB, hamstring), Jalon Walker (Falcons EDGE, torn ACL/IR), Nic Scourton (Panthers EDGE, torn ACL/IR), Mikail Kamara (49ers EDGE, IR), Breece Hall (Jets RB, groin). One recycled-article trap caught and discarded: a "Trey Sermon reverts to IR" CBS Sports item traced to an old Eagles-era transaction from a prior season, unrelated to his current Falcons IR placement — not used as a source. Tyler Biadasz (Chargers, ACL/knee) is a center — out of scope, not actioned. Direct fetches of espn.com, atlantafalcons.com, and other sites continued to return 403 from the sandbox's egress proxy as expected; all sourcing came from the ESPN snapshot and WebSearch results.
+
+Badges recomputed fresh from data-added timestamps this run: 3 aged off (past the 24h mark) — Odafe Oweh, K'Lavon Chaisson, and Jordan Magee (all LB, Commanders), each added Aug. 18, 7:10 PM ET, now just past 24h old. 3 new NEW badges added this sweep (Trey Sermon, Mason Reiger, Zyon McCollum). Net badge count: 11 → 11. Tile counts recomputed and verified against current table rows: 61 high / 72 mid / 70 low / 203 all / 11 new.
