@@ -2154,3 +2154,21 @@ No new injuries at the five tracked positions in this window (~1h45m since the 1
 **Breaking-news sweep:** WebSearch across both defensive and offensive tracked positions for the window surfaced only already-tracked items (Emmanwori off PUP, Monangai knee, Tunsil triceps) and aggregator pages. No genuinely new in-scope injury broke in the window.
 
 **Badges:** Recomputed fresh from data-added timestamps. None aged off — the earliest live NEW badge (Ashton Gillotte, Chiefs EDGE, added Aug. 19 at 3:13 PM ET) sits ~3 minutes inside the 24h window (cutoff Aug. 19, 3:10 PM ET). Net badge count unchanged: 34. Tile counts unchanged and verified against current rows: 67 high / 79 mid / 83 low / 229 all / 34 new.
+
+## Aug 20, 2026, 5:15 PM ET
+
+**New injuries:**
+- Francis Mauigoa, OT, Giants — upper body (heat-related issue plus what's being described as a stinger); left Thursday's joint practice vs. the Dolphins but returned to the field by the end of the session. ESPN's report has him questionable with an Aug. 22 return estimate. Severity: low.
+
+**Status and designation changes:** None to existing rows this run.
+
+**Removals:**
+- Najee Harris, RB, Giants — removed: returned to practice. The ESPN snapshot moved his listing from Questionable to Active with a same-day comment ("participating in live drills Thursday"); corroborating reporting confirms he has been doing on-field work with the Giants this week. Row was added just this afternoon on a Sept. 13 return estimate; the update supersedes it.
+
+**Reconciliation:** Ran against the ESPN snapshot fetched 2026-08-20T19:50:07Z (fetched-at 19:50:07Z, ~1h25m old at run start — current, well under 6h). Cross-checked all 229 pre-run rows by normalized name. 82 had no matching snapshot entry (36%); of those, 35 are data-sev="high" and exempt from the vanish-check by rule. The remaining 47 non-high absences were spot-checked against their existing row text: all are PUP, NFI, IR, or waived/injury-settlement designations, which structurally do not appear in ESPN's short-term Questionable/Doubtful/Out/Active feed — consistent with this feed's known behavior in prior sweeps, so none were treated as recovery signals and none were removed on absence alone. One row (Najee Harris) carried an explicit "Active" snapshot status with a return-to-practice comment and was removed on that basis, per above. Circuit breaker: not triggered — 1 removal against 229 rows (0.4%), far under the 25% threshold.
+
+A reverse cross-check of the snapshot's Questionable/Out/IR entries against the board surfaced 11 candidates absent from the dashboard. Ten were held back as non-diagnostic — bare "Undisclosed"/"Not Specified" feed flags with no real injury detail or corroborating report (Rasheen Ali, Tyrique Stevenson, Carson Schwesinger, Collin Wright, Wyatt Milum, JuJu Brents, Jordyn Brooks, Israel Mukuamu, Christian McCaffrey — all previously declined for the same reason in the 1:25 PM sweep — plus Teddye Buchanan, who carries an ACL-surgery detail but was activated off PUP and has been practicing, so it reflects post-surgical status rather than a new injury). Francis Mauigoa was the one verifiable addition (real body location and return-date detail, corroborated by a beat report) — added above.
+
+**Breaking-news sweep:** WebSearch across both defensive and offensive tracked positions for the ~2h5m window since the 3:10 PM sweep surfaced no genuinely new in-scope injury; all hits were already-tracked items (Monangai, Breece Hall, Kamara, Rachaad White, Guyton, Greenard) or aggregator restatements. One recycled/stale lead discarded after a date check: a "Hakeem Adeniji concussion" item traces to a report describing 2025-season training camp, not a current injury — not added.
+
+**Badges:** Recomputed fresh from data-added timestamps (cutoff: anything added before Aug. 19, 5:15 PM ET ages off). 3 aged off — Shaun Wade (Eagles CB, added Aug. 19 5:14 PM), Ashton Gillotte (Chiefs EDGE, added Aug. 19 3:13 PM), Quinshon Judkins (Browns RB, added Aug. 19 5:14 PM). 1 new NEW badge added (Francis Mauigoa). Najee Harris's NEW badge left the board with its row. Net badge count: 34 → 31. Tile counts recomputed and verified against current table rows: 67 high / 78 mid / 84 low / 229 all / 31 new.
