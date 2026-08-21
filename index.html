@@ -67,6 +67,8 @@
 
   .stale-banner { background: var(--sev-high-bg); color: var(--sev-high); border: 1px solid var(--sev-high); border-radius: 6px; padding: 10px 14px; margin: 0 0 20px; font-weight: 600; font-size: 14px; }
   .stale-banner[hidden] { display: none; }
+  .retired-banner { background: var(--chip-bg); color: var(--ink); border: 1px solid var(--line); border-radius: 6px; padding: 10px 14px; margin: 0 0 20px; font-weight: 600; font-size: 14px; }
+  .retired-banner[hidden] { display: none; }
   .summary { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 26px; }
   .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px;
     font: inherit; color: inherit; text-align: left; cursor: pointer; display: block; width: 100%; }
@@ -145,6 +147,7 @@
   </header>
   <p class="runstamp">Last sweep: <strong data-updated="2026-08-20T21:11:00-04:00">Aug 20, 2026, 9:11 PM ET</strong></p>
   <div class="stale-banner" id="stale-banner" hidden></div>
+  <div class="retired-banner" id="retired-banner" hidden>This tracker stopped updating after NFL final roster cuts (Sept 6, 2026). The data below is frozen as of the last sweep shown above.</div>
 
   <div class="summary">
     <button class="stat high" data-count="high"><span class="num">72</span><span class="lbl">Season-threatening / long-term</span></button>
@@ -550,6 +553,10 @@
   document.addEventListener('keydown', e => { if (e.key === 'Escape' && !overlay.hidden) closeModal(); });
 
   (function () {
+    if (document.body.dataset.retired === '1') {
+      document.getElementById('retired-banner').hidden = false;
+      return;
+    }
     const stamp = document.querySelector('.runstamp strong');
     const iso = stamp && stamp.dataset.updated;
     if (!iso) return;
