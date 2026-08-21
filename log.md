@@ -2205,3 +2205,15 @@ A reverse cross-check of the snapshot's Questionable/Doubtful/Out/IR entries aga
 **Breaking-news sweep:** WebSearch across all five tracked positions surfaced the Strickland settlement (added above) plus already-tracked items (Rashawn Slater, Jeremiyah Love, Matt Waletzko — still pending on waivers per Arrowhead Pride, no reversion to IR confirmed yet, Brandin Echols, Jaquan Brisker, Billy Bowman Jr., Lorenzo Thompson). Out-of-scope items noted and discarded: Alex Wright (CLE, DE — carted off), Danny Pinter (BAL, C — torn patella tendon), Tyler Biadasz (LAC, C — recycled), Charlie Jones (CIN, WR).
 
 **Badges:** Recomputed fresh from data-added timestamps (cutoff: anything added before Aug. 19, 9:11 PM ET ages off). None aged off — the earliest live NEW badge (Jahquez Robinson, John Ojukwu, Quincy Riley, Fred Johnson; Ravens/Eagles/Saints, added Aug. 20, 9:30 AM ET) sits well inside the 24h window. Net badge count unchanged: 29. Tile counts unchanged and verified against current table rows: 67 high / 78 mid / 84 low / 229 all / 29 new.
+
+## Aug 20, 2026, 9:50 PM ET — scope expansion (manual)
+
+Added **defensive tackle (DT/NT)** as a sixth tracked position, per Mitchell's request. Seeded
+24 rows from a fresh ESPN injuries feed pull (Aug 20, ~9:40 PM ET): 5 high (Newton — months-long
+recovery from surgery; Bresee, Robertson-Harris, Konga, Lee — IR), 3 mid (Wharton PUP-neck,
+Riley Achilles rehab, Banks foot), 16 day-to-day/questionable. No NEW badges on seeded rows
+(existing injuries, not fresh news); all carry data-added and ESPN team-page source links.
+Feed entries that were contract/signing noise, suspensions (Mathis), or already-returned
+players (B.J. Hill, Mike Hall Jr., Deven Eastern) were excluded. Edge rushers remain under
+Linebackers; this section is interior line only. Tile counts now 72/81/100/253/29, verified
+against rows. Sweeps maintain this section from the next run onward.
