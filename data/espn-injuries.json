@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T08:09:00Z",
+  "timestamp": "2026-08-21T10:00:52Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -1241,7 +1241,7 @@
             "location": "Leg",
             "detail": "Not Specified",
             "side": "Right",
-            "returnDate": "2026-09-13"
+            "returnDate": "2026-10-11"
           }
         },
         {
