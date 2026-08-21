@@ -2217,3 +2217,28 @@ Feed entries that were contract/signing noise, suspensions (Mathis), or already-
 players (B.J. Hill, Mike Hall Jr., Deven Eastern) were excluded. Edge rushers remain under
 Linebackers; this section is interior line only. Tile counts now 72/81/100/253/29, verified
 against rows. Sweeps maintain this section from the next run onward.
+
+## Aug 21, 2026, 9:32 AM ET
+
+**New injuries:**
+- Chigozie Anusiem, CB, Raiders — knee; carted off with his leg in an air cast during Thursday night's preseason game vs. the Texans, an emotional scene as teammates gathered around the cart. Diagnosis not yet public. Severity: mid.
+- Buddy Johnson, LB, Raiders — shoulder; questionable to return to Thursday's preseason game vs. the Texans after recording a solo tackle. No further detail disclosed. Severity: low.
+- Renardo Green, CB, 49ers — hamstring; did not return to Thursday's preseason game at the Chargers after two solo tackles. Severity: low.
+- Austen Pleasants, OT, 49ers — knee; ruled out of Thursday's preseason game at the Chargers after remaining on the turf in the third quarter. Severity: low.
+
+**Status and designation changes:**
+- Levelle Bailey, LB, Broncos — waived/injured Thursday and expected to revert to season-ending injured reserve following surgery for the broken leg suffered in the Aug. 14 preseason opener vs. the Falcons. Severity raised mid → high.
+- Jack Cochrane, LB, Chiefs — still out with no timeline on the knee injury that put him on a cart Aug. 18; Chiefs responded by re-signing veteran LB Cam Jones as depth insurance, a signal the absence isn't trivial. Severity raised low → mid.
+- Ennis Rakestraw Jr., CB, Lions — new info supersedes the Aug. 15 note: he did not finish Thursday's practice with an apparent leg injury (per The Athletic's Colton Pouncy), a separate issue from the earlier upper-body knock. Severity held at low pending further detail.
+
+**Removals:**
+- Dante Trader Jr., S, Dolphins — removed: activated/returned. Multiple Dolphins beat outlets (Dolphin Seer, PhinPhanatic) report he returned to full 11-on-11 team periods this week, clearing the day-to-day absence that had kept him out since mid-camp.
+- Nyjalik Kelly, EDGE, Packers — removed: activated/returned. Packers.com and SI's camp coverage confirm the undrafted rookie, who sat out Aug. 18 with a knee issue, was back at practice by Aug. 20.
+
+**Reconciliation:** Ran against the ESPN snapshot fetched 2026-08-21T11:45:13Z (fetched-at 11:45:13Z, ~1h40m old at run start — current, well under 6h). Cross-checked all 253 pre-run rows by normalized name against the six tracked positions in the snapshot. 71 had no matching snapshot entry (28%); 35 are data-sev="high" and exempt from the vanish-check by rule. Of the 36 non-high absences, the large majority (Jalen Ramsey, Joey Porter Jr., Harold Landry III, Ikem Ekwonu, Vederian Lowe, Jordan James, Isaac Guerendo, Brett Toth, and similar) are explicit PUP/NFI/IR/waived-off-roster designations, which structurally don't surface in ESPN's rolling Questionable/Doubtful/Out/Active feed — consistent with every prior sweep's reconciliation, so none were treated as recovery signals. The remaining ambiguous day-to-day/no-designation absences (Dante Trader Jr., Jake Hansen, Jack Kiser, Levelle Bailey, Jack Cochrane, Nyjalik Kelly, Amari Kight, Fred Johnson, Josh Simmons, Hunter Luepke) were individually WebSearched: two (Dante Trader Jr., Nyjalik Kelly) had confirmed returns and were removed per above; the rest (Jake Hansen, Jack Kiser, Amari Kight, Fred Johnson, Josh Simmons, Hunter Luepke) turned up no return news and were left as-is; two (Levelle Bailey, Jack Cochrane) turned up updated severity information and were revised per above. Circuit breaker: not triggered — 2 removals against 253 rows (0.8%), far under the 25% threshold.
+
+A reverse cross-check of the snapshot's in-scope Questionable/Out entries dated after the prior sweep's stamp (Aug. 20, 9:11 PM ET) against the board surfaced four verifiable, previously-untracked injuries from Thursday night's preseason slate (Anusiem, B. Johnson, Green, Pleasants — all added above) plus one update (Rakestraw). Three same-window snapshot entries were declined as non-injury noise: Woody Marks, Mike Washington Jr., and Kaelon Black all carry status "Active" with box-score performance comments only, no injury designation.
+
+**Breaking-news sweep:** WebSearch across all six tracked positions for the ~12h15m window since the 9:11 PM ET sweep surfaced no additional in-scope injuries beyond the snapshot-sourced items above. General injury/IR/settlement queries returned only already-tracked players and recycled articles with stale datelines (none added). No new IR/PUP/NFI roster moves found beyond Bailey's above.
+
+**Badges:** Recomputed fresh from data-added timestamps (cutoff: anything added before Aug. 20, 9:32 AM ET ages off). 4 aged off — Jahquez Robinson (Ravens S), Quincy Riley (Saints CB), John Ojukwu (Eagles OT), Fred Johnson (Eagles OT), all added Aug. 20, 9:30 AM ET. 4 new NEW badges added (Anusiem, B. Johnson, Green, Pleasants). Net badge count unchanged: 29. Tile counts recomputed and verified against current table rows: 73 high / 82 mid / 100 low / 255 all / 29 new.
