@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T11:45:04Z",
+  "timestamp": "2026-08-21T14:18:37Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -14,7 +14,7 @@
       "injuries": [
         {
           "id": "634273",
-          "longComment": "After stretching with the team ahead of Monday's walkthrough practice, Benson hasn't since been seen by the media. He's been dealing with the knee injury all summer after missing the final 14 weeks of the 2025 campaign with an injury to the same knee. Unable to practice much or play so far this summer, Benson could be on the outside looking in at a roster spot considering he doesn't play special teams.",
+          "longComment": "After stretching with the team ahead of Monday's walkthrough practice, Benson hasn't since been seen by the media. He's been dealing with the knee injury all summer after missing the final 14 weeks of the 2025 campaign with an injury to the same knee. Unable to practice much or play so far this summer, Benson could be on the outside looking in for a roster spot, considering he doesn't play special teams.",
           "shortComment": "Benson (knee) has not been present for any portion of the Cardinals' previous two full-squad practices this week, Theo Mackie of The Arizona Republic reports.",
           "status": "Questionable",
           "date": "2026-08-21T01:25Z",
@@ -590,7 +590,7 @@
                   "type": "news",
                   "date": "2026-08-21T01:25Z",
                   "headline": "Benson (knee) has not been present for any portion of the Cardinals' previous two full-squad practices this week, Theo Mackie of The Arizona Republic reports.",
-                  "text": "After stretching with the team ahead of Monday's walkthrough practice, Benson hasn't since been seen by the media. He's been dealing with the knee injury all summer after missing the final 14 weeks of the 2025 campaign with an injury to the same knee. Unable to practice much or play so far this summer, Benson could be on the outside looking in at a roster spot considering he doesn't play special teams.",
+                  "text": "After stretching with the team ahead of Monday's walkthrough practice, Benson hasn't since been seen by the media. He's been dealing with the knee injury all summer after missing the final 14 weeks of the 2025 campaign with an injury to the same knee. Unable to practice much or play so far this summer, Benson could be on the outside looking in for a roster spot, considering he doesn't play special teams.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4429275/injuries/634273?lang=en&region=us"
@@ -1246,7 +1246,7 @@
         },
         {
           "id": "634268",
-          "longComment": "The pass rusher was placed on the active/PUP list before the start of training camp and has yet to participate in sessions during camp. Sweat participated in mandatory minicamp in June, and his injury was never considered serious. The former Eagle recorded a career-high 12.0 sacks in his first season with the Cardinals last year.",
+          "longComment": "The pass rusher was placed on the active/PUP list before the start of training camp and has yet to participate in training camp. Sweat participated in mandatory minicamp in June, and his injury was never considered serious. The former Eagle recorded a career-high 12.0 sacks in his first season with the Cardinals last year.",
           "shortComment": "Sweat (knee) is almost ready to be activated off the PUP list, Darren Urban of the Cardinals' official site reports.",
           "status": "Out",
           "date": "2026-08-21T00:51Z",
@@ -1822,7 +1822,7 @@
                   "type": "news",
                   "date": "2026-08-21T00:51Z",
                   "headline": "Sweat (knee) is almost ready to be activated off the PUP list, Darren Urban of the Cardinals' official site reports.",
-                  "text": "The pass rusher was placed on the active/PUP list before the start of training camp and has yet to participate in sessions during camp. Sweat participated in mandatory minicamp in June, and his injury was never considered serious. The former Eagle recorded a career-high 12.0 sacks in his first season with the Cardinals last year.",
+                  "text": "The pass rusher was placed on the active/PUP list before the start of training camp and has yet to participate in training camp. Sweat participated in mandatory minicamp in June, and his injury was never considered serious. The former Eagle recorded a career-high 12.0 sacks in his first season with the Cardinals last year.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3693166/injuries/634268?lang=en&region=us"
@@ -1862,7 +1862,7 @@
         },
         {
           "id": "634264",
-          "longComment": "Williams tore his Achilles in December of last season and began training camp on the active/PUP list. Now that he's healthy again, the cornerback should be able to resume the starting role that he played for 10 games a year ago, when he recorded 46 tackles (25 solo), five pass breakups, including an interception, and a forced fumble.",
+          "longComment": "Williams tore his Achilles in December of last season and began training camp on the active/PUP list. Now that he's healthy again, the cornerback should be able to resume the starting role he filled for 10 games during the 2025 season, when he recorded 46 tackles (25 solo), five pass breakups, including an interception, and a forced fumble.",
           "shortComment": "Williams (Achilles) was activated from the PUP list by the Cardinals on Thursday, Darren Urban of the Cardinals' official site reports.",
           "status": "Active",
           "date": "2026-08-21T00:44Z",
@@ -2438,7 +2438,7 @@
                   "type": "news",
                   "date": "2026-08-21T00:44Z",
                   "headline": "Williams (Achilles) was activated from the PUP list by the Cardinals on Thursday, Darren Urban of the Cardinals' official site reports.",
-                  "text": "Williams tore his Achilles in December of last season and began training camp on the active/PUP list. Now that he's healthy again, the cornerback should be able to resume the starting role that he played for 10 games a year ago, when he recorded 46 tackles (25 solo), five pass breakups, including an interception, and a forced fumble.",
+                  "text": "Williams tore his Achilles in December of last season and began training camp on the active/PUP list. Now that he's healthy again, the cornerback should be able to resume the starting role he filled for 10 games during the 2025 season, when he recorded 46 tackles (25 solo), five pass breakups, including an interception, and a forced fumble.",
                   "source": "RotoWire"
                 }
               ]
@@ -30390,7 +30390,7 @@
       "injuries": [
         {
           "id": "634289",
-          "longComment": "The veteran center signed a one-year, $4.5-million deal late in the offseason, perhaps to start anyway, though Pinter was seeing first-team reps during training camp even after Pocic returned from a recent ankle injury. With Pinter down, Pocic looks like the next man up on the depth chart. The former Brown and Seahawk made 57 regular-season starts for Cleveland over the last four years.",
+          "longComment": "The veteran center signed a one-year, $4.5 million deal late in the offseason, but Pinter was seeing first-team reps during training camp even after Pocic returned from a recent ankle injury. With Pinter down, Pocic looks like the next man up on the depth chart. The former Brown and Seahawk made 57 regular-season starts for Cleveland over the last four years.",
           "shortComment": "Pocic looks like the clear starting center in Baltimore with Danny Pinter likely out for the season with a torn patella tendon, Jason La Canfora of SI.com reports.",
           "status": "Active",
           "date": "2026-08-21T02:48Z",
@@ -30966,7 +30966,7 @@
                   "type": "news",
                   "date": "2026-08-21T02:48Z",
                   "headline": "Pocic looks like the clear starting center in Baltimore with Danny Pinter likely out for the season with a torn patella tendon, Jason La Canfora of SI.com reports.",
-                  "text": "The veteran center signed a one-year, $4.5-million deal late in the offseason, perhaps to start anyway, though Pinter was seeing first-team reps during training camp even after Pocic returned from a recent ankle injury. With Pinter down, Pocic looks like the next man up on the depth chart. The former Brown and Seahawk made 57 regular-season starts for Cleveland over the last four years.",
+                  "text": "The veteran center signed a one-year, $4.5 million deal late in the offseason, but Pinter was seeing first-team reps during training camp even after Pocic returned from a recent ankle injury. With Pinter down, Pocic looks like the next man up on the depth chart. The former Brown and Seahawk made 57 regular-season starts for Cleveland over the last four years.",
                   "source": "RotoWire"
                 }
               ]
@@ -106193,7 +106193,7 @@
       "injuries": [
         {
           "id": "634265",
-          "longComment": "Wright was unable to put any weight on his leg while getting on the cart. The 25-year-old edge defender set career highs in playing time (55 percent of the defensive snaps), tackles (37) and sacks (5.5) across 14 regular-season appearances last season. He's expected to push to start opposite Jared Verse on the Cleveland defensive line this season.",
+          "longComment": "Wright was unable to put any weight on his leg while getting on the cart. The 25-year-old edge defender set career highs in playing time (55 percent of the defensive snaps), tackles (37) and sacks (5.5) across 14 regular-season appearances last season. He entered training camp expected to push for a starting role opposite Jared Verse on Cleveland's defensive line, although his availability is now in question until more information about the severity of the injury is gathered.",
           "shortComment": "Wright was carted off the practice field Thursday with an apparent lower leg injury, Mary Kay Cabot of The Cleveland Plain Dealer reports.",
           "status": "Questionable",
           "date": "2026-08-21T00:44Z",
@@ -106769,7 +106769,7 @@
                   "type": "news",
                   "date": "2026-08-21T00:44Z",
                   "headline": "Wright was carted off the practice field Thursday with an apparent lower leg injury, Mary Kay Cabot of The Cleveland Plain Dealer reports.",
-                  "text": "Wright was unable to put any weight on his leg while getting on the cart. The 25-year-old edge defender set career highs in playing time (55 percent of the defensive snaps), tackles (37) and sacks (5.5) across 14 regular-season appearances last season. He's expected to push to start opposite Jared Verse on the Cleveland defensive line this season.",
+                  "text": "Wright was unable to put any weight on his leg while getting on the cart. The 25-year-old edge defender set career highs in playing time (55 percent of the defensive snaps), tackles (37) and sacks (5.5) across 14 regular-season appearances last season. He entered training camp expected to push for a starting role opposite Jared Verse on Cleveland's defensive line, although his availability is now in question until more information about the severity of the injury is gathered.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4570119/injuries/634265?lang=en&region=us"
@@ -121439,7 +121439,7 @@
       "injuries": [
         {
           "id": "634272",
-          "longComment": "The safety suffered the injury during the first week of training camp, missed over two weeks and then came back a few days ago for non-contact drills. Childress appeared in three regular-season games for Dallas a year ago, seeing more action on special teams than defense. He's likely competing for a backup and special teams role again in 2026.",
+          "longComment": "The safety suffered the injury during the first week of training camp, missed over two weeks and then came back a few days ago for non-contact drills. Childress appeared in three regular-season games for Dallas a year ago, seeing more action on special teams than defense. He's likely competing for a backup and special-teams role again in 2026.",
           "shortComment": "Childress (hamstring) returned to practice as a limited participant Thursday, Calvin Watkins of The Dallas Morning News reports.",
           "status": "Questionable",
           "date": "2026-08-21T01:20Z",
@@ -122015,7 +122015,7 @@
                   "type": "news",
                   "date": "2026-08-21T01:20Z",
                   "headline": "Childress (hamstring) returned to practice as a limited participant Thursday, Calvin Watkins of The Dallas Morning News reports.",
-                  "text": "The safety suffered the injury during the first week of training camp, missed over two weeks and then came back a few days ago for non-contact drills. Childress appeared in three regular-season games for Dallas a year ago, seeing more action on special teams than defense. He's likely competing for a backup and special teams role again in 2026.",
+                  "text": "The safety suffered the injury during the first week of training camp, missed over two weeks and then came back a few days ago for non-contact drills. Childress appeared in three regular-season games for Dallas a year ago, seeing more action on special teams than defense. He's likely competing for a backup and special-teams role again in 2026.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4685841/injuries/634272?lang=en&region=us"
@@ -152320,7 +152320,7 @@
         },
         {
           "id": "634281",
-          "longComment": "The fourth-round rookie was injured early in camp and has missed the past three weeks with a strained hamstring. It sounds like he's going to miss the remainder of camp and the preseason. As a rookie, Rolder is expected to work as a depth linebacker and special teams player.",
+          "longComment": "The fourth-round rookie was injured early in camp and has missed the past three weeks with a strained hamstring. It sounds like he's going to miss the remainder of camp and the preseason. As a rookie, Rolder is expected to work as a depth linebacker and special-teams player.",
           "shortComment": "Coach Dan Campbell said Rolder (hamstring) could begin practicing pretty early in the season, Nolan Bianchi of The Detroit News reports.",
           "status": "Questionable",
           "date": "2026-08-21T01:55Z",
@@ -152896,7 +152896,7 @@
                   "type": "news",
                   "date": "2026-08-21T01:55Z",
                   "headline": "Coach Dan Campbell said Rolder (hamstring) could begin practicing pretty early in the season, Nolan Bianchi of The Detroit News reports.",
-                  "text": "The fourth-round rookie was injured early in camp and has missed the past three weeks with a strained hamstring. It sounds like he's going to miss the remainder of camp and the preseason. As a rookie, Rolder is expected to work as a depth linebacker and special teams player.",
+                  "text": "The fourth-round rookie was injured early in camp and has missed the past three weeks with a strained hamstring. It sounds like he's going to miss the remainder of camp and the preseason. As a rookie, Rolder is expected to work as a depth linebacker and special-teams player.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4896353/injuries/634281?lang=en&region=us"
@@ -212465,8 +212465,624 @@
       "displayName": "Jacksonville Jaguars",
       "injuries": [
         {
+          "id": "634313",
+          "longComment": "Washington hasn't been practicing this week but is merely considered day-to-day, with earlier reports also suggesting a quick return was in order. While unlikely to play in Friday's preseason game against Carolina, the wideout should be back at practice not long after.",
+          "shortComment": "Washington (undisclosed) is expected to return to practice next week, ESPN's Adam Schefter reports.",
+          "status": "Questionable",
+          "date": "2026-08-21T13:47Z",
+          "athlete": {
+            "firstName": "Parker",
+            "lastName": "Washington",
+            "displayName": "Parker Washington",
+            "shortName": "P. Washington",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4432620/parker-washington",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/4432620/parker-washington",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4432620&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/4432620/parker-washington",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4432620/parker-washington",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4432620&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/4432620/parker-washington",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4432620&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/4432620/parker-washington",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4432620&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4432620/parker-washington",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4432620",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4432620.png",
+              "alt": "Parker Washington"
+            },
+            "position": {
+              "id": "1",
+              "name": "Wide Receiver",
+              "displayName": "Wide Receiver",
+              "abbreviation": "WR",
+              "leaf": true
+            },
+            "team": {
+              "id": "30",
+              "uid": "s:20~l:28~t:30",
+              "slug": "jacksonville-jaguars",
+              "name": "Jaguars",
+              "abbreviation": "JAX",
+              "displayName": "Jacksonville Jaguars",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2024-06-25T18:50Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/jax.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:50Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2024-06-25T18:50Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/jax.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:50Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-31T12:52Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/jax/jacksonville-jaguars",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:30&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/jax/jacksonville-jaguars",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:30&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/jax",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:30&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/jax",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/jacksonville-jaguars-tickets--sports-nfl-football/performer/381?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/jax/jacksonville-jaguars",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/jax",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/jax",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/jax",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:30&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "634313",
+                  "type": "news",
+                  "date": "2026-08-21T13:47Z",
+                  "headline": "Washington (undisclosed) is expected to return to practice next week, ESPN's Adam Schefter reports.",
+                  "text": "Washington hasn't been practicing this week but is merely considered day-to-day, with earlier reports also suggesting a quick return was in order. While unlikely to play in Friday's preseason game against Carolina, the wideout should be back at practice not long after.",
+                  "source": "RotoWire",
+                  "injury": {
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4432620/injuries/634313?lang=en&region=us"
+                  }
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "2",
+            "name": "INJURY_STATUS_QUESTIONABLE",
+            "description": "questionable",
+            "abbreviation": "Q"
+          },
+          "details": {
+            "fantasyStatus": {
+              "description": "QUESTIONABLE",
+              "abbreviation": "QUESTIONABLE"
+            },
+            "type": "Undisclosed",
+            "location": "Other",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-08-28"
+          }
+        },
+        {
           "id": "634277",
-          "longComment": "It's unclear what Van Lanen was working through this summer, but he did miss the team's wild-card playoff loss to the Bills in January with a knee issue. Van Lanen played all over the offensive line last season and inked a three-year, $51 million extension during the 2025 season. He's expected to push third-round rookie Emmanuel Pregnon for the starting spot at left guard.",
+          "longComment": "It's unclear what Van Lanen was working through this summer, but he did miss the team's wild-card playoff loss to the Bills in January with a knee issue. Van Lanen played all over the offensive line last season and inked a three-year, $51 million extension just before Week 18 of the 2025 season. He's expected to push third-round rookie Emmanuel Pregnon for the starting spot at left guard.",
           "shortComment": "The Jaguars activated Van Lanen (knee) from the active/PUP list Thursday.",
           "status": "Active",
           "date": "2026-08-21T01:35Z",
@@ -213042,7 +213658,7 @@
                   "type": "news",
                   "date": "2026-08-21T01:35Z",
                   "headline": "The Jaguars activated Van Lanen (knee) from the active/PUP list Thursday.",
-                  "text": "It's unclear what Van Lanen was working through this summer, but he did miss the team's wild-card playoff loss to the Bills in January with a knee issue. Van Lanen played all over the offensive line last season and inked a three-year, $51 million extension during the 2025 season. He's expected to push third-round rookie Emmanuel Pregnon for the starting spot at left guard.",
+                  "text": "It's unclear what Van Lanen was working through this summer, but he did miss the team's wild-card playoff loss to the Bills in January with a knee issue. Van Lanen played all over the offensive line last season and inked a three-year, $51 million extension just before Week 18 of the 2025 season. He's expected to push third-round rookie Emmanuel Pregnon for the starting spot at left guard.",
                   "source": "RotoWire"
                 }
               ]
@@ -213666,622 +214282,6 @@
             "name": "INJURY_STATUS_ACTIVE",
             "description": "active",
             "abbreviation": "A"
-          }
-        },
-        {
-          "id": "-1987392",
-          "longComment": "questionable",
-          "shortComment": "questionable",
-          "status": "Questionable",
-          "date": "2026-08-19T12:07Z",
-          "athlete": {
-            "firstName": "Parker",
-            "lastName": "Washington",
-            "displayName": "Parker Washington",
-            "shortName": "P. Washington",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4432620/parker-washington",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/4432620/parker-washington",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4432620&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/4432620/parker-washington",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4432620/parker-washington",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4432620&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/4432620/parker-washington",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4432620&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/4432620/parker-washington",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4432620&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4432620/parker-washington",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4432620",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4432620.png",
-              "alt": "Parker Washington"
-            },
-            "position": {
-              "id": "1",
-              "name": "Wide Receiver",
-              "displayName": "Wide Receiver",
-              "abbreviation": "WR",
-              "leaf": true
-            },
-            "team": {
-              "id": "30",
-              "uid": "s:20~l:28~t:30",
-              "slug": "jacksonville-jaguars",
-              "name": "Jaguars",
-              "abbreviation": "JAX",
-              "displayName": "Jacksonville Jaguars",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2024-06-25T18:50Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/jax.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:50Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2024-06-25T18:50Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/jax.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:50Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-31T12:52Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/ca6fb778-cbf6-d9a3-3e93-01230335fcab/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/jax/jacksonville-jaguars",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:30&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/jax/jacksonville-jaguars",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:30&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/jax",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:30&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/jax",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/jacksonville-jaguars-tickets--sports-nfl-football/performer/381?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/jax/jacksonville-jaguars",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/jax",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/jax",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/jax",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:30&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "-1987392",
-                  "type": "news",
-                  "date": "2026-08-19T12:07Z",
-                  "headline": "questionable",
-                  "text": "questionable",
-                  "source": "RotoWire",
-                  "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4432620/injuries/-1987392?lang=en&region=us"
-                  }
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "2",
-            "name": "INJURY_STATUS_QUESTIONABLE",
-            "description": "questionable",
-            "abbreviation": "Q"
-          },
-          "details": {
-            "fantasyStatus": {
-              "description": "QUESTIONABLE",
-              "abbreviation": "QUESTIONABLE"
-            },
-            "type": "Undisclosed",
-            "location": "Other",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-08-21"
           }
         },
         {
@@ -227621,7 +227621,7 @@
         {
           "id": "634280",
           "longComment": "The defensive end might even be able to return for Kansas City's regular-season opener against Denver on Sept. 14, per Nate Taylor of ESPN.com. Gillotte strained his hamstring during a training camp session in late July, returned a little over two weeks later and then ruptured his plantar fascia during a drill. The 2025 third-round pick recorded 38 tackles (14 solo), including 1.5 sacks, in a rotational role as a rookie.",
-          "shortComment": "Gillotte (foot) has a ruptured plantar fascia but the injury is not considered serious, Matt Derrick of ChiefsDigest.com reports.",
+          "shortComment": "Gillotte has a ruptured plantar fascia, but the injury is not considered serious, Matt Derrick of ChiefsDigest.com reports.",
           "status": "Questionable",
           "date": "2026-08-21T01:43Z",
           "athlete": {
@@ -228195,7 +228195,7 @@
                   "id": "634280",
                   "type": "news",
                   "date": "2026-08-21T01:43Z",
-                  "headline": "Gillotte (foot) has a ruptured plantar fascia but the injury is not considered serious, Matt Derrick of ChiefsDigest.com reports.",
+                  "headline": "Gillotte has a ruptured plantar fascia, but the injury is not considered serious, Matt Derrick of ChiefsDigest.com reports.",
                   "text": "The defensive end might even be able to return for Kansas City's regular-season opener against Denver on Sept. 14, per Nate Taylor of ESPN.com. Gillotte strained his hamstring during a training camp session in late July, returned a little over two weeks later and then ruptured his plantar fascia during a drill. The 2025 third-round pick recorded 38 tackles (14 solo), including 1.5 sacks, in a rotational role as a rookie.",
                   "source": "RotoWire",
                   "injury": {
@@ -242801,8 +242801,610 @@
       "displayName": "Las Vegas Raiders",
       "injuries": [
         {
+          "id": "634312",
+          "longComment": "On that subject, Kubiak noted \"we got another week. I don't want anyone to be comfortable in their job...it should always be that way for all positions. So, let's keep going.\" To this point, the signs have been pointing to Cousins opening the regular season as the starter, and he was among his team's key players who watched Thursday's preseason game against the Texans from the sidelines. Meanwhile, Mendoza played the entire first half of the contest, completing eight of 15 passes for 86 yards and an interception on five drives. It remains to be seen when Kubiak will announce the Raiders' starting signal-caller, but given where Mendoza was drafted, it's assumed that the Indiana product will rise to the top of the Raiders' depth chart eventually, though that ascent seems likely to follow a stint as Cousins' understudy.",
+          "shortComment": "Raiders coach Klint Kubiak indicated Thursday that he is not yet ready to name a starting quarterback (between Kirk Cousins and Mendoza) ahead of Week 1, Ryan McFadden of ESPN reports.",
+          "status": "Active",
+          "date": "2026-08-21T12:47Z",
+          "athlete": {
+            "firstName": "Fernando",
+            "lastName": "Mendoza",
+            "displayName": "Fernando Mendoza",
+            "shortName": "F. Mendoza",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/4837248/fernando-mendoza",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4837248&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/4837248/fernando-mendoza",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4837248/fernando-mendoza",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4837248&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/4837248/fernando-mendoza",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4837248&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/4837248/fernando-mendoza",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4837248&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4837248",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4837248.png",
+              "alt": "Fernando Mendoza"
+            },
+            "position": {
+              "id": "8",
+              "name": "Quarterback",
+              "displayName": "Quarterback",
+              "abbreviation": "QB",
+              "leaf": true
+            },
+            "team": {
+              "id": "13",
+              "uid": "s:20~l:28~t:13",
+              "slug": "las-vegas-raiders",
+              "name": "Raiders",
+              "abbreviation": "LV",
+              "displayName": "Las Vegas Raiders",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2024-09-22T22:51Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:59Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2024-06-25T18:51Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/lv.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:59Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-31T12:53Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/lv/las-vegas-raiders",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:13&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/lv/las-vegas-raiders",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:13&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/lv",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:13&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/lv",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/las-vegas-raiders-tickets--sports-nfl-football/performer/626?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/lv/las-vegas-raiders",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/lv",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/lv",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/lv",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:13&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "634312",
+                  "type": "news",
+                  "date": "2026-08-21T12:47Z",
+                  "headline": "Raiders coach Klint Kubiak indicated Thursday that he is not yet ready to name a starting quarterback (between Kirk Cousins and Mendoza) ahead of Week 1, Ryan McFadden of ESPN reports.",
+                  "text": "On that subject, Kubiak noted \"we got another week. I don't want anyone to be comfortable in their job...it should always be that way for all positions. So, let's keep going.\" To this point, the signs have been pointing to Cousins opening the regular season as the starter, and he was among his team's key players who watched Thursday's preseason game against the Texans from the sidelines. Meanwhile, Mendoza played the entire first half of the contest, completing eight of 15 passes for 86 yards and an interception on five drives. It remains to be seen when Kubiak will announce the Raiders' starting signal-caller, but given where Mendoza was drafted, it's assumed that the Indiana product will rise to the top of the Raiders' depth chart eventually, though that ascent seems likely to follow a stint as Cousins' understudy.",
+                  "source": "RotoWire"
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "0",
+            "name": "INJURY_STATUS_ACTIVE",
+            "description": "active",
+            "abbreviation": "A"
+          }
+        },
+        {
           "id": "634302",
-          "longComment": "Gay outperformed rookie Kansei Matsuzawa in the Raiders' second preseason game, as Matsuzawa didn't attempt a field goal but converted only one of three PAT tries. The 32-year-old Gay has been the favorite from the outset of Vegas' kicker competition thanks to his edge in experience, and Thursday's results should help further tip the scales in Gay's favor.",
+          "longComment": "Gay outperformed rookie Kansei Matsuzawa in the Raiders' second preseason game, as Matsuzawa didn't attempt a field goal but converted only one of three PAT tries. Gay has been the favorite from the outset of Vegas' kicker competition thanks to the 32-year-old's edge in experience, and Thursday's results should help further tip the scales in his favor.",
           "shortComment": "Gay made his only field-goal attempt from 52 yards in Thursday's 22-20 preseason win over the Texans.",
           "status": "Active",
           "date": "2026-08-21T04:16Z",
@@ -243378,7 +243980,7 @@
                   "type": "news",
                   "date": "2026-08-21T04:16Z",
                   "headline": "Gay made his only field-goal attempt from 52 yards in Thursday's 22-20 preseason win over the Texans.",
-                  "text": "Gay outperformed rookie Kansei Matsuzawa in the Raiders' second preseason game, as Matsuzawa didn't attempt a field goal but converted only one of three PAT tries. The 32-year-old Gay has been the favorite from the outset of Vegas' kicker competition thanks to his edge in experience, and Thursday's results should help further tip the scales in Gay's favor.",
+                  "text": "Gay outperformed rookie Kansei Matsuzawa in the Raiders' second preseason game, as Matsuzawa didn't attempt a field goal but converted only one of three PAT tries. Gay has been the favorite from the outset of Vegas' kicker competition thanks to the 32-year-old's edge in experience, and Thursday's results should help further tip the scales in his favor.",
                   "source": "RotoWire"
                 }
               ]
@@ -245811,608 +246413,6 @@
           }
         },
         {
-          "id": "634291",
-          "longComment": "Mendoza made his first start at the NFL level and played the first half, but it wasn't a pretty outing for the rookie first overall pick in his second preseason game. The Raiders were outscored 20-3 during his time in the game, and his first drive ended in an 80-yard pick-six. Mendoza failed to close the gap between himself and Kirk Cousins, who started Vegas' preseason opener and remains the favorite to start for the team Week 1. This poor outing from Mendoza shows why the Raiders' brass would rather let him adjust to the NFL from a backup role to begin his career.",
-          "shortComment": "Mendoza completed eight of 15 passes for 86 yards, no touchdowns and one interception in Thursday's 22-20 preseason win over the Texans.",
-          "status": "Active",
-          "date": "2026-08-21T03:25Z",
-          "athlete": {
-            "firstName": "Fernando",
-            "lastName": "Mendoza",
-            "displayName": "Fernando Mendoza",
-            "shortName": "F. Mendoza",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/4837248/fernando-mendoza",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4837248&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/4837248/fernando-mendoza",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4837248/fernando-mendoza",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4837248&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/4837248/fernando-mendoza",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4837248&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/4837248/fernando-mendoza",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4837248&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4837248",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4837248.png",
-              "alt": "Fernando Mendoza"
-            },
-            "position": {
-              "id": "8",
-              "name": "Quarterback",
-              "displayName": "Quarterback",
-              "abbreviation": "QB",
-              "leaf": true
-            },
-            "team": {
-              "id": "13",
-              "uid": "s:20~l:28~t:13",
-              "slug": "las-vegas-raiders",
-              "name": "Raiders",
-              "abbreviation": "LV",
-              "displayName": "Las Vegas Raiders",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2024-09-22T22:51Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:59Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2024-06-25T18:51Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/lv.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:59Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-31T12:53Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/lv/las-vegas-raiders",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:13&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/lv/las-vegas-raiders",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:13&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/lv",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:13&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/lv",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/las-vegas-raiders-tickets--sports-nfl-football/performer/626?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/lv/las-vegas-raiders",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/lv",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/lv",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/lv",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:13&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "634291",
-                  "type": "news",
-                  "date": "2026-08-21T03:25Z",
-                  "headline": "Mendoza completed eight of 15 passes for 86 yards, no touchdowns and one interception in Thursday's 22-20 preseason win over the Texans.",
-                  "text": "Mendoza made his first start at the NFL level and played the first half, but it wasn't a pretty outing for the rookie first overall pick in his second preseason game. The Raiders were outscored 20-3 during his time in the game, and his first drive ended in an 80-yard pick-six. Mendoza failed to close the gap between himself and Kirk Cousins, who started Vegas' preseason opener and remains the favorite to start for the team Week 1. This poor outing from Mendoza shows why the Raiders' brass would rather let him adjust to the NFL from a backup role to begin his career.",
-                  "source": "RotoWire"
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "0",
-            "name": "INJURY_STATUS_ACTIVE",
-            "description": "active",
-            "abbreviation": "A"
-          }
-        },
-        {
           "id": "634285",
           "longComment": "The cornerback did not record a stat before exiting. Anusiem appeared in three games and on 54 special-teams snaps for Las Vegas in 2025, and he is fighting for a roster spot in 2026.",
           "shortComment": "Anusiem suffered a knee injury and was carted off the field during Thursday's preseason game against the Texans, Ryan McFadden of ESPN.com reports.",
@@ -247030,7 +247030,7 @@
         },
         {
           "id": "634282",
-          "longComment": "The linebacker recorded one solo tackle before exiting. Johnson is battling for a roster spot, likely as a special teamer, where he's seen most of his action throughout his NFL career.",
+          "longComment": "The linebacker recorded one solo tackle before exiting. Johnson is likely to see the majority of his action on special teams if he garners a roster spot, the role he's primarily served in throughout his NFL career.",
           "shortComment": "Johnson (shoulder) is questionable to return to Thursday's preseason matchup with the Texans, Aaron Wilson of KPRC 2 Houston reports.",
           "status": "Questionable",
           "date": "2026-08-21T01:57Z",
@@ -247606,7 +247606,7 @@
                   "type": "news",
                   "date": "2026-08-21T01:57Z",
                   "headline": "Johnson (shoulder) is questionable to return to Thursday's preseason matchup with the Texans, Aaron Wilson of KPRC 2 Houston reports.",
-                  "text": "The linebacker recorded one solo tackle before exiting. Johnson is battling for a roster spot, likely as a special teamer, where he's seen most of his action throughout his NFL career.",
+                  "text": "The linebacker recorded one solo tackle before exiting. Johnson is likely to see the majority of his action on special teams if he garners a roster spot, the role he's primarily served in throughout his NFL career.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4240900/injuries/634282?lang=en&region=us"
@@ -260350,7 +260350,7 @@
         },
         {
           "id": "634286",
-          "longComment": "Biadasz suffered injuries to multiple ligaments in his left knee during Tuesday's practice and is now looking at a multi-month recovery. The Chargers have been struck hard by offensive-line injuries multiple years running now, and Biadasz is the latest to go down after he signed a three-year, $30 million with the team back in March. Second-round rookie Jack Slaughter was initially supposed to compete at guard but is now expected to move to center for the Bolts.",
+          "longComment": "Biadasz suffered injuries to multiple ligaments in his left knee during Tuesday's practice and is now looking at a multi-month recovery. The Chargers have been struck hard by offensive-line injuries multiple years running now, and Biadasz is the latest to go down after he signed a three-year, $30 million contract with the team back in March. Second-round rookie Jack Slaughter was initially supposed to compete at guard but is now expected to move to center for the Bolts.",
           "shortComment": "The Chargers are hoping Biadasz (knee) will be able to return late in the season, Adam Schefter of ESPN reports.",
           "status": "Out",
           "date": "2026-08-21T02:30Z",
@@ -260926,7 +260926,7 @@
                   "type": "news",
                   "date": "2026-08-21T02:30Z",
                   "headline": "The Chargers are hoping Biadasz (knee) will be able to return late in the season, Adam Schefter of ESPN reports.",
-                  "text": "Biadasz suffered injuries to multiple ligaments in his left knee during Tuesday's practice and is now looking at a multi-month recovery. The Chargers have been struck hard by offensive-line injuries multiple years running now, and Biadasz is the latest to go down after he signed a three-year, $30 million with the team back in March. Second-round rookie Jack Slaughter was initially supposed to compete at guard but is now expected to move to center for the Bolts.",
+                  "text": "Biadasz suffered injuries to multiple ligaments in his left knee during Tuesday's practice and is now looking at a multi-month recovery. The Chargers have been struck hard by offensive-line injuries multiple years running now, and Biadasz is the latest to go down after he signed a three-year, $30 million contract with the team back in March. Second-round rookie Jack Slaughter was initially supposed to compete at guard but is now expected to move to center for the Bolts.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4035788/injuries/634286?lang=en&region=us"
@@ -261581,7 +261581,7 @@
         },
         {
           "id": "634269",
-          "longComment": "Grimm was waived with an injury designation Wednesday and went unclaimed on waivers. He'll now either spend the 2026 season on injured reserve or later be cut with an injury settlement. The 25-year-old wideout has never appeared in a regular-season NFL game.",
+          "longComment": "Grimm was waived with an injury designation Wednesday and went unclaimed on waivers. He'll now either spend the 2026 season on injured reserve or eventually released with an injury settlement. The 25-year-old wideout has never appeared in a regular-season NFL game.",
           "shortComment": "Grimm (undisclosed) reverted to the Chargers' injured-reserve list Thursday, per the NFL's transaction log.",
           "status": "Injured Reserve",
           "date": "2026-08-21T00:52Z",
@@ -262157,7 +262157,7 @@
                   "type": "news",
                   "date": "2026-08-21T00:52Z",
                   "headline": "Grimm (undisclosed) reverted to the Chargers' injured-reserve list Thursday, per the NFL's transaction log.",
-                  "text": "Grimm was waived with an injury designation Wednesday and went unclaimed on waivers. He'll now either spend the 2026 season on injured reserve or later be cut with an injury settlement. The 25-year-old wideout has never appeared in a regular-season NFL game.",
+                  "text": "Grimm was waived with an injury designation Wednesday and went unclaimed on waivers. He'll now either spend the 2026 season on injured reserve or eventually released with an injury settlement. The 25-year-old wideout has never appeared in a regular-season NFL game.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4433830/injuries/634269?lang=en&region=us"
@@ -364155,7 +364155,7 @@
       "injuries": [
         {
           "id": "634270",
-          "longComment": "Sheffield was waived with an injury designation Wednesday and went unclaimed on waivers. The undrafted rookie will now either spend the 2026 campaign on injured reserve with the Jets or later be cut with an injury settlement.",
+          "longComment": "Sheffield was waived with an injury designation Wednesday and went unclaimed on waivers. The undrafted rookie will now either spend the 2026 campaign on injured reserve with the Jets or will eventually be let go with an injury settlement.",
           "shortComment": "Sheffield (undisclosed) reverted to the Jets' injured-reserve list Thursday, per the NFL's transaction log.",
           "status": "Injured Reserve",
           "date": "2026-08-21T00:54Z",
@@ -364731,7 +364731,7 @@
                   "type": "news",
                   "date": "2026-08-21T00:54Z",
                   "headline": "Sheffield (undisclosed) reverted to the Jets' injured-reserve list Thursday, per the NFL's transaction log.",
-                  "text": "Sheffield was waived with an injury designation Wednesday and went unclaimed on waivers. The undrafted rookie will now either spend the 2026 campaign on injured reserve with the Jets or later be cut with an injury settlement.",
+                  "text": "Sheffield was waived with an injury designation Wednesday and went unclaimed on waivers. The undrafted rookie will now either spend the 2026 campaign on injured reserve with the Jets or will eventually be let go with an injury settlement.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/5153056/injuries/634270?lang=en&region=us"
@@ -379351,7 +379351,7 @@
       "injuries": [
         {
           "id": "634278",
-          "longComment": "Turning 26 years old in three days, Bennett appeared in 11 regular-season games with the Eagles last season and recorded just seven tackles (six solo) with one pass breakup. He's competing for a depth job in the Philly secondary.",
+          "longComment": "Just shy of turning 26, Bennett appeared in 11 regular-season games with the Eagles last season and recorded just seven tackles (six solo) with one pass breakup. He's competing for a depth job in the Philly secondary.",
           "shortComment": "Bennett (knee) did not practice Thursday, Andrew DiCecco of InsideTheBirds.com reports.",
           "status": "Questionable",
           "date": "2026-08-21T01:37Z",
@@ -379927,7 +379927,7 @@
                   "type": "news",
                   "date": "2026-08-21T01:37Z",
                   "headline": "Bennett (knee) did not practice Thursday, Andrew DiCecco of InsideTheBirds.com reports.",
-                  "text": "Turning 26 years old in three days, Bennett appeared in 11 regular-season games with the Eagles last season and recorded just seven tackles (six solo) with one pass breakup. He's competing for a depth job in the Philly secondary.",
+                  "text": "Just shy of turning 26, Bennett appeared in 11 regular-season games with the Eagles last season and recorded just seven tackles (six solo) with one pass breakup. He's competing for a depth job in the Philly secondary.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4686911/injuries/634278?lang=en&region=us"
@@ -379967,7 +379967,7 @@
         },
         {
           "id": "634258",
-          "longComment": "It's a bit of a setback for the sixth-year pro, who is competing in a crowded receiver room for a roster spot behind top target DeVonta Smith. The severity of Moore's injury should help determine his status as camp continues. Moore caught 10 passes for 116 yards across 10 games, regular season and postseason, with the Bills and Broncos last season.",
+          "longComment": "It's a bit of a setback for the sixth-year pro, who is competing in a crowded receiver room for a roster spot behind top target DeVonta Smith. The severity of Moore's injury should help determine his status as camp continues. Moore caught 10 passes for 116 yards across 10 combined regular-season and postseason games with the Bills and Broncos last season.",
           "shortComment": "Moore suffered a neck injury during Wednesday's joint session with the Patriots and had to miss Thursday's practice, Dave Zangaro of NBC Sports Philadelphia reports.",
           "status": "Questionable",
           "date": "2026-08-21T00:10Z",
@@ -380543,7 +380543,7 @@
                   "type": "news",
                   "date": "2026-08-21T00:10Z",
                   "headline": "Moore suffered a neck injury during Wednesday's joint session with the Patriots and had to miss Thursday's practice, Dave Zangaro of NBC Sports Philadelphia reports.",
-                  "text": "It's a bit of a setback for the sixth-year pro, who is competing in a crowded receiver room for a roster spot behind top target DeVonta Smith. The severity of Moore's injury should help determine his status as camp continues. Moore caught 10 passes for 116 yards across 10 games, regular season and postseason, with the Bills and Broncos last season.",
+                  "text": "It's a bit of a setback for the sixth-year pro, who is competing in a crowded receiver room for a roster spot behind top target DeVonta Smith. The severity of Moore's injury should help determine his status as camp continues. Moore caught 10 passes for 116 yards across 10 combined regular-season and postseason games with the Bills and Broncos last season.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4372414/injuries/634258?lang=en&region=us"
@@ -412859,8 +412859,8 @@
         },
         {
           "id": "634290",
-          "longComment": "The cornerback made two solo tackles before leaving the contest. Green started all 16 games he played in, regular season and postseason, during his second NFL campaign a year ago, and he is projected to start again in 2026. If he can't return Thursday, Jack Jones and Ephesians Prysock could see more snaps.",
-          "shortComment": "Green has a hamstring injury and is questionable to return to Thursday's matchup with the Chargers.",
+          "longComment": "The cornerback made two solo tackles before leaving the contest. Green started a combined 16 regular-season and postseason games during his second NFL campaign a year ago, and he is projected to start again in 2026. If he can't return Thursday, Jack Jones and Ephesians Prysock could see more snaps.",
+          "shortComment": "Green has a hamstring injury and is questionable to return to Thursday's preseason matchup with the Chargers.",
           "status": "Questionable",
           "date": "2026-08-21T02:59Z",
           "athlete": {
@@ -413434,8 +413434,8 @@
                   "id": "634290",
                   "type": "news",
                   "date": "2026-08-21T02:59Z",
-                  "headline": "Green has a hamstring injury and is questionable to return to Thursday's matchup with the Chargers.",
-                  "text": "The cornerback made two solo tackles before leaving the contest. Green started all 16 games he played in, regular season and postseason, during his second NFL campaign a year ago, and he is projected to start again in 2026. If he can't return Thursday, Jack Jones and Ephesians Prysock could see more snaps.",
+                  "headline": "Green has a hamstring injury and is questionable to return to Thursday's preseason matchup with the Chargers.",
+                  "text": "The cornerback made two solo tackles before leaving the contest. Green started a combined 16 regular-season and postseason games during his second NFL campaign a year ago, and he is projected to start again in 2026. If he can't return Thursday, Jack Jones and Ephesians Prysock could see more snaps.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4427325/injuries/634290?lang=en&region=us"
@@ -414707,7 +414707,7 @@
         },
         {
           "id": "634267",
-          "longComment": "Just three days after releasing Herbert, the Niners are bringing back the veteran running back after the team placed Patrick Taylor (undisclosed) on injured reserve in a corresponding move. Herbert carried the ball 16 times for 52 scoreless yards across seven regular-season appearances with the Jets last season. He faces an uphill battle to crack the 49ers' roster.",
+          "longComment": "Just three days after cutting Herbert, the Niners are bringing back the veteran running back after the team placed Patrick Taylor (undisclosed) on injured reserve in a corresponding move. Herbert carried the ball 16 times for 52 scoreless yards across seven regular-season appearances with the Jets last season. He faces an uphill battle to crack the 49ers' roster.",
           "shortComment": "The 49ers signed Herbert on Thursday.",
           "status": "Active",
           "date": "2026-08-21T00:49Z",
@@ -415283,7 +415283,7 @@
                   "type": "news",
                   "date": "2026-08-21T00:49Z",
                   "headline": "The 49ers signed Herbert on Thursday.",
-                  "text": "Just three days after releasing Herbert, the Niners are bringing back the veteran running back after the team placed Patrick Taylor (undisclosed) on injured reserve in a corresponding move. Herbert carried the ball 16 times for 52 scoreless yards across seven regular-season appearances with the Jets last season. He faces an uphill battle to crack the 49ers' roster.",
+                  "text": "Just three days after cutting Herbert, the Niners are bringing back the veteran running back after the team placed Patrick Taylor (undisclosed) on injured reserve in a corresponding move. Herbert carried the ball 16 times for 52 scoreless yards across seven regular-season appearances with the Jets last season. He faces an uphill battle to crack the 49ers' roster.",
                   "source": "RotoWire"
                 }
               ]
@@ -415309,7 +415309,7 @@
         },
         {
           "id": "634266",
-          "longComment": "Taylor will spend the 2026 season on the Niners' injured list or he'll be released with an injury settlement, allowing him to look for work elsewhere. He missed all of last season following shoulder surgery. Taylor has carried the ball 104 times for 444 yards and two touchdowns across 47 career regular-season contests.",
+          "longComment": "Taylor will spend the 2026 season on the Niners' injured list or he'll be released with an injury settlement, allowing him to look for work elsewhere. He missed all of last season following shoulder surgery. Taylor has carried the ball 104 times for 444 yards and two touchdowns while adding a 17-94-0 receiving line across 47 career regular-season contests.",
           "shortComment": "The 49ers placed Taylor (undisclosed) on injured reserve Thursday, David Lombardi of SFStandard.com reports.",
           "status": "Injured Reserve",
           "date": "2026-08-21T00:46Z",
@@ -415885,7 +415885,7 @@
                   "type": "news",
                   "date": "2026-08-21T00:46Z",
                   "headline": "The 49ers placed Taylor (undisclosed) on injured reserve Thursday, David Lombardi of SFStandard.com reports.",
-                  "text": "Taylor will spend the 2026 season on the Niners' injured list or he'll be released with an injury settlement, allowing him to look for work elsewhere. He missed all of last season following shoulder surgery. Taylor has carried the ball 104 times for 444 yards and two touchdowns across 47 career regular-season contests.",
+                  "text": "Taylor will spend the 2026 season on the Niners' injured list or he'll be released with an injury settlement, allowing him to look for work elsewhere. He missed all of last season following shoulder surgery. Taylor has carried the ball 104 times for 444 yards and two touchdowns while adding a 17-94-0 receiving line across 47 career regular-season contests.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4039358/injuries/634266?lang=en&region=us"
@@ -470593,7 +470593,7 @@
       "injuries": [
         {
           "id": "634275",
-          "longComment": "The center was dealing with tightness in his calf Wednesday, per Standig. Allegretti has been nursing the calf issue since early August, but he was able to return to practice Tuesday. Standig did also report that the projected starter went through testing that did not reveal any setbacks.",
+          "longComment": "The center was dealing with tightness in his calf Wednesday, per Standig. Allegretti has been nursing the calf issue since early August, but he was able to return to practice Tuesday. Standig also reports the projected starter went through testing that did not reveal any setbacks.",
           "shortComment": "Allegretti (calf) will not play in Saturday's preseason game against Detroit, Ben Standig of Big 100 Washington D.C. reports.",
           "status": "Questionable",
           "date": "2026-08-21T01:30Z",
@@ -471169,7 +471169,7 @@
                   "type": "news",
                   "date": "2026-08-21T01:30Z",
                   "headline": "Allegretti (calf) will not play in Saturday's preseason game against Detroit, Ben Standig of Big 100 Washington D.C. reports.",
-                  "text": "The center was dealing with tightness in his calf Wednesday, per Standig. Allegretti has been nursing the calf issue since early August, but he was able to return to practice Tuesday. Standig did also report that the projected starter went through testing that did not reveal any setbacks.",
+                  "text": "The center was dealing with tightness in his calf Wednesday, per Standig. Allegretti has been nursing the calf issue since early August, but he was able to return to practice Tuesday. Standig also reports the projected starter went through testing that did not reveal any setbacks.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3115922/injuries/634275?lang=en&region=us"
