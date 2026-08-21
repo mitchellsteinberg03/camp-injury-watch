@@ -2190,3 +2190,18 @@ A reverse cross-check of the snapshot's in-scope Questionable/Out/Doubtful/IR en
 **Breaking-news sweep:** WebSearch across all five tracked positions for the ~2h5m window since the 5:15 PM sweep surfaced only already-tracked items (Jordan James, Josh Jacobs, Breece Hall, Kyle Monangai, Jonathan Greenard, Laremy Tunsil, Charvarius Ward, Malik Mustapha) and the Patrick Taylor Jr./Khalil Herbert item added above. No recycled/misdated leads encountered this run.
 
 **Badges:** Recomputed fresh from data-added timestamps (cutoff: anything added before Aug. 19, 7:20 PM ET ages off). 3 aged off — Zyon McCollum (Buccaneers CB), Mason Reiger (Dolphins EDGE), and Trey Sermon (Falcons RB), all added Aug. 19, 7:13 PM ET. 1 new NEW badge added (Patrick Taylor Jr.). Garrett Williams carried no NEW badge (legacy row, added before the badge convention existed). Net badge count: 31 → 29. Tile counts recomputed and verified against current table rows: 67 high / 78 mid / 84 low / 229 all / 29 new.
+
+## Aug 20, 2026, 9:11 PM ET
+
+No new injuries at the five tracked positions in this window (~1h51m since the 7:20 PM ET sweep). No removals.
+
+**Status and designation changes:**
+- Loren Strickland, S, Lions — waived from injured reserve with an injury settlement Wednesday (Aug. 20); officially off the roster and free to sign elsewhere once healthy. Row kept (an injury-settlement release is an in-scope designation change, not a recovery) and updated with the finalized outcome; severity held at high.
+
+**Reconciliation:** Ran against the ESPN snapshot fetched 2026-08-20T23:12:29Z (fetched-at 23:12:39Z, under 2h old at run start — current). Cross-checked all 229 pre-run rows: none of the snapshot's "Active" entries at the five positions matched a dashboard row (both prior removals, Garrett Williams and Najee Harris, had already come off in earlier sweeps), so no row was removed on that signal. Spot-checked existing high/mid rows whose text already read "reverted to injured reserve"/"placed on IR" against the snapshot's Injured Reserve entries — all consistent with prior classification (short-term-IR-eligible cases correctly held at mid, confirmed season-ending cases at high); no reclassification needed. Circuit breaker: not triggered — 0 removals against 229 rows.
+
+A reverse cross-check of the snapshot's Questionable/Doubtful/Out/IR entries against the board surfaced two candidates absent from the dashboard, both declined as non-diagnostic per prior-run precedent: Teddye Buchanan (Ravens LB) — ACL-surgery detail but activated off PUP and practicing, reflects post-surgical status rather than a new injury; Collin Wright (Texans CB) — bare "questionable" comment with no corroborating report and a return-date estimate that has already elapsed.
+
+**Breaking-news sweep:** WebSearch across all five tracked positions surfaced the Strickland settlement (added above) plus already-tracked items (Rashawn Slater, Jeremiyah Love, Matt Waletzko — still pending on waivers per Arrowhead Pride, no reversion to IR confirmed yet, Brandin Echols, Jaquan Brisker, Billy Bowman Jr., Lorenzo Thompson). Out-of-scope items noted and discarded: Alex Wright (CLE, DE — carted off), Danny Pinter (BAL, C — torn patella tendon), Tyler Biadasz (LAC, C — recycled), Charlie Jones (CIN, WR).
+
+**Badges:** Recomputed fresh from data-added timestamps (cutoff: anything added before Aug. 19, 9:11 PM ET ages off). None aged off — the earliest live NEW badge (Jahquez Robinson, John Ojukwu, Quincy Riley, Fred Johnson; Ravens/Eagles/Saints, added Aug. 20, 9:30 AM ET) sits well inside the 24h window. Net badge count unchanged: 29. Tile counts unchanged and verified against current table rows: 67 high / 78 mid / 84 low / 229 all / 29 new.
