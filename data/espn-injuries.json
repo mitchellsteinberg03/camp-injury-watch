@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T05:50:04Z",
+  "timestamp": "2026-08-23T07:51:53Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -12,6 +12,608 @@
       "id": "22",
       "displayName": "Arizona Cardinals",
       "injuries": [
+        {
+          "id": "634572",
+          "longComment": "Ryland's one miss was excusable considering the distance, and the fourth-year pro was otherwise perfect on the night. Through three preseason games, the 2023 fourth-round pick of the Patriots is 7-for-9 on field goals and has connected on all seven extra-point tries. Ryland is the only placekicker on the Cardinals' roster and will be looking to improve on the 81.5 percent success rate on field goals that he's mustered over his first two seasons in Arizona during the 2026 campaign.",
+          "shortComment": "Ryland made field goals of 38 and 31 yards, missed a 62-yarder wide right and knocked through his only extra-point try in the Cardinals' 34-13 preseason loss to the Cowboys on Saturday.",
+          "status": "Active",
+          "date": "2026-08-23T06:07Z",
+          "athlete": {
+            "firstName": "Chad",
+            "lastName": "Ryland",
+            "displayName": "Chad Ryland",
+            "shortName": "C. Ryland",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4363538/chad-ryland",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/4363538/chad-ryland",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4363538&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/4363538/chad-ryland",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4363538/chad-ryland",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4363538&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/4363538/chad-ryland",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4363538&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/4363538/chad-ryland",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4363538&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4363538/chad-ryland",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4363538",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4363538.png",
+              "alt": "Chad Ryland"
+            },
+            "position": {
+              "id": "22",
+              "name": "Place kicker",
+              "displayName": "Place Kicker",
+              "abbreviation": "PK",
+              "leaf": true
+            },
+            "team": {
+              "id": "22",
+              "uid": "s:20~l:28~t:22",
+              "slug": "arizona-cardinals",
+              "name": "Cardinals",
+              "abbreviation": "ARI",
+              "displayName": "Arizona Cardinals",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2024-06-25T18:43Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/ari.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:43Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2024-06-25T18:44Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/ari.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:43Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-31T12:54Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/ari/arizona-cardinals",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/ari/arizona-cardinals",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:22&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/ari/arizona-cardinals",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:22&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/ari",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:22&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/ari",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/arizona-cardinals-tickets--sports-nfl-football/performer/40?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/ari/arizona-cardinals",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/ari",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/ari",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/ari",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:22&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "634572",
+                  "type": "news",
+                  "date": "2026-08-23T06:07Z",
+                  "headline": "Ryland made field goals of 38 and 31 yards, missed a 62-yarder wide right and knocked through his only extra-point try in the Cardinals' 34-13 preseason loss to the Cowboys on Saturday.",
+                  "text": "Ryland's one miss was excusable considering the distance, and the fourth-year pro was otherwise perfect on the night. Through three preseason games, the 2023 fourth-round pick of the Patriots is 7-for-9 on field goals and has connected on all seven extra-point tries. Ryland is the only placekicker on the Cardinals' roster and will be looking to improve on the 81.5 percent success rate on field goals that he's mustered over his first two seasons in Arizona during the 2026 campaign.",
+                  "source": "RotoWire"
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "0",
+            "name": "INJURY_STATUS_ACTIVE",
+            "description": "active",
+            "abbreviation": "A"
+          }
+        },
         {
           "id": "634539",
           "longComment": "Taylor-Demerson picked up the injury in the first quarter of Saturday's game, and he'll finish with one solo tackle if he's not cleared to return. Wydett Williams is in line for additional snaps in the secondary for as long as Taylor-Demerson is out of action.",
@@ -14647,608 +15249,6 @@
                   "date": "2026-08-14T03:24Z",
                   "headline": "Wilson brought in both targets for 23 yards in the Cardinals' 27-14 preseason win over the Raiders on Thursday.",
                   "text": "The Cardinals' starting offense took the field on the opening possession, and Wilson was on the receiving end of two of Jacoby Brissett's first three completions. The fourth-year wideout is coming off having posted a career-best 78-1,006-7 line on 126 targets over 17 regular-season games in 2025, but if Marvin Harrison is able to enjoy better healthy this coming season, Wilson could be headed for at least a slight statistical downturn in his No. 2 receiver role.",
-                  "source": "RotoWire"
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "0",
-            "name": "INJURY_STATUS_ACTIVE",
-            "description": "active",
-            "abbreviation": "A"
-          }
-        },
-        {
-          "id": "633014",
-          "longComment": "Bowman's roster spot opened up after fellow tight end Kenny Yeboah (hamstring) was placed on injured reserve. Bowman is a third-year undrafted free agent out of Rutgers who has yet to participate in an NFL game. Yeboah's season-ending issue, as well as the absence of Tip Reiman (ankle), likely prompted the Cardinals' front offense to address the preseason depth at tight end.",
-          "shortComment": "The Cardinals signed Bowman to a contract Sunday, Zach Gershman of the team's official site reports.",
-          "status": "Active",
-          "date": "2026-08-09T18:50Z",
-          "athlete": {
-            "firstName": "Shawn",
-            "lastName": "Bowman",
-            "displayName": "Shawn Bowman",
-            "shortName": "S. Bowman",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4366910/shawn-bowman",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/4366910/shawn-bowman",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4366910&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/4366910/shawn-bowman",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4366910/shawn-bowman",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4366910&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/4366910/shawn-bowman",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4366910&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/4366910/shawn-bowman",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4366910&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4366910/shawn-bowman",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4366910",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4366910.png",
-              "alt": "Shawn Bowman"
-            },
-            "position": {
-              "id": "7",
-              "name": "Tight End",
-              "displayName": "Tight End",
-              "abbreviation": "TE",
-              "leaf": true
-            },
-            "team": {
-              "id": "22",
-              "uid": "s:20~l:28~t:22",
-              "slug": "arizona-cardinals",
-              "name": "Cardinals",
-              "abbreviation": "ARI",
-              "displayName": "Arizona Cardinals",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2024-06-25T18:43Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/ari.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:43Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2024-06-25T18:44Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/ari.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:43Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-31T12:54Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/8fc7b962-95e1-3cb8-6a7d-b499de9ad546/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/ari/arizona-cardinals",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/ari/arizona-cardinals",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:22&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/ari/arizona-cardinals",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:22&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/ari",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:22&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/ari",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/arizona-cardinals-tickets--sports-nfl-football/performer/40?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/ari/arizona-cardinals",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/ari",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/ari",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/ari",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:22&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "633014",
-                  "type": "news",
-                  "date": "2026-08-09T18:50Z",
-                  "headline": "The Cardinals signed Bowman to a contract Sunday, Zach Gershman of the team's official site reports.",
-                  "text": "Bowman's roster spot opened up after fellow tight end Kenny Yeboah (hamstring) was placed on injured reserve. Bowman is a third-year undrafted free agent out of Rutgers who has yet to participate in an NFL game. Yeboah's season-ending issue, as well as the absence of Tip Reiman (ankle), likely prompted the Cardinals' front offense to address the preseason depth at tight end.",
                   "source": "RotoWire"
                 }
               ]
@@ -33458,7 +33458,7 @@
         },
         {
           "id": "634514",
-          "longComment": "Quarterback Tyler Huntley missed Lane on a deep pass late in the first quarter, but the duo connected on a nine-yard catch early in the second frame, which led to a 49-yard field goal by Tyler Loop two plays later. Lane has been one of the Ravens' standout players in training camp, and the rookie third-rounder flashed that potential in Baltimore's preseason opener against Philadelphia, when he caught three passes on as many targets for 38 yards and a score. Lane could work his way up to the WR2 role behind Zay Flowers with a strong finish to training camp, considering Rashod Bateman facing charges stemming from a domestic incident in June.",
+          "longComment": "Quarterback Tyler Huntley missed Lane on a deep pass late in the first quarter, but the duo connected on a nine-yard catch early in the second frame, which led to a 49-yard field goal by Tyler Loop two plays later. Lane has been one of the Ravens' standout players in training camp, and the rookie third-rounder flashed that potential in Baltimore's preseason opener against Philadelphia, when he caught three passes on as many targets for 38 yards and a score. Lane could work his way up to the WR2 role behind Zay Flowers with a strong finish to training camp, considering Rashod Bateman is facing charges stemming from a domestic incident in June.",
           "shortComment": "Lane caught one pass on two targets for nine yards during the Ravens' 13-3 preseason win over the Vikings on Saturday.",
           "status": "Active",
           "date": "2026-08-22T23:58Z",
@@ -34034,7 +34034,7 @@
                   "type": "news",
                   "date": "2026-08-22T23:58Z",
                   "headline": "Lane caught one pass on two targets for nine yards during the Ravens' 13-3 preseason win over the Vikings on Saturday.",
-                  "text": "Quarterback Tyler Huntley missed Lane on a deep pass late in the first quarter, but the duo connected on a nine-yard catch early in the second frame, which led to a 49-yard field goal by Tyler Loop two plays later. Lane has been one of the Ravens' standout players in training camp, and the rookie third-rounder flashed that potential in Baltimore's preseason opener against Philadelphia, when he caught three passes on as many targets for 38 yards and a score. Lane could work his way up to the WR2 role behind Zay Flowers with a strong finish to training camp, considering Rashod Bateman facing charges stemming from a domestic incident in June.",
+                  "text": "Quarterback Tyler Huntley missed Lane on a deep pass late in the first quarter, but the duo connected on a nine-yard catch early in the second frame, which led to a 49-yard field goal by Tyler Loop two plays later. Lane has been one of the Ravens' standout players in training camp, and the rookie third-rounder flashed that potential in Baltimore's preseason opener against Philadelphia, when he caught three passes on as many targets for 38 yards and a score. Lane could work his way up to the WR2 role behind Zay Flowers with a strong finish to training camp, considering Rashod Bateman is facing charges stemming from a domestic incident in June.",
                   "source": "RotoWire"
                 }
               ]
@@ -75951,7 +75951,7 @@
       "injuries": [
         {
           "id": "634567",
-          "longComment": "The veteran kicker's one miss is somewhat excusable given the distance, as well as his accuracy on the three attempts that preceded it. Santos is set to serve as the Bears' placekicker for the seventh straight season following a 2025 campaign in which he connected on 83.3 percent of his 30 field-goal attempts and all 39 of his point-after tries across 15 regular-season games.",
+          "longComment": "The veteran kicker's one miss is somewhat excusable given the distance, as well as his accuracy on the three attempts that preceded it. The veteran, who's now 5-for-7 on field goals and 4-for-4 on PATs through two preseason games, is set to serve as the Bears' placekicker for the seventh straight season following a 2025 campaign in which he connected on 83.3 percent of his 30 field-goal attempts and all 39 of his point-after tries across 15 regular-season games.",
           "shortComment": "Santos connected on field-goal attempts of 45, 26 and 44 yards and missed wide right from 53 yards in the Bears' 27-9 preseason loss to the Bengals on Saturday.",
           "status": "Active",
           "date": "2026-08-23T04:43Z",
@@ -76527,7 +76527,7 @@
                   "type": "news",
                   "date": "2026-08-23T04:43Z",
                   "headline": "Santos connected on field-goal attempts of 45, 26 and 44 yards and missed wide right from 53 yards in the Bears' 27-9 preseason loss to the Bengals on Saturday.",
-                  "text": "The veteran kicker's one miss is somewhat excusable given the distance, as well as his accuracy on the three attempts that preceded it. Santos is set to serve as the Bears' placekicker for the seventh straight season following a 2025 campaign in which he connected on 83.3 percent of his 30 field-goal attempts and all 39 of his point-after tries across 15 regular-season games.",
+                  "text": "The veteran kicker's one miss is somewhat excusable given the distance, as well as his accuracy on the three attempts that preceded it. The veteran, who's now 5-for-7 on field goals and 4-for-4 on PATs through two preseason games, is set to serve as the Bears' placekicker for the seventh straight season following a 2025 campaign in which he connected on 83.3 percent of his 30 field-goal attempts and all 39 of his point-after tries across 15 regular-season games.",
                   "source": "RotoWire"
                 }
               ]
@@ -91175,7 +91175,7 @@
       "injuries": [
         {
           "id": "634568",
-          "longComment": "McPherson put the Bengals on the board with 4:40 remaining in the opening period via his 25-yarder before pushing through his long-distance boot with 14:11 remaining in the contest to close out the scoring for either squad. McPherson is set to serve as Cincinnati's placekicker for the sixth straight season, and he's coming off a 2025 campaign where he posted a career-best 89.3 percent success rate on field goals and also went 41-for-44 on extra-point tries across 17 regular-season games.",
+          "longComment": "McPherson put the Bengals on the board with 4:40 remaining in the opening period via his 25-yarder before pushing through his long-distance boot with 14:11 remaining in the contest to close out the scoring for either squad. McPherson, who's now 5-for-5 on field goals and 4-4 on PATs through two preseason games, is set to serve as Cincinnati's placekicker for the sixth straight season. The 2021 fifth-round pick is coming off a 2025 campaign where he posted a career-best 89.3 percent success rate on field goals and also went 41-for-44 on extra-point tries across 17 regular-season games.",
           "shortComment": "McPherson connected on field-goal attempts of 25 and 58 yards while also knocking home all three PATs in the Bengals' 27-9 preseason win over the Bears on Saturday.",
           "status": "Active",
           "date": "2026-08-23T04:48Z",
@@ -91751,7 +91751,7 @@
                   "type": "news",
                   "date": "2026-08-23T04:48Z",
                   "headline": "McPherson connected on field-goal attempts of 25 and 58 yards while also knocking home all three PATs in the Bengals' 27-9 preseason win over the Bears on Saturday.",
-                  "text": "McPherson put the Bengals on the board with 4:40 remaining in the opening period via his 25-yarder before pushing through his long-distance boot with 14:11 remaining in the contest to close out the scoring for either squad. McPherson is set to serve as Cincinnati's placekicker for the sixth straight season, and he's coming off a 2025 campaign where he posted a career-best 89.3 percent success rate on field goals and also went 41-for-44 on extra-point tries across 17 regular-season games.",
+                  "text": "McPherson put the Bengals on the board with 4:40 remaining in the opening period via his 25-yarder before pushing through his long-distance boot with 14:11 remaining in the contest to close out the scoring for either squad. McPherson, who's now 5-for-5 on field goals and 4-4 on PATs through two preseason games, is set to serve as Cincinnati's placekicker for the sixth straight season. The 2021 fifth-round pick is coming off a 2025 campaign where he posted a career-best 89.3 percent success rate on field goals and also went 41-for-44 on extra-point tries across 17 regular-season games.",
                   "source": "RotoWire"
                 }
               ]
@@ -121551,7 +121551,7 @@
       "injuries": [
         {
           "id": "634571",
-          "longComment": "Milton drew the start and immediately led the Cowboys on a 12-play, 66-yard march that ended on downs at the Cardinals' 12-yard line. However, Dallas got the ball back three plays later thanks to an interception, and Milton cashed in on the short field with an eight-yard touchdown pass to Malik Davis. The strong-armed third-year pro then connected with Jonathan Mingo for a 53-yard scoring strike the next time he had the ball, and Milton would run it in himself from a yard out to cap off the following possession. He'd subsequently lead the Cowboys to three more points to finish out his stellar first half, and Milton may have already locked in the No. 2 quarterback job over Sam Howell with Friday's preseason finale at home against the Saints still to be played.",
+          "longComment": "Milton drew the start and immediately led the Cowboys on a 12-play, 66-yard march that ended on downs at the Cardinals' 12-yard line. However, Dallas got the ball back three plays later thanks to an interception, and Milton cashed in on the short field with an eight-yard touchdown pass to Malik Davis. The strong-armed third-year pro then connected with Jonathan Mingo on a perfectly thrown 53-yard scoring strike down the left side of the field the next time he had the ball, and Milton would run it in himself from a yard out to cap off the following possession. He'd subsequently lead the Cowboys to three more points to finish out his stellar first half, and Milton may have already locked in the No. 2 quarterback job over Sam Howell with Friday's preseason finale at home against the Saints still to be played.",
           "shortComment": "Milton completed nine of 13 passes for 179 yards with two touchdowns and no interceptions and rushed three times for two yards and another score in the Cowboys' 34-13 preseason win over the Cardinals on Saturday.",
           "status": "Active",
           "date": "2026-08-23T05:37Z",
@@ -122127,7 +122127,7 @@
                   "type": "news",
                   "date": "2026-08-23T05:37Z",
                   "headline": "Milton completed nine of 13 passes for 179 yards with two touchdowns and no interceptions and rushed three times for two yards and another score in the Cowboys' 34-13 preseason win over the Cardinals on Saturday.",
-                  "text": "Milton drew the start and immediately led the Cowboys on a 12-play, 66-yard march that ended on downs at the Cardinals' 12-yard line. However, Dallas got the ball back three plays later thanks to an interception, and Milton cashed in on the short field with an eight-yard touchdown pass to Malik Davis. The strong-armed third-year pro then connected with Jonathan Mingo for a 53-yard scoring strike the next time he had the ball, and Milton would run it in himself from a yard out to cap off the following possession. He'd subsequently lead the Cowboys to three more points to finish out his stellar first half, and Milton may have already locked in the No. 2 quarterback job over Sam Howell with Friday's preseason finale at home against the Saints still to be played.",
+                  "text": "Milton drew the start and immediately led the Cowboys on a 12-play, 66-yard march that ended on downs at the Cardinals' 12-yard line. However, Dallas got the ball back three plays later thanks to an interception, and Milton cashed in on the short field with an eight-yard touchdown pass to Malik Davis. The strong-armed third-year pro then connected with Jonathan Mingo on a perfectly thrown 53-yard scoring strike down the left side of the field the next time he had the ball, and Milton would run it in himself from a yard out to cap off the following possession. He'd subsequently lead the Cowboys to three more points to finish out his stellar first half, and Milton may have already locked in the No. 2 quarterback job over Sam Howell with Friday's preseason finale at home against the Saints still to be played.",
                   "source": "RotoWire"
                 }
               ]
@@ -122153,7 +122153,7 @@
         },
         {
           "id": "634570",
-          "longComment": "Blue shook off the shoulder issue that had led to a pair of absences and limited participation in the three practices prior to Saturday's game, leading the Cowboys in rush attempts and rushing yards on the night. Blue has seen 25 total touches over the first two preseason games as head coach Brian Schottenheimer gives the second-year back a long look in the competition for the No. 2 running back role. While Blue's performance Saturday was certainly impressive, fellow backs Malik Davis and Phil Mafah also had some standout plays Saturday, and the competition therefore may remain unsettled until the conclusion of Friday's home preseason finale against the Saints.",
+          "longComment": "Blue shook off the shoulder issue that had led to a pair of absences and limited participation in the last three practices prior to Saturday's game, leading the Cowboys in rush attempts and rushing yards on the night. Blue has seen 25 total touches over the first two preseason games as head coach Brian Schottenheimer gives the second-year back a long look in the competition for the No. 2 running back role. While Blue's performance Saturday was certainly impressive, fellow backs Malik Davis and Phil Mafah also had some standout plays, and the competition therefore may remain unsettled until the conclusion of Friday's home preseason finale against the Saints.",
           "shortComment": "Blue (shoulder) rushed 15 times for 75 yards in the Cowboys' 34-13 preseason win over the Cardinals on Saturday. He also returned one kickoff for 26 yards.",
           "status": "Active",
           "date": "2026-08-23T05:20Z",
@@ -122729,7 +122729,7 @@
                   "type": "news",
                   "date": "2026-08-23T05:20Z",
                   "headline": "Blue (shoulder) rushed 15 times for 75 yards in the Cowboys' 34-13 preseason win over the Cardinals on Saturday. He also returned one kickoff for 26 yards.",
-                  "text": "Blue shook off the shoulder issue that had led to a pair of absences and limited participation in the three practices prior to Saturday's game, leading the Cowboys in rush attempts and rushing yards on the night. Blue has seen 25 total touches over the first two preseason games as head coach Brian Schottenheimer gives the second-year back a long look in the competition for the No. 2 running back role. While Blue's performance Saturday was certainly impressive, fellow backs Malik Davis and Phil Mafah also had some standout plays Saturday, and the competition therefore may remain unsettled until the conclusion of Friday's home preseason finale against the Saints.",
+                  "text": "Blue shook off the shoulder issue that had led to a pair of absences and limited participation in the last three practices prior to Saturday's game, leading the Cowboys in rush attempts and rushing yards on the night. Blue has seen 25 total touches over the first two preseason games as head coach Brian Schottenheimer gives the second-year back a long look in the competition for the No. 2 running back role. While Blue's performance Saturday was certainly impressive, fellow backs Malik Davis and Phil Mafah also had some standout plays, and the competition therefore may remain unsettled until the conclusion of Friday's home preseason finale against the Saints.",
                   "source": "RotoWire"
                 }
               ]
@@ -275157,7 +275157,7 @@
         },
         {
           "id": "634512",
-          "longComment": "Matthew Stafford and most of the Rams' starters were sidelined for Saturday's exhibition contest. As was the case in the preseason opener against the Kansas City, Stetson Bennett served as the starter against New Orleans, and he played well under center before turning the keys over to Simpson midway through the third quarter. Simpson couldn't replicate the production he had against the Chiefs, but he managed to lead an 11-play, 66 yard scoring drive in the fourth quarter that ended with an 12-yard rushing touchdown by Jarquez Hunter. It appears as though Simpson is securely slated as the Rams' QB3 behind Stafford and Bennett heading into the regular season. The Rams wrap up their preseason slate Thursday against the Chargers.",
+          "longComment": "Matthew Stafford and most of the Rams' starters were sidelined for Saturday's exhibition contest. As was the case in the preseason opener against the Kansas City, Stetson Bennett served as the starter against New Orleans, and he played well under center before turning the keys over to Simpson midway through the third quarter. Simpson couldn't replicate the production he had against the Chiefs, but he managed to lead an 11-play, 66-yard scoring drive in the fourth quarter that ended with an 12-yard rushing touchdown by Jarquez Hunter. It appears as though Simpson is securely slated as the Rams' QB3 behind Stafford and Bennett heading into the regular season. The Rams wrap up their preseason slate Thursday against the Chargers.",
           "shortComment": "Simpson completed eight of 12 passes for 73 yards and added three carries for 10 yards during the Rams' 34-0 preseason win over the Saints on Saturday.",
           "status": "Active",
           "date": "2026-08-22T23:46Z",
@@ -275733,7 +275733,7 @@
                   "type": "news",
                   "date": "2026-08-22T23:46Z",
                   "headline": "Simpson completed eight of 12 passes for 73 yards and added three carries for 10 yards during the Rams' 34-0 preseason win over the Saints on Saturday.",
-                  "text": "Matthew Stafford and most of the Rams' starters were sidelined for Saturday's exhibition contest. As was the case in the preseason opener against the Kansas City, Stetson Bennett served as the starter against New Orleans, and he played well under center before turning the keys over to Simpson midway through the third quarter. Simpson couldn't replicate the production he had against the Chiefs, but he managed to lead an 11-play, 66 yard scoring drive in the fourth quarter that ended with an 12-yard rushing touchdown by Jarquez Hunter. It appears as though Simpson is securely slated as the Rams' QB3 behind Stafford and Bennett heading into the regular season. The Rams wrap up their preseason slate Thursday against the Chargers.",
+                  "text": "Matthew Stafford and most of the Rams' starters were sidelined for Saturday's exhibition contest. As was the case in the preseason opener against the Kansas City, Stetson Bennett served as the starter against New Orleans, and he played well under center before turning the keys over to Simpson midway through the third quarter. Simpson couldn't replicate the production he had against the Chiefs, but he managed to lead an 11-play, 66-yard scoring drive in the fourth quarter that ended with an 12-yard rushing touchdown by Jarquez Hunter. It appears as though Simpson is securely slated as the Rams' QB3 behind Stafford and Bennett heading into the regular season. The Rams wrap up their preseason slate Thursday against the Chargers.",
                   "source": "RotoWire"
                 }
               ]
@@ -304967,7 +304967,7 @@
         },
         {
           "id": "634533",
-          "longComment": "The rookie sixth-rounder was listed as the starter while veterans Aaron Jones and Jordan Mason observed Saturday's game from the sidelines. Claiborne's longest carry of the night went for nine yards, but he combined for only 9 yards over his other seven rushes. Through two preseason games, the Wake Forest product has turned 20 carries into 52 yards (2.6 YPC) while adding 71 yards on three kickoff returns. Jones and Mason both figure to see the bulk of the Vikings' workload out of the backfield this season, so most of Claiborne's playing time may come on special teams as a returner on kickoffs.",
+          "longComment": "The rookie sixth-rounder was listed as the starter while veterans Aaron Jones and Jordan Mason observed Saturday's game from the sidelines. Claiborne's longest carry of the night went for nine yards, but he combined for only nine yards over his other seven rushes. Through two preseason games, the Wake Forest product has turned 20 carries into 52 yards (2.6 YPC) while adding 71 yards on three kickoff returns. Jones and Mason both figure to see the bulk of the Vikings' workload out of the backfield this season, so most of Claiborne's playing time may come on special teams as a returner on kickoffs.",
           "shortComment": "Claiborne turned eight carries into 18 yards and caught his lone target for seven yards during the Vikings' 13-3 loss to the Ravens on Saturday. He also returned one kickoff for 21 yards.",
           "status": "Active",
           "date": "2026-08-23T02:24Z",
@@ -305543,7 +305543,7 @@
                   "type": "news",
                   "date": "2026-08-23T02:24Z",
                   "headline": "Claiborne turned eight carries into 18 yards and caught his lone target for seven yards during the Vikings' 13-3 loss to the Ravens on Saturday. He also returned one kickoff for 21 yards.",
-                  "text": "The rookie sixth-rounder was listed as the starter while veterans Aaron Jones and Jordan Mason observed Saturday's game from the sidelines. Claiborne's longest carry of the night went for nine yards, but he combined for only 9 yards over his other seven rushes. Through two preseason games, the Wake Forest product has turned 20 carries into 52 yards (2.6 YPC) while adding 71 yards on three kickoff returns. Jones and Mason both figure to see the bulk of the Vikings' workload out of the backfield this season, so most of Claiborne's playing time may come on special teams as a returner on kickoffs.",
+                  "text": "The rookie sixth-rounder was listed as the starter while veterans Aaron Jones and Jordan Mason observed Saturday's game from the sidelines. Claiborne's longest carry of the night went for nine yards, but he combined for only nine yards over his other seven rushes. Through two preseason games, the Wake Forest product has turned 20 carries into 52 yards (2.6 YPC) while adding 71 yards on three kickoff returns. Jones and Mason both figure to see the bulk of the Vikings' workload out of the backfield this season, so most of Claiborne's playing time may come on special teams as a returner on kickoffs.",
                   "source": "RotoWire"
                 }
               ]
@@ -339485,7 +339485,7 @@
         },
         {
           "id": "634515",
-          "longComment": "Lance missed the Saints' preseason opener against the Jaguars due to an undisclosed injury, but he was cleared to play against Los Angeles. Several Saints starters, including wide receivers Chris Olave, Devaughn Vele and rookie first-rounder Jordyn Tyson (hamstring) were idle for Saturday's exhibition contest, so Lance joined Bub Means and Kevin Austin as the starters at wide receiver. Lance didn't get off to a great start with a holding penalty late in the first quarter, but he did haul in a nice 12-yard pass from Zach Wilson on the final play of the frame. Lance worked with the Saints' first-team offense earlier in the week during joint practice with the Cowboys, and the North Dakota State product could be the team's WR3 behind Olave and Vele for the first few games of the regular season, considering Tyson is expected to miss several weeks due to his hamstring injury. The Saints will wrap up the preseason this Friday against the Cowboys in Dallas.",
+          "longComment": "Lance missed the Saints' preseason opener against the Jaguars due to an undisclosed injury, but he was cleared to play against Los Angeles. Several Saints starters -- including wide receivers Chris Olave, Devaughn Vele and rookie first-rounder Jordyn Tyson (hamstring) -- were idle for Saturday's exhibition contest, so Lance joined Bub Means and Kevin Austin as the starters at wide receiver. Lance didn't get off to a great start with a holding penalty late in the first quarter, but he did haul in a nice 12-yard pass from Zach Wilson on the final play of the frame. Lance worked with the Saints' first-team offense earlier in the week during joint practice with the Cowboys, and the North Dakota State product could be the team's WR3 behind Olave and Vele for the first few games of the regular season, considering Tyson is expected to miss several weeks due to his hamstring injury. The Saints will wrap up the preseason this Friday against the Cowboys in Dallas.",
           "shortComment": "Lance caught both of his targets for 16 yards during the Saints' 34-0 preseason loss to the Rams on Saturday.",
           "status": "Active",
           "date": "2026-08-23T00:14Z",
@@ -340061,7 +340061,7 @@
                   "type": "news",
                   "date": "2026-08-23T00:14Z",
                   "headline": "Lance caught both of his targets for 16 yards during the Saints' 34-0 preseason loss to the Rams on Saturday.",
-                  "text": "Lance missed the Saints' preseason opener against the Jaguars due to an undisclosed injury, but he was cleared to play against Los Angeles. Several Saints starters, including wide receivers Chris Olave, Devaughn Vele and rookie first-rounder Jordyn Tyson (hamstring) were idle for Saturday's exhibition contest, so Lance joined Bub Means and Kevin Austin as the starters at wide receiver. Lance didn't get off to a great start with a holding penalty late in the first quarter, but he did haul in a nice 12-yard pass from Zach Wilson on the final play of the frame. Lance worked with the Saints' first-team offense earlier in the week during joint practice with the Cowboys, and the North Dakota State product could be the team's WR3 behind Olave and Vele for the first few games of the regular season, considering Tyson is expected to miss several weeks due to his hamstring injury. The Saints will wrap up the preseason this Friday against the Cowboys in Dallas.",
+                  "text": "Lance missed the Saints' preseason opener against the Jaguars due to an undisclosed injury, but he was cleared to play against Los Angeles. Several Saints starters -- including wide receivers Chris Olave, Devaughn Vele and rookie first-rounder Jordyn Tyson (hamstring) -- were idle for Saturday's exhibition contest, so Lance joined Bub Means and Kevin Austin as the starters at wide receiver. Lance didn't get off to a great start with a holding penalty late in the first quarter, but he did haul in a nice 12-yard pass from Zach Wilson on the final play of the frame. Lance worked with the Saints' first-team offense earlier in the week during joint practice with the Cowboys, and the North Dakota State product could be the team's WR3 behind Olave and Vele for the first few games of the regular season, considering Tyson is expected to miss several weeks due to his hamstring injury. The Saints will wrap up the preseason this Friday against the Cowboys in Dallas.",
                   "source": "RotoWire"
                 }
               ]
@@ -379735,7 +379735,7 @@
       "injuries": [
         {
           "id": "634551",
-          "longComment": "The veteran kicker got some work in ahead of the regular season in Saturday's close loss. Elliott doesn't have any training camp competition despite the fact he's coming off back-to-back seasons with sub-80.0 percent success rates on field goals.",
+          "longComment": "The veteran kicker got some work in ahead of the regular season in Saturday's close loss. Elliott doesn't have any training camp competition despite the fact he's coming off back-to-back seasons with sub-80.0 percent success rates on field goals. Through two preseason games, Elliott has yet to attempt a field goal and has been perfect on his four PATs.",
           "shortComment": "Elliott connected on all three of his extra-point tries and did not attempt any field goals in the Eagles' 24-21 preseason loss to the Patriots on Saturday.",
           "status": "Active",
           "date": "2026-08-23T03:28Z",
@@ -380311,7 +380311,7 @@
                   "type": "news",
                   "date": "2026-08-23T03:28Z",
                   "headline": "Elliott connected on all three of his extra-point tries and did not attempt any field goals in the Eagles' 24-21 preseason loss to the Patriots on Saturday.",
-                  "text": "The veteran kicker got some work in ahead of the regular season in Saturday's close loss. Elliott doesn't have any training camp competition despite the fact he's coming off back-to-back seasons with sub-80.0 percent success rates on field goals.",
+                  "text": "The veteran kicker got some work in ahead of the regular season in Saturday's close loss. Elliott doesn't have any training camp competition despite the fact he's coming off back-to-back seasons with sub-80.0 percent success rates on field goals. Through two preseason games, Elliott has yet to attempt a field goal and has been perfect on his four PATs.",
                   "source": "RotoWire"
                 }
               ]
@@ -443079,7 +443079,7 @@
         },
         {
           "id": "634541",
-          "longComment": "Irving was one of the healthy Buccaneers offensive starters to suit up Saturday, and offensive coordinator Zac Robinson appeared intent on making sure the third-year back got his work in during his brief time in the game. Irving handled the ball in each of Tampa Bay's first three plays from scrimmage, with 12 of his 14 rushing yards coming on his first pair of touches. Following an injury-plagued 2025 season that saw him miss seven games, Irving is healthy ahead of the 2026 campaign and projected to handle a significant workload as both a runner and receiver following the replacement of free-agent departure Rachaad White with Kenny Gainwell, who's likely to vulture fewer rushing touches.",
+          "longComment": "Irving was one of the healthy Buccaneers offensive starters to suit up Saturday, and offensive coordinator Zac Robinson appeared intent on making sure the third-year back got his work in during his brief time in the game. Irving handled the ball in each of Tampa Bay's first three plays from scrimmage, with 12 of his 14 rushing yards coming on his first pair of touches. Following an injury-plagued 2025 season that saw him miss seven regular-season games, Irving is healthy ahead of the 2026 campaign and projected to handle a significant workload as both a runner and receiver following the replacement of free-agent departure Rachaad White with Kenny Gainwell, who's likely to vulture fewer rushing touches than the latter used to.",
           "shortComment": "Irving rushed three times for 14 yards in the Buccaneers' 16-15 preseason win over the Chiefs on Saturday.",
           "status": "Active",
           "date": "2026-08-23T02:55Z",
@@ -443655,7 +443655,7 @@
                   "type": "news",
                   "date": "2026-08-23T02:55Z",
                   "headline": "Irving rushed three times for 14 yards in the Buccaneers' 16-15 preseason win over the Chiefs on Saturday.",
-                  "text": "Irving was one of the healthy Buccaneers offensive starters to suit up Saturday, and offensive coordinator Zac Robinson appeared intent on making sure the third-year back got his work in during his brief time in the game. Irving handled the ball in each of Tampa Bay's first three plays from scrimmage, with 12 of his 14 rushing yards coming on his first pair of touches. Following an injury-plagued 2025 season that saw him miss seven games, Irving is healthy ahead of the 2026 campaign and projected to handle a significant workload as both a runner and receiver following the replacement of free-agent departure Rachaad White with Kenny Gainwell, who's likely to vulture fewer rushing touches.",
+                  "text": "Irving was one of the healthy Buccaneers offensive starters to suit up Saturday, and offensive coordinator Zac Robinson appeared intent on making sure the third-year back got his work in during his brief time in the game. Irving handled the ball in each of Tampa Bay's first three plays from scrimmage, with 12 of his 14 rushing yards coming on his first pair of touches. Following an injury-plagued 2025 season that saw him miss seven regular-season games, Irving is healthy ahead of the 2026 campaign and projected to handle a significant workload as both a runner and receiver following the replacement of free-agent departure Rachaad White with Kenny Gainwell, who's likely to vulture fewer rushing touches than the latter used to.",
                   "source": "RotoWire"
                 }
               ]
