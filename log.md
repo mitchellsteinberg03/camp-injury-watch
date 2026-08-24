@@ -2753,3 +2753,29 @@ Short window — ~1h59m since the 1:10 PM ET sweep, no new ESPN snapshot landed 
 **Breaking-news sweep:** Checked 18 snapshot entries at the six tracked positions carrying an actionable status (Questionable/Doubtful/Out/IR) and not yet on the dashboard. Declined, all resolving to recovery/return stories or no fresh injury: Michael Hoecht (DE, Bills), Rasheen Ali (RB, Ravens), Teddye Buchanan (LB, Ravens), Dani Dennis-Sutton (DE, Packers), Dominick Puni (G, 49ers), Tyrique Stevenson (CB, Bears), Jordan James (RB, 49ers), Joshua Ezeudu (G, Giants), Christian McCaffrey (RB, 49ers), Romello Height (DE, 49ers), Keldric Faulk (DE, Titans), Markel Bell (OT, Eagles), Taki Taimani (DT, Vikings), Tyreek Chappell (CB, Vikings) — all previously declined and reconfirmed unchanged this run. Newly checked and declined: Nnamdi Madubuike (DT, Ravens) — positive news, cleared from PUP and back at practice after 2025 neck surgery, not a new injury; Maliek Collins (DT, Browns) — passed his physical, eligible to return, not a new injury; Ty Chandler (RB, Saints) — bare "Questionable" tag with no supporting detail found anywhere, left off per the no-fabrication rule. Direct fetches of espn.com and other sites continued to return 403 from the sandbox's egress proxy as expected; all findings rest on WebSearch snippets and the ESPN JSON snapshot.
 
 **Badges:** Recomputed fresh from data-added timestamps (cutoff: anything added before Aug. 23, 5:15 PM ET ages off). 0 aged off this run (the two oldest NEW-badge rows, Devon Marshall and Ashton Jeanty, were both added Aug. 23, 7:08 PM ET — inside the window). 1 new NEW badge added (Lan Larison). Net badge count: 12 → 13. Tile counts recomputed and verified programmatically against current table rows: 84 high / 82 mid / 118 low / 284 all / 13 new.
+
+## Aug 24, 2026, 7:20 PM ET
+
+**New injuries:**
+- Dylan Horton, DE, Texans — helped off the field during Monday's practice; ESPN's injury report lists him Doubtful. An Achilles tear is feared per beat reporting, though the team has not formally confirmed a diagnosis. Severity: high (pending confirmation).
+- Rejzohn Wright, CB, Saints — hip injury; placed on injured reserve Monday per ESPN's report. Severity: mid.
+- Ty Chandler, RB, Saints — knee injury suffered in Saturday's preseason game vs. the Rams, feared to be serious per Nick Underhill (NewOrleans.Football); still being evaluated, expected to miss time. Severity: mid.
+- Raheem Blackshear, RB, Lions — placed on injured reserve Monday; specific injury undisclosed. Severity: mid.
+
+**Status and designation changes:**
+- Trey Benson, RB, Cardinals — waived with an injury designation Monday per the team's official site; will revert to injured reserve if unclaimed on waivers. Severity held at mid; source updated to the team's announcement.
+- Keir Thomas II, LB, Rams — placed on injured reserve Monday after leaving Saturday's preseason game with a groin injury — his second straight year opening on IR; expected to miss the entire 2026 season barring a settlement. Severity raised low → high.
+- Carson Schwesinger, LB, Browns — returned to practice Monday as a limited participant after missing the bulk of camp. Severity held at low; source updated to ESPN's team report.
+- Dameon Pierce, RB, Eagles — returned to practice Monday in a limited role after two weeks out with a hamstring injury; on track to play Friday's preseason finale vs. the Bengals. Severity held at low; source updated to ESPN's team report.
+
+**Removals:**
+- Josh Sweat, LB (EDGE), Cardinals — removed: activated off the PUP list Monday, per the team's official site and ESPN — well enough to practice, ramping up ahead of the Sept. 13 opener.
+- Cooper DeJean, DB (CB), Eagles — removed: no longer on the injury report (absent from today's ESPN snapshot); confirmed returned as a full participant with the first-team defense per beat reporting.
+- Max Iheanachor, OT, Steelers — removed: returned to full-contact practice Monday after ~3 weeks out; plans to play Thursday at Buffalo. ESPN's report has him listed Active as of today.
+- Justin Dedich, OG, Rams — removed: activated off the NFI list Monday, passed physical. ESPN's report has him listed Active as of today.
+
+**Reconciliation:** Ran fully against the ESPN snapshot fetched 2026-08-24T23:03:24Z (~6 minutes old at run start — current) plus WebSearch. Of 284 pre-run rows, 84 carried data-sev="high" and were exempted from the vanished-check. Of the remaining rows checked, all matched or were individually verified via WebSearch as still accurate; the 4 removals above were confirmed via both the snapshot (Active/no-longer-listed status) and independent beat reporting. Circuit breaker: not applicable — 4 removals of 284 pre-run rows (~1.4%), well under the 25% threshold.
+
+**Declined/discarded leads (not added):** Nnamdi Madubuike (DT, Ravens) — snapshot shows he's off PUP and practicing, but the only new comment is uncertainty about Week 1 availability with no new injury or designation; not added, consistent with the prior run's assessment (workout/availability speculation, not an injury fact). Romello Height (DE, 49ers) — the only supporting snapshot entry is dated Aug. 23, already assessed and declined in the prior sweep; not treated as new.
+
+**Badges:** Recomputed fresh from data-added timestamps (cutoff: anything added before Aug. 23, 7:19 PM ET ages off). 2 aged off this run: Devon Marshall (CB, Jaguars), Ashton Jeanty (RB, Raiders) — both added Aug. 23, 7:08 PM ET. 4 new NEW badges added (Dylan Horton, Rejzohn Wright, Ty Chandler, Raheem Blackshear). Net badge count: 13 → 15. Tile counts recomputed and verified programmatically against current table rows: 86 high / 83 mid / 115 low / 284 all / 15 new.
