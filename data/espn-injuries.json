@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T05:54:08Z",
+  "timestamp": "2026-08-25T08:23:25Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -30391,11 +30391,11 @@
       "displayName": "Baltimore Ravens",
       "injuries": [
         {
-          "id": "-1991105",
+          "id": "-1991165",
           "longComment": "questionable",
           "shortComment": "questionable",
           "status": "Questionable",
-          "date": "2026-08-25T05:37Z",
+          "date": "2026-08-25T06:31Z",
           "athlete": {
             "firstName": "Jamon",
             "lastName": "Johnson",
@@ -30964,14 +30964,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-1991105",
+                  "id": "-1991165",
                   "type": "news",
-                  "date": "2026-08-25T05:37Z",
+                  "date": "2026-08-25T06:31Z",
                   "headline": "questionable",
                   "text": "questionable",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4569680/injuries/-1991105?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4569680/injuries/-1991165?lang=en&region=us"
                   }
                 }
               ]
@@ -62600,7 +62600,7 @@
         },
         {
           "id": "634654",
-          "longComment": "Hubbard logged a full practice Monday after missing time with a hamstring injury, which suddenly puts Carolina's backfield rotation back in flux. Drafters had been aggressively moving Brooks up the ADP all summer, and that movement took another leap after Hubbard was labeled week-to-week with a hamstring issue on Aug. 13. Now, it appears that it will be a timeshare in the Carolina backfield, at least to begin the season. The caveat, of course, will be both backs remaining healthy by the time the season kicks off.",
+          "longComment": "Hubbard logged a full practice Monday after missing time with a hamstring injury, which suddenly puts Carolina's backfield rotation back in flux. Drafters had been aggressively moving Brooks up the ADP all summer, and that movement took another leap after Hubbard was labeled week-to-week with a hamstring issue Aug. 13. Now, it appears that it will be a timeshare in the Carolina backfield, at least to begin the season. The caveat, of course, will be both backs remaining healthy by the time the season kicks off.",
           "shortComment": "Coach Dave Canales told reporters Monday that the Panthers will go with a committee Week 1 with Brooks and Chuba Hubbard (hamstring), provided that Hubbard is healthy, per Joe Person of the Athletic.",
           "status": "Active",
           "date": "2026-08-24T16:35Z",
@@ -63176,7 +63176,7 @@
                   "type": "news",
                   "date": "2026-08-24T16:35Z",
                   "headline": "Coach Dave Canales told reporters Monday that the Panthers will go with a committee Week 1 with Brooks and Chuba Hubbard (hamstring), provided that Hubbard is healthy, per Joe Person of the Athletic.",
-                  "text": "Hubbard logged a full practice Monday after missing time with a hamstring injury, which suddenly puts Carolina's backfield rotation back in flux. Drafters had been aggressively moving Brooks up the ADP all summer, and that movement took another leap after Hubbard was labeled week-to-week with a hamstring issue on Aug. 13. Now, it appears that it will be a timeshare in the Carolina backfield, at least to begin the season. The caveat, of course, will be both backs remaining healthy by the time the season kicks off.",
+                  "text": "Hubbard logged a full practice Monday after missing time with a hamstring injury, which suddenly puts Carolina's backfield rotation back in flux. Drafters had been aggressively moving Brooks up the ADP all summer, and that movement took another leap after Hubbard was labeled week-to-week with a hamstring issue Aug. 13. Now, it appears that it will be a timeshare in the Carolina backfield, at least to begin the season. The caveat, of course, will be both backs remaining healthy by the time the season kicks off.",
                   "source": "RotoWire"
                 }
               ]
@@ -432668,7 +432668,7 @@
             "location": "Leg",
             "detail": "Not Specified",
             "side": "Not Specified",
-            "returnDate": "2026-08-23"
+            "returnDate": "2026-08-28"
           }
         },
         {
@@ -433898,7 +433898,9 @@
             },
             "type": "Undisclosed",
             "location": "Other",
-            "returnDate": "2026-08-23"
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-08-28"
           }
         },
         {
@@ -461824,7 +461826,9 @@
             },
             "type": "Biceps",
             "location": "Arm",
-            "returnDate": "2026-08-23"
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-08-29"
           }
         },
         {
@@ -463042,7 +463046,7 @@
             "location": "Leg",
             "detail": "Not Specified",
             "side": "Not Specified",
-            "returnDate": "2026-08-23"
+            "returnDate": "2026-08-29"
           }
         },
         {
@@ -471528,8 +471532,7 @@
               "description": "QUESTIONABLE",
               "abbreviation": "QUESTIONABLE"
             },
-            "type": "Undisclosed",
-            "location": "Other",
+            "type": "Lower Body",
             "detail": "Not Specified",
             "side": "Not Specified",
             "returnDate": "2026-08-28"
@@ -472144,7 +472147,7 @@
               "description": "QUESTIONABLE",
               "abbreviation": "QUESTIONABLE"
             },
-            "type": "Calf",
+            "type": "Hamstring",
             "location": "Leg",
             "detail": "Strain",
             "side": "Not Specified",
