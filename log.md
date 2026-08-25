@@ -2779,3 +2779,15 @@ Short window — ~1h59m since the 1:10 PM ET sweep, no new ESPN snapshot landed 
 **Declined/discarded leads (not added):** Nnamdi Madubuike (DT, Ravens) — snapshot shows he's off PUP and practicing, but the only new comment is uncertainty about Week 1 availability with no new injury or designation; not added, consistent with the prior run's assessment (workout/availability speculation, not an injury fact). Romello Height (DE, 49ers) — the only supporting snapshot entry is dated Aug. 23, already assessed and declined in the prior sweep; not treated as new.
 
 **Badges:** Recomputed fresh from data-added timestamps (cutoff: anything added before Aug. 23, 7:19 PM ET ages off). 2 aged off this run: Devon Marshall (CB, Jaguars), Ashton Jeanty (RB, Raiders) — both added Aug. 23, 7:08 PM ET. 4 new NEW badges added (Dylan Horton, Rejzohn Wright, Ty Chandler, Raheem Blackshear). Net badge count: 13 → 15. Tile counts recomputed and verified programmatically against current table rows: 86 high / 83 mid / 115 low / 284 all / 15 new.
+
+## Aug 24, 2026, 9:10 PM ET
+
+~1h50m since the 7:20 PM ET sweep. No new ESPN snapshot fetched this window (still 2026-08-24T23:03:24Z, the same snapshot the 7:20 PM sweep already reconciled against; ~2h07m old at run start — current, well under 6h).
+
+No news at the six tracked positions this window.
+
+**Reconciliation:** Snapshot unchanged since the prior sweep, so the full snapshot-diff pass was not re-run; the 7:20 PM sweep's reconciliation against this same snapshot stands. Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** WebSearch across all six tracked positions for the ~1h50m window. Checked and confirmed already-tracked with no change: Bud Clark (S, Seahawks, broken ankle), Jeremiyah Love (RB, Cardinals, high ankle sprain), Ashton Jeanty (RB, Raiders, ankle), Breece Hall (RB, Jets, groin), Julius Wood (S, Cowboys, concussion), Mason Richman (G, Seahawks), K.C. Ossai (LB, Texans, IR), D.J. James (CB, Giants, IR). Declined as stale/out-of-window: K.J. Henry (DE, ex-49ers) — traces to an Aug. 12–13 waive/IR, over a week old; C.J. Gardner-Johnson (S, Bills) — traces to an Aug. 1 calf strain, already resolved and returned to practice five days later, well before this tracker's coverage; a Jalen Ramsey "carted off" hit resolved to a stale pre-trade Dolphins-era article (he's tracked correctly as a Steelers CB on PUP). No fresh Aug. 24 evening news found at DT/NT, OT, or OG. Direct fetches of espn.com and other sites continued to return 403 from the sandbox's egress proxy as expected; all findings rest on WebSearch snippets.
+
+**Badges:** Recomputed fresh from data-added timestamps (cutoff: anything added before Aug. 23, 9:10 PM ET ages off). 0 aged off this run (all 15 current NEW-badge rows were added Aug. 24, inside the window). 0 new NEW badges added. Net badge count: 15 → 15. Tile counts verified programmatically against current table rows: 86 high / 83 mid / 115 low / 284 all / 15 new (unchanged from the 7:20 PM sweep).
