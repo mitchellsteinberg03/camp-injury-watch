@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T04:57:54Z",
+  "timestamp": "2026-08-26T07:10:54Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -198629,7 +198629,7 @@
         },
         {
           "id": "634787",
-          "longComment": "Ward dealt with back tightness during the offseason and has continued to battle it this summer, causing him to miss the past couple weeks of action. The Colts will now aim to get Ward ready for the regular-season opener 19 days from now on Sept. 13 against the Ravens. Ward is expected to bookend Sauce Gardner at cornerback for Indianapolis.",
+          "longComment": "Ward dealt with back tightness during the offseason and has continued to battle it this summer, causing him to miss the past couple weeks of action. The Colts will now aim to get Ward ready for the regular-season opener 19 days from now Sept. 13 against the Ravens. Ward is expected to bookend Sauce Gardner at cornerback for Indianapolis.",
           "shortComment": "Ward (back) is back participating in individual drills at practice Tuesday, Joel A. Erickson of The Indianapolis Star reports.",
           "status": "Questionable",
           "date": "2026-08-25T16:32Z",
@@ -199205,7 +199205,7 @@
                   "type": "news",
                   "date": "2026-08-25T16:32Z",
                   "headline": "Ward (back) is back participating in individual drills at practice Tuesday, Joel A. Erickson of The Indianapolis Star reports.",
-                  "text": "Ward dealt with back tightness during the offseason and has continued to battle it this summer, causing him to miss the past couple weeks of action. The Colts will now aim to get Ward ready for the regular-season opener 19 days from now on Sept. 13 against the Ravens. Ward is expected to bookend Sauce Gardner at cornerback for Indianapolis.",
+                  "text": "Ward dealt with back tightness during the offseason and has continued to battle it this summer, causing him to miss the past couple weeks of action. The Colts will now aim to get Ward ready for the regular-season opener 19 days from now Sept. 13 against the Ravens. Ward is expected to bookend Sauce Gardner at cornerback for Indianapolis.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4037361/injuries/634787?lang=en&region=us"
@@ -258776,7 +258776,7 @@
         {
           "id": "634783",
           "longComment": "McDaniel did not indicate what Mitchell has experienced a setback from, as no injury to the running back has been reported this offseason. \"I think the running back position is, we sustained a mild setback with Keaton, but realistically, that's a position that you're always wanting to have three, and I like what our young guys are doing to press into that group,\" McDaniel said regarding the Chargers' backfield depth. Mitchell could be held out of the team's preseason finale Thursday against the Rams, but as yet there's no suggestion he could sit out Week 1 against the Cardinals.",
-          "shortComment": "Chargers offensive coordinator Mike McDaniel  said Monday that there had been \"a mild setback\" with Mitchell.",
+          "shortComment": "Chargers offensive coordinator Mike McDaniel  said Monday that there had been \"a mild setback\" with Mitchell with an undisclosed issue.",
           "status": "Questionable",
           "date": "2026-08-25T16:16Z",
           "athlete": {
@@ -259350,7 +259350,7 @@
                   "id": "634783",
                   "type": "news",
                   "date": "2026-08-25T16:16Z",
-                  "headline": "Chargers offensive coordinator Mike McDaniel  said Monday that there had been \"a mild setback\" with Mitchell.",
+                  "headline": "Chargers offensive coordinator Mike McDaniel  said Monday that there had been \"a mild setback\" with Mitchell with an undisclosed issue.",
                   "text": "McDaniel did not indicate what Mitchell has experienced a setback from, as no injury to the running back has been reported this offseason. \"I think the running back position is, we sustained a mild setback with Keaton, but realistically, that's a position that you're always wanting to have three, and I like what our young guys are doing to press into that group,\" McDaniel said regarding the Chargers' backfield depth. Mitchell could be held out of the team's preseason finale Thursday against the Rams, but as yet there's no suggestion he could sit out Week 1 against the Cardinals.",
                   "source": "RotoWire",
                   "injury": {
