@@ -3990,3 +3990,29 @@ ANOMALY: reconciliation's snapshot cross-check flagged 134 of 340 existing rows 
 **Breaking-news sweep:** ~9 WebSearch queries across all six tracked positions plus general IR/PUP/injury-settlement/waiver-revert queries for the ~55m window. Every lead surfaced was either already accurately tracked with no change (Laremy Tunsil, James Conner, Trey Benson, Vederian Lowe, C.J. Hanson, Ephesians Prysock, Nick Martin, Renardo Green, Nick Emmanwori) or checked and declined: Julian Neal (CB, Seahawks — not Giants as one recycled Ringer roundup implied; already returned to practice, healthy) — not added. Jaishawn Barham (LB, Cowboys, groin) — minor, non-serious per multiple reports, trending toward a full return; not added. Malik Mustapha (S, 49ers, hamstring) — already back at practice per the most recent sourcing; not added. Luke Gifford (LB, 49ers, hamstring) — cleared of any injury designation and active; not added. Ikem Ekwonu (OT, Panthers), Taylor Moton (OT, Panthers), Rashawn Slater (OT, Chargers), Tyler Guyton (OT, Cowboys), Dominick Puni (G, 49ers) — all surfaced via generic camp-injury roundups with no dated news for this window; not cross-checked against current dashboard status, left untouched. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected; all findings rest on WebSearch snippets and the unchanged ESPN JSON snapshot.
 
 **Badges:** Recomputed fresh from data-added timestamps (cutoff: anything added before Aug. 30, 10:08 PM ET ages off). 1 aged off this run (DeShon Elliott, S, Steelers — added Aug. 30, 9:11 PM ET, now over 24h old; data-added attribute retained on the row). 0 new NEW badges added. Net badge count: 42 → 41. Tile counts recomputed and verified against current table rows: 110 high / 152 mid / 96 low / 358 all / 41 new.
+
+## Aug 31, 2026, 11:15 PM ET
+
+~1h07m since the 10:08 PM ET sweep. `git pull` at the top of this run fast-forwarded 27 commits (this run's checkout had been stale). `data/espn-injuries-fetched-at.txt` still reads 2026-08-31T23:53:22Z (~3h22m old at run time — well inside the 6h "current" band), the same snapshot used continuously since the 8:24 PM ET sweep's full reconciliation pass.
+
+**New injuries:** None this run.
+
+**Status and designation changes:**
+- Ikem Ekwonu, OT, Panthers: status text updated — officially confirmed moved to the Reserve/PUP list Sunday (per the fresh ESPN snapshot), still recovering from the Jan. 2026 torn patellar tendon with no firm return date. Severity unchanged at high. Source updated to ESPN's Panthers team injuries page.
+- Zach Charbonnet, RB, Seahawks: status text updated — officially moved from active/PUP to Reserve/PUP Sunday per the Seahawks' own site, locking him out until at least Week 5; injury clarified as the ACL tear suffered in the Jan. 17 divisional-round playoff loss (surgery Feb. 20). Severity unchanged at mid. Source added (legacy row had none).
+
+**Removals:** None this run.
+
+**Reconciliation:** Skipped — no new ESPN snapshot fetch has landed since the 8:24 PM ET sweep's full reconciliation pass (still fetched 2026-08-31T23:53:22Z; see that entry for details). Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** ~12 WebSearch queries across all six tracked positions plus general IR/PUP/injury-settlement/waiver queries for the window. Confirmed several already-tracked entries as accurate with no material change (Zachary Carter, Kyle Monangai, Ashton Jeanty, Chuba Hubbard, Taylor Moton, Jam Miller, Isaiah Iton, Eric Butler). Checked and declined several leads:
+- Three recycled/stale articles caught by the date-consistency check, all absent from the fresh snapshot: Wanya Morris (OT) "placed on IR" — traced to his Dec. 2025 Chiefs IR stint; he was actually traded to the Falcons in June 2026, unrelated to this window. Kevon Seymour (CB, Commanders) "placed on IR" — traced to an old article referencing a playoff divisional-round context, not a current 2026 transaction. Chris Clemons/Kenny Demens (Cardinals) "season-ending IR" — traced to ESPN/Fox News articles with old low-numbered story IDs consistent with a 2013–2014-era Kenny Demens ACL story, not 2026.
+- Dominick Puni, G, 49ers (concussion) — already returned to practice Monday Aug. 31 per reporting; not added.
+- Tyler Guyton, OT, Cowboys (bone fracture) — that fracture was from the 2025 season and fully resolved; his only current issue is a minor, already-recovering sore elbow; not added.
+- Hakeem Adeniji, OT, Cowboys (concussion) — traced to a 2025-season report, not current; not added.
+- Rashawn Slater, OT, Chargers (knee soreness) — vague/general camp-status mentions with no specific dated event this window and no snapshot corroboration beyond a stale Aug. 22 "Questionable" entry; left untracked.
+- Nate Hobbs, CB, 49ers (reported IR) — again absent from the current-and-unchanged fresh league-wide snapshot despite repeated reports; not added/changed, consistent with the 9:13 PM ET entry's finding.
+
+Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected; all findings rest on WebSearch snippets and the unchanged ESPN JSON snapshot.
+
+**Badges:** Recomputed fresh from data-added timestamps (cutoff: anything added before Aug. 30, 11:15 PM ET ages off). 5 aged off this run (Jack Driscoll, Steelers OT, added Aug. 30, 10:14 PM ET; Power Echols, Aaron Smith, Amari Kight, and Brock Lampe, all Seahawks, added Aug. 30, 11:09 PM ET — all now over 24h old; data-added attributes retained on their rows). 0 new NEW badges added. Net badge count: 41 → 36. Tile counts recomputed and verified against current table rows: 110 high / 152 mid / 96 low / 358 all / 36 new.
