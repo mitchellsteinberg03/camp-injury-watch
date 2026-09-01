@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T05:15:55Z",
+  "timestamp": "2026-09-01T11:43:50Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -228839,8 +228839,8 @@
         },
         {
           "id": "635677",
-          "longComment": "Smith was waived with an injury designation on Sunday. The running back cleared waivers and will now spend the entirety of the 2026 regular season on injured reserve unless he is waived with an injury settlement. The undrafted free agent out of Stanford will likely request a settlement to recover from his issue and sign with another franchise.",
-          "shortComment": "Smith (undisclosed) reverted to the Chiefs' injured reserve list Monday, Matt Derrick of ChiefsDigest.com reports.",
+          "longComment": "Smith was waived with an injury designation on Sunday. The running back cleared waivers and will now spend the entirety of the 2026 regular season on injured reserve unless he is waived with an injury settlement.",
+          "shortComment": "Smith (undisclosed) reverted to the Chiefs' injured-reserve list Monday, Matt Derrick of ChiefsDigest.com reports.",
           "status": "Injured Reserve",
           "date": "2026-08-31T23:43Z",
           "athlete": {
@@ -229455,8 +229455,8 @@
         },
         {
           "id": "635673",
-          "longComment": "The Chiefs waived Oladokun with an injury designation on Sunday, and the quarterback went unclaimed on waivers. The 28-year-old will now spend the entirety of the 2026 regular season on IR unless he is waived with an injury settlement.",
-          "shortComment": "Oladokun (undisclosed) reverted to the Chiefs' injured-reserve list Monday, Matt Derrick of ChiefsDigest.com reports.",
+          "longComment": "The Chiefs waived Oladokun with an injury designation Sunday, and the quarterback went unclaimed on waivers. The 28-year-old will now spend the entirety of the 2026 regular season on IR unless he is waived with an injury settlement.",
+          "shortComment": "Oladokun (undisclosed) reverted to the Chiefs' injured reserve list Monday, Matt Derrick of ChiefsDigest.com reports.",
           "status": "Injured Reserve",
           "date": "2026-08-31T23:38Z",
           "athlete": {
@@ -230031,7 +230031,7 @@
                   "type": "news",
                   "date": "2026-08-31T23:38Z",
                   "headline": "Oladokun (undisclosed) reverted to the Chiefs' injured reserve list Monday, Matt Derrick of ChiefsDigest.com reports.",
-                  "text": "The Chiefs waived Oladokun with an injury designation on Sunday, and the quarterback went unclaimed on waivers. The 28-year-old will now spend the entirety of the 2026 regular season on IR unless he is waived with an injury settlement.",
+                  "text": "The Chiefs waived Oladokun with an injury designation Sunday, and the quarterback went unclaimed on waivers. The 28-year-old will now spend the entirety of the 2026 regular season on IR unless he is waived with an injury settlement.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4044111/injuries/635673?lang=en&region=us"
@@ -350522,7 +350522,7 @@
                   "type": "news",
                   "date": "2026-08-31T23:50Z",
                   "headline": "Black (undisclosed) was placed on injured reserve with a designation to return by the Giants on Monday, Dan Salomone and Matt Citak of the team's official site report.",
-                  "text": "The cornerback got injured during New York's final preseason game against the Jets. Black had broken up four passes during preseason action and had likely earned his spot on the active roster. He'll now have to miss the first four games, but the designation to return indicates that the coaching staff sees him as a part of the 53 once he's ready.",
+                  "text": "The cornerback got injured during New York's final preseason game against the Jets. Black had broken up four passes during preseason action and had likely earned his spot on the active roster. He'll now have to miss the first four games, but the designation to return indicates that the coaching staff sees him as a part of the 53 once he's healthy.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4429281/injuries/635681?lang=en&region=us"
@@ -368233,7 +368233,7 @@
                   "id": "635685",
                   "type": "news",
                   "date": "2026-08-31T23:53Z",
-                  "headline": "The Jets moved Baron to the reserve/PUP list Sunday, Eric Allen and Amanda Vogt of the team's official site report.",
+                  "headline": "The Jets moved Baron (knee) to the reserve/PUP list Sunday, Eric Allen and Amanda Vogt of the team's official site report.",
                   "text": "Baron opened training camp on the active/PUP list due to a knee injury he sustained last December. He's not quite ready to participate in practice, and the move to reserve/PUP means he'll be required to miss at least the first four games of the regular season. The second-year pro logged nine tackles (five solo) across six regular-season games last year before his knee injury.",
                   "source": "RotoWire",
                   "injury": {
@@ -381076,7 +381076,7 @@
         },
         {
           "id": "635688",
-          "longComment": "The cornerback has been dealing with a knee injury since around Aug. 20, and he will now need to miss the first four games of the regular season. Bennett has played a depth role in the Philadelphia secondary since joining the team ahead of the 2025 campaign.",
+          "longComment": "The cornerback has been dealing with a knee injury since the latter part of August, and he will now need to miss the first four games of the regular season. Bennett has played a depth role in the Philadelphia secondary since joining the team ahead of the 2025 campaign.",
           "shortComment": "Bennett (knee) was placed on injured reserve with a designation to return by the Eagles on Sunday.",
           "status": "Injured Reserve",
           "date": "2026-08-31T23:57Z",
@@ -381652,7 +381652,7 @@
                   "type": "news",
                   "date": "2026-08-31T23:57Z",
                   "headline": "Bennett (knee) was placed on injured reserve with a designation to return by the Eagles on Sunday.",
-                  "text": "The cornerback has been dealing with a knee injury since around Aug. 20, and he will now need to miss the first four games of the regular season. Bennett has played a depth role in the Philadelphia secondary since joining the team ahead of the 2025 campaign.",
+                  "text": "The cornerback has been dealing with a knee injury since the latter part of August, and he will now need to miss the first four games of the regular season. Bennett has played a depth role in the Philadelphia secondary since joining the team ahead of the 2025 campaign.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4686911/injuries/635688?lang=en&region=us"
@@ -395685,7 +395685,7 @@
         {
           "id": "635694",
           "longComment": "Driscoll will now need to miss at least four games of the regular season on injured reserve before he is eligible to return to the Steelers' active roster. The offensive tackle is dealing with an unknown issue, and it is unclear if he will need more than the minimum required time to recover.",
-          "shortComment": "The Steelers placed Driscoll (undisclosed) on injured reserve Monday with a designation to return during the regular season, Teresa Varley of the team's official site reports.",
+          "shortComment": "The Steelers placed Driscoll (undisclosed) on injured reserve Monday with a designation to return, Teresa Varley of the team's official site reports.",
           "status": "Injured Reserve",
           "date": "2026-09-01T00:04Z",
           "athlete": {
@@ -396259,7 +396259,7 @@
                   "id": "635694",
                   "type": "news",
                   "date": "2026-09-01T00:04Z",
-                  "headline": "The Steelers placed Driscoll (undisclosed) on injured reserve Monday with a designation to return during the regular season, Teresa Varley of the team's official site reports.",
+                  "headline": "The Steelers placed Driscoll (undisclosed) on injured reserve Monday with a designation to return, Teresa Varley of the team's official site reports.",
                   "text": "Driscoll will now need to miss at least four games of the regular season on injured reserve before he is eligible to return to the Steelers' active roster. The offensive tackle is dealing with an unknown issue, and it is unclear if he will need more than the minimum required time to recover.",
                   "source": "RotoWire",
                   "injury": {
@@ -396295,7 +396295,7 @@
             "location": "Other",
             "detail": "Not Specified",
             "side": "Not Specified",
-            "returnDate": "2027-02-15"
+            "returnDate": "2026-10-11"
           }
         },
         {
@@ -410892,7 +410892,7 @@
       "injuries": [
         {
           "id": "635696",
-          "longComment": "The nature of Zakelj's injury is unclear, nor when he picked up the injury. However, by being placed on IR without a designation to return, the 2022 sixth-rounder will be forced to miss the entire upcoming season unless he reached an injury settlement with San Francisco.",
+          "longComment": "The nature of Zakelj's injury is unclear, as is when he exactly picked up the injury. However, by being placed on IR without a designation to return, the 2022 sixth-rounder will be forced to miss the entire upcoming season unless he reached an injury settlement with San Francisco.",
           "shortComment": "Zakelj (undisclosed) was placed on the 49ers' injured reserve Sunday.",
           "status": "Injured Reserve",
           "date": "2026-09-01T00:10Z",
@@ -411468,7 +411468,7 @@
                   "type": "news",
                   "date": "2026-09-01T00:10Z",
                   "headline": "Zakelj (undisclosed) was placed on the 49ers' injured reserve Sunday.",
-                  "text": "The nature of Zakelj's injury is unclear, nor when he picked up the injury. However, by being placed on IR without a designation to return, the 2022 sixth-rounder will be forced to miss the entire upcoming season unless he reached an injury settlement with San Francisco.",
+                  "text": "The nature of Zakelj's injury is unclear, as is when he exactly picked up the injury. However, by being placed on IR without a designation to return, the 2022 sixth-rounder will be forced to miss the entire upcoming season unless he reached an injury settlement with San Francisco.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4247590/injuries/635696?lang=en&region=us"
