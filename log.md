@@ -4284,3 +4284,19 @@ Direct fetches of espn.com and all other outlets continued to return 403 from th
 **Breaking-news sweep:** A dedicated verification pass via WebSearch on the 9 flagged leads (5 additions, 4 non-exempt absences) confirmed all 9 against dated Sept. 1-2, 2026 sources; no recycled/stale articles found among them (one CBS Sports snippet referencing "Week 10/Week 11" for Malcolm Rodriguez was identified as a stale/mis-cached artifact and disregarded in favor of the roster-cut evidence). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected; all findings rest on WebSearch snippets and the freshly fetched ESPN JSON snapshot.
 
 **Badges:** Recomputed fresh from data-added timestamps (cutoff: anything added before Sept. 1, 9:11 PM ET ages off). 3 aged off this run (Josh Minkins, S, Cardinals; JD Bertrand, LB, Falcons; Tanoh Kpassagnon, DE, Titans — all added Aug. 31, 8:24 PM ET, now over 24h old, data-added attributes retained on their rows). 5 new NEW badges added (Nate Hobbs, A.J. Haulcy, Nick Martin, Denzel Perryman, Kalia Davis). Net badge count: 28 → 30. Tile counts recomputed and verified programmatically against current table rows: 125 high / 122 mid / 68 low / 315 all / 30 new.
+
+## Sep 1, 2026, 10:08 PM ET
+
+Quiet ~57m window since the 9:11 PM ET sweep — no news at the six tracked positions.
+
+**New injuries:** None this run.
+
+**Status and designation changes:** None this run.
+
+**Removals:** None this run.
+
+**Reconciliation:** Skipped — `git pull` found no new commits beyond the 9:11 PM ET sweep's HEAD, and `data/espn-injuries-fetched-at.txt` is unchanged at 2026-09-02T00:17:59Z (the same snapshot the 9:11 PM ET sweep already ran a full reconciliation pass against; see that entry for the full breakdown). Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** ~8 WebSearch queries across all six tracked positions plus general IR/PUP/injury-settlement queries for the window. No genuine new developments surfaced. Leads checked and declined: Khalil Jacobs (LB, Patriots), James Conner (RB, Cardinals), Trey Benson (RB, Cardinals), Taylor Moton (OT, Panthers), and Ikem Ekwonu (OT, Panthers) all resurfaced but are already accurately tracked with no change needed — a search snippet describing Conner's injury as "ankle" was checked against fuller sourcing and traced to the same Sept. 2025 ankle-surgery injury underlying his existing "foot — rehabbing Sept. 2025 surgery" row, not a new event. Bryce Baringer (P, Patriots) and Jayden Higgins/Ricky Pearsall/Jordyn Tyson (WRs) are out of scope by position. Sean Murphy-Bunting (CB, Cardinals) was a straight roster cut with no injury designation — out of scope. David Ojabo (LB, Ravens) IR/ankle-knee story traced to 2023 (Week 3 vs. Colts, Kyle Van Noy signing) — stale/recycled, discarded. BJ Ojulari (LB, Cardinals) ACL story traced to 2024 — stale, discarded. Rashawn Slater (OT, Chargers) and Justin Skule (OT, Buccaneers) both surfaced with ongoing minor/ambiguous knee and undisclosed issues (limited practice participation, "nothing crazy," no official Questionable/Out designation found) — insufficiently confirmed to add; left for a future sweep if either gets an official designation. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected; all findings rest on WebSearch snippets and the unchanged ESPN JSON snapshot.
+
+**Badges:** No changes — earliest surviving NEW-badge rows (four added Sept. 1, 9:38 AM ET) are about 12h30m short of 24h old at run time; none aged off. No new additions this run. Net badge count: 30 → 30. Tile counts unchanged and verified against current table rows: 125 high / 122 mid / 68 low / 315 all / 30 new.
