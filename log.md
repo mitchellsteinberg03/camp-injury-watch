@@ -4763,3 +4763,19 @@ Quiet ~58m window since the 12:09 PM ET sweep — no news at the six tracked pos
 **Breaking-news sweep:** ~10 WebSearch queries covering IR/PUP/injury-settlement/carted-off news across the six tracked positions for the window, on top of the 10 targeted vanished-row checks and 5 targeted Active-status checks above. No previously-untracked injury surfaced. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected; all findings rest on WebSearch snippets and the fresh ESPN JSON snapshot.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 2, 8:19 PM ET ages off). 0 aged off this run — the 3 current NEW-badge rows (Jaylon Jones, Christian Rozeboom, Sam Okuayinonu) range from ~1h to ~22h11m old, all still within 24h. 0 new NEW badges added. Net badge count: 3 → 3. Tile counts recomputed and verified against current table rows: 127 high / 122 mid / 63 low / 312 all / 3 new.
+
+## Sep 3, 2026, 9:08 PM ET
+
+~49m window since the 8:19 PM ET sweep.
+
+**New injuries:** None this run.
+
+**Status and designation changes:** None this run.
+
+**Removals:** None this run.
+
+**Reconciliation:** Skipped a fresh full pass — `data/espn-injuries-fetched-at.txt` is unchanged at 2026-09-04T00:08:35Z, the same snapshot the 8:19 PM ET sweep already ran a full 428-entry reconciliation and vanished-row check against. No new snapshot data to reconcile against this run. Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** 8 WebSearch queries covering IR/PUP/injury-settlement/carted-off news across the six tracked positions for the window. No previously-untracked injury surfaced. Leads checked and confirmed already accurately tracked with matching detail: Isiah Pacheco (RB, Lions, IR), Braden Smith (OT, Texans), Tyler Batty (LB, Vikings, IR), Marist Liufau (LB, Cowboys, IR), Mykel Williams (EDGE, 49ers, PUP), Sam Okuayinonu (DE, 49ers), Taylor Moton / Ikem Ekwonu (OT, Panthers), Josh Simmons (OT, Chiefs), Anterio Thompson (DT, Falcons, NFI). Declined as out of scope: a Danny Pinter (Ravens) carted-off item — center, not a tracked position; a batch of Sept. 3 injury-settlement releases (Ryan Hayes, Sincere Brown, Carter Warren, Dontae Fleming, Devin Neal, Michael Heldman, Chase Curtis, Connor Hulstein, Dominic Richardson, Mykal Walker, Victor Dimukeje, Amari Kight, Dominique Hampton) — none play a tracked position (OT Ryan Hayes/Carter Warren/Amari Kight and OLB Mykal Walker checked individually and found to be practice-squad-tier cuts with no corroborating current-dated report meeting the bar for a new row; RB Devin Neal is a settlement release but no specific dated injury detail surfaced beyond the transaction blurb — held pending stronger sourcing). Declined as stale/unconfirmed: a Jordan James (RB, 49ers) "out for season" rib-fracture claim traces to a late-July training-camp injury with later reporting indicating he returned to practice — not corroborated as season-ending, declined. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected; all findings rest on WebSearch snippets and the unchanged ESPN JSON snapshot.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 2, 9:08 PM ET ages off). 0 aged off this run — the 3 current NEW-badge rows (Jaylon Jones, Christian Rozeboom, Sam Okuayinonu) range from ~1h50m to ~23h before the cutoff, all still within 24h. 0 new NEW badges added. Net badge count: 3 → 3. Tile counts unchanged and verified against current table rows: 127 high / 122 mid / 63 low / 312 all / 3 new.
