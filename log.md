@@ -4893,3 +4893,19 @@ Of ~192 snapshot entries with no matching dashboard row, 168 were "Active" statu
 **Breaking-news sweep:** Separate WebSearch pass for anything breaking since midday today at the six positions (IR, PUP/NFI, settlements, carted-off, torn ligaments) turned up nothing confirmed as new since the last sweep — all hits traced to Sept. 1–3 transactions already reflected on the board (Isiah Pacheco, Nate Hobbs, Nick Martin, DeShon Elliott, Marist Liufau) or were unverifiable/contaminated snippets (a Rapoport "carted off in yesterday's win" reference that can't be accurate before Week 1 has been played). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 3, 1:20 PM ET ages off). 0 aged off this run — all 6 current NEW-badge rows (Sam Okuayinonu, Jaylon Jones, Damarion Williams, D'Andre Swift, R Mason Thomas, Rashawn Slater) fall within 24h. 1 new NEW badge added (Rashawn Slater). Net badge count: 5 → 6. Tile counts recomputed and verified programmatically against current table rows: 128 high / 124 mid / 63 low / 315 all / 6 new.
+
+## Sep 4, 2026, 2:08 PM ET
+
+~48m window since the 1:20 PM ET sweep.
+
+**New injuries:** None this run.
+
+**Status and designation changes:** None this run.
+
+**Removals:** None this run.
+
+**Reconciliation:** `data/espn-injuries-fetched-at.txt` at 2026-09-04T16:25:56Z — effectively unchanged from the 1:20 PM ET sweep's snapshot (2026-09-04T16:25:45Z, an 11-second difference, not a genuine new fetch cycle), which already ran a full reconciliation and vanished-row check against this data. No new snapshot data to reconcile against this run — full reconciliation skipped. Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** 12 WebSearch queries covering IR/PUP-NFI/injury-settlement/carted-off news across all six tracked positions (DB, LB/edge, DT, OT, OG, RB) for the narrow window. No item surfaced with a timestamp inside 1:00–2:06 PM ET today; all near-misses (Devin Neal, Dillon Radunz, Malcolm Roach, Trevor Penning — Saints; Joey Porter Jr., Nick Emmanwori PUP activations) trace to Aug. 30–Sept. 2 reporting already covered in prior sweeps. Discarded as stale/recycled: a "Jason Peters placed on IR" item (Peters has been retired for years); a "Steelers rookie RB Baron Batch carted off" item traces to a 2011 CBS Pittsburgh article; an "Aaron Donald returns from retirement" item is unverified/out of scope regardless (not an injury). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected; all findings rest on WebSearch snippets and the unchanged ESPN JSON snapshot.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 3, 2:08 PM ET ages off). 0 aged off this run — the 6 current NEW-badge rows range from ~48m (Rashawn Slater) to ~23h58m (Sam Okuayinonu, the closest to the cutoff) old, all still within 24h. 0 new NEW badges added. Net badge count: 6 → 6. Tile counts unchanged and verified against current table rows: 128 high / 124 mid / 63 low / 315 all / 6 new.
