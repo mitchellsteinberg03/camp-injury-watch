@@ -4960,3 +4960,19 @@ Of ~192 snapshot entries with no matching dashboard row, 168 were "Active" statu
 **Breaking-news sweep:** WebSearch pass covering IR/PUP-NFI/injury-settlement/carted-off news across all six tracked positions for the ~1h window and general roster-cut-period follow-up. No new in-scope item surfaced with a fresh timestamp; near-misses (Rashawn Slater knee, Ikem Ekwonu/Taylor Moton IR timelines, Braden Smith foot, Tyler Batty ACL, Nnamdi Madubuike return, C.J. Gardner-Johnson calf) all trace to late-Aug/early-Sept reporting already reflected on the board. Discarded as stale/misdated: a James Bradberry (Eagles) IR item traces to 2023–24, pre-dating his 2025 release; a 49ers Dorsey/Williams item references a "Nov. 9" injury date inconsistent with today. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected; all findings rest on WebSearch snippets and the fresh ESPN JSON snapshot.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 3, 5:15 PM ET ages off). 0 aged off this run — the 5 current NEW-badge rows (Jaylon Jones, Damarion Williams, R Mason Thomas, Rashawn Slater, D'Andre Swift) all still within 24h. 0 new NEW badges added. Net badge count: 5 → 5. Tile counts recomputed and verified against current table rows: 127 high / 124 mid / 63 low / 314 all / 5 new.
+
+## Sep 4, 2026, 6:07 PM ET
+
+~52m window since the 5:15 PM ET sweep.
+
+**New injuries:** None this run.
+
+**Status and designation changes:** None this run.
+
+**Removals:** None this run.
+
+**Reconciliation:** `data/espn-injuries-fetched-at.txt` unchanged at 2026-09-04T20:48:37Z, the same snapshot the 5:15 PM ET sweep already ran a full reconciliation and vanished-row check against. No new snapshot data to reconcile against this run — full reconciliation skipped. Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** ~8 WebSearch queries across all six tracked positions (DB, LB/edge, DT, OT, OG, RB) plus general IR/PUP-NFI/injury-settlement/carted-off queries for the window. No new in-scope item surfaced. Checked and confirmed already accurately tracked with no change needed: Brady Christensen (G, Panthers — IR, hamstring), Josh Simmons (OT, Chiefs — back), Tershawn Wharton (DT, Panthers — PUP, neck), Alvin Kamara (RB, Saints — MCL sprain; a fresh HC Kellen Moore quote said he "isn't ready to rule out" Kamara or Cameron Jordan for Week 1 but offered no guarantee, consistent with the row's existing "no IR decision reported" framing — no text change made). Discarded as stale/recycled: a Bears CB/S Douglas Coleman III "hospitalized after scary injury" item traced to an August 2024 preseason-game injury, not current; an Alvin Kamara "Tuesday joint practice" item traced to the original Aug. 18 injury date, not a new event; a Cardinals RB Jeremiyah Love "out for the rest of the preseason" item is stale (preseason ended before the Aug. 30 cutdowns). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected; all findings rest on WebSearch snippets and the unchanged ESPN JSON snapshot.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 3, 6:07 PM ET ages off). 0 aged off this run — the 5 current NEW-badge rows (Jaylon Jones, Damarion Williams, R Mason Thomas, Rashawn Slater, D'Andre Swift) all still within 24h, closest being Jaylon Jones at ~22h53m. 0 new NEW badges added. Net badge count: 5 → 5. Tile counts unchanged and verified against current table rows: 127 high / 124 mid / 63 low / 314 all / 5 new.
