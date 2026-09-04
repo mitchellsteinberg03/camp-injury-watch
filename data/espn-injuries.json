@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04T04:39:51Z",
+  "timestamp": "2026-09-04T11:24:29Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -15192,6 +15192,604 @@
       "displayName": "Atlanta Falcons",
       "injuries": [
         {
+          "id": "636253",
+          "longComment": "The three QBs to make the roster along with Strand are Tua Tagovailoa, Michael Penix Jr. (knee) and Cooper Rush. Strand is listed as last on the team's initial depth chart, so he's unlikely to see much action, if any, barring injuries to multiple signal-callers ahead of him. Falcons GM Ian Cunningham called the team's decision to carry four quarterbacks \"a little bit of an insurance policy,\" per the Associated Press, in acknowledgement of Tagovailoa's injury history and the knee issue Penix is still working his way back from. Still, Strand -- who signed with Atlanta as an undrafted free agent in May -- could ultimately end up on the practice squad when/if the team needs to provide more depth at other positions.",
+          "shortComment": "Strand is one of four quarterbacks who made Atlanta's 53-man roster, Will McFadden of the team's official site reports.",
+          "status": "Active",
+          "date": "2026-09-04T04:44Z",
+          "athlete": {
+            "firstName": "Jack",
+            "lastName": "Strand",
+            "displayName": "Jack Strand",
+            "shortName": "J. Strand",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/5344782/jack-strand",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/5344782/jack-strand",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5344782&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/5344782/jack-strand",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/5344782/jack-strand",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5344782&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/5344782/jack-strand",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5344782&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/5344782/jack-strand",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5344782&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/5344782/jack-strand",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5344782",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "position": {
+              "id": "8",
+              "name": "Quarterback",
+              "displayName": "Quarterback",
+              "abbreviation": "QB",
+              "leaf": true
+            },
+            "team": {
+              "id": "1",
+              "uid": "s:20~l:28~t:1",
+              "slug": "atlanta-falcons",
+              "name": "Falcons",
+              "abbreviation": "ATL",
+              "displayName": "Atlanta Falcons",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2024-06-25T18:44Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/atl.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:44Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2024-06-25T18:44Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/atl.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:44Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-31T12:54Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-02-13T03:12Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/atl/atlanta-falcons",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/atl/atlanta-falcons",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:1&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/atl/atlanta-falcons",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:1&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/atl",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:1&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/atl",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/atlanta-falcons-tickets--sports-nfl-football/performer/51?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/atl/atlanta-falcons",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/atl",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/atl",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/atl",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:1&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "636253",
+                  "type": "news",
+                  "date": "2026-09-04T04:44Z",
+                  "headline": "Strand is one of four quarterbacks who made Atlanta's 53-man roster, Will McFadden of the team's official site reports.",
+                  "text": "The three QBs to make the roster along with Strand are Tua Tagovailoa, Michael Penix Jr. (knee) and Cooper Rush. Strand is listed as last on the team's initial depth chart, so he's unlikely to see much action, if any, barring injuries to multiple signal-callers ahead of him. Falcons GM Ian Cunningham called the team's decision to carry four quarterbacks \"a little bit of an insurance policy,\" per the Associated Press, in acknowledgement of Tagovailoa's injury history and the knee issue Penix is still working his way back from. Still, Strand -- who signed with Atlanta as an undrafted free agent in May -- could ultimately end up on the practice squad when/if the team needs to provide more depth at other positions.",
+                  "source": "RotoWire"
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "0",
+            "name": "INJURY_STATUS_ACTIVE",
+            "description": "active",
+            "abbreviation": "A"
+          }
+        },
+        {
           "id": "636134",
           "longComment": "Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part in 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.",
           "shortComment": "The Falcons plan for Penix (knee) to start \"eventually\" this season, but head coach Kevin Stefanski has yet to decide whether Penix or Tua Tagovailoa will direct the offense Week 1 in Pittsburgh, Cameron Wolfe of NFL Network reports.",
@@ -29764,18 +30362,24 @@
             "description": "active",
             "abbreviation": "A"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "displayName": "Baltimore Ravens",
+      "injuries": [
         {
-          "id": "633165",
-          "longComment": "Taylor has spent training camp on the active/PUP list due to an elbow injury he suffered on Thanksgiving Day against the Cowboys while with the Chiefs. Taylor is back as a full participant in practice and is expected to start at right tackle for the Falcons in 2026.",
-          "shortComment": "The Falcons activated Taylor (elbow) off the active/PUP list Monday, Will McFadden and Tori McElhaney of the team's official site report.",
+          "id": "636254",
+          "longComment": "Baltimore doesn't typically carry three QBs on the roster, but Fagnano essentially forced his way onto the club with a standout preseason. During exhibition play, he completed 74.7 percent of his 75 pass attempts for a league-high 509 yards with three touchdowns and one interception. Fagnano isn't likely to threaten for playing time unless there are injuries ahead of him on the depth chart, however, as Lamar Jackson and Tyler Huntley are firmly  in place as the Ravens' top two QBs.",
+          "shortComment": "Fagnano is included on the Ravens' initial 53-man roster, Ryan Mink of the team's official site reports.",
           "status": "Active",
-          "date": "2026-08-11T01:39Z",
+          "date": "2026-09-04T04:56Z",
           "athlete": {
-            "firstName": "Jawaan",
-            "lastName": "Taylor",
-            "displayName": "Jawaan Taylor",
-            "shortName": "J. Taylor",
+            "firstName": "Joe",
+            "lastName": "Fagnano",
+            "displayName": "Joe Fagnano",
+            "shortName": "J. Fagnano",
             "links": [
               {
                 "language": "en-US",
@@ -29784,7 +30388,7 @@
                   "desktop",
                   "athlete"
                 ],
-                "href": "https://www.espn.com/nfl/player/_/id/4034961/jawaan-taylor",
+                "href": "https://www.espn.com/nfl/player/_/id/4429582/joe-fagnano",
                 "text": "Player Card",
                 "shortText": "Player Card",
                 "isExternal": false,
@@ -29797,7 +30401,7 @@
                   "desktop",
                   "athlete"
                 ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/4034961/jawaan-taylor",
+                "href": "https://www.espn.com/nfl/player/stats/_/id/4429582/joe-fagnano",
                 "text": "Stats",
                 "shortText": "Stats",
                 "isExternal": false,
@@ -29811,7 +30415,7 @@
                   "app",
                   "athlete"
                 ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4034961&section=stats",
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429582&section=stats",
                 "text": "Stats",
                 "shortText": "Stats",
                 "isExternal": false,
@@ -29824,7 +30428,7 @@
                   "desktop",
                   "athlete"
                 ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/4034961/jawaan-taylor",
+                "href": "https://www.espn.com/nfl/player/splits/_/id/4429582/joe-fagnano",
                 "text": "Splits",
                 "shortText": "Splits",
                 "isExternal": false,
@@ -29837,7 +30441,7 @@
                   "desktop",
                   "athlete"
                 ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4034961/jawaan-taylor",
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4429582/joe-fagnano",
                 "text": "Game Log",
                 "shortText": "Game Log",
                 "isExternal": false,
@@ -29851,7 +30455,7 @@
                   "app",
                   "athlete"
                 ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4034961&section=gamelog",
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429582&section=gamelog",
                 "text": "Game Log",
                 "shortText": "Game Log",
                 "isExternal": false,
@@ -29864,7 +30468,7 @@
                   "desktop",
                   "athlete"
                 ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/4034961/jawaan-taylor",
+                "href": "https://www.espn.com/nfl/player/news/_/id/4429582/joe-fagnano",
                 "text": "News",
                 "shortText": "News",
                 "isExternal": false,
@@ -29878,7 +30482,7 @@
                   "app",
                   "athlete"
                 ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4034961&section=news",
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429582&section=news",
                 "text": "News",
                 "shortText": "News",
                 "isExternal": false,
@@ -29891,7 +30495,7 @@
                   "desktop",
                   "athlete"
                 ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/4034961/jawaan-taylor",
+                "href": "https://www.espn.com/nfl/player/bio/_/id/4429582/joe-fagnano",
                 "text": "Bio",
                 "shortText": "Bio",
                 "isExternal": false,
@@ -29905,7 +30509,7 @@
                   "app",
                   "athlete"
                 ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4034961&section=bio",
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429582&section=bio",
                 "text": "Bio",
                 "shortText": "Bio",
                 "isExternal": false,
@@ -29918,7 +30522,7 @@
                   "desktop",
                   "athlete"
                 ],
-                "href": "https://www.espn.com/nfl/player/_/id/4034961/jawaan-taylor",
+                "href": "https://www.espn.com/nfl/player/_/id/4429582/joe-fagnano",
                 "text": "Overview",
                 "shortText": "Overview",
                 "isExternal": false,
@@ -29932,7 +30536,7 @@
                   "app",
                   "athlete"
                 ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4034961",
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429582",
                 "text": "Overview",
                 "shortText": "Overview",
                 "isExternal": false,
@@ -29940,26 +30544,26 @@
               }
             ],
             "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4034961.png",
-              "alt": "Jawaan Taylor"
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4429582.png",
+              "alt": "Joe Fagnano"
             },
             "position": {
-              "id": "46",
-              "name": "Offensive Tackle",
-              "displayName": "Offensive Tackle",
-              "abbreviation": "OT",
+              "id": "8",
+              "name": "Quarterback",
+              "displayName": "Quarterback",
+              "abbreviation": "QB",
               "leaf": true
             },
             "team": {
-              "id": "1",
-              "uid": "s:20~l:28~t:1",
-              "slug": "atlanta-falcons",
-              "name": "Falcons",
-              "abbreviation": "ATL",
-              "displayName": "Atlanta Falcons",
+              "id": "33",
+              "uid": "s:20~l:28~t:33",
+              "slug": "baltimore-ravens",
+              "name": "Ravens",
+              "abbreviation": "BAL",
+              "displayName": "Baltimore Ravens",
               "logos": [
                 {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
                   "width": 500,
                   "height": 500,
                   "alt": "",
@@ -29970,7 +30574,7 @@
                   "lastUpdated": "2024-06-25T18:44Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/atl.png",
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/bal.png",
                   "width": 500,
                   "height": 500,
                   "alt": "",
@@ -29981,7 +30585,7 @@
                   "lastUpdated": "2024-06-25T18:44Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
                   "width": 500,
                   "height": 500,
                   "alt": "",
@@ -29989,10 +30593,10 @@
                     "full",
                     "scoreboard"
                   ],
-                  "lastUpdated": "2024-06-25T18:44Z"
+                  "lastUpdated": "2024-06-25T18:45Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/atl.png",
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/bal.png",
                   "width": 500,
                   "height": 500,
                   "alt": "",
@@ -30004,7 +30608,7 @@
                   "lastUpdated": "2024-06-25T18:44Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/grayscale.png",
+                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/grayscale.png",
                   "width": 500,
                   "height": 500,
                   "alt": "",
@@ -30012,10 +30616,10 @@
                     "full",
                     "grayscale"
                   ],
-                  "lastUpdated": "2026-03-31T12:54Z"
+                  "lastUpdated": "2026-03-31T12:53Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/primary_logo_on_white_color.png",
+                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_white_color.png",
                   "width": 4096,
                   "height": 4096,
                   "alt": "",
@@ -30026,7 +30630,7 @@
                   "lastUpdated": "2026-07-22T20:30Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/primary_logo_on_black_color.png",
+                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_black_color.png",
                   "width": 4096,
                   "height": 4096,
                   "alt": "",
@@ -30037,7 +30641,7 @@
                   "lastUpdated": "2026-07-22T20:30Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/primary_logo_on_primary_color.png",
+                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_primary_color.png",
                   "width": 4096,
                   "height": 4096,
                   "alt": "",
@@ -30048,7 +30652,7 @@
                   "lastUpdated": "2026-07-22T20:30Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/primary_logo_on_secondary_color.png",
+                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_secondary_color.png",
                   "width": 4096,
                   "height": 4096,
                   "alt": "",
@@ -30059,7 +30663,7 @@
                   "lastUpdated": "2026-07-22T20:30Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/primary_logo_black.png",
+                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_black.png",
                   "width": 4096,
                   "height": 4096,
                   "alt": "",
@@ -30070,7 +30674,7 @@
                   "lastUpdated": "2026-07-22T20:30Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/primary_logo_white.png",
+                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_white.png",
                   "width": 4096,
                   "height": 4096,
                   "alt": "",
@@ -30081,7 +30685,7 @@
                   "lastUpdated": "2026-07-22T20:30Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/secondary_logo_on_white_color.png",
+                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_white_color.png",
                   "width": 4096,
                   "height": 4096,
                   "alt": "",
@@ -30092,7 +30696,7 @@
                   "lastUpdated": "2026-07-22T20:30Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/secondary_logo_on_black_color.png",
+                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_black_color.png",
                   "width": 4096,
                   "height": 4096,
                   "alt": "",
@@ -30103,7 +30707,7 @@
                   "lastUpdated": "2026-07-22T20:30Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/secondary_logo_on_primary_color.png",
+                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_primary_color.png",
                   "width": 4096,
                   "height": 4096,
                   "alt": "",
@@ -30114,7 +30718,7 @@
                   "lastUpdated": "2026-07-22T20:30Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/secondary_logo_on_secondary_color.png",
+                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_secondary_color.png",
                   "width": 4096,
                   "height": 4096,
                   "alt": "",
@@ -30125,7 +30729,7 @@
                   "lastUpdated": "2026-07-22T20:30Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/secondary_logo_black.png",
+                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_black.png",
                   "width": 4096,
                   "height": 4096,
                   "alt": "",
@@ -30133,10 +30737,10 @@
                     "full",
                     "secondary_logo_black"
                   ],
-                  "lastUpdated": "2026-02-13T03:12Z"
+                  "lastUpdated": "2026-07-22T20:30Z"
                 },
                 {
-                  "href": "https://a.espncdn.com/guid/49fd392a-86fe-4df3-1b77-9bbfa18b2ad5/logos/secondary_logo_white.png",
+                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_white.png",
                   "width": 4096,
                   "height": 4096,
                   "alt": "",
@@ -30155,7 +30759,7 @@
                     "desktop",
                     "team"
                   ],
-                  "href": "https://www.espn.com/nfl/team/_/name/atl/atlanta-falcons",
+                  "href": "https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens",
                   "text": "Clubhouse",
                   "shortText": "Clubhouse",
                   "isExternal": false,
@@ -30168,7 +30772,7 @@
                     "desktop",
                     "team"
                   ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/atl/atlanta-falcons",
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/bal/baltimore-ravens",
                   "text": "Roster",
                   "shortText": "Roster",
                   "isExternal": false,
@@ -30182,7 +30786,7 @@
                     "app",
                     "team"
                   ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:1&section=roster",
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=roster",
                   "text": "Roster",
                   "shortText": "Roster",
                   "isExternal": false,
@@ -30195,7 +30799,7 @@
                     "desktop",
                     "team"
                   ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/atl/atlanta-falcons",
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/bal/baltimore-ravens",
                   "text": "Statistics",
                   "shortText": "Statistics",
                   "isExternal": false,
@@ -30209,7 +30813,7 @@
                     "app",
                     "team"
                   ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:1&section=stats",
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=stats",
                   "text": "Statistics",
                   "shortText": "Statistics",
                   "isExternal": false,
@@ -30222,7 +30826,7 @@
                     "desktop",
                     "team"
                   ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/atl",
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/bal",
                   "text": "Schedule",
                   "shortText": "Schedule",
                   "isExternal": false,
@@ -30236,7 +30840,7 @@
                     "app",
                     "team"
                   ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:1&section=scores",
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=scores",
                   "text": "Schedule",
                   "shortText": "Schedule",
                   "isExternal": false,
@@ -30249,7 +30853,7 @@
                     "desktop",
                     "team"
                   ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/atl",
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/bal",
                   "text": "photos",
                   "shortText": "photos",
                   "isExternal": false,
@@ -30262,7 +30866,7 @@
                     "desktop",
                     "team"
                   ],
-                  "href": "https://www.vividseats.com/atlanta-falcons-tickets--sports-nfl-football/performer/51?wsUser=717",
+                  "href": "https://www.vividseats.com/baltimore-ravens-tickets--sports-nfl-football/performer/60?wsUser=717",
                   "text": "Tickets",
                   "shortText": "Tickets",
                   "isExternal": true,
@@ -30275,7 +30879,7 @@
                     "desktop",
                     "team"
                   ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/atl/atlanta-falcons",
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/bal/baltimore-ravens",
                   "text": "Draft Picks",
                   "shortText": "Draft Picks",
                   "isExternal": false,
@@ -30288,7 +30892,7 @@
                     "desktop",
                     "team"
                   ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/atl",
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/bal",
                   "text": "Transactions",
                   "shortText": "Transactions",
                   "isExternal": false,
@@ -30301,7 +30905,7 @@
                     "desktop",
                     "team"
                   ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/atl",
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/bal",
                   "text": "Injuries",
                   "shortText": "Injuries",
                   "isExternal": false,
@@ -30314,7 +30918,7 @@
                     "desktop",
                     "team"
                   ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/atl",
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/bal",
                   "text": "Depth Chart",
                   "shortText": "Depth Chart",
                   "isExternal": false,
@@ -30328,7 +30932,7 @@
                     "app",
                     "team"
                   ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:1&section=depthchart",
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=depthchart",
                   "text": "Depth Chart",
                   "shortText": "Depth Chart",
                   "isExternal": false,
@@ -30339,11 +30943,11 @@
             "notes": {
               "items": [
                 {
-                  "id": "633165",
+                  "id": "636254",
                   "type": "news",
-                  "date": "2026-08-11T01:39Z",
-                  "headline": "The Falcons activated Taylor (elbow) off the active/PUP list Monday, Will McFadden and Tori McElhaney of the team's official site report.",
-                  "text": "Taylor has spent training camp on the active/PUP list due to an elbow injury he suffered on Thanksgiving Day against the Cowboys while with the Chiefs. Taylor is back as a full participant in practice and is expected to start at right tackle for the Falcons in 2026.",
+                  "date": "2026-09-04T04:56Z",
+                  "headline": "Fagnano is included on the Ravens' initial 53-man roster, Ryan Mink of the team's official site reports.",
+                  "text": "Baltimore doesn't typically carry three QBs on the roster, but Fagnano essentially forced his way onto the club with a standout preseason. During exhibition play, he completed 74.7 percent of his 75 pass attempts for a league-high 509 yards with three touchdowns and one interception. Fagnano isn't likely to threaten for playing time unless there are injuries ahead of him on the depth chart, however, as Lamar Jackson and Tyler Huntley are firmly  in place as the Ravens' top two QBs.",
                   "source": "RotoWire"
                 }
               ]
@@ -30366,13 +30970,7 @@
             "description": "active",
             "abbreviation": "A"
           }
-        }
-      ]
-    },
-    {
-      "id": "33",
-      "displayName": "Baltimore Ravens",
-      "injuries": [
+        },
         {
           "id": "636157",
           "longComment": "Flowers has been in and out of practice seemingly all summer, but he's always been eyeing Week 1 as his target date to be 100 percent, and his return to practice this week puts him on track for the opener in 10 days. The wide receiver inked a big extension with Baltimore during the offseason and is returning as Lamar Jackson's undisputed No. 1 pass-catching option.",
@@ -44943,622 +45541,6 @@
             "name": "INJURY_STATUS_ACTIVE",
             "description": "active",
             "abbreviation": "A"
-          }
-        },
-        {
-          "id": "-1987154",
-          "longComment": "questionable",
-          "shortComment": "questionable",
-          "status": "Questionable",
-          "date": "2026-08-19T12:07Z",
-          "athlete": {
-            "firstName": "Teddye",
-            "lastName": "Buchanan",
-            "displayName": "Teddye Buchanan",
-            "shortName": "T. Buchanan",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4698244/teddye-buchanan",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/4698244/teddye-buchanan",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4698244&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/4698244/teddye-buchanan",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4698244/teddye-buchanan",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4698244&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/4698244/teddye-buchanan",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4698244&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/4698244/teddye-buchanan",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4698244&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4698244/teddye-buchanan",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4698244",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4698244.png",
-              "alt": "Teddye Buchanan"
-            },
-            "position": {
-              "id": "30",
-              "name": "Linebacker",
-              "displayName": "Linebacker",
-              "abbreviation": "LB",
-              "leaf": true
-            },
-            "team": {
-              "id": "33",
-              "uid": "s:20~l:28~t:33",
-              "slug": "baltimore-ravens",
-              "name": "Ravens",
-              "abbreviation": "BAL",
-              "displayName": "Baltimore Ravens",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2024-06-25T18:44Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/bal.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:44Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2024-06-25T18:45Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/bal.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:44Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-31T12:53Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/bal/baltimore-ravens",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/bal/baltimore-ravens",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/bal",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/bal",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/baltimore-ravens-tickets--sports-nfl-football/performer/60?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/bal/baltimore-ravens",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/bal",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/bal",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/bal",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "-1987154",
-                  "type": "news",
-                  "date": "2026-08-19T12:07Z",
-                  "headline": "questionable",
-                  "text": "questionable",
-                  "source": "RotoWire",
-                  "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4698244/injuries/-1987154?lang=en&region=us"
-                  }
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "2",
-            "name": "INJURY_STATUS_QUESTIONABLE",
-            "description": "questionable",
-            "abbreviation": "Q"
-          },
-          "details": {
-            "fantasyStatus": {
-              "description": "QUESTIONABLE",
-              "abbreviation": "QUESTIONABLE"
-            },
-            "type": "Knee - ACL",
-            "location": "Leg",
-            "detail": "Surgery",
-            "side": "Right",
-            "returnDate": "2026-09-13"
           }
         }
       ]
@@ -139164,7 +139146,7 @@
         },
         {
           "id": "636163",
-          "longComment": "Along with veteran J.K. Dobbins and rookie fourth-round pick Jonah Coleman, Harvey was rested in the Broncos' 34-6 win over the Vikings in the preseason finale Friday, which seemingly indicates that Payton intends for all three players to have roles in the game plan Week 1 against the Chiefs. After managing a soft-tissue issue in training camp, Dobbins is back to full health and is slated to begin the season as the Broncos' starter and lead runner, while the 5-foot-8, 220-pound Coleman is also likely to get some work on early downs. That leaves Harvey in line to serve as more of a change-of-pace option, which could make it difficult for him to build on the seven rushing scores he delivered as a rookie last season. Harvey averaged an unremarkable 3.7 yards per carry but proved to be an adept receiver right away, turning in a 47-356-5 line on 58 targets. He'll maintain more appeal in fantasy leagues with PPR scoring, though Harvey could emerge as more trustworthy option in non-PPR formats if he earned more carries in the event Dobbins and/or Coleman miss time at any point.",
+          "longComment": "Along with veteran J.K. Dobbins and rookie fourth-round pick Jonah Coleman, Harvey was rested in the Broncos' 34-6 win over the Vikings in the preseason finale Friday, which seemingly indicates that Payton intends for all three players to have roles in the game plan Week 1 against the Chiefs. After managing a soft-tissue issue in training camp, Dobbins is back to full health and is slated to begin the season as the Broncos' starter and lead runner, while the 5-foot-8, 220-pound Coleman is also likely to get some work on early downs. That leaves Harvey in line to serve as more of a change-of-pace option, which could make it difficult for him to build on the seven rushing scores he delivered as a rookie last season. Harvey averaged an unremarkable 3.7 yards per carry but proved to be an adept receiver right away, turning in a 47-356-5 line on 58 targets. He'll maintain more appeal in fantasy leagues with PPR scoring, though Harvey could emerge as a more trustworthy option in non-PPR formats if he earned more carries in the event Dobbins and/or Coleman miss time at any point.",
           "shortComment": "Harvey is expected to handle a key role in the Denver passing game in 2026, Jon Heath of USA Today reports. \"That's where you felt the initial impact,\" Broncos coach Sean Payton said last week, in reference to Harvey's receiving ability. \"And you saw marks of that in college and you also saw him as a runner. He's having a good camp in both areas [rushing and receiving], but [receiving] is certainly a strength of his.\"",
           "status": "Active",
           "date": "2026-09-03T17:25Z",
@@ -139740,7 +139722,7 @@
                   "type": "news",
                   "date": "2026-09-03T17:25Z",
                   "headline": "Harvey is expected to handle a key role in the Denver passing game in 2026, Jon Heath of USA Today reports. \"That's where you felt the initial impact,\" Broncos coach Sean Payton said last week, in reference to Harvey's receiving ability. \"And you saw marks of that in college and you also saw him as a runner. He's having a good camp in both areas [rushing and receiving], but [receiving] is certainly a strength of his.\"",
-                  "text": "Along with veteran J.K. Dobbins and rookie fourth-round pick Jonah Coleman, Harvey was rested in the Broncos' 34-6 win over the Vikings in the preseason finale Friday, which seemingly indicates that Payton intends for all three players to have roles in the game plan Week 1 against the Chiefs. After managing a soft-tissue issue in training camp, Dobbins is back to full health and is slated to begin the season as the Broncos' starter and lead runner, while the 5-foot-8, 220-pound Coleman is also likely to get some work on early downs. That leaves Harvey in line to serve as more of a change-of-pace option, which could make it difficult for him to build on the seven rushing scores he delivered as a rookie last season. Harvey averaged an unremarkable 3.7 yards per carry but proved to be an adept receiver right away, turning in a 47-356-5 line on 58 targets. He'll maintain more appeal in fantasy leagues with PPR scoring, though Harvey could emerge as more trustworthy option in non-PPR formats if he earned more carries in the event Dobbins and/or Coleman miss time at any point.",
+                  "text": "Along with veteran J.K. Dobbins and rookie fourth-round pick Jonah Coleman, Harvey was rested in the Broncos' 34-6 win over the Vikings in the preseason finale Friday, which seemingly indicates that Payton intends for all three players to have roles in the game plan Week 1 against the Chiefs. After managing a soft-tissue issue in training camp, Dobbins is back to full health and is slated to begin the season as the Broncos' starter and lead runner, while the 5-foot-8, 220-pound Coleman is also likely to get some work on early downs. That leaves Harvey in line to serve as more of a change-of-pace option, which could make it difficult for him to build on the seven rushing scores he delivered as a rookie last season. Harvey averaged an unremarkable 3.7 yards per carry but proved to be an adept receiver right away, turning in a 47-356-5 line on 58 targets. He'll maintain more appeal in fantasy leagues with PPR scoring, though Harvey could emerge as a more trustworthy option in non-PPR formats if he earned more carries in the event Dobbins and/or Coleman miss time at any point.",
                   "source": "RotoWire"
                 }
               ]
@@ -304768,7 +304750,7 @@
         },
         {
           "id": "636144",
-          "longComment": "Signed to a one-year, $8 million deal in May, Jennings is locked in as the Vikings' No. 3 receiver and didn't need to compete for a job during the preseason. With San Francisco last season, Jennings primarily operated as the \"X\" receiver and turned in a 55-643-9 receiving line on 90 targets over his 15 appearances. Since Justin Jefferson typically occupies the X spot for Minnesota and Jordan Addison mainly works as the \"Z\" receiver, Jennings could end up seeing most of his time out of the slot with his new squad. While a slot role can often lead to catchable, higher-percentage targets, Jefferson remains the unquestioned No. 1 option in the passing game regardless of where he lines up, and Addison is capable of bumping inside and seems likely play ahead of Jennings in two-wide formations. Moreover, Vikings quarterback Kyler Murray hasn't had an extensive track record of supporting more than one fantasy viable pass catcher during his seven-year career, so Jennings could struggle to attain consistent week-to-week volume while he's vying with the likes of Addison and tight end T.J. Hockenson for the remaining targets that don't go to Jefferson.",
+          "longComment": "Signed to a one-year, $8 million deal in May, Jennings is locked in as the Vikings' No. 3 receiver and didn't need to compete for a job during the preseason. With San Francisco last season, Jennings primarily operated as the \"X\" receiver and turned in a 55-643-9 line on 90 targets over his 15 appearances. Since Justin Jefferson typically occupies the X spot for Minnesota and Jordan Addison mainly works as the \"Z\" receiver, Jennings could end up seeing most of his time out of the slot with his new squad. While a slot role can often lead to catchable, higher-percentage targets, Jefferson remains the unquestioned No. 1 option in the passing game regardless of where he lines up, and Addison is capable of bumping inside and seems likely to play ahead of Jennings in two-wide formations. Moreover, Vikings quarterback Kyler Murray hasn't had an extensive track record of supporting more than one fantasy viable pass catcher during his seven-year career, so Jennings could struggle to attain consistent week-to-week volume while he's vying with the likes of Addison and tight end T.J. Hockenson for the remaining targets that don't go to Jefferson.",
           "shortComment": "Jennings played four snaps in the Vikings' 13-10 preseason win over the Giants before being held out for rest purposes in the final two exhibition tilts.",
           "status": "Active",
           "date": "2026-09-03T15:15Z",
@@ -305344,7 +305326,7 @@
                   "type": "news",
                   "date": "2026-09-03T15:15Z",
                   "headline": "Jennings played four snaps in the Vikings' 13-10 preseason win over the Giants before being held out for rest purposes in the final two exhibition tilts.",
-                  "text": "Signed to a one-year, $8 million deal in May, Jennings is locked in as the Vikings' No. 3 receiver and didn't need to compete for a job during the preseason. With San Francisco last season, Jennings primarily operated as the \"X\" receiver and turned in a 55-643-9 receiving line on 90 targets over his 15 appearances. Since Justin Jefferson typically occupies the X spot for Minnesota and Jordan Addison mainly works as the \"Z\" receiver, Jennings could end up seeing most of his time out of the slot with his new squad. While a slot role can often lead to catchable, higher-percentage targets, Jefferson remains the unquestioned No. 1 option in the passing game regardless of where he lines up, and Addison is capable of bumping inside and seems likely play ahead of Jennings in two-wide formations. Moreover, Vikings quarterback Kyler Murray hasn't had an extensive track record of supporting more than one fantasy viable pass catcher during his seven-year career, so Jennings could struggle to attain consistent week-to-week volume while he's vying with the likes of Addison and tight end T.J. Hockenson for the remaining targets that don't go to Jefferson.",
+                  "text": "Signed to a one-year, $8 million deal in May, Jennings is locked in as the Vikings' No. 3 receiver and didn't need to compete for a job during the preseason. With San Francisco last season, Jennings primarily operated as the \"X\" receiver and turned in a 55-643-9 line on 90 targets over his 15 appearances. Since Justin Jefferson typically occupies the X spot for Minnesota and Jordan Addison mainly works as the \"Z\" receiver, Jennings could end up seeing most of his time out of the slot with his new squad. While a slot role can often lead to catchable, higher-percentage targets, Jefferson remains the unquestioned No. 1 option in the passing game regardless of where he lines up, and Addison is capable of bumping inside and seems likely to play ahead of Jennings in two-wide formations. Moreover, Vikings quarterback Kyler Murray hasn't had an extensive track record of supporting more than one fantasy viable pass catcher during his seven-year career, so Jennings could struggle to attain consistent week-to-week volume while he's vying with the likes of Addison and tight end T.J. Hockenson for the remaining targets that don't go to Jefferson.",
                   "source": "RotoWire"
                 }
               ]
@@ -410644,7 +410626,7 @@
           "id": "636204",
           "longComment": "Okuayinonu is coming off his best season, as he finished the 2025 campaign with 39 total tackles, including 3.0 sacks, and one forced fumble over 15 regular-season games. While he's not on the initial charter flight with his teammates, Okuayinonu remains  listed as questionable, so the door isn't closed concerning his availability for the opener.",
           "shortComment": "Okuayinonu (foot) will not travel with the team to Melbourne, Australia ahead of the Week 1 game versus the Rams, Nick Wagoner of ESPN.com reports.",
-          "status": "Questionable",
+          "status": "Out",
           "date": "2026-09-03T23:48Z",
           "athlete": {
             "firstName": "Sam",
@@ -411239,21 +411221,21 @@
             "state": "basic"
           },
           "type": {
-            "id": "2",
-            "name": "INJURY_STATUS_QUESTIONABLE",
-            "description": "questionable",
-            "abbreviation": "Q"
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
           },
           "details": {
             "fantasyStatus": {
-              "description": "QUESTIONABLE",
-              "abbreviation": "QUESTIONABLE"
+              "description": "OUT",
+              "abbreviation": "OUT"
             },
             "type": "Foot",
             "location": "Leg",
             "detail": "Not Specified",
             "side": "Not Specified",
-            "returnDate": "2026-09-10"
+            "returnDate": "2026-09-20"
           }
         },
         {
@@ -427742,7 +427724,7 @@
         },
         {
           "id": "636142",
-          "longComment": "The Seahawks seem to trust Holani's receiving and pass-blocking abilities, which should allow the 26-year-old running back to earn a prominent role out of the gate, though the rookie first-round pick Price is the leading candidate to get most of the rushing opportunities. Zach Charbonnet (knee) could also earn a sizable role once healthy, but he'll miss at least the first four weeks of the season while on the reserve/PUP list and could be out well beyond then. Emanuel Wilson (hamstring) rounds out the running back depth chart.",
+          "longComment": "The Seahawks seem to trust Holani's receiving and pass-blocking abilities, which should allow the 26-year-old running back to earn a prominent role out of the gate, though the rookie first-round pick Price is the leading candidate to get most of the rushing opportunities. Zach Charbonnet (knee) also could earn a sizable role once healthy, but he'll miss at least the first four weeks of the season while on the reserve/PUP list and could be out well beyond then. Emanuel Wilson (hamstring) rounds out the running back depth chart.",
           "shortComment": "Holani could get most of the opportunities on third down and in passing situations while Jadarian Price gets the majority of early-down work to begin the regular season, according to Brady Henderson of ESPN.com.",
           "status": "Active",
           "date": "2026-09-03T15:06Z",
@@ -428318,7 +428300,7 @@
                   "type": "news",
                   "date": "2026-09-03T15:06Z",
                   "headline": "Holani could get most of the opportunities on third down and in passing situations while Jadarian Price gets the majority of early-down work to begin the regular season, according to Brady Henderson of ESPN.com.",
-                  "text": "The Seahawks seem to trust Holani's receiving and pass-blocking abilities, which should allow the 26-year-old running back to earn a prominent role out of the gate, though the rookie first-round pick Price is the leading candidate to get most of the rushing opportunities. Zach Charbonnet (knee) could also earn a sizable role once healthy, but he'll miss at least the first four weeks of the season while on the reserve/PUP list and could be out well beyond then. Emanuel Wilson (hamstring) rounds out the running back depth chart.",
+                  "text": "The Seahawks seem to trust Holani's receiving and pass-blocking abilities, which should allow the 26-year-old running back to earn a prominent role out of the gate, though the rookie first-round pick Price is the leading candidate to get most of the rushing opportunities. Zach Charbonnet (knee) also could earn a sizable role once healthy, but he'll miss at least the first four weeks of the season while on the reserve/PUP list and could be out well beyond then. Emanuel Wilson (hamstring) rounds out the running back depth chart.",
                   "source": "RotoWire"
                 }
               ]
