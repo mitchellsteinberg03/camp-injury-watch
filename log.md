@@ -5079,3 +5079,19 @@ Of ~192 snapshot entries with no matching dashboard row, 168 were "Active" statu
 **Breaking-news sweep:** 14 WebSearch queries across all six tracked positions (DB, LB/edge, DT, OT, OG, RB) plus a general league-wide IR/PUP/settlement query, cross-checked against the fresh snapshot's 425 tracked-position entries sorted by date (only 2 postdated the prior sweep: Okuayinonu's IR move and a terse "Questionable" re-listing for Jedrick Wills Jr. that added no new information beyond his already-tracked back-tweak status — not applied). Found and applied: Okuayinonu, Roberts, and Maguranyanga updates (above). Also scanned the full snapshot for notable-status (IR/PUP/Out/Doubtful) players not yet on the dashboard — the only 3 hits (Terrion Arnold, Jonathon Cooper, Josh Jacobs) were non-injury "Out" flags for a signing note and two unrelated legal proceedings, out of scope. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected; all findings rest on WebSearch snippets and the fresh ESPN JSON snapshot.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 4, 9:15 AM ET ages off). 1 aged off this run — D'Andre Swift (RB, Bears, added Sept. 3, 11:14 PM ET, ~34h old) exceeded the 24h window; NEW badge removed, data-added attribute retained. The 3 remaining NEW-badge rows (R Mason Thomas, Rashawn Slater, Carter Warren) all still within 24h, closest being R Mason Thomas (added Sept. 4, 9:25 AM ET) at ~23h50m. 0 new NEW badges added. Net badge count: 4 → 3. Tile counts recomputed and verified against current table rows: 129 high / 123 mid / 63 low / 315 all / 3 new.
+
+## Sep 5, 2026, 10:07 AM ET
+
+~52m window since the 9:15 AM ET sweep.
+
+**New injuries:** None this run.
+
+**Status and designation changes:** None this run.
+
+**Removals:** None this run.
+
+**Reconciliation:** `data/espn-injuries-fetched-at.txt` unchanged at 2026-09-05T10:40:57Z — the same snapshot the 9:15 AM ET sweep already ran a full reconciliation and vanished-row check against. No new snapshot data this run — full reconciliation skipped. Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** 4 WebSearch queries across all six tracked positions (DB, LB/edge, DT, OT, OG, RB) plus general IR/injury-settlement/carted-off queries for the window. No items postdating the 9:15 AM ET sweep were found. Checked and confirmed already accurately tracked with no change needed: Kyler Gordon (CB, Bears — a Sept. 1-dated GM "I don't know" quote on his PUP return timeline adds no new fact to the existing PUP/four-games-out row). Discarded as stale/recycled: a Jalen Ramsey (CB, Dolphins) "carted off practice" item traces to July 2023 — old news, not current; general injury-tracker/IR-list pages returned only previously-tracked names (Nate Wiggins, Jalon Walker, Rashawn Slater, Chuba Hubbard, Josh Simmons) with no dateline changes. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected; all findings rest on WebSearch snippets.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 4, 10:07 AM ET ages off). 1 aged off this run — R Mason Thomas (DE, Chiefs, added Sept. 4, 9:25 AM ET, ~24h42m old) exceeded the 24h window; NEW badge removed, data-added attribute retained. The 2 remaining NEW-badge rows (Rashawn Slater, Carter Warren) both still within 24h. 0 new NEW badges added. Net badge count: 3 → 2. Tile counts recomputed and verified against current table rows: 129 high / 123 mid / 63 low / 315 all / 2 new.
