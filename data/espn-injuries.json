@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-06T15:30:55Z",
+  "timestamp": "2026-09-06T18:21:53Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -319235,11 +319235,11 @@
       "displayName": "New England Patriots",
       "injuries": [
         {
-          "id": "636304",
-          "longComment": "Head coach Mike Vrabel suggested earlier Saturday that Henderson could return to practice, but the second-year running back will end up observing the session in street clothes as he continues to recover from an ankle injury. Henderson will have two more chances to return to practice in at least a limited capacity ahead of the Patriots' regular-season opener against the Seahawks on Wednesday.",
-          "shortComment": "Henderson (ankle) was in street clothes ahead of Saturday's practice, Andrew Callahan of the Boston Herald reports.",
+          "id": "636311",
+          "longComment": "New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.",
+          "shortComment": "Henderson (ankle) was in street clothes ahead of Sunday's practice and appears likely to be listed as a non-participant on the Patriots' first injury report of the season, Andrew Callahan of the Boston Herald reports.",
           "status": "Questionable",
-          "date": "2026-09-05T18:01Z",
+          "date": "2026-09-06T18:11Z",
           "athlete": {
             "firstName": "TreVeyon",
             "lastName": "Henderson",
@@ -319808,14 +319808,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "636304",
+                  "id": "636311",
                   "type": "news",
-                  "date": "2026-09-05T18:01Z",
-                  "headline": "Henderson (ankle) was in street clothes ahead of Saturday's practice, Andrew Callahan of the Boston Herald reports.",
-                  "text": "Head coach Mike Vrabel suggested earlier Saturday that Henderson could return to practice, but the second-year running back will end up observing the session in street clothes as he continues to recover from an ankle injury. Henderson will have two more chances to return to practice in at least a limited capacity ahead of the Patriots' regular-season opener against the Seahawks on Wednesday.",
+                  "date": "2026-09-06T18:11Z",
+                  "headline": "Henderson (ankle) was in street clothes ahead of Sunday's practice and appears likely to be listed as a non-participant on the Patriots' first injury report of the season, Andrew Callahan of the Boston Herald reports.",
+                  "text": "New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4432710/injuries/636304?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4432710/injuries/636311?lang=en&region=us"
                   }
                 }
               ]
