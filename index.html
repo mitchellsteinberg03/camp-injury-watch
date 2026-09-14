@@ -681,11 +681,11 @@
     const iso = stamp && stamp.dataset.updated;
     if (!iso) return;
     const ageHours = (Date.now() - new Date(iso).getTime()) / 3600000;
-    if (ageHours > 13) {
+    if (ageHours > 18) {
       const banner = document.getElementById('stale-banner');
       banner.textContent = '⚠ This dashboard may be out of date — the last sweep was ' +
         stamp.textContent + ', over ' + Math.floor(ageHours) +
-        ' hours ago. Updates normally land 4× daily; treat the data below as unconfirmed.';
+        ' hours ago. Updates normally land 2× daily (noon & 9 PM ET); treat the data below as unconfirmed.';
       banner.hidden = false;
     }
   })();
