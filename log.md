@@ -5784,3 +5784,15 @@ All 65 were preseason-era "day-to-day" entries (added mostly in August) that the
 **Breaking-news sweep:** 4 WebSearch queries across the six tracked positions plus general IR/injury-settlement queries for the window. No item found beyond what the fresh snapshot already surfaced. One recycled-article false lead re-encountered and re-declined: a "Chiefs G C.J. Hanson placed on injured reserve/injury settlement" story (and a related "RB EJ Smith" item) resurfacing in search results traces to the Aug. 30, 2026 roster-cutdown date, not today — both players are already correctly tracked on the dashboard from that date, no change made. The recurring "Wanya Morris (OT, Chiefs) placed on IR" stale story (traces to Dec. 2025) also resurfaced and was declined again, consistent with the 3:26 PM sweep's finding. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 13, 3:41 PM ET ages off). 0 aged off this run (all 32 existing NEW-badge rows are from the 3:08 PM ET sweep today, ~35min old). 4 new NEW badges added (Lindstrom, Mahogany, Green, Mason). Net badge count: 32 → 36. Tile counts updated and verified against current table rows: 134 high / 115 mid / 47 low / 296 all / 36 new.
+
+## Sep 14, 2026, 4:45 PM ET — one-time in-season cleanup (manual, not a sweep)
+
+Owner-directed maintenance pass after the tracker's Sept 14 reactivation as an in-season routine. Not a data sweep; the "Last sweep" stamp was left at 3:41 PM ET.
+
+- **Renamed** the dashboard "NFL Injury Watch" (was "NFL Camp Injury Watch"); dormant retired-banner wording made season-neutral.
+- **Verified all 62 non-high rows absent from ESPN's report** individually via web search. 3 removed as recovered/no current injury: Gracen Halton (DT, 49ers — full participant, active for the Sept 10 opener), Josh Jones (G — no Week 1 designation, off report), Kyle Juszczyk (FB, 49ers — no Week 1 designation, off report). 59 confirmed still out (IR, Reserve/PUP, NFI, or off roster via injury settlement) and kept.
+- **Rewrote 152 rows** whose injury/status text still used camp-era relative wording ("Sunday's 53-man cutdown", "Thursday's preseason finale", "could be available for the opener") into absolute-dated, in-season phrasing. Severity adjusted where facts had moved (mostly pre-cutdown waived/injured reversions raised to high as season-ending; a few week-to-week tags lowered to low).
+- **Aged off 32 NEW badges** that were backfill from bridging the Sept 7–14 gap (all added 3:08 PM ET today); the "Recently added (24h)" tile now reflects the 4 injuries genuinely new today.
+- **Mobile layout:** rows render as stacked cards below 640px (player/team/pos, injury, status) instead of a sideways-scrolling table.
+- **Cadence:** sweeps now fire daily at noon & 9 PM ET, plus Wed–Fri 6 PM ET (practice reports) and Sun 5 PM ET (inactives/early games). Stale banner text updated to match; threshold unchanged at 18h.
+- Tile counts after cleanup: 145 high / 105 mid / 43 low / 293 all / 4 new.
