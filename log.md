@@ -1,6 +1,6 @@
-# NFL camp injury log — DB · LB · OT · OG · RB
+# NFL injury log — DB · LB · DT · OT · OG · RB
 
-Append-only digest log from the `nfl-camp-injury-tracker` scheduled task. Newest at the bottom.
+Append-only digest log from the NFL Injury Tracker routine (camp phase Aug 1–Sept 7, 2026; in-season from Sept 14, 2026). Newest at the bottom.
 Dashboard: <https://mitchellsteinberg03.github.io/camp-injury-watch/>
 
 ## 2026-08-01 — seed sweep (afternoon)
