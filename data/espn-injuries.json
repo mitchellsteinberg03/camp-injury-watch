@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T04:59:19Z",
+  "timestamp": "2026-09-15T11:50:33Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -17604,7 +17604,7 @@
         },
         {
           "id": "637320",
-          "longComment": "Dotson acted as the clear WR2 behind Drake London, out-snapping rookie Zachariah Branch 38 to 18. Olamide Zaccheaus also played 18 offensive snaps. Dotson ran 19 routes to Zaccheaus' nine and Branch's six. None of these three figure to have any fantasy viability as long as all three of London, Kyle Pitts and Bijan Robinson are healthy.",
+          "longComment": "Dotson acted as the clear WR2 behind Drake London, out-snapping rookie Zachariah Branch 38 to 18. Olamide Zaccheaus also played 18 offensive snaps. Dotson ran 19 routes to Zaccheaus' nine and Branch's six. None of these three figure to have any consistent fantasy viability as long as all three of London, Kyle Pitts and Bijan Robinson are healthy.",
           "shortComment": "Dotson caught one of three targets for 19 yards in Atlanta's 20-13 loss to the Steelers on Sunday.",
           "status": "Active",
           "date": "2026-09-14T22:33Z",
@@ -18180,7 +18180,7 @@
                   "type": "news",
                   "date": "2026-09-14T22:33Z",
                   "headline": "Dotson caught one of three targets for 19 yards in Atlanta's 20-13 loss to the Steelers on Sunday.",
-                  "text": "Dotson acted as the clear WR2 behind Drake London, out-snapping rookie Zachariah Branch 38 to 18. Olamide Zaccheaus also played 18 offensive snaps. Dotson ran 19 routes to Zaccheaus' nine and Branch's six. None of these three figure to have any fantasy viability as long as all three of London, Kyle Pitts and Bijan Robinson are healthy.",
+                  "text": "Dotson acted as the clear WR2 behind Drake London, out-snapping rookie Zachariah Branch 38 to 18. Olamide Zaccheaus also played 18 offensive snaps. Dotson ran 19 routes to Zaccheaus' nine and Branch's six. None of these three figure to have any consistent fantasy viability as long as all three of London, Kyle Pitts and Bijan Robinson are healthy.",
                   "source": "RotoWire"
                 }
               ]
@@ -49713,7 +49713,7 @@
         },
         {
           "id": "637300",
-          "longComment": "After missing the Bills' first two practices of Week 1, Johnson returned to the field Friday as a limited participant and took a questionable tag into Sunday's season opener versus the Texans. Johnson was ultimately inactive for the 36-31 win, but he'll have a stronger chance of making his 2026 debut Thursday against the Lions if he can upgrade to full participation in practice at some point over the next two days.",
+          "longComment": "After missing the Bills' first two practices of Week 1, Johnson returned to the field Friday as a limited participant and took a questionable tag into Sunday's season opener versus the Texans. Johnson ultimately was inactive for the 36-31 win, but he'll have a stronger chance of making his 2026 debut Thursday against the Lions if he can upgrade to full participation in practice at some point over the next two days.",
           "shortComment": "The Bills listed Johnson (hamstring) as a limited participant on Monday's estimated practice report.",
           "status": "Out",
           "date": "2026-09-14T20:16Z",
@@ -50289,7 +50289,7 @@
                   "type": "news",
                   "date": "2026-09-14T20:16Z",
                   "headline": "The Bills listed Johnson (hamstring) as a limited participant on Monday's estimated practice report.",
-                  "text": "After missing the Bills' first two practices of Week 1, Johnson returned to the field Friday as a limited participant and took a questionable tag into Sunday's season opener versus the Texans. Johnson was ultimately inactive for the 36-31 win, but he'll have a stronger chance of making his 2026 debut Thursday against the Lions if he can upgrade to full participation in practice at some point over the next two days.",
+                  "text": "After missing the Bills' first two practices of Week 1, Johnson returned to the field Friday as a limited participant and took a questionable tag into Sunday's season opener versus the Texans. Johnson ultimately was inactive for the 36-31 win, but he'll have a stronger chance of making his 2026 debut Thursday against the Lions if he can upgrade to full participation in practice at some point over the next two days.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3915411/injuries/637300?lang=en&region=us"
@@ -60609,6 +60609,608 @@
       "id": "29",
       "displayName": "Carolina Panthers",
       "injuries": [
+        {
+          "id": "637492",
+          "longComment": "The Panthers' defense did not have a good day, but Lloyd was at least active in his first game with his new team. The former Jaguar signed a three-year, $42-million contract with Carolina in the offseason after recording 81 tackles (35 solo), seven pass breakups, including five interceptions, and a fumble recovery in the regular season last year.",
+          "shortComment": "Lloyd finished with 13 tackles (nine solo) in Sunday's 59-37 loss to the Bears.",
+          "status": "Active",
+          "date": "2026-09-15T04:59Z",
+          "athlete": {
+            "firstName": "Devin",
+            "lastName": "Lloyd",
+            "displayName": "Devin Lloyd",
+            "shortName": "D. Lloyd",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4243256/devin-lloyd",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/4243256/devin-lloyd",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4243256&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/4243256/devin-lloyd",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4243256/devin-lloyd",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4243256&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/4243256/devin-lloyd",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4243256&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/4243256/devin-lloyd",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4243256&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4243256/devin-lloyd",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4243256",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4243256.png",
+              "alt": "Devin Lloyd"
+            },
+            "position": {
+              "id": "30",
+              "name": "Linebacker",
+              "displayName": "Linebacker",
+              "abbreviation": "LB",
+              "leaf": true
+            },
+            "team": {
+              "id": "29",
+              "uid": "s:20~l:28~t:29",
+              "slug": "carolina-panthers",
+              "name": "Panthers",
+              "abbreviation": "CAR",
+              "displayName": "Carolina Panthers",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2024-06-25T18:45Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/car.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:45Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2024-06-25T18:46Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/car.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:45Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-31T12:54Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/car/carolina-panthers",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/car/carolina-panthers",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/car",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/car",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/carolina-panthers-tickets--sports-nfl-football/performer/144?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/car/carolina-panthers",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/car",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/car",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/car",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "637492",
+                  "type": "news",
+                  "date": "2026-09-15T04:59Z",
+                  "headline": "Lloyd finished with 13 tackles (nine solo) in Sunday's 59-37 loss to the Bears.",
+                  "text": "The Panthers' defense did not have a good day, but Lloyd was at least active in his first game with his new team. The former Jaguar signed a three-year, $42-million contract with Carolina in the offseason after recording 81 tackles (35 solo), seven pass breakups, including five interceptions, and a fumble recovery in the regular season last year.",
+                  "source": "RotoWire"
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "0",
+            "name": "INJURY_STATUS_ACTIVE",
+            "description": "active",
+            "abbreviation": "A"
+          }
+        },
         {
           "id": "637372",
           "longComment": "Fitzgerald's 44-yard field goal was his only challenge of the night, and the kicker was up to it. Where the 26-year-old shrunk was in his consistency, with an 80 percent PAT conversion rate that pales in comparison to opposing kicker Cairo Santos' flawless night, despite being asked to kick eight PATs.",
@@ -75062,608 +75664,6 @@
                   "date": "2026-09-09T22:46Z",
                   "headline": "Brown (knee) was not listed on the Panthers' injury report Wednesday.",
                   "text": "Brown was limited by a knee injury during training camp, but the 2020 first-rounder practiced Wednesday without limitations and should be available for Week 1 against the Bears on Sunday. The Auburn product put together a solid statline last year, finishing with 73 tackles (33 solo), including a career-high 5.0 sacks, seven pass defenses and one forced fumble across 17 regular-season games.",
-                  "source": "RotoWire"
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "0",
-            "name": "INJURY_STATUS_ACTIVE",
-            "description": "active",
-            "abbreviation": "A"
-          }
-        },
-        {
-          "id": "636540",
-          "longComment": "Lloyd was working through a knee injury toward the tail end of training camp, but his absence from injury report indicates that the fifth-year pro will play in Sunday's regular-season opener against the Bears. Lloyd inked a three-year, $42 million contract with the Panthers in March after spending the first four years of his NFL career with the Jaguars, and he is slated to start alongside Bobby Okereke at inside linebacker, with both Claudin Cherelus and Jackson Kuwatch providing depth at the position.",
-          "shortComment": "Lloyd (knee) was not listed on Wednesday's injury report.",
-          "status": "Active",
-          "date": "2026-09-09T22:40Z",
-          "athlete": {
-            "firstName": "Devin",
-            "lastName": "Lloyd",
-            "displayName": "Devin Lloyd",
-            "shortName": "D. Lloyd",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4243256/devin-lloyd",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/4243256/devin-lloyd",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4243256&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/4243256/devin-lloyd",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4243256/devin-lloyd",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4243256&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/4243256/devin-lloyd",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4243256&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/4243256/devin-lloyd",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4243256&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4243256/devin-lloyd",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4243256",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4243256.png",
-              "alt": "Devin Lloyd"
-            },
-            "position": {
-              "id": "30",
-              "name": "Linebacker",
-              "displayName": "Linebacker",
-              "abbreviation": "LB",
-              "leaf": true
-            },
-            "team": {
-              "id": "29",
-              "uid": "s:20~l:28~t:29",
-              "slug": "carolina-panthers",
-              "name": "Panthers",
-              "abbreviation": "CAR",
-              "displayName": "Carolina Panthers",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2024-06-25T18:45Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/car.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:45Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2024-06-25T18:46Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/car.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:45Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-31T12:54Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/car/carolina-panthers",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/car/carolina-panthers",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/car",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/car",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/carolina-panthers-tickets--sports-nfl-football/performer/144?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/car/carolina-panthers",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/car",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/car",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/car",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "636540",
-                  "type": "news",
-                  "date": "2026-09-09T22:40Z",
-                  "headline": "Lloyd (knee) was not listed on Wednesday's injury report.",
-                  "text": "Lloyd was working through a knee injury toward the tail end of training camp, but his absence from injury report indicates that the fifth-year pro will play in Sunday's regular-season opener against the Bears. Lloyd inked a three-year, $42 million contract with the Panthers in March after spending the first four years of his NFL career with the Jaguars, and he is slated to start alongside Bobby Okereke at inside linebacker, with both Claudin Cherelus and Jackson Kuwatch providing depth at the position.",
                   "source": "RotoWire"
                 }
               ]
@@ -106534,622 +106534,6 @@
           }
         },
         {
-          "id": "637447",
-          "longComment": "Sampson hurt his left knee in Sunday's Week 1 loss to Jacksonville and was on crutches while wearing a brace after the game. It appears that further evaluation on the running back has concluded that Sampson is dealing with a significant injury. It's not yet clear exactly how much time he'll miss, though there certainly a chance he'll end up on IR. Raheim Sanders will likely take on a bigger role in Sampson's absence, and Jaleel McLaughlin could be summoned from the practice squad.",
-          "shortComment": "Sampson (knee) is expected to miss \"significant time,\" Jeremy Fowler of ESPN.com reports.",
-          "status": "Out",
-          "date": "2026-09-15T02:13Z",
-          "athlete": {
-            "firstName": "Dylan",
-            "lastName": "Sampson",
-            "displayName": "Dylan Sampson",
-            "shortName": "D. Sampson",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/5081397/dylan-sampson",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/5081397/dylan-sampson",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5081397&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/5081397/dylan-sampson",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/5081397/dylan-sampson",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5081397&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/5081397/dylan-sampson",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5081397&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/5081397/dylan-sampson",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5081397&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/5081397/dylan-sampson",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5081397",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/5081397.png",
-              "alt": "Dylan Sampson"
-            },
-            "position": {
-              "id": "9",
-              "name": "Running Back",
-              "displayName": "Running Back",
-              "abbreviation": "RB",
-              "leaf": true
-            },
-            "team": {
-              "id": "5",
-              "uid": "s:20~l:28~t:5",
-              "slug": "cleveland-browns",
-              "name": "Browns",
-              "abbreviation": "CLE",
-              "displayName": "Cleveland Browns",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2024-06-25T18:47Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/cle.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:47Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2024-06-25T18:47Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/cle.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:47Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-30T20:28Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/cle/cleveland-browns",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/cle/cleveland-browns",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:5&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/cle/cleveland-browns",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:5&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/cle",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:5&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/cle",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/cleveland-browns-tickets--sports-nfl-football/performer/181?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/cle/cleveland-browns",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/cle",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/cle",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/cle",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:5&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "637447",
-                  "type": "news",
-                  "date": "2026-09-15T02:13Z",
-                  "headline": "Sampson (knee) is expected to miss \"significant time,\" Jeremy Fowler of ESPN.com reports.",
-                  "text": "Sampson hurt his left knee in Sunday's Week 1 loss to Jacksonville and was on crutches while wearing a brace after the game. It appears that further evaluation on the running back has concluded that Sampson is dealing with a significant injury. It's not yet clear exactly how much time he'll miss, though there certainly a chance he'll end up on IR. Raheim Sanders will likely take on a bigger role in Sampson's absence, and Jaleel McLaughlin could be summoned from the practice squad.",
-                  "source": "RotoWire",
-                  "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/5081397/injuries/637447?lang=en&region=us"
-                  }
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "4",
-            "name": "INJURY_STATUS_OUT",
-            "description": "out",
-            "abbreviation": "O"
-          },
-          "details": {
-            "fantasyStatus": {
-              "description": "OUT",
-              "abbreviation": "OUT"
-            },
-            "type": "Knee",
-            "location": "Leg",
-            "detail": "Not Specified",
-            "side": "Left",
-            "returnDate": "2026-10-18"
-          }
-        },
-        {
           "id": "637393",
           "longComment": "Szmyt provided the team with their first points of the regular season, knocking through a 26-yard field goal with 8:31 left in the third quarter. With Cleveland expected to be in for a long year, the kicker is likely on track to have limited opportunities this season.",
           "shortComment": "Szmyt made his only field-goal attempt and extra-point try in Sunday's 34-10 loss to the Jaguars.",
@@ -110185,6 +109569,622 @@
             "detail": "Not Specified",
             "side": "Right",
             "returnDate": "2026-09-20"
+          }
+        },
+        {
+          "id": "637289",
+          "longComment": "Monken said more information will be known Wednesday, which would suggest he's playing coy since the Browns aren't required to provide any update until an injury report needs to be released Wednesday. Sampson was on crutches after Sunday's loss to the Jaguars, so he's likely looking at some missed time at least. Quinshon Judkins and Raheim Sanders handled backfield duties with Sampson sidelined.",
+          "shortComment": "Coach Todd Monken said Monday the team is still evaluating the severity of Sampson's knee injury, Daniel Oyefusi of ESPN.com reports.",
+          "status": "Out",
+          "date": "2026-09-14T18:19Z",
+          "athlete": {
+            "firstName": "Dylan",
+            "lastName": "Sampson",
+            "displayName": "Dylan Sampson",
+            "shortName": "D. Sampson",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/5081397/dylan-sampson",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/5081397/dylan-sampson",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5081397&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/5081397/dylan-sampson",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/5081397/dylan-sampson",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5081397&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/5081397/dylan-sampson",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5081397&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/5081397/dylan-sampson",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5081397&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/5081397/dylan-sampson",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:5081397",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/5081397.png",
+              "alt": "Dylan Sampson"
+            },
+            "position": {
+              "id": "9",
+              "name": "Running Back",
+              "displayName": "Running Back",
+              "abbreviation": "RB",
+              "leaf": true
+            },
+            "team": {
+              "id": "5",
+              "uid": "s:20~l:28~t:5",
+              "slug": "cleveland-browns",
+              "name": "Browns",
+              "abbreviation": "CLE",
+              "displayName": "Cleveland Browns",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2024-06-25T18:47Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/cle.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:47Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2024-06-25T18:47Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/cle.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:47Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-30T20:28Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/539babc5-e5fb-753b-8ae1-c15032a91ef4/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/cle/cleveland-browns",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/cle/cleveland-browns",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:5&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/cle/cleveland-browns",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:5&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/cle",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:5&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/cle",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/cleveland-browns-tickets--sports-nfl-football/performer/181?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/cle/cleveland-browns",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/cle",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/cle",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/cle",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:5&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "637289",
+                  "type": "news",
+                  "date": "2026-09-14T18:19Z",
+                  "headline": "Coach Todd Monken said Monday the team is still evaluating the severity of Sampson's knee injury, Daniel Oyefusi of ESPN.com reports.",
+                  "text": "Monken said more information will be known Wednesday, which would suggest he's playing coy since the Browns aren't required to provide any update until an injury report needs to be released Wednesday. Sampson was on crutches after Sunday's loss to the Jaguars, so he's likely looking at some missed time at least. Quinshon Judkins and Raheim Sanders handled backfield duties with Sampson sidelined.",
+                  "source": "RotoWire",
+                  "injury": {
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/5081397/injuries/637289?lang=en&region=us"
+                  }
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": {
+            "fantasyStatus": {
+              "description": "OUT",
+              "abbreviation": "OUT"
+            },
+            "type": "Knee",
+            "location": "Leg",
+            "detail": "Not Specified",
+            "side": "Left",
+            "returnDate": "2026-10-18"
           }
         },
         {
@@ -136829,7 +136829,7 @@
         },
         {
           "id": "637482",
-          "longComment": "Sutton, along with the rest of the Broncos offense, endured a miserable night, and the veteran receiver tied for the second-fewest receptions and third-fewest yards among Denver pass catchers to record at least one grab. Sutton was also the intended receiver on Bo Nix's early-game interception, making it an all-around throwaway season-opening performance. Sutton's first chance to atone comes in Denver's Week 2 home opener Sunday, which sees a talented Jaguars team come into the Mile High City.",
+          "longComment": "Sutton, along with the rest of the Broncos offense, endured a miserable night, and the veteran receiver tied for the second-fewest receptions and third-fewest yards among Denver pass catchers to record at least one grab. Sutton also was the intended receiver on Bo Nix's early-game interception, making it an all-around throwaway season-opening performance. Sutton's first chance to atone comes in Denver's Week 2 home opener Sunday, which sees a talented Jaguars team come into the Mile High City.",
           "shortComment": "Sutton secured two of five targets for 11 yards in the Broncos' 31-10 loss to the Chiefs on Monday night.",
           "status": "Active",
           "date": "2026-09-15T04:03Z",
@@ -137405,7 +137405,7 @@
                   "type": "news",
                   "date": "2026-09-15T04:03Z",
                   "headline": "Sutton secured two of five targets for 11 yards in the Broncos' 31-10 loss to the Chiefs on Monday night.",
-                  "text": "Sutton, along with the rest of the Broncos offense, endured a miserable night, and the veteran receiver tied for the second-fewest receptions and third-fewest yards among Denver pass catchers to record at least one grab. Sutton was also the intended receiver on Bo Nix's early-game interception, making it an all-around throwaway season-opening performance. Sutton's first chance to atone comes in Denver's Week 2 home opener Sunday, which sees a talented Jaguars team come into the Mile High City.",
+                  "text": "Sutton, along with the rest of the Broncos offense, endured a miserable night, and the veteran receiver tied for the second-fewest receptions and third-fewest yards among Denver pass catchers to record at least one grab. Sutton also was the intended receiver on Bo Nix's early-game interception, making it an all-around throwaway season-opening performance. Sutton's first chance to atone comes in Denver's Week 2 home opener Sunday, which sees a talented Jaguars team come into the Mile High City.",
                   "source": "RotoWire"
                 }
               ]
@@ -137431,7 +137431,7 @@
         },
         {
           "id": "637481",
-          "longComment": "Harvey saw an uptick in opportunities as a pass catcher due to game script, one that saw the Broncos fall behind by a 24-10 margin late in the third quarter. The second-year back was also efficient with his trio of carries, which were five fewer than those logged by lead runner J.K. Dobbins. Harvey should have a chance for more opportunities on the ground in most games this season, including a Week 2 home matchup against the Jaguars on Sunday where Denver's offense will have a higher probability of running a more balanced attack.",
+          "longComment": "Harvey saw an uptick in opportunities as a pass catcher due to game script, one that saw the Broncos fall behind by a 24-10 margin late in the third quarter. The second-year back also was efficient with his trio of carries, which were five fewer than those logged by lead runner J.K. Dobbins. Harvey should have a chance for more opportunities on the ground in most games this season, including a Week 2 home matchup against the Jaguars on Sunday where Denver's offense will have a higher probability of running a more balanced attack.",
           "shortComment": "Harvey rushed three times for 18 yards, brought in all four targets for 23 yards and returned four kickoffs for 111 yards in the Broncos' 31-10 loss to the Chiefs on Monday night.",
           "status": "Active",
           "date": "2026-09-15T03:54Z",
@@ -138007,7 +138007,7 @@
                   "type": "news",
                   "date": "2026-09-15T03:54Z",
                   "headline": "Harvey rushed three times for 18 yards, brought in all four targets for 23 yards and returned four kickoffs for 111 yards in the Broncos' 31-10 loss to the Chiefs on Monday night.",
-                  "text": "Harvey saw an uptick in opportunities as a pass catcher due to game script, one that saw the Broncos fall behind by a 24-10 margin late in the third quarter. The second-year back was also efficient with his trio of carries, which were five fewer than those logged by lead runner J.K. Dobbins. Harvey should have a chance for more opportunities on the ground in most games this season, including a Week 2 home matchup against the Jaguars on Sunday where Denver's offense will have a higher probability of running a more balanced attack.",
+                  "text": "Harvey saw an uptick in opportunities as a pass catcher due to game script, one that saw the Broncos fall behind by a 24-10 margin late in the third quarter. The second-year back also was efficient with his trio of carries, which were five fewer than those logged by lead runner J.K. Dobbins. Harvey should have a chance for more opportunities on the ground in most games this season, including a Week 2 home matchup against the Jaguars on Sunday where Denver's offense will have a higher probability of running a more balanced attack.",
                   "source": "RotoWire"
                 }
               ]
@@ -138033,7 +138033,7 @@
         },
         {
           "id": "637479",
-          "longComment": "The highlight of Dobbins' relatively unremarkable night came early in the third quarter, when he changed direction shortly after taking the handoff and rumbled around left end for a 17-yard gain. The veteran back otherwise found running room difficult to come by against a dominant Chiefs defense, and Dobbins' rushing opportunities were notably limited overall due to game script. There will be much more cohesive offensive performances for the Broncos this season, and Dobbins should be in line for a bigger workload during Denver's home opener in Week 2 against the Jaguars.",
+          "longComment": "The highlight of Dobbins' relatively unremarkable night came early in the third quarter, when he changed direction shortly after taking the handoff and rumbled around left end for a 17-yard gain. The veteran back otherwise found running room difficult to come by against a dominant Chiefs defense, and Dobbins' rushing opportunities were notably limited overall due to game script. There will be much more cohesive offensive performances for the Broncos this season, and Dobbins should be in line for a bigger workload during Denver's home opener Week 2 against the Jaguars.",
           "shortComment": "Dobbins rushed eight times for 36 yards and wasn't targeted in the Broncos' 31-10 loss to the Chiefs on Monday night.",
           "status": "Active",
           "date": "2026-09-15T03:48Z",
@@ -138609,7 +138609,7 @@
                   "type": "news",
                   "date": "2026-09-15T03:48Z",
                   "headline": "Dobbins rushed eight times for 36 yards and wasn't targeted in the Broncos' 31-10 loss to the Chiefs on Monday night.",
-                  "text": "The highlight of Dobbins' relatively unremarkable night came early in the third quarter, when he changed direction shortly after taking the handoff and rumbled around left end for a 17-yard gain. The veteran back otherwise found running room difficult to come by against a dominant Chiefs defense, and Dobbins' rushing opportunities were notably limited overall due to game script. There will be much more cohesive offensive performances for the Broncos this season, and Dobbins should be in line for a bigger workload during Denver's home opener in Week 2 against the Jaguars.",
+                  "text": "The highlight of Dobbins' relatively unremarkable night came early in the third quarter, when he changed direction shortly after taking the handoff and rumbled around left end for a 17-yard gain. The veteran back otherwise found running room difficult to come by against a dominant Chiefs defense, and Dobbins' rushing opportunities were notably limited overall due to game script. There will be much more cohesive offensive performances for the Broncos this season, and Dobbins should be in line for a bigger workload during Denver's home opener Week 2 against the Jaguars.",
                   "source": "RotoWire"
                 }
               ]
@@ -139839,7 +139839,7 @@
         },
         {
           "id": "637329",
-          "longComment": "Badie beat out Jaleel McLaughlin for a final spot on the Broncos' 53-man roster at the end of training camp. However, Badie will observe Monday night's contest in street clothes while the Broncos roll with three active running backs in RJ Harvey, J.K Dobbins and rookie fourth-rounder Jonah Coleman. Badie's next chance to suit up is Week 2 against the Jaguars this Sunday.",
+          "longComment": "Badie beat out Jaleel McLaughlin for a final spot on the Broncos' 53-man roster at the end of training camp. However, Badie will observe Monday night's contest in street clothes while the Broncos roll with three active running backs in RJ Harvey, J.K. Dobbins and rookie fourth-rounder Jonah Coleman. Badie's next chance to suit up is Week 2 against the Jaguars this Sunday.",
           "shortComment": "Badie (coach's decision) is inactive for Monday's game against the Chiefs, Aric DiLalla of the Broncos' official site reports.",
           "status": "Out",
           "date": "2026-09-14T22:57Z",
@@ -140415,7 +140415,7 @@
                   "type": "news",
                   "date": "2026-09-14T22:57Z",
                   "headline": "Badie (coach's decision) is inactive for Monday's game against the Chiefs, Aric DiLalla of the Broncos' official site reports.",
-                  "text": "Badie beat out Jaleel McLaughlin for a final spot on the Broncos' 53-man roster at the end of training camp. However, Badie will observe Monday night's contest in street clothes while the Broncos roll with three active running backs in RJ Harvey, J.K Dobbins and rookie fourth-rounder Jonah Coleman. Badie's next chance to suit up is Week 2 against the Jaguars this Sunday.",
+                  "text": "Badie beat out Jaleel McLaughlin for a final spot on the Broncos' 53-man roster at the end of training camp. However, Badie will observe Monday night's contest in street clothes while the Broncos roll with three active running backs in RJ Harvey, J.K. Dobbins and rookie fourth-rounder Jonah Coleman. Badie's next chance to suit up is Week 2 against the Jaguars this Sunday.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4362748/injuries/637329?lang=en&region=us"
@@ -183536,7 +183536,7 @@
         },
         {
           "id": "637311",
-          "longComment": "Acquired from the Patriots toward the end of training camp, Boutte is still in the process if building rapport with C.J. Stroud while learning the playbook. He played behind both Nico Collins and Xavier Hutchinson against Buffalo, seeing just under 46 percent of the offensive snaps. Boutte's role could grow as the season goes along, but Hutchinson has long been a favorite of the coaching staff, and second-year WR Jaylin Noel is also in the mix for increased reps.",
+          "longComment": "Acquired from the Patriots toward the end of training camp, Boutte is still in the process of building rapport with C.J. Stroud while learning the playbook. Boutte played behind both Nico Collins and Xavier Hutchinson against Buffalo, seeing just under 46 percent of the offensive snaps. Boutte's role could grow as the season goes along, but Hutchinson has long been a favorite of the coaching staff, and second-year WR Jaylin Noel also is in the mix for increased reps.",
           "shortComment": "Boutte caught one of two targets for 21 yards in the Texans' 36-31 loss to the Bills on Sunday.",
           "status": "Active",
           "date": "2026-09-14T21:46Z",
@@ -184112,7 +184112,7 @@
                   "type": "news",
                   "date": "2026-09-14T21:46Z",
                   "headline": "Boutte caught one of two targets for 21 yards in the Texans' 36-31 loss to the Bills on Sunday.",
-                  "text": "Acquired from the Patriots toward the end of training camp, Boutte is still in the process if building rapport with C.J. Stroud while learning the playbook. He played behind both Nico Collins and Xavier Hutchinson against Buffalo, seeing just under 46 percent of the offensive snaps. Boutte's role could grow as the season goes along, but Hutchinson has long been a favorite of the coaching staff, and second-year WR Jaylin Noel is also in the mix for increased reps.",
+                  "text": "Acquired from the Patriots toward the end of training camp, Boutte is still in the process of building rapport with C.J. Stroud while learning the playbook. Boutte played behind both Nico Collins and Xavier Hutchinson against Buffalo, seeing just under 46 percent of the offensive snaps. Boutte's role could grow as the season goes along, but Hutchinson has long been a favorite of the coaching staff, and second-year WR Jaylin Noel also is in the mix for increased reps.",
                   "source": "RotoWire"
                 }
               ]
@@ -227682,7 +227682,7 @@
         },
         {
           "id": "637488",
-          "longComment": "Kelce comfortably paced the Chiefs in receiving yards while tying for the team lead in receiving yards and finishing as the runner-up in targets. The legendary tight end's night would have been unremarkable without his game-long 59-yard catch, which came on a third-down play just before the six-minute mark of the third quarter and brought the ball down to the Broncos' four-yard line. Kelce and Patrick Mahomes' chemistry is unquestioned, and with the prolific quarterback looking to be at close to full health already Monday night, fantasy-friendly performances should continue to be the norm between the two as the season unfolds.",
+          "longComment": "Kelce comfortably paced the Chiefs in receiving yards while tying for the team lead in receptions and finishing as the runner-up in targets. The legendary tight end's night would have been unremarkable without his game-long 59-yard catch, which came on a third-down play just before the six-minute mark of the third quarter and brought the ball down to the Broncos' four-yard line. Kelce's chemistry with Patrick Mahomes is unquestioned, and with the prolific quarterback looking to be at close to full health already Monday night, fantasy-friendly performances should continue to be the norm between the two as the season unfolds.",
           "shortComment": "Kelce brought in three of five targets for 71 yards in the Chiefs' 31-10 win over the Broncos on Monday night.",
           "status": "Active",
           "date": "2026-09-15T04:26Z",
@@ -228258,7 +228258,7 @@
                   "type": "news",
                   "date": "2026-09-15T04:26Z",
                   "headline": "Kelce brought in three of five targets for 71 yards in the Chiefs' 31-10 win over the Broncos on Monday night.",
-                  "text": "Kelce comfortably paced the Chiefs in receiving yards while tying for the team lead in receiving yards and finishing as the runner-up in targets. The legendary tight end's night would have been unremarkable without his game-long 59-yard catch, which came on a third-down play just before the six-minute mark of the third quarter and brought the ball down to the Broncos' four-yard line. Kelce and Patrick Mahomes' chemistry is unquestioned, and with the prolific quarterback looking to be at close to full health already Monday night, fantasy-friendly performances should continue to be the norm between the two as the season unfolds.",
+                  "text": "Kelce comfortably paced the Chiefs in receiving yards while tying for the team lead in receptions and finishing as the runner-up in targets. The legendary tight end's night would have been unremarkable without his game-long 59-yard catch, which came on a third-down play just before the six-minute mark of the third quarter and brought the ball down to the Broncos' four-yard line. Kelce's chemistry with Patrick Mahomes is unquestioned, and with the prolific quarterback looking to be at close to full health already Monday night, fantasy-friendly performances should continue to be the norm between the two as the season unfolds.",
                   "source": "RotoWire"
                 }
               ]
@@ -231318,7 +231318,7 @@
         },
         {
           "id": "637331",
-          "longComment": "Nussmeier will be the reserve option behind Patrick Mahomes and Justin Fields. The seventh-round rookie out of LSU will only be able to play if both Mahomes and Fields cannot return to the game. If the QB room is healthy, Nussmeier's only hope to free himself of this role is by outplaying Justin Fields regularly in practice.",
+          "longComment": "Nussmeier will be the reserve option behind Patrick Mahomes and Justin Fields. The seventh-round rookie out of LSU will only be able to play if both Mahomes and Fields exit the game due to injury, illness or ejection.",
           "shortComment": "Nussmeier (coach's decision) is inactive as the emergency third quarterback for Monday night's game against the Broncos.",
           "status": "Out",
           "date": "2026-09-14T23:05Z",
@@ -231894,7 +231894,7 @@
                   "type": "news",
                   "date": "2026-09-14T23:05Z",
                   "headline": "Nussmeier (coach's decision) is inactive as the emergency third quarterback for Monday night's game against the Broncos.",
-                  "text": "Nussmeier will be the reserve option behind Patrick Mahomes and Justin Fields. The seventh-round rookie out of LSU will only be able to play if both Mahomes and Fields cannot return to the game. If the QB room is healthy, Nussmeier's only hope to free himself of this role is by outplaying Justin Fields regularly in practice.",
+                  "text": "Nussmeier will be the reserve option behind Patrick Mahomes and Justin Fields. The seventh-round rookie out of LSU will only be able to play if both Mahomes and Fields exit the game due to injury, illness or ejection.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4567747/injuries/637331?lang=en&region=us"
@@ -275632,7 +275632,7 @@
         },
         {
           "id": "637284",
-          "longComment": "\"We haven't decided that yet,\" McVay said. \"He's going to continue to work his process, and we'll see what that looks like.\" Donald didn't travel with the Rams to Australia for last week's beatdown at the hands of the 49ers, and Los Angeles will now be without Myles Garrett (knee surgery) for at least the next month. The Rams weren't able to put any pressure on Brock Purdy in Week 1, so getting Donald in the fold can only help while Garrett recovers.",
+          "longComment": "\"We haven't decided that yet,\" McVay said. \"He's going to continue to work his process, and we'll see what that looks like.\" Donald didn't travel with the Rams to Australia for last week's beatdown at the hands of the 49ers, and Los Angeles now will be without Myles Garrett (knee surgery) for at least the next month. The Rams weren't able to put any pressure on Brock Purdy in Week 1, so getting Donald in the fold can only help while Garrett recovers.",
           "shortComment": "Coach Sean McVay said Monday that Donald's availability for Week 2 against the Giants is still to be determined, Sarah Barshop of ESPN.com reports.",
           "status": "Active",
           "date": "2026-09-14T17:05Z",
@@ -276208,7 +276208,7 @@
                   "type": "news",
                   "date": "2026-09-14T17:05Z",
                   "headline": "Coach Sean McVay said Monday that Donald's availability for Week 2 against the Giants is still to be determined, Sarah Barshop of ESPN.com reports.",
-                  "text": "\"We haven't decided that yet,\" McVay said. \"He's going to continue to work his process, and we'll see what that looks like.\" Donald didn't travel with the Rams to Australia for last week's beatdown at the hands of the 49ers, and Los Angeles will now be without Myles Garrett (knee surgery) for at least the next month. The Rams weren't able to put any pressure on Brock Purdy in Week 1, so getting Donald in the fold can only help while Garrett recovers.",
+                  "text": "\"We haven't decided that yet,\" McVay said. \"He's going to continue to work his process, and we'll see what that looks like.\" Donald didn't travel with the Rams to Australia for last week's beatdown at the hands of the 49ers, and Los Angeles now will be without Myles Garrett (knee surgery) for at least the next month. The Rams weren't able to put any pressure on Brock Purdy in Week 1, so getting Donald in the fold can only help while Garrett recovers.",
                   "source": "RotoWire"
                 }
               ]
@@ -365069,7 +365069,7 @@
         {
           "id": "637325",
           "longComment": "Taylor got the start at tight end and played 44 of 67 offensive snaps. He ran 16 routes on Geno Smith's 26 dropbacks but had a laughable zero-yard average depth of target, giving him no chance to produce much in the box score. Taylor has next to no fantasy value in the Jets' low-volume passing offense that will feature Garrett Wilson and Breece Hall first and foremost.",
-          "shortComment": "Taylor caught two of three targets for minus-two yards in the Jets' 23-10 win over the Titans on Sunday.",
+          "shortComment": "Taylor caught two of three targets for minus-2 yards in the Jets' 23-10 win over the Titans on Sunday.",
           "status": "Active",
           "date": "2026-09-14T22:48Z",
           "athlete": {
@@ -365643,7 +365643,7 @@
                   "id": "637325",
                   "type": "news",
                   "date": "2026-09-14T22:48Z",
-                  "headline": "Taylor caught two of three targets for minus-two yards in the Jets' 23-10 win over the Titans on Sunday.",
+                  "headline": "Taylor caught two of three targets for minus-2 yards in the Jets' 23-10 win over the Titans on Sunday.",
                   "text": "Taylor got the start at tight end and played 44 of 67 offensive snaps. He ran 16 routes on Geno Smith's 26 dropbacks but had a laughable zero-yard average depth of target, giving him no chance to produce much in the box score. Taylor has next to no fantasy value in the Jets' low-volume passing offense that will feature Garrett Wilson and Breece Hall first and foremost.",
                   "source": "RotoWire"
                 }
@@ -394759,7 +394759,7 @@
         {
           "id": "637334",
           "longComment": "Watt turned back the clock for a vintage masterclass in Sunday's game, scoring a 35-yard touchdown in the second quarter off a Cooper Rush interception that turned out to be the difference in the contest. The edge rusher already has over a quarter of his 2025 sack total (7.0) after just one week of regular-season play. It is safe to say Watt has fully recovered from the lung injury that plagued him throughout the end of the 2025 campaign.",
-          "shortComment": "Watt made four solo tackles, including 2.0 sacks and a tackle for loss, and had one pass defensed for a 35-yard pick-six in Sunday's 20-13 win over the Falcons.",
+          "shortComment": "Watt made four solo tackles, including 2.0 sacks, and had one pass defensed for a 35-yard pick-six in Sunday's 20-13 win over the Falcons.",
           "status": "Active",
           "date": "2026-09-14T23:13Z",
           "athlete": {
@@ -395333,7 +395333,7 @@
                   "id": "637334",
                   "type": "news",
                   "date": "2026-09-14T23:13Z",
-                  "headline": "Watt made four solo tackles, including 2.0 sacks and a tackle for loss, and had one pass defensed for a 35-yard pick-six in Sunday's 20-13 win over the Falcons.",
+                  "headline": "Watt made four solo tackles, including 2.0 sacks, and had one pass defensed for a 35-yard pick-six in Sunday's 20-13 win over the Falcons.",
                   "text": "Watt turned back the clock for a vintage masterclass in Sunday's game, scoring a 35-yard touchdown in the second quarter off a Cooper Rush interception that turned out to be the difference in the contest. The edge rusher already has over a quarter of his 2025 sack total (7.0) after just one week of regular-season play. It is safe to say Watt has fully recovered from the lung injury that plagued him throughout the end of the 2025 campaign.",
                   "source": "RotoWire"
                 }
@@ -441941,7 +441941,7 @@
         },
         {
           "id": "637295",
-          "longComment": "With Jalen McMillan (knee) inactive, Hurst played 75 percent of the offensive snaps against Cincinnati and ran 30 routes on Baker Mayfield's 36 dropbacks. His three targets were fifth on the team. McMillan's injury isn't expected to keep him out long, so Hurst will be competing for playing time once everyone is healthy. He's merely someone to watch on the waiver wire in normal-sized redraft fantasy leagues.",
+          "longComment": "With Jalen McMillan (knee) inactive, Hurst played 75 percent of the offensive snaps against Cincinnati and ran 30 routes on Baker Mayfield's 36 dropbacks. Hurst's three targets were fifth on the team. McMillan's injury isn't expected to keep him out long, so Hurst will be competing for playing time once everyone is healthy. Hurst is merely someone to watch on the waiver wire in normal-sized redraft fantasy leagues.",
           "shortComment": "Hurst caught all three of his targets for 36 yards in Sunday's 33-27 loss to the Bengals.",
           "status": "Active",
           "date": "2026-09-14T19:07Z",
@@ -442517,7 +442517,7 @@
                   "type": "news",
                   "date": "2026-09-14T19:07Z",
                   "headline": "Hurst caught all three of his targets for 36 yards in Sunday's 33-27 loss to the Bengals.",
-                  "text": "With Jalen McMillan (knee) inactive, Hurst played 75 percent of the offensive snaps against Cincinnati and ran 30 routes on Baker Mayfield's 36 dropbacks. His three targets were fifth on the team. McMillan's injury isn't expected to keep him out long, so Hurst will be competing for playing time once everyone is healthy. He's merely someone to watch on the waiver wire in normal-sized redraft fantasy leagues.",
+                  "text": "With Jalen McMillan (knee) inactive, Hurst played 75 percent of the offensive snaps against Cincinnati and ran 30 routes on Baker Mayfield's 36 dropbacks. Hurst's three targets were fifth on the team. McMillan's injury isn't expected to keep him out long, so Hurst will be competing for playing time once everyone is healthy. Hurst is merely someone to watch on the waiver wire in normal-sized redraft fantasy leagues.",
                   "source": "RotoWire"
                 }
               ]
@@ -456451,7 +456451,7 @@
         },
         {
           "id": "637330",
-          "longComment": "Tony Pollard narrowly out-snapped Spears 26 to 25 in the season opener, as the former out-carried Spears seven to three in what was a decidedly negative game script for the Titans. Spears out-targeted his backfield mate four to two and ran 14 routes to Pollard's seven. This looks like a pretty even split, but it'll be tough for either back to produce weekly fantasy reliability in one of the league's worst offenses with a swinging-gate offensive line.",
+          "longComment": "Tony Pollard narrowly out-snapped Spears, 26-25, in the season opener, as the former out-carried Spears seven to three in what was a decidedly negative game script for the Titans. Spears out-targeted his backfield mate four to two and ran 14 routes to Pollard's seven. This looks like a pretty even split, but it'll be tough for either back to produce weekly fantasy reliability in one of the league's worst offenses with a swinging-gate offensive line.",
           "shortComment": "Spears rushed three times for 12 yards and caught two of four targets for an additional 12 yards in Sunday's 23-10 loss to the Jets.",
           "status": "Active",
           "date": "2026-09-14T23:00Z",
@@ -457027,7 +457027,7 @@
                   "type": "news",
                   "date": "2026-09-14T23:00Z",
                   "headline": "Spears rushed three times for 12 yards and caught two of four targets for an additional 12 yards in Sunday's 23-10 loss to the Jets.",
-                  "text": "Tony Pollard narrowly out-snapped Spears 26 to 25 in the season opener, as the former out-carried Spears seven to three in what was a decidedly negative game script for the Titans. Spears out-targeted his backfield mate four to two and ran 14 routes to Pollard's seven. This looks like a pretty even split, but it'll be tough for either back to produce weekly fantasy reliability in one of the league's worst offenses with a swinging-gate offensive line.",
+                  "text": "Tony Pollard narrowly out-snapped Spears, 26-25, in the season opener, as the former out-carried Spears seven to three in what was a decidedly negative game script for the Titans. Spears out-targeted his backfield mate four to two and ran 14 routes to Pollard's seven. This looks like a pretty even split, but it'll be tough for either back to produce weekly fantasy reliability in one of the league's worst offenses with a swinging-gate offensive line.",
                   "source": "RotoWire"
                 }
               ]
@@ -457053,7 +457053,7 @@
         },
         {
           "id": "637328",
-          "longComment": "Ayomanor played as the Titans' WR4, seeing 26 snaps behind Carnell Tate (44), Wan'Dale Robinson (41) and Calvin Ridley (32). It was Ayomanor who accounted for the team's lone touchdown, but he's going to need an injury or two ahead of him to have any shot at fantasy viability in a Tennessee passing offense that is in the conversation as the worst in the league.",
+          "longComment": "Ayomanor played as the Titans' WR4, seeing 26 snaps behind Carnell Tate (44), Wan'Dale Robinson (41) and Calvin Ridley (32). It was Ayomanor who accounted for the team's lone touchdown, but he's going to need an injury or two ahead of him to have any chance at fantasy viability in a Tennessee passing offense that is in the conversation as the worst in the league.",
           "shortComment": "Ayomanor caught one of three targets for an 11-yard touchdown in the Titans' 23-10 loss to the Jets on Sunday.",
           "status": "Active",
           "date": "2026-09-14T22:56Z",
@@ -457629,7 +457629,7 @@
                   "type": "news",
                   "date": "2026-09-14T22:56Z",
                   "headline": "Ayomanor caught one of three targets for an 11-yard touchdown in the Titans' 23-10 loss to the Jets on Sunday.",
-                  "text": "Ayomanor played as the Titans' WR4, seeing 26 snaps behind Carnell Tate (44), Wan'Dale Robinson (41) and Calvin Ridley (32). It was Ayomanor who accounted for the team's lone touchdown, but he's going to need an injury or two ahead of him to have any shot at fantasy viability in a Tennessee passing offense that is in the conversation as the worst in the league.",
+                  "text": "Ayomanor played as the Titans' WR4, seeing 26 snaps behind Carnell Tate (44), Wan'Dale Robinson (41) and Calvin Ridley (32). It was Ayomanor who accounted for the team's lone touchdown, but he's going to need an injury or two ahead of him to have any chance at fantasy viability in a Tennessee passing offense that is in the conversation as the worst in the league.",
                   "source": "RotoWire"
                 }
               ]
