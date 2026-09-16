@@ -5859,3 +5859,25 @@ Owner-directed maintenance pass after the tracker's Sept 14 reactivation as an i
 **Breaking-news sweep:** 5 WebSearch queries across the six tracked positions plus general IR-placement queries for the window. Confirmed already-tracked with no changes needed: Zachary Carter (DT, Cardinals) and Nnamdi Madubuike (DT, Ravens, not placed on IR — remains day-to-day, already tracked as such). Jonathon Cooper (LB, Broncos) and Josh Jacobs (RB, Packers) resurfaced again on the Commissioner's Exempt List for legal/personal matters — excluded as non-injury designations. A "T.J. Sanders (DT, Bills) held out of Tuesday practice" item traces to illness, not injury — out of scope, not added. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 14, 9:15 PM ET ages off). 4 aged off this run (Lindstrom, Mahogany, B.J. Green II, Jordan Mason — all added Sept. 14 at 3:41 PM ET, ~29.5h old). 2 new NEW badges added (Bishop, Reed). Net badge count: 10 → 8. Tile counts updated and verified against current table rows: 145 high / 107 mid / 46 low / 298 all / 8 new.
+
+## Sep 16, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep.
+
+**New injuries:**
+- Terrel Bernard (LB, Bills) — calf, limited participant in Tuesday's (Sept 15) practice after playing all 79 defensive snaps vs. the Texans. Severity: low.
+
+**Status and designation changes:**
+- Malik Hooker (S, Cowboys) — now reported as a fractured forearm (previously undiagnosed) from the Sept 13 loss to the Giants; HC Brian Schottenheimer expects him out a couple of weeks pending a hand specialist's evaluation. Severity: low → mid.
+- DeMarvion Overshown (LB, Cowboys) — hamstring from the same Sept 13 Giants game; also expected out a couple of weeks per Schottenheimer. Severity: low → mid.
+- Henry To'oTo'o (LB, Texans) — officially placed on injured reserve Sept 15 for the shoulder injury from the Sept 13 Bills loss; out at least four games, eligible to return Week 6 vs. the Jaguars (recovery reportedly expected to take a few months). Severity unchanged: mid.
+- D.J. Reed (CB, Lions) — added detail: Thursday-game availability depends on Wednesday's practice participation. Severity unchanged: low.
+- Chamarri Conner (S, Chiefs) — checked again (unmatched against the fresh snapshot for the second consecutive sweep); WebSearch found no Week 2 update either way. Kept, no change.
+
+**Removals:** None this run.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-16T13:32:55Z, ~2h37m old at run start — fresh). Filtered to the six tracked positions (98 non-Active entries across 32 teams) and diffed by player+team against all 298 pre-run dashboard rows: 84 matched a snapshot entry (0 now read "Active" — no recoveries this run), 214 had no matching snapshot entry (137 high-sev exempt; 76 mid-sev unmatched are IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 1 low-sev unmatched — Chamarri Conner, re-verified via WebSearch and kept, see above). Circuit breaker: not applicable — 0 removals proposed. Reconciliation continues to run clean.
+
+**Breaking-news sweep:** 4 WebSearch queries across the six tracked positions plus general IR-placement and Wednesday-practice-report queries for the window. Confirmed already-tracked with no changes needed: Sean Tucker, Audric Estime, Ty Johnson, Josh Simmons, Justin Skule (all Week 1 items). Jonathon Cooper (LB, Broncos) and Josh Jacobs (RB, Packers) resurfaced again on the Commissioner's Exempt List for legal/personal matters — excluded as non-injury designations. Jalon Walker (LB, Falcons) torn-ACL story resurfaced again but confirmed stale (August training camp, already tracked). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 15, 12:15 PM ET ages off). 1 aged off this run (Landon Dickerson, added Sept. 14 at 9:20 PM ET, ~39h old). 1 new NEW badge added (Bernard). Net badge count: 8 → 8. Tile counts updated and verified against current table rows: 145 high / 109 mid / 45 low / 299 all / 8 new.
