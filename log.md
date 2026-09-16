@@ -5837,3 +5837,25 @@ Owner-directed maintenance pass after the tracker's Sept 14 reactivation as an i
 **Breaking-news sweep:** 6 WebSearch queries across the six tracked positions plus general IR-placement queries for the window, including the Chiefs–Broncos MNF game (Chiefs won 31-10) and a check on the Rams' Week 1 (Sept 10, Australia) injury carryover ahead of their Sept 21 game. Confirmed already-tracked with no changes needed: Josh Simmons and Chamarri Conner (Chiefs), Roy Robertson-Harris (DT, Giants), Laremy Tunsil (OT, Commanders). Jonathon Cooper (LB, Broncos) and Josh Jacobs (RB, Packers) resurfaced again on the Commissioner's Exempt List for legal/personal matters — excluded as non-injury designations, consistent with prior sweeps. Several Broncos/Chiefs inactive-list snapshot entries (Tyler Badie, Tyler Onyedim, Jordan Jackson, Kage Casey, Diego Pounds, Jack Pyburn, Bryson Eason) carried no injury description or were explicit coach's-decision scratches — excluded as uninformative/non-injury. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 14, 12:15 PM ET ages off). 0 aged off this run (all 5 existing NEW-badge rows are from the 9:20 PM ET sweep last night, ~15h old, under 24h). 5 new NEW badges added (Delane, McDonald, Speights, Landman, Curl). Net badge count: 5 → 10. Tile counts updated and verified against current table rows: 145 high / 106 mid / 45 low / 296 all / 10 new.
+
+## Sep 15, 2026, 9:15 PM ET
+
+~9h window since the 12:15 PM ET sweep.
+
+**New injuries:**
+- Cole Bishop (S, Bills) — groin, limited participant in Tuesday's (Sept 15) practice. Severity: low.
+- D.J. Reed (CB, Lions) — foot, limited participant in Tuesday's (Sept 15) practice. Severity: low.
+
+**Status and designation changes:**
+- Dylan Sampson (RB, Browns) — placed on injured reserve Sept 15 for the knee injury suffered in the Sept 13 loss at Jacksonville; out at least the first four games. Severity unchanged: mid. Wording updated to absolute dates.
+- Kyle Louis (LB, Dolphins) — diagnosed with an MCL sprain from the Sept 13 loss to the Raiders; HC Jeff Hafley says he's expected to miss a few weeks, at least the Sept 21 game vs. the 49ers. Severity: low → mid.
+- Mansoor Delane (CB, Chiefs) — Sept 15 MRI/X-ray came back negative for fracture; believed to be a shoulder sprain and expected to miss minimal time (previously undiagnosed as of last night's addition). Severity unchanged: low.
+- Chamarri Conner (S, Chiefs) — no new outcome, but confirmed the team opted not to place him on IR or PUP after ruling him out for the Sept 14 Broncos game, suggesting a near-term return; wording updated to absolute dates (was flagged this run as unmatched against the fresh snapshot — kept after WebSearch found no evidence of activation or recovery, just confirmation he remains out).
+
+**Removals:** None this run.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-16T00:25:57Z, ~43min old at run start — fresh). Filtered to the six tracked positions (118 non-Active entries across 32 teams) and diffed by player+team against all 296 pre-run dashboard rows: 102 matched a snapshot entry (0 now read "Active" — no recoveries this run), 194 had no matching snapshot entry (127 high-sev exempt; 66 mid-sev unmatched are IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern of not appearing on ESPN's active-roster weekly report; 1 low-sev unmatched — Chamarri Conner, individually verified via WebSearch and kept, see above). Circuit breaker: not applicable — 0 removals proposed. Reconciliation continues to run clean.
+
+**Breaking-news sweep:** 5 WebSearch queries across the six tracked positions plus general IR-placement queries for the window. Confirmed already-tracked with no changes needed: Zachary Carter (DT, Cardinals) and Nnamdi Madubuike (DT, Ravens, not placed on IR — remains day-to-day, already tracked as such). Jonathon Cooper (LB, Broncos) and Josh Jacobs (RB, Packers) resurfaced again on the Commissioner's Exempt List for legal/personal matters — excluded as non-injury designations. A "T.J. Sanders (DT, Bills) held out of Tuesday practice" item traces to illness, not injury — out of scope, not added. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 14, 9:15 PM ET ages off). 4 aged off this run (Lindstrom, Mahogany, B.J. Green II, Jordan Mason — all added Sept. 14 at 3:41 PM ET, ~29.5h old). 2 new NEW badges added (Bishop, Reed). Net badge count: 10 → 8. Tile counts updated and verified against current table rows: 145 high / 107 mid / 46 low / 298 all / 8 new.
