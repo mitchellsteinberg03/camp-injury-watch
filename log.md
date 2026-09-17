@@ -5909,3 +5909,36 @@ Owner-directed maintenance pass after the tracker's Sept 14 reactivation as an i
 **Breaking-news sweep:** 9 WebSearch queries covering all six tracked positions, general IR-placement activity, and Wednesday practice/injury-report coverage for the window. Confirmed and added the Vikings Week 2 initial-report trio (Cashman, Van Ginkel, O'Neill) and the Jordan Mason IR details above via vikings.com and NBC Sports. Confirmed and added the Broncos/Bears/Giants Wednesday practice-report items above. De'Zhaun Stribling (49ers) placed on IR Sept 16 — out of scope (WR). Jonathon Cooper (LB, Broncos) resurfaced again on the Commissioner's Exempt List for a legal/personal matter (jury trial, not an injury) — excluded as non-injury, consistent with prior sweeps. T.J. Sanders (DT, Bills) resurfaced as a Wednesday non-participant, but the snapshot traces it to illness, not injury — excluded, consistent with a prior sweep's finding on the same player. Blake Miller (OT, Lions) is listed "Out" in the snapshot with a bare "out" comment and no injury description — excluded as uninformative; separately confirmed via WebSearch that he and Christian Mahogany (already tracked) are both out for Thursday's game vs. the Bills, with no new detail to add. Joseph Ossai (Jets DE) and Warren Brinson (Packers DT) news both reconfirmed existing tracked rows with no changes needed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 15, 6:10 PM ET ages off). 5 aged off this run (Mansoor Delane, Kam Curl, Cooper McDonald, Omar Speights, Nate Landman — all added Sept. 15 at 12:15 PM ET, ~30h old). 7 new NEW badges added (Harvey, Swift, Monangai, Tracy, Cashman, Van Ginkel, O'Neill). Net badge count: 8 → 10. Tile counts updated and verified against current table rows: 145 high / 110 mid / 47 low / 302 all / 10 new.
+
+## Sep 16, 2026, 9:15 PM ET
+
+~3h window since the 6:10 PM ET sweep, but coinciding with a wave of Wednesday initial Week 2 injury reports across the league.
+
+**New injuries (22):**
+
+*Defensive backs:* A.J. Terrell Jr. (CB, Falcons) — shoulder, did not participate Wednesday; Malik Muhammad II (CB, Bears) — ankle, limited Wednesday; Carlton Davis III (CB, Patriots) — neck, did not participate Wednesday; Cooper DeJean (CB, Eagles) — calf/abdomen, did not participate Wednesday; Kamren Kinchens (S, Rams) — hamstring.
+
+*Linebackers:* Jack Gibbens (LB, Cardinals) — shoulder, limited Wednesday; Teddye Buchanan (LB, Ravens) — knee, limited Wednesday; Trey Hendrickson (LB, Ravens) — finger, missed Wednesday's practice, two more chances to log a full practice before Sunday vs. the Saints; Lukas Van Ness (DE, Packers) — concussion, limited Wednesday; Foyesade Oluokun (LB, Jaguars) — wrist, limited Wednesday; Chop Robinson (LB, Dolphins) — concussion, limited Wednesday; Robert Spillane (LB, Patriots) — knee, limited Wednesday; Jamien Sherwood (LB, Jets) — knee, limited Wednesday; Dorance Armstrong (DE, Commanders) — knee, limited Wednesday; Odafe Oweh (LB, Commanders) — calf, limited Wednesday.
+
+*Defensive tackles:* Javon Hargrave (DT, Packers) — knee/concussion, limited Wednesday; Devonte Wyatt (DT, Packers) — ankle, limited Wednesday; Chris Jones (DT, Chiefs) — calf, limited Wednesday; Jalen Carter (DT, Eagles) — wrist, did not participate Wednesday.
+
+*Offensive tackles:* Ronnie Stanley (OT, Ravens) — knee/ankle from a Week 1 game, missed a second straight day of practice this week; HC John Harbaugh expects him back Thursday.
+
+*Running backs:* LeQuint Allen Jr. (RB, Jaguars) — hip, limited Wednesday (a fresh injury; he'd been removed as recovered on Sept 15); Kene Nwangwu (RB, Jets) — back, did not participate Wednesday.
+
+All severity low (day-to-day, standard weekly practice-report designations).
+
+**Status and designation changes:** None this run.
+
+**Removals (5):**
+- Mansoor Delane (CB, Chiefs) — removed: full participant in Wednesday's practice, per the fresh snapshot — fully recovered from the Sept 14 shoulder sprain.
+- Shemar Stewart (EDGE, Bengals) — removed: full participant in Wednesday's practice, per the fresh snapshot — no longer questionable.
+- Terrel Bernard (LB, Bills) — removed: "does not carry an injury designation" into Thursday's game vs. the Lions, per the fresh snapshot.
+- Justin Skule (OT, Buccaneers) — removed: blank/Active in the fresh snapshot, no longer on the injury report.
+- Sean Tucker (RB, Buccaneers) — removed: full participant in Wednesday's practice, per the fresh snapshot — on track for Sunday.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-17T00:35:54Z, ~33min old at run start — fresh). Filtered to the six tracked positions (137 non-Active entries across 32 teams) and diffed by player+team against all 302 pre-run dashboard rows: 78 matched a snapshot entry, of which 5 now read "Active" — all 5 checked by comment content (not just the status code, learning from a past false-positive) and confirmed genuine recoveries, removed above. 224 had no matching snapshot entry (140 high-sev exempt; 83 mid-sev unmatched are IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 1 low-sev unmatched — Chamarri Conner, absent from the Chiefs snapshot for a 5th consecutive sweep — not re-verified this run given the volume of other work, carried forward unchanged). Circuit breaker: not applicable — 5 removals proposed on 302 pre-run rows (1.7%), far under the 25% threshold.
+
+**Breaking-news sweep:** 5 WebSearch queries covering the six tracked positions and the leaguewide wave of Wednesday practice/injury reports for Week 2. Confirmed and added the 22 items above (Ravens items sourced to Baltimore Sun/baltimoreravens.com; the rest to each team's ESPN injuries page, matching the fresh snapshot's own report data). Two recycled/false leads caught and declined: a "Ravens OT Ja'Wuan James placed on IR" story traces to September 2022, four years stale — not added; Ja'Kobi Lane (Ravens) IR placement is a real Sept 16 move but he's a WR — out of scope, not added. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 15, 9:15 PM ET ages off). 0 aged off this run (the 2 remaining pre-existing NEW-badge rows — Cole Bishop, D.J. Reed — are from Sept. 15 at 9:15 PM ET, exactly 24h old, not yet over the threshold; Blake Cashman, Andrew Van Ginkel, Brian O'Neill, RJ Harvey, D'Andre Swift, Kyle Monangai, Tyrone Tracy Jr. are all from the 6:10 PM ET sweep today). 22 new NEW badges added (list above); 1 NEW badge removed with Terrel Bernard's row. Net badge count: 10 → 31. Tile counts updated and verified against current table rows: 145 high / 109 mid / 65 low / 319 all / 31 new.
