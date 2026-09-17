@@ -5942,3 +5942,27 @@ All severity low (day-to-day, standard weekly practice-report designations).
 **Breaking-news sweep:** 5 WebSearch queries covering the six tracked positions and the leaguewide wave of Wednesday practice/injury reports for Week 2. Confirmed and added the 22 items above (Ravens items sourced to Baltimore Sun/baltimoreravens.com; the rest to each team's ESPN injuries page, matching the fresh snapshot's own report data). Two recycled/false leads caught and declined: a "Ravens OT Ja'Wuan James placed on IR" story traces to September 2022, four years stale — not added; Ja'Kobi Lane (Ravens) IR placement is a real Sept 16 move but he's a WR — out of scope, not added. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 15, 9:15 PM ET ages off). 0 aged off this run (the 2 remaining pre-existing NEW-badge rows — Cole Bishop, D.J. Reed — are from Sept. 15 at 9:15 PM ET, exactly 24h old, not yet over the threshold; Blake Cashman, Andrew Van Ginkel, Brian O'Neill, RJ Harvey, D'Andre Swift, Kyle Monangai, Tyrone Tracy Jr. are all from the 6:10 PM ET sweep today). 22 new NEW badges added (list above); 1 NEW badge removed with Terrel Bernard's row. Net badge count: 10 → 31. Tile counts updated and verified against current table rows: 145 high / 109 mid / 65 low / 319 all / 31 new.
+
+## Sep 17, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering final Week 2 injury reports ahead of tonight's Lions–Bills Thursday-nighter.
+
+**New injuries:**
+- Garrett Williams (CB, Cardinals) — Achilles, limited participant in Wednesday's (Sept 16) practice. Severity: low.
+- Blake Miller (OT, Lions) — knee, hurt in the Sept 13 win over the Saints; ruled out for tonight's (Sept 17) game at Buffalo, Larry Borom to start at right tackle. Severity: low.
+
+**Status and designation changes:**
+- Christian Mahogany (G, Lions) — corrected: the injury is a hip (carted off on a non-contact play), not the knee originally reported; ruled out for tonight's game at Buffalo, Ben Bartch to start at left guard. Severity unchanged: low.
+- Chamarri Conner (S, Chiefs) — did not participate in Thursday's (Sept 17) practice; unlikely to be ready for the Sept 21 Colts game after already missing Week 1 — now missing a second straight week. Severity: low → mid.
+- Cole Bishop (S, Bills) — officially listed questionable for tonight's game on Buffalo's final Week 2 injury report (NEW badge aged off, added Sept 15).
+- T.J. Sanders (DT, Bills) — officially listed questionable for tonight's game on Buffalo's final Week 2 injury report.
+- Ty Johnson (RB, Bills) — reclassified as hamstring (previously an unclear knee/calf diagnosis from an August scrimmage); questionable for tonight's game after three straight days of limited practice.
+- D.J. Reed (CB, Lions) — officially listed questionable for tonight's game at Buffalo after limited practice Tuesday–Wednesday (NEW badge aged off, added Sept 15).
+
+**Removals:** None this run.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-17T13:32:34Z, ~2h37m old at run start — fresh). Filtered to the six tracked positions (136 non-Active entries across 32 teams) and diffed by player+team against all 319 pre-run dashboard rows: 94 matched a snapshot entry (0 now read "Active" — no recoveries this run), 225 had no matching snapshot entry (140 high-sev exempt; 84 mid-sev unmatched are IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 1 low-sev unmatched — Chamarri Conner, re-verified via WebSearch and escalated, see above). Circuit breaker: not applicable — 0 removals proposed. Reconciliation continues to run clean.
+
+**Breaking-news sweep:** 5 WebSearch queries across the six tracked positions plus the Lions–Bills final injury reports and general IR-placement queries for the window. Confirmed and updated the Lions/Bills Thursday-night items above via ESPN, Yahoo Sports, and CBS Sports beat coverage. Nic Scourton (LB, Panthers) torn-ACL story resurfaced again but confirmed stale (August training camp, already tracked). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 16, 12:15 PM ET ages off). 2 aged off this run (Cole Bishop and D.J. Reed, both added Sept. 15 at 9:15 PM ET, ~39h old — should have aged off last sweep but were kept at exactly the 24h boundary then; now well past it). 2 new NEW badges added (Williams, Miller). Net badge count: 31 → 31. Tile counts updated and verified against current table rows: 145 high / 110 mid / 66 low / 321 all / 31 new.
