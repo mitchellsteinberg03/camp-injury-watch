@@ -6052,3 +6052,45 @@ All severity low (day-to-day, standard weekly practice-report designations; Madd
 **Breaking-news sweep:** 2 WebSearch queries covering general IR-placement activity and Friday practice/injury reports across the six tracked positions, plus a targeted query on the Maddox injury (ESPN, CBS Sports, SI.com, Yahoo Sports). 49ers TE and Ravens WR IR placements found but both out of scope (off-tracked positions). No further additions beyond the snapshot-sourced items above. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 17, 12:15 PM ET ages off). 17 aged off this run (Carlton Davis III, Chop Robinson, Chris Jones, Cooper DeJean, Dorance Armstrong, Foyesade Oluokun, Jack Gibbens, Jalen Carter, Kamren Kinchens, Kene Nwangwu, LeQuint Allen Jr., Lukas Van Ness, Malik Muhammad II, Odafe Oweh, Ronnie Stanley, Teddye Buchanan, Trey Hendrickson — all added Sept. 16 at 9:15 PM ET, ~39h old). 21 new NEW badges added (list above). Net badge count: 23 → 27. Tile counts updated and verified against current table rows: 146 high / 114 mid / 77 low / 337 all / 27 new.
+
+## Sep 18, 2026, 6:15 PM ET
+
+~6h window since the 12:15 PM ET sweep, covering Friday's final Week 2 practice/injury reports.
+
+**New injuries (6):**
+
+*Defensive backs:* Paulson Adebo (CB, Giants) — knee, placed on injured reserve Friday, out at least four games; Nikko Reed signed off the Chargers' practice squad to fill the roster spot.
+
+*Linebackers:* Isaiah Stalbird (LB, Saints) — shoulder, doubtful for Sunday's game against the Ravens after briefly exiting the Week 1 game with the injury.
+
+*Defensive tackles:* Christen Miller (DT, Saints) — toe, suffered the injury at Friday's practice after being a full participant earlier in the week; questionable for Sunday vs. the Ravens.
+
+*Offensive tackles:* Trey Pipkins III (OT, Chargers) — knee, did not practice all week, ruled out for Sunday's game against the Raiders; Dametrious Crownover (OT, Patriots) — knee, did not practice Thursday, ruled out for Sunday's game against the Steelers.
+
+*Offensive guards:* Ed Ingram (G, Texans) — groin, downgraded after Friday's practice and ruled out for Sunday's game against the Bengals; per Aaron Wilson (KPRC 2/Sports Talk 790), the injury could sideline him multiple weeks. Severity: mid.
+
+All severity low except Adebo and Ingram (mid, per above).
+
+**Status and designation changes:** None beyond the removals below (several rows updated by removal rather than in-place edit, since Friday's final reports confirmed clearances rather than continued injury status).
+
+**Removals (14):**
+- Xavier Woods (S, Bears) — removed: blank/Active in the fresh snapshot, no longer on the injury report (stale Week 1 designation).
+- Malik Muhammad II (CB, Bears) — removed: blank/Active in the fresh snapshot, no longer on the injury report.
+- Cooper DeJean (CB, Eagles) — removed: full participant at Friday's practice per WebSearch (NBC Sports Philadelphia/Yahoo), expects to play Sunday vs. the Titans.
+- Ty'Ron Hopper (LB, Packers) — removed: blank/Active in the fresh snapshot, no longer on the injury report (stale designation for an already-played game).
+- Andrew Van Ginkel (LB, Vikings) — removed: blank/Active in the fresh snapshot, no longer on the injury report.
+- Dorance Armstrong (DE, Commanders) — removed: blank/Active in the fresh snapshot, no longer on the injury report.
+- Odafe Oweh (LB, Commanders) — removed: blank/Active in the fresh snapshot, no longer on the injury report.
+- Cameron Jordan (DE, Saints) — removed: practiced fully Friday per WebSearch (Canal Street Chronicles), no injury designation, making his 2026 season debut Sunday vs. the Ravens.
+- Devonte Wyatt (DT, Packers) — removed: cleared for Sunday's game per WebSearch (multiple Packers beat outlets), no game-status designation for the Jets game.
+- Jalen Carter (DT, Eagles) — removed: expects to play Sunday vs. the Titans per WebSearch (Philadelphia Inquirer/NBC Philadelphia), wearing a cast but no designation in the fresh snapshot.
+- Ozzy Trapilo (OT, Bears) — removed: blank/Active in the fresh snapshot, no longer on the injury report (stale designation for an already-played game).
+- D'Andre Swift (RB, Bears) — removed: fresh snapshot confirms a full practice Friday with no injury designation for Sunday's game vs. the Vikings.
+- Kyle Monangai (RB, Bears) — removed: fresh snapshot confirms a full participant in Friday's practice with no injury designation for Sunday's game vs. the Vikings.
+- Samaje Perine (RB, Bengals) — removed: fresh snapshot confirms no injury designation for Sunday's game at Houston; expected to play.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-18T20:57:15Z, under 1h old at run start — fresh). Filtered to the six tracked positions and diffed by player+team against all 337 pre-run dashboard rows: 108 matched a snapshot entry (14 now read "Active" or otherwise confirmed cleared — all 14 checked by comment content, not just the status code, plus WebSearch verification for the more consequential/ambiguous ones — all 14 removed above), 229 had no matching snapshot entry at all (143 high-sev exempt; 86 mid-sev unmatched are IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 0 low-sev rows were unmatched, i.e. every remaining low-sev row still appears on the league-wide report). Of the snapshot's remaining unmatched non-Active entries, the large majority were bare "Questionable"/"Out"/"Doubtful"/"inactive" tags with no injury description (excluded per policy) or stale inactive designations tied to Thursday night's already-completed Bills–Lions game; the 6 genuine, described new injuries were added above after WebSearch corroboration. One recurring exclusion: Jonathon Cooper (LB, Broncos) — still a personal-conduct/legal matter, out of scope. Circuit breaker: not applicable — 14 removals proposed on 337 pre-run rows (4.2%), well under the 25% threshold.
+
+**Breaking-news sweep:** ~14 WebSearch queries covering the six tracked positions' Friday final injury reports league-wide, plus targeted follow-ups on Cooper DeJean, Jalen Carter, Devonte Wyatt, Cameron Jordan/Christen Miller (Saints), Dametrious Crownover, Ed Ingram, Trey Pipkins III, and Isaiah Stalbird. One false lead caught and discarded: a search surfaced an old, recycled "Christian McCaffrey (calf/Achilles) placed on IR" story whose internal details (backup Jordan Mason "making his first career start last week vs. the Jets," a since-changed roster situation) date it to 2024, not the current week — not added. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 17, 6:15 PM ET ages off). 2 aged off this run (Garrett Williams, Blake Miller — both added Sept. 17 at 12:15 PM ET, ~30h old). 6 new NEW badges added (list above); 2 NEW badges removed with the Cameron Jordan/Samaje Perine rows (both added earlier today at 12:15 PM ET, then confirmed recovered/cleared this run). Net badge count: 27 → 29. Tile counts updated and verified against current table rows: 146 high / 116 mid / 67 low / 329 all / 29 new.
