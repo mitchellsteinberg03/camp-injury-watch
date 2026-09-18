@@ -6020,3 +6020,35 @@ All severity low (day-to-day, standard weekly practice-report designations).
 **Breaking-news sweep:** 4 WebSearch queries covering the six tracked positions, general IR-placement activity, and defensive-tackle/offensive-line news for the window. Confirmed and added the Clowney item above via NBC Sports/ProFootballTalk. Confirmed and updated the Packers' Hargrave/Wyatt items via SI.com. Myles Garrett (Rams) and A.J. Brown (WR, off scope) IR mentions both already accounted for or out of scope — no action needed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 16, 9:15 PM ET ages off). 0 aged off this run (the oldest remaining NEW-badge rows are from Sept. 16 at 9:15 PM ET, exactly 24h old, not yet over the threshold). 2 new NEW badges added (Clowney, Black); 4 NEW badges removed with the Terrell/Cashman/Spillane/Sherwood rows. Net badge count: 26 → 23. Tile counts updated and verified against current table rows: 146 high / 114 mid / 58 low / 318 all / 23 new.
+
+## Sep 18, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering Thursday practice reports and the Lions–Bills Thursday-night injuries.
+
+**New injuries (21):**
+
+*Defensive backs:* Billy Bowman Jr. (CB, Falcons) — Achilles, limited Thursday after a full session earlier in the week; Avonte Maddox (CB, Lions) — left foot, carted off in the Sept 17 loss to the Bills, seen on crutches in a boot, no update expected until Friday, HC Dan Campbell expressed concern; Greg Newsome II (CB, Giants) — ribs, limited Thursday; Deonte Banks (CB, Giants) — calf, limited Thursday; Andrew Mukuba (S, Eagles) — knee, DNP Thursday; Miles Killebrew (S, Buccaneers) — still in the concussion protocol, limited Thursday; Tyson Campbell (CB, Browns) — ankle, DNP Thursday.
+
+*Linebackers:* Patrick Jones II (LB, Panthers) — back, limited Thursday; Chase Young (DE, Saints) — calf, limited Thursday; Cameron Jordan (DE, Saints) — hamstring, limited Thursday; Will McDonald IV (DE, Jets) — ankle, limited Thursday.
+
+*Defensive tackles:* Ed Oliver (DT, Bills) — hip, inactive for the Sept 17 game vs. the Lions; Bobby Brown III (DT, Panthers) — back, DNP Thursday.
+
+*Offensive tackles:* Zach Bako-Bewele (OT, Packers) — knee, limited Thursday; Cole Van Lanen (OT, Jaguars) — knee, limited Thursday.
+
+*Offensive guards:* Isaiah Adams (G, Cardinals) — knee, limited Thursday; Isaac Seumalo (G, Cardinals) — shoulder, limited Thursday; Teven Jenkins (G, Browns) — back, DNP Thursday; Anthony Bradford (G, Seahawks) — knee, limited Thursday.
+
+*Running backs:* Samaje Perine (RB, Bengals) — knee, non-participant Thursday; DJ Giddens (RB, Colts) — knee, DNP Thursday.
+
+All severity low (day-to-day, standard weekly practice-report designations; Maddox is a more concerning injury by description but undiagnosed as of this run, consistent with prior practice of not pre-judging severity ahead of an official diagnosis).
+
+**Status and designation changes:** None this run.
+
+**Removals (2):**
+- Cole Bishop (S, Bills) — removed: snapshot confirms he was active and played in the Sept 17 game vs. the Lions.
+- D.J. Reed (CB, Lions) — removed: snapshot confirms he was active and played in the Sept 17 game vs. the Bills.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-18T11:22:50Z, ~4h47m old at run start — fresh). Filtered to the six tracked positions (147 non-Active entries across 32 teams) and diffed by player+team against all 318 pre-run dashboard rows: 90 matched a snapshot entry (2 now read "Active" with comments confirming they played Thursday night — both removed above), 228 had no matching snapshot entry (142 high-sev exempt; 86 mid-sev unmatched are IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern — Chamarri Conner among them, no new update found). Of 59 snapshot entries not yet on the dashboard, 21 carried informative injury detail and were added above; the rest were bare "Questionable"/"inactive" tags with no injury description (several were Lions Thursday-night inactives with no detail beyond Maddox) or the recurring Jonathon Cooper (Broncos) legal/personal-conduct matter — all excluded per policy. Circuit breaker: not applicable — 2 removals proposed on 318 pre-run rows (0.6%), far under the 25% threshold.
+
+**Breaking-news sweep:** 2 WebSearch queries covering general IR-placement activity and Friday practice/injury reports across the six tracked positions, plus a targeted query on the Maddox injury (ESPN, CBS Sports, SI.com, Yahoo Sports). 49ers TE and Ravens WR IR placements found but both out of scope (off-tracked positions). No further additions beyond the snapshot-sourced items above. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 17, 12:15 PM ET ages off). 17 aged off this run (Carlton Davis III, Chop Robinson, Chris Jones, Cooper DeJean, Dorance Armstrong, Foyesade Oluokun, Jack Gibbens, Jalen Carter, Kamren Kinchens, Kene Nwangwu, LeQuint Allen Jr., Lukas Van Ness, Malik Muhammad II, Odafe Oweh, Ronnie Stanley, Teddye Buchanan, Trey Hendrickson — all added Sept. 16 at 9:15 PM ET, ~39h old). 21 new NEW badges added (list above). Net badge count: 23 → 27. Tile counts updated and verified against current table rows: 146 high / 114 mid / 77 low / 337 all / 27 new.
