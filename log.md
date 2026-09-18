@@ -5993,3 +5993,30 @@ All severity low (day-to-day, standard weekly practice-report designations).
 **Breaking-news sweep:** 10 WebSearch queries covering the Lions–Bills final report, Isiah Pacheco's surgery timeline, Tyrone Tracy Jr.'s status, general IR placements, running back news, linebacker/edge news, the Steelers–Patriots Thursday report, defensive tackle news, offensive line news, and IR activations for the window. Confirmed and added the Ravens' John Simpson and Patriots' Dre'Mont Jones above via SI.com and SteelersDepot Thursday reports. Confirmed and updated the Ravens' Thursday report items (Stanley, Hendrickson, Madubuike) via SI.com. Confirmed already-tracked with no changes needed: Chris Jones (DT, Chiefs — Thursday comments suggest his calf issue isn't significant). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 16, 6:15 PM ET ages off). 6 aged off this run (RJ Harvey, D'Andre Swift, Kyle Monangai, Blake Cashman, Andrew Van Ginkel, Brian O'Neill — all added Sept. 16 at 6:10 PM ET, ~24h old). 2 new NEW badges added (John Simpson, Dre'Mont Jones); 1 NEW badge removed with Tyrone Tracy Jr.'s row. Net badge count: 31 → 26. Tile counts updated and verified against current table rows: 146 high / 114 mid / 62 low / 322 all / 26 new.
+
+## Sep 17, 2026, 9:15 PM ET
+
+~3h window since the 6:15 PM ET sweep.
+
+**New injuries:**
+- Jadeveon Clowney (DE, Texans) — knee, hurt in the Week 1 loss to the Bills; did not practice Thursday despite HC DeMeco Ryans expecting his return, Week 2 status vs. the Bengals in question. Severity: low.
+- Kaelon Black (RB, 49ers) — groin, limited participant in Thursday's (Sept 17) practice. Severity: low.
+
+**Status and designation changes:**
+- Chris Lindstrom (G, Falcons) — returned to practice in full Thursday after sitting out Wednesday for his concussion; on track to avoid an injury designation for Sunday's game vs. the Panthers. Severity unchanged: low.
+- Javon Hargrave (DT, Packers) — now specifically in the concussion protocol as of Thursday.
+- Devonte Wyatt (DT, Packers) — limited again Thursday; may not be 100% Sunday even if he plays.
+
+**Removals (6):**
+- D'Angelo Ponds (CB, Jets) — removed: blank/Active in the fresh snapshot, no longer on the injury report.
+- A.J. Terrell Jr. (CB, Falcons) — removed: full participant in Thursday's practice per WebSearch (NBC Sports), on track to avoid a Week 2 injury designation.
+- Austin Ajiake (LB, Colts) — removed: blank/Active in the fresh snapshot, no longer on the injury report.
+- Blake Cashman (LB, Vikings) — removed: blank/Active in the fresh snapshot, no longer on the injury report.
+- Robert Spillane (LB, Patriots) — removed: full participant in Thursday's practice per the snapshot (blank/Active), building on the "upgraded to full" note from the prior sweep.
+- Jamien Sherwood (LB, Jets) — removed: full participant in Thursday's practice per the snapshot (blank/Active), building on the "upgraded to full" note from the prior sweep.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-17T22:52:05Z, ~2h16m old at run start — fresh). Filtered to the six tracked positions (138 non-Active entries across 32 teams) and diffed by player+team against all 322 pre-run dashboard rows: 95 matched a snapshot entry (6 now read "Active" — all 6 checked by comment content, not just the status code; 5 had blank/no comment or explicit full-participant language confirming genuine recovery, 1 (Terrell) verified via WebSearch — all 6 removed above), 227 had no matching snapshot entry (141 high-sev exempt; 86 mid-sev unmatched are IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern — Chamarri Conner among them, carried forward unchanged with no new update found). Of 49 snapshot entries not yet on the dashboard, 46 were bare "Questionable" with no injury description or described a positive/full-participant status not warranting a new row (Billy Bowman Jr. — full participant, trending healthy, not added), 1 (Jonathan Cooper, Broncos) was a legal/personal-conduct matter, leaving the 2 genuine new injuries added above. Circuit breaker: not applicable — 6 removals proposed on 322 pre-run rows (1.9%), far under the 25% threshold.
+
+**Breaking-news sweep:** 4 WebSearch queries covering the six tracked positions, general IR-placement activity, and defensive-tackle/offensive-line news for the window. Confirmed and added the Clowney item above via NBC Sports/ProFootballTalk. Confirmed and updated the Packers' Hargrave/Wyatt items via SI.com. Myles Garrett (Rams) and A.J. Brown (WR, off scope) IR mentions both already accounted for or out of scope — no action needed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 16, 9:15 PM ET ages off). 0 aged off this run (the oldest remaining NEW-badge rows are from Sept. 16 at 9:15 PM ET, exactly 24h old, not yet over the threshold). 2 new NEW badges added (Clowney, Black); 4 NEW badges removed with the Terrell/Cashman/Spillane/Sherwood rows. Net badge count: 26 → 23. Tile counts updated and verified against current table rows: 146 high / 114 mid / 58 low / 318 all / 23 new.
