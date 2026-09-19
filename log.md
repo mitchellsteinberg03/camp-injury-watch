@@ -6094,3 +6094,27 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** ~14 WebSearch queries covering the six tracked positions' Friday final injury reports league-wide, plus targeted follow-ups on Cooper DeJean, Jalen Carter, Devonte Wyatt, Cameron Jordan/Christen Miller (Saints), Dametrious Crownover, Ed Ingram, Trey Pipkins III, and Isaiah Stalbird. One false lead caught and discarded: a search surfaced an old, recycled "Christian McCaffrey (calf/Achilles) placed on IR" story whose internal details (backup Jordan Mason "making his first career start last week vs. the Jets," a since-changed roster situation) date it to 2024, not the current week — not added. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 17, 6:15 PM ET ages off). 2 aged off this run (Garrett Williams, Blake Miller — both added Sept. 17 at 12:15 PM ET, ~30h old). 6 new NEW badges added (list above); 2 NEW badges removed with the Cameron Jordan/Samaje Perine rows (both added earlier today at 12:15 PM ET, then confirmed recovered/cleared this run). Net badge count: 27 → 29. Tile counts updated and verified against current table rows: 146 high / 116 mid / 67 low / 329 all / 29 new.
+
+## Sep 18, 2026, 9:15 PM ET
+
+~3h window since the 6:15 PM ET sweep.
+
+**New injuries:**
+- A.J. Terrell Jr. (CB, Falcons) — shoulder, listed questionable for Sunday's game vs. the Panthers (a fresh occurrence; he was removed as recovered on Sept 17). Severity: low.
+- Mansoor Delane (CB, Chiefs) — shoulder, officially listed questionable for Sunday's game vs. the Colts (a fresh occurrence; he was removed on Sept 16 after imaging suggested minimal time missed). Severity: low.
+- Cor'Dale Flott (CB, Titans) — quadriceps, did not participate in Friday's practice; listed questionable for Sunday's game vs. the Eagles. Severity: low.
+- James Williams Sr. (LB, Titans) — elbow, listed questionable for Sunday's game vs. the Eagles. Severity: low.
+
+**Status and designation changes:** None this run.
+
+**Removals (4):**
+- Jack Gibbens (LB, Cardinals) — removed: blank/Active in the fresh snapshot, no longer on the injury report.
+- Foyesade Oluokun (LB, Jaguars) — removed: practiced fully Friday per WebSearch (SI.com), expected to play Sunday at Denver despite a limited Thursday tag.
+- Cole Van Lanen (OT, Jaguars) — removed: practiced fully Friday per WebSearch (SI.com), expected to play Sunday at Denver despite a limited Thursday tag.
+- LeQuint Allen Jr. (RB, Jaguars) — removed: fresh snapshot confirms no injury designation for Sunday's game at Denver.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-19T00:24:01Z, ~44min old at run start — fresh). Filtered to the six tracked positions (122 non-Active entries across 32 teams) and diffed by player+team against all 329 pre-run dashboard rows: 101 matched a snapshot entry (4 now read "Active" — 2 confirmed by clear comment text, 2 (Oluokun, Van Lanen) verified via WebSearch since their comments were stale Thursday-dated text carried over — all 4 removed above), 228 had no matching snapshot entry (143 high-sev exempt; 85 mid-sev unmatched are IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern — Chamarri Conner among them, no new update found). Of 25 snapshot entries not yet on the dashboard, 4 carried informative injury/game-status detail and were added above; the rest were bare "Questionable"/"Out"/"inactive" tags with no injury description (several were stale Bills–Lions Thursday-night inactives) or the recurring Jonathon Cooper (Broncos) legal/personal-conduct matter — all excluded per policy. Circuit breaker: not applicable — 4 removals proposed on 329 pre-run rows (1.2%), far under the 25% threshold.
+
+**Breaking-news sweep:** 2 WebSearch queries covering general IR/carted-off activity for the window and a follow-up on Avonte Maddox's (CB, Lions) foot injury — still no official diagnosis as of Friday, per HC Dan Campbell awaiting further evaluation; row left unchanged pending real news. A Zach Wood (LS) IR placement surfaced but is off-scope (specialist position). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 17, 9:15 PM ET ages off). 2 aged off this run (Dre'Mont Jones, John Simpson — both added Sept. 17 at 6:15 PM ET, ~27h old). 4 new NEW badges added (Terrell, Delane, Flott, Williams). Net badge count: 29 → 30 (also lost 1 badge with the Van Lanen removal, added earlier today, offsetting one of the 4 new adds). Tile counts updated and verified against current table rows: 146 high / 116 mid / 67 low / 329 all / 30 new.
