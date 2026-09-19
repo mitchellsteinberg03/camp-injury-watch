@@ -6118,3 +6118,27 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** 2 WebSearch queries covering general IR/carted-off activity for the window and a follow-up on Avonte Maddox's (CB, Lions) foot injury — still no official diagnosis as of Friday, per HC Dan Campbell awaiting further evaluation; row left unchanged pending real news. A Zach Wood (LS) IR placement surfaced but is off-scope (specialist position). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 17, 9:15 PM ET ages off). 2 aged off this run (Dre'Mont Jones, John Simpson — both added Sept. 17 at 6:15 PM ET, ~27h old). 4 new NEW badges added (Terrell, Delane, Flott, Williams). Net badge count: 29 → 30 (also lost 1 badge with the Van Lanen removal, added earlier today, offsetting one of the 4 new adds). Tile counts updated and verified against current table rows: 146 high / 116 mid / 67 low / 329 all / 30 new.
+
+## Sep 19, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering Friday final injury reports for Sunday's Week 2 games.
+
+**New injuries:**
+- Andrew Billings (DT, Cardinals) — knee, listed questionable for Sunday's game vs. the Seahawks. Severity: low.
+- Roy Lopez (DT, Cardinals) — groin, listed questionable for Sunday's game vs. the Seahawks. Severity: low.
+- Max Melton (CB, Cardinals) — ankle, listed questionable for Sunday's game vs. the Seahawks. Severity: low.
+- Deane Leonard (CB, Chargers) — abdomen, officially listed questionable for Sunday's game vs. the Raiders. Severity: low.
+- Francis Mauigoa (OT, Giants) — shoulder, limited participant in Friday's practice. Severity: low.
+- Andrew Thomas (OT, Giants) — ankle, limited participant in Friday's practice. Severity: low.
+- Troy Fautanu (OT, Steelers) — ankle, officially listed questionable for Sunday's game at New England. Severity: low.
+
+**Status and designation changes:**
+- Jadeveon Clowney (DE, Texans) — ruled out for Sunday's game vs. the Bengals (his third injury issue in as many weeks); wording updated from the prior "status in question" note.
+
+**Removals:** None this run.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-19T12:32:14Z, ~3h36m old at run start — fresh). Filtered to the six tracked positions (123 non-Active entries across 32 teams) and diffed by player+team against all 329 pre-run dashboard rows: 101 matched a snapshot entry (0 now read "Active" — no recoveries this run), 228 had no matching snapshot entry (143 high-sev exempt; 85 mid-sev unmatched are IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern — Chamarri Conner among them, no new update found). Of 22 snapshot entries not yet on the dashboard, 7 carried informative game-status detail and were added above; the rest were bare "Out"/"inactive"/"Questionable" tags with no injury description (several were recurring stale Bills/Lions Thursday-night inactives) or the recurring Jonathon Cooper (Broncos) legal/personal-conduct matter — all excluded per policy. Circuit breaker: not applicable — 0 removals proposed. Reconciliation continues to run clean.
+
+**Breaking-news sweep:** 2 WebSearch queries covering general Saturday IR/injury activity and the six tracked positions, plus a targeted follow-up on Jadeveon Clowney's status. Notable IR items found (Pearsall, Davis, Stowers) were all off-scope positions (WR/TE) — no action needed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 18, 12:15 PM ET ages off). 2 aged off this run (Jadeveon Clowney, Kaelon Black — both added Sept. 17 at 9:15 PM ET, ~39h old). 7 new NEW badges added (list above). Net badge count: 30 → 35. Tile counts updated and verified against current table rows: 146 high / 116 mid / 74 low / 336 all / 35 new.
