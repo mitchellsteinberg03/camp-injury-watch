@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T07:22:53Z",
+  "timestamp": "2026-09-19T12:31:54Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -30346,7 +30346,7 @@
       "injuries": [
         {
           "id": "638030",
-          "longComment": "Hendrickson sat out for each of the first two practices of the week, but he was spotted at Friday's practice with two of his fingers wrapped in a session that he was limited in. The veteran pass-rusher's official status may not be known until when the Ravens release their inactive players list 90 minutes before Sunday's 1:00 p.m. ET kickoff, though it would be a bit surprising to not see Hendrickson on the field for Baltimore's home opener. He logged one solo tackle and was credited with eight pressures in his Ravens debut against the Colts in a Week 1 win.",
+          "longComment": "Hendrickson sat out for each of the first two practices of the week, but he was spotted at Friday's practice with two of his fingers wrapped in a session that he was limited in. The veteran pass rusher's official status may not be known until when the Ravens release their inactives list 90 minutes before Sunday's 1:00 p.m. ET kickoff, though it would be a bit surprising to not see Hendrickson on the field for Baltimore's home opener. He logged one solo tackle and was credited with eight pressures in his Ravens debut against the Colts in a Week 1 win.",
           "shortComment": "Hendrickson (finger) is listed as questionable for Sunday's game against the Saints, Ryan Mink of the Ravens' official site reports.",
           "status": "Questionable",
           "date": "2026-09-19T03:44Z",
@@ -30922,7 +30922,7 @@
                   "type": "news",
                   "date": "2026-09-19T03:44Z",
                   "headline": "Hendrickson (finger) is listed as questionable for Sunday's game against the Saints, Ryan Mink of the Ravens' official site reports.",
-                  "text": "Hendrickson sat out for each of the first two practices of the week, but he was spotted at Friday's practice with two of his fingers wrapped in a session that he was limited in. The veteran pass-rusher's official status may not be known until when the Ravens release their inactive players list 90 minutes before Sunday's 1:00 p.m. ET kickoff, though it would be a bit surprising to not see Hendrickson on the field for Baltimore's home opener. He logged one solo tackle and was credited with eight pressures in his Ravens debut against the Colts in a Week 1 win.",
+                  "text": "Hendrickson sat out for each of the first two practices of the week, but he was spotted at Friday's practice with two of his fingers wrapped in a session that he was limited in. The veteran pass rusher's official status may not be known until when the Ravens release their inactives list 90 minutes before Sunday's 1:00 p.m. ET kickoff, though it would be a bit surprising to not see Hendrickson on the field for Baltimore's home opener. He logged one solo tackle and was credited with eight pressures in his Ravens debut against the Colts in a Week 1 win.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3052743/injuries/638030?lang=en&region=us"
@@ -46718,7 +46718,7 @@
         },
         {
           "id": "638026",
-          "longComment": "Benford led the Bills in tackles on the night, with linebacker Dorian Williams coming in second with six. Benford did let up a touchdown to Amon Ra St. Brown at the start of the third quarter despite sticking tight to the wide receiver on a quick slant route. The team's primary outside cornerback played 64 out of the 65 defensive snaps over the course of the night.",
+          "longComment": "Benford led the Bills in tackles on the night, with linebacker Dorian Williams coming in second with six. Benford did yield a touchdown to Amon-Ra St. Brown at the start of the third quarter despite sticking tight to the wide receiver on a quick slant route. The team's primary outside cornerback played 64 out of the 65 defensive snaps over the course of the night.",
           "shortComment": "Benford logged eight tackles (five solo) and two passes defensed during the Bills' 41-31 win over the Lions on Thursday night.",
           "status": "Active",
           "date": "2026-09-19T03:25Z",
@@ -47294,7 +47294,7 @@
                   "type": "news",
                   "date": "2026-09-19T03:25Z",
                   "headline": "Benford logged eight tackles (five solo) and two passes defensed during the Bills' 41-31 win over the Lions on Thursday night.",
-                  "text": "Benford led the Bills in tackles on the night, with linebacker Dorian Williams coming in second with six. Benford did let up a touchdown to Amon Ra St. Brown at the start of the third quarter despite sticking tight to the wide receiver on a quick slant route. The team's primary outside cornerback played 64 out of the 65 defensive snaps over the course of the night.",
+                  "text": "Benford led the Bills in tackles on the night, with linebacker Dorian Williams coming in second with six. Benford did yield a touchdown to Amon-Ra St. Brown at the start of the third quarter despite sticking tight to the wide receiver on a quick slant route. The team's primary outside cornerback played 64 out of the 65 defensive snaps over the course of the night.",
                   "source": "RotoWire"
                 }
               ]
@@ -75765,11 +75765,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2007083",
+          "id": "-2007133",
           "longComment": "out",
           "shortComment": "out",
           "status": "Out",
-          "date": "2026-09-19T07:00Z",
+          "date": "2026-09-19T12:01Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76338,14 +76338,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2007083",
+                  "id": "-2007133",
                   "type": "news",
-                  "date": "2026-09-19T07:00Z",
+                  "date": "2026-09-19T12:01Z",
                   "headline": "out",
                   "text": "out",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2007083?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2007133?lang=en&region=us"
                   }
                 }
               ]
@@ -468996,7 +468996,7 @@
       "injuries": [
         {
           "id": "637982",
-          "longComment": "Sinnott did not see a target from Jayden Daniels during the Commanders' Week 1 loss to the Eagles, with the former playing 18 snaps on offense. John Bates is expected to be the Commanders' TE1 in Okonkwo's absence, but Sinnott -- who drew praise from the coaching staff for his development during training camp -- should also operate in an elevated role against Dallas.",
+          "longComment": "Sinnott did not see a target from Jayden Daniels during the Commanders' Week 1 loss to the Eagles, with the former playing 18 snaps on offense. John Bates is expected to be the Commanders' TE1 in Okonkwo's absence, but Sinnott -- who drew praise from the coaching staff for his development during training camp -- also should operate in an elevated role against Dallas.",
           "shortComment": "Sinnott should operate in an elevated role in the Commanders' offense against the Cowboys on Sunday after Chig Okonkwo (hamstring) was ruled out.",
           "status": "Active",
           "date": "2026-09-19T00:41Z",
@@ -469572,7 +469572,7 @@
                   "type": "news",
                   "date": "2026-09-19T00:41Z",
                   "headline": "Sinnott should operate in an elevated role in the Commanders' offense against the Cowboys on Sunday after Chig Okonkwo (hamstring) was ruled out.",
-                  "text": "Sinnott did not see a target from Jayden Daniels during the Commanders' Week 1 loss to the Eagles, with the former playing 18 snaps on offense. John Bates is expected to be the Commanders' TE1 in Okonkwo's absence, but Sinnott -- who drew praise from the coaching staff for his development during training camp -- should also operate in an elevated role against Dallas.",
+                  "text": "Sinnott did not see a target from Jayden Daniels during the Commanders' Week 1 loss to the Eagles, with the former playing 18 snaps on offense. John Bates is expected to be the Commanders' TE1 in Okonkwo's absence, but Sinnott -- who drew praise from the coaching staff for his development during training camp -- also should operate in an elevated role against Dallas.",
                   "source": "RotoWire"
                 }
               ]
