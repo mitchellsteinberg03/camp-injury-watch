@@ -6142,3 +6142,28 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** 2 WebSearch queries covering general Saturday IR/injury activity and the six tracked positions, plus a targeted follow-up on Jadeveon Clowney's status. Notable IR items found (Pearsall, Davis, Stowers) were all off-scope positions (WR/TE) — no action needed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 18, 12:15 PM ET ages off). 2 aged off this run (Jadeveon Clowney, Kaelon Black — both added Sept. 17 at 9:15 PM ET, ~39h old). 7 new NEW badges added (list above). Net badge count: 30 → 35. Tile counts updated and verified against current table rows: 146 high / 116 mid / 74 low / 336 all / 35 new.
+
+## Sep 19, 2026, 9:15 PM ET
+
+~9h window since the 12:15 PM ET sweep.
+
+**New injuries:**
+- Anthony Johnson Jr. (S, Bears) — undisclosed, placed on injured reserve (snapshot carries no further detail; not previously tracked). Severity: high.
+
+**Status and designation changes:** None this run.
+
+**Removals (8):**
+- Kam Curl (S, Rams) — removed: no injury designation ahead of Monday night's game vs. the Giants.
+- Omar Speights (LB, Rams) — removed: no injury designation ahead of Monday night's game vs. the Giants.
+- Nate Landman (LB, Rams) — removed: no injury designation ahead of Monday night's game vs. the Giants.
+- Greg Newsome II (CB, Giants) — removed: no injury designation ahead of Monday night's game vs. the Rams.
+- Francis Mauigoa (OT, Giants) — removed: no injury designation ahead of Monday's game vs. the Rams.
+- Andrew Thomas (OT, Giants) — removed: no injury designation ahead of Monday's game vs. the Rams.
+- Lukas Van Ness (DE, Packers) — removed: no longer holds any injury designation ahead of Sunday's game vs. the Jets.
+- Cedric Gray (LB, Titans) — removed: no injury designation ahead of Sunday's game vs. the Eagles, having cleared the concussion protocol.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-20T00:10:01Z, ~59min old at run start — fresh). Filtered to the six tracked positions (113 non-Active entries across 32 teams) and diffed by player+team against all 336 pre-run dashboard rows: 106 matched a snapshot entry (8 now read "Active" with comments explicitly confirming no injury designation for their upcoming games — all 8 removed above), 230 had no matching snapshot entry (143 high-sev exempt; 87 mid-sev unmatched are IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern — Chamarri Conner among them, no new update found). Of 15 snapshot entries not yet on the dashboard, 1 (an IR placement with no further detail) was added above; the rest were bare "Questionable"/"Out"/"inactive" tags with no injury description (several recurring stale Bills/Lions Thursday-night inactives) or the recurring Jonathon Cooper (Broncos) legal/personal-conduct matter — all excluded per policy. Circuit breaker: not applicable — 8 removals proposed on 336 pre-run rows (2.4%), far under the 25% threshold.
+
+**Breaking-news sweep:** 1 WebSearch query for general Saturday-evening IR/carted-off activity plus a targeted follow-up on Anthony Johnson Jr.'s background (no new detail on the IR placement itself, just his signing history). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 18, 9:15 PM ET ages off). 23 aged off this run (Andrew Mukuba, Anthony Bradford, Avonte Maddox, Billy Bowman Jr., Bobby Brown III, Chase Young, DJ Giddens, Deonte Banks, Ed Oliver, Isaac Seumalo, Isaiah Adams, Miles Killebrew, Patrick Jones II, Teven Jenkins, Tyson Campbell, Will McDonald IV, Zach Bako-Bewele — all added Sept. 18 at 12:15 PM ET, ~33h old; Christen Miller, Dametrious Crownover, Ed Ingram, Isaiah Stalbird, Paulson Adebo, Trey Pipkins III — all added Sept. 18 at 6:15 PM ET, ~27h old). 1 new NEW badge added (Anthony Johnson Jr.). Net badge count: 35 → 10. Tile counts updated and verified against current table rows: 147 high / 116 mid / 66 low / 329 all / 10 new.
