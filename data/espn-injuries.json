@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T00:09:55Z",
+  "timestamp": "2026-09-20T04:58:34Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -30346,7 +30346,7 @@
       "injuries": [
         {
           "id": "638074",
-          "longComment": "Tampa was ruled out ahead of Sunday's game against the Saints due to his knee issue. The cornerback is the primary depth option for the Ravens' defense, meaning Chidobe Awuzie is the primary backup if Marlon Humphrey or Nate Wiggins go down with an injury. Tampa will now need to miss four games on IR before he is eligible to return to the active roster.",
+          "longComment": "Tampa was ruled out ahead of Sunday's game against the Saints due to his knee issue. The cornerback is the primary depth option for the Ravens' defense, meaning Chidobe Awuzie is now the primary backup if Marlon Humphrey or Nate Wiggins goes down with an injury. Tampa will now need to miss four games on IR before he is eligible to return to the active roster.",
           "shortComment": "The Ravens placed Tampa (knee) on injured reserve Saturday.",
           "status": "Injured Reserve",
           "date": "2026-09-19T21:26Z",
@@ -30922,7 +30922,7 @@
                   "type": "news",
                   "date": "2026-09-19T21:26Z",
                   "headline": "The Ravens placed Tampa (knee) on injured reserve Saturday.",
-                  "text": "Tampa was ruled out ahead of Sunday's game against the Saints due to his knee issue. The cornerback is the primary depth option for the Ravens' defense, meaning Chidobe Awuzie is the primary backup if Marlon Humphrey or Nate Wiggins go down with an injury. Tampa will now need to miss four games on IR before he is eligible to return to the active roster.",
+                  "text": "Tampa was ruled out ahead of Sunday's game against the Saints due to his knee issue. The cornerback is the primary depth option for the Ravens' defense, meaning Chidobe Awuzie is now the primary backup if Marlon Humphrey or Nate Wiggins goes down with an injury. Tampa will now need to miss four games on IR before he is eligible to return to the active roster.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4575483/injuries/638074?lang=en&region=us"
@@ -30931,10 +30931,10 @@
               ]
             },
             "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
+              "id": "13",
+              "name": "Day-To-Day",
+              "type": "day-to-day",
+              "abbreviation": "Day-To-Day"
             }
           },
           "source": {
@@ -75765,11 +75765,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2007481",
+          "id": "-2007519",
           "longComment": "ir",
           "shortComment": "ir",
           "status": "Injured Reserve",
-          "date": "2026-09-20T00:01Z",
+          "date": "2026-09-20T04:00Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76338,14 +76338,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2007472",
+                  "id": "-2007519",
                   "type": "news",
-                  "date": "2026-09-19T23:48Z",
-                  "headline": "out",
-                  "text": "out",
+                  "date": "2026-09-20T04:00Z",
+                  "headline": "ir",
+                  "text": "ir",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2007472?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2007519?lang=en&region=us"
                   }
                 }
               ]
@@ -166730,7 +166730,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -167121,7 +167121,7 @@
         },
         {
           "id": "638043",
-          "longComment": "Hargrave was listed as doubtful after Friday's practice so it is no surprise that the nose tackle has been ruled out ahead of Sunday's contest. The 33-year-old was only able to log one limited practice session throughout Week 2, meaning he will still need to upgrade to full participation and clear the NFL's five-step concussion protocol in Week 3 before even thinking about stepping back on a game-day field.",
+          "longComment": "Hargrave was listed as doubtful after Friday's practice, so it is no surprise that the nose tackle has been ruled out ahead of Sunday's contest. The 33-year-old was able to log only one limited practice session throughout Week 2, meaning he will still need to upgrade to full participation and clear the NFL's five-step concussion protocol in Week 3 before even thinking about stepping back on a game-day field.",
           "shortComment": "Hargrave (concussion/knee) has been ruled out ahead of Sunday's game against the Jets.",
           "status": "Out",
           "date": "2026-09-19T18:34Z",
@@ -167332,7 +167332,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -167697,7 +167697,7 @@
                   "type": "news",
                   "date": "2026-09-19T18:34Z",
                   "headline": "Hargrave (concussion/knee) has been ruled out ahead of Sunday's game against the Jets.",
-                  "text": "Hargrave was listed as doubtful after Friday's practice so it is no surprise that the nose tackle has been ruled out ahead of Sunday's contest. The 33-year-old was only able to log one limited practice session throughout Week 2, meaning he will still need to upgrade to full participation and clear the NFL's five-step concussion protocol in Week 3 before even thinking about stepping back on a game-day field.",
+                  "text": "Hargrave was listed as doubtful after Friday's practice, so it is no surprise that the nose tackle has been ruled out ahead of Sunday's contest. The 33-year-old was able to log only one limited practice session throughout Week 2, meaning he will still need to upgrade to full participation and clear the NFL's five-step concussion protocol in Week 3 before even thinking about stepping back on a game-day field.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/2983055/injuries/638043?lang=en&region=us"
@@ -167948,7 +167948,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -168564,7 +168564,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -169180,7 +169180,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -169782,7 +169782,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -170398,7 +170398,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -171000,7 +171000,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -171616,7 +171616,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -172218,7 +172218,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -172820,7 +172820,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -173422,7 +173422,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -174024,7 +174024,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -174626,7 +174626,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -175228,7 +175228,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -175830,7 +175830,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -176432,7 +176432,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -177034,7 +177034,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -177636,7 +177636,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -178238,7 +178238,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -178840,7 +178840,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -179442,7 +179442,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -180044,7 +180044,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -180646,7 +180646,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -181248,7 +181248,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -181645,7 +181645,7 @@
       "injuries": [
         {
           "id": "638060",
-          "longComment": "With Nico Collins (hamstring) ruled out ahead of Sunday's game against the Bengals, Bond will be elevated to fulfill a depth role in the Texans' wide receiver room. If Collins must miss Week 3 as well, Bond could return to the active roster once again, depending on his play in Sunday's contest. The sixth-round rookie out of Boston College will have the chance to start in his first NFL game Sunday.",
+          "longComment": "With Nico Collins (hamstring) ruled out ahead of Sunday's game against the Bengals, Bond will be elevated to fulfill a depth role in the Texans' wide receiver room. If Collins must miss Week 3 as well, Bond could return to the active roster once again, depending on his play in Sunday's contest. The sixth-round rookie out of Boston College will have the chance to play in his first NFL game Sunday.",
           "shortComment": "The Texans elevated Bond from the practice squad to the active roster Saturday.",
           "status": "Active",
           "date": "2026-09-19T20:14Z",
@@ -182221,7 +182221,7 @@
                   "type": "news",
                   "date": "2026-09-19T20:14Z",
                   "headline": "The Texans elevated Bond from the practice squad to the active roster Saturday.",
-                  "text": "With Nico Collins (hamstring) ruled out ahead of Sunday's game against the Bengals, Bond will be elevated to fulfill a depth role in the Texans' wide receiver room. If Collins must miss Week 3 as well, Bond could return to the active roster once again, depending on his play in Sunday's contest. The sixth-round rookie out of Boston College will have the chance to start in his first NFL game Sunday.",
+                  "text": "With Nico Collins (hamstring) ruled out ahead of Sunday's game against the Bengals, Bond will be elevated to fulfill a depth role in the Texans' wide receiver room. If Collins must miss Week 3 as well, Bond could return to the active roster once again, depending on his play in Sunday's contest. The sixth-round rookie out of Boston College will have the chance to play in his first NFL game Sunday.",
                   "source": "RotoWire"
                 }
               ]
@@ -182247,7 +182247,7 @@
         },
         {
           "id": "638055",
-          "longComment": "Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.",
+          "longComment": "Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out for Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.",
           "shortComment": "Collins may miss two games due to a hamstring injury, Aaron Wilson of KPRC 2 Houston reports.",
           "status": "Out",
           "date": "2026-09-19T19:55Z",
@@ -182823,7 +182823,7 @@
                   "type": "news",
                   "date": "2026-09-19T19:55Z",
                   "headline": "Collins may miss two games due to a hamstring injury, Aaron Wilson of KPRC 2 Houston reports.",
-                  "text": "Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.",
+                  "text": "Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out for Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4258173/injuries/638055?lang=en&region=us"
@@ -197367,10 +197367,10 @@
               ]
             },
             "status": {
-              "id": "29",
-              "name": "Practice Squad",
-              "type": "practice-squad",
-              "abbreviation": "Practice Squad"
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
             }
           },
           "source": {
@@ -242105,7 +242105,7 @@
       "injuries": [
         {
           "id": "638076",
-          "longComment": "O'Connell must miss Sunday's contest due to a personal matter. With the quarterback out, Fernando Mendoza is the sole backup if Kirk Cousins goes down due to injury.",
+          "longComment": "O'Connell must miss Sunday's contest due to a personal matter. With the quarterback out, Fernando Mendoza is currently the sole backup if Kirk Cousins goes down due to injury.",
           "shortComment": "O'Connell (personal) has been ruled out ahead of Sunday's game against the Chargers, Paul Gutierrez of Raiders.com reports.",
           "status": "Out",
           "date": "2026-09-19T21:35Z",
@@ -242681,7 +242681,7 @@
                   "type": "news",
                   "date": "2026-09-19T21:35Z",
                   "headline": "O'Connell (personal) has been ruled out ahead of Sunday's game against the Chargers, Paul Gutierrez of Raiders.com reports.",
-                  "text": "O'Connell must miss Sunday's contest due to a personal matter. With the quarterback out, Fernando Mendoza is the sole backup if Kirk Cousins goes down due to injury.",
+                  "text": "O'Connell must miss Sunday's contest due to a personal matter. With the quarterback out, Fernando Mendoza is currently the sole backup if Kirk Cousins goes down due to injury.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4260394/injuries/638076?lang=en&region=us"
@@ -242721,7 +242721,7 @@
         },
         {
           "id": "638064",
-          "longComment": "White will play his second consecutive game for the Raiders as a depth wide receiver. With Dont'e Thornton (undisclosed), Justin Shorter (undisclosed) and Corey Rucker (undisclosed) all on IR through Week 4 at the least, White will likely continue to suit up on game day until he is out of elevations. White played 11 offensive snaps and 14 special-teams snaps in the Raiders' Week 1 win over the Dolphins but was unable to catch his only target in the contest.",
+          "longComment": "White is poised to play his second consecutive game for the Raiders as a depth wide receiver. With Dont'e Thornton (undisclosed), Justin Shorter (undisclosed) and Corey Rucker (undisclosed) all on IR through Week 4 at the least, White will likely continue to suit up on game day until he is out of elevations. White played 11 offensive snaps and 14 special-teams snaps in the Raiders' Week 1 win over the Dolphins but was unable to catch his only target in the contest.",
           "shortComment": "The Raiders elevated White from the practice squad to the active roster Saturday.",
           "status": "Active",
           "date": "2026-09-19T20:37Z",
@@ -243297,7 +243297,7 @@
                   "type": "news",
                   "date": "2026-09-19T20:37Z",
                   "headline": "The Raiders elevated White from the practice squad to the active roster Saturday.",
-                  "text": "White will play his second consecutive game for the Raiders as a depth wide receiver. With Dont'e Thornton (undisclosed), Justin Shorter (undisclosed) and Corey Rucker (undisclosed) all on IR through Week 4 at the least, White will likely continue to suit up on game day until he is out of elevations. White played 11 offensive snaps and 14 special-teams snaps in the Raiders' Week 1 win over the Dolphins but was unable to catch his only target in the contest.",
+                  "text": "White is poised to play his second consecutive game for the Raiders as a depth wide receiver. With Dont'e Thornton (undisclosed), Justin Shorter (undisclosed) and Corey Rucker (undisclosed) all on IR through Week 4 at the least, White will likely continue to suit up on game day until he is out of elevations. White played 11 offensive snaps and 14 special-teams snaps in the Raiders' Week 1 win over the Dolphins but was unable to catch his only target in the contest.",
                   "source": "RotoWire"
                 }
               ]
@@ -273547,7 +273547,7 @@
         },
         {
           "id": "638067",
-          "longComment": "Curl was reported to be set for a limited practice session Saturday but ultimately did not participate. The safety was likely granted a veteran rest day to further recover from his ankle issue before Monday's contest. Curl is set to suit up as the starting strong safety and will likely play more than 46 percent of the defensive snaps, as he did in the Rams' Week 1 loss to the 49ers.",
+          "longComment": "Curl was reported to be set for a limited practice session Saturday but ultimately did not participate. The safety was likely granted a veteran rest day to further recover from his ankle issue before Monday's contest. Curl is set to suit up as the starting strong safety and will likely play more than the 46 percent of the defensive snaps he saw in the Rams' Week 1 loss to the 49ers.",
           "shortComment": "Curl (ankle) does not have any injury designation ahead of Monday night's game against the Giants, Benjamin Royer of The Orange County Register reports.",
           "status": "Active",
           "date": "2026-09-19T20:57Z",
@@ -274123,7 +274123,7 @@
                   "type": "news",
                   "date": "2026-09-19T20:57Z",
                   "headline": "Curl (ankle) does not have any injury designation ahead of Monday night's game against the Giants, Benjamin Royer of The Orange County Register reports.",
-                  "text": "Curl was reported to be set for a limited practice session Saturday but ultimately did not participate. The safety was likely granted a veteran rest day to further recover from his ankle issue before Monday's contest. Curl is set to suit up as the starting strong safety and will likely play more than 46 percent of the defensive snaps, as he did in the Rams' Week 1 loss to the 49ers.",
+                  "text": "Curl was reported to be set for a limited practice session Saturday but ultimately did not participate. The safety was likely granted a veteran rest day to further recover from his ankle issue before Monday's contest. Curl is set to suit up as the starting strong safety and will likely play more than the 46 percent of the defensive snaps he saw in the Rams' Week 1 loss to the 49ers.",
                   "source": "RotoWire"
                 }
               ]
@@ -274149,7 +274149,7 @@
         },
         {
           "id": "638066",
-          "longComment": "Landman will suit up for Monday night's game despite not logging a single full practice throughout Week 2. The linebacker was likely just resting his shoulder injury in anticipation of game day and will be all set to play 98 percent or more of the Rams' defensive snaps, as he did in Week 1 against the 49ers.",
+          "longComment": "Landman will suit up for Monday night's game despite not logging a single full practice throughout Week 2. The linebacker was likely just resting his shoulder injury in anticipation of game day and will be all set to play nearly all of the Rams' defensive snaps, as he saw 98 percent in Week 1 against the 49ers.",
           "shortComment": "Landman (shoulder) does not have any injury designation ahead of Monday night's game against the Giants, Benjamin Royer of The Orange County Register reports.",
           "status": "Active",
           "date": "2026-09-19T20:51Z",
@@ -274725,7 +274725,7 @@
                   "type": "news",
                   "date": "2026-09-19T20:51Z",
                   "headline": "Landman (shoulder) does not have any injury designation ahead of Monday night's game against the Giants, Benjamin Royer of The Orange County Register reports.",
-                  "text": "Landman will suit up for Monday night's game despite not logging a single full practice throughout Week 2. The linebacker was likely just resting his shoulder injury in anticipation of game day and will be all set to play 98 percent or more of the Rams' defensive snaps, as he did in Week 1 against the 49ers.",
+                  "text": "Landman will suit up for Monday night's game despite not logging a single full practice throughout Week 2. The linebacker was likely just resting his shoulder injury in anticipation of game day and will be all set to play nearly all of the Rams' defensive snaps, as he saw 98 percent in Week 1 against the 49ers.",
                   "source": "RotoWire"
                 }
               ]
@@ -274751,7 +274751,7 @@
         },
         {
           "id": "638049",
-          "longComment": "Donald spoke to the media Friday, telling Lindsey Thiry of ESPN.com, \"That's the plan,\" when asked if he'll make his season debut Monday and thereby see his first game action since the 2023 season. With McVay supporting such a notion, Donald's status will be confirmed about 90 minutes before Monday's 8:15 p.m. ET kickoff. At 35 years old, Donald's workload remains to be seen, but considering the D-line depth that the Rams boast, he could be eased in in his initial appearance.",
+          "longComment": "Donald spoke to the media Friday, telling Lindsey Thiry of ESPN.com, \"That's the plan,\" when asked if he'll make his season debut Monday and thereby see his first game action since the 2023 season. With McVay supporting such a notion, Donald's status will be confirmed about 90 minutes before Monday's 8:15 p.m. ET kickoff. At 35 years old, Donald's workload remains to be seen, but considering the D-line depth that the Rams boast, he could be eased in for his initial 2026 appearance.",
           "shortComment": "Coach Sean McVay confirmed Saturday that Donald is expected to play Monday versus the Giants, Nate Atkins of The Athletic reports. \"If he said it, he's going,\" McVay noted. \"Whatever Aaron says, I support.\"",
           "status": "Active",
           "date": "2026-09-19T19:05Z",
@@ -275327,7 +275327,7 @@
                   "type": "news",
                   "date": "2026-09-19T19:05Z",
                   "headline": "Coach Sean McVay confirmed Saturday that Donald is expected to play Monday versus the Giants, Nate Atkins of The Athletic reports. \"If he said it, he's going,\" McVay noted. \"Whatever Aaron says, I support.\"",
-                  "text": "Donald spoke to the media Friday, telling Lindsey Thiry of ESPN.com, \"That's the plan,\" when asked if he'll make his season debut Monday and thereby see his first game action since the 2023 season. With McVay supporting such a notion, Donald's status will be confirmed about 90 minutes before Monday's 8:15 p.m. ET kickoff. At 35 years old, Donald's workload remains to be seen, but considering the D-line depth that the Rams boast, he could be eased in in his initial appearance.",
+                  "text": "Donald spoke to the media Friday, telling Lindsey Thiry of ESPN.com, \"That's the plan,\" when asked if he'll make his season debut Monday and thereby see his first game action since the 2023 season. With McVay supporting such a notion, Donald's status will be confirmed about 90 minutes before Monday's 8:15 p.m. ET kickoff. At 35 years old, Donald's workload remains to be seen, but considering the D-line depth that the Rams boast, he could be eased in for his initial 2026 appearance.",
                   "source": "RotoWire"
                 }
               ]
@@ -275353,7 +275353,7 @@
         },
         {
           "id": "638047",
-          "longComment": "Whittington has not practiced since sustaining his quadriceps injury in the Rams' Week 1 loss to the 49ers. The wide receiver's probable absence for Monday's contest would be made even worse if Puka Nacua (groin) were also unable to suit up. Konata Mumpfield and Xavier Smith could see increased roles against the Giants, but if multiple wide receivers must miss time, it is likely the Rams will live in 13-personnel packages with the team's deep tight end corps.",
+          "longComment": "Whittington has not practiced since sustaining his quadriceps injury in the Rams' Week 1 loss to the 49ers. The wide receiver's likely absence for Monday's contest would be made even worse if Puka Nacua (groin) were also unable to suit up. Konata Mumpfield and Xavier Smith could see increased roles against the Giants, but if multiple wide receivers must miss time, it is likely the Rams will live in 13-personnel packages with the team's deep tight end corps.",
           "shortComment": "Whittington (quadriceps) is doubtful to play in Monday's game against the Giants, Benjamin Royer of The Orange County Register reports.",
           "status": "Doubtful",
           "date": "2026-09-19T18:50Z",
@@ -275929,7 +275929,7 @@
                   "type": "news",
                   "date": "2026-09-19T18:50Z",
                   "headline": "Whittington (quadriceps) is doubtful to play in Monday's game against the Giants, Benjamin Royer of The Orange County Register reports.",
-                  "text": "Whittington has not practiced since sustaining his quadriceps injury in the Rams' Week 1 loss to the 49ers. The wide receiver's probable absence for Monday's contest would be made even worse if Puka Nacua (groin) were also unable to suit up. Konata Mumpfield and Xavier Smith could see increased roles against the Giants, but if multiple wide receivers must miss time, it is likely the Rams will live in 13-personnel packages with the team's deep tight end corps.",
+                  "text": "Whittington has not practiced since sustaining his quadriceps injury in the Rams' Week 1 loss to the 49ers. The wide receiver's likely absence for Monday's contest would be made even worse if Puka Nacua (groin) were also unable to suit up. Konata Mumpfield and Xavier Smith could see increased roles against the Giants, but if multiple wide receivers must miss time, it is likely the Rams will live in 13-personnel packages with the team's deep tight end corps.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4569382/injuries/638047?lang=en&region=us"
@@ -288026,10 +288026,10 @@
               ]
             },
             "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
+              "id": "13",
+              "name": "Day-To-Day",
+              "type": "day-to-day",
+              "abbreviation": "Day-To-Day"
             }
           },
           "source": {
@@ -302553,8 +302553,8 @@
       "injuries": [
         {
           "id": "638072",
-          "longComment": "Van Noy started in the Vikings' Week 1 win over the Packers, playing 25 defensive snaps, 37 percent of the team's plays. The veteran only logged one solo tackle in the effort but provided enough experience and stability to likely see reps once again in Week 2 against a fearsome Bears rushing attack.",
-          "shortComment": "The Vikings elevated Van Noy from the practice squad to the active roster ahead of Sunday's game against the Bears.",
+          "longComment": "Van Noy started in the Vikings' Week 1 win over the Packers, playing 25 defensive snaps and 37 percent of the team's plays. The veteran logged only one solo tackle in the effort but provided enough experience and stability to likely see reps once again in Week 2 against a fearsome Bears rushing attack.",
+          "shortComment": "The Vikings elevated Van Noy from the practice squad to the active roster Saturday ahead of Sunday's game against the Bears.",
           "status": "Active",
           "date": "2026-09-19T21:17Z",
           "athlete": {
@@ -303128,8 +303128,8 @@
                   "id": "638072",
                   "type": "news",
                   "date": "2026-09-19T21:17Z",
-                  "headline": "The Vikings elevated Van Noy from the practice squad to the active roster ahead of Sunday's game against the Bears.",
-                  "text": "Van Noy started in the Vikings' Week 1 win over the Packers, playing 25 defensive snaps, 37 percent of the team's plays. The veteran only logged one solo tackle in the effort but provided enough experience and stability to likely see reps once again in Week 2 against a fearsome Bears rushing attack.",
+                  "headline": "The Vikings elevated Van Noy from the practice squad to the active roster Saturday ahead of Sunday's game against the Bears.",
+                  "text": "Van Noy started in the Vikings' Week 1 win over the Packers, playing 25 defensive snaps and 37 percent of the team's plays. The veteran logged only one solo tackle in the effort but provided enough experience and stability to likely see reps once again in Week 2 against a fearsome Bears rushing attack.",
                   "source": "RotoWire"
                 }
               ]
@@ -303155,8 +303155,8 @@
         },
         {
           "id": "638070",
-          "longComment": "The Vikings signed Bell to the practice squad on Sept. 2 after waiving the wide receiver on cutdown day. The undrafted free agent out of Georgia has yet to play in an NFL game, but will likely get his chance Sunday due to Juan Jennings (personal) being unavailable for the contest.",
-          "shortComment": "The Vikings elevated Bell from the practice squad to the active roster ahead of Sunday's game against the Bears.",
+          "longComment": "The Vikings signed Bell to the practice squad Sept. 2 after waiving the wide receiver on cutdown day. The undrafted free agent out of Georgia has yet to play in an NFL game, but he will likely get his chance Sunday due to Jauan Jennings (personal) being unavailable for the contest.",
+          "shortComment": "The Vikings elevated Bell from the practice squad to the active roster Saturday ahead of Sunday's game against the Bears.",
           "status": "Active",
           "date": "2026-09-19T21:12Z",
           "athlete": {
@@ -303730,17 +303730,17 @@
                   "id": "638070",
                   "type": "news",
                   "date": "2026-09-19T21:12Z",
-                  "headline": "The Vikings elevated Bell from the practice squad to the active roster ahead of Sunday's game against the Bears.",
-                  "text": "The Vikings signed Bell to the practice squad on Sept. 2 after waiving the wide receiver on cutdown day. The undrafted free agent out of Georgia has yet to play in an NFL game, but will likely get his chance Sunday due to Juan Jennings (personal) being unavailable for the contest.",
+                  "headline": "The Vikings elevated Bell from the practice squad to the active roster Saturday ahead of Sunday's game against the Bears.",
+                  "text": "The Vikings signed Bell to the practice squad Sept. 2 after waiving the wide receiver on cutdown day. The undrafted free agent out of Georgia has yet to play in an NFL game, but he will likely get his chance Sunday due to Jauan Jennings (personal) being unavailable for the contest.",
                   "source": "RotoWire"
                 }
               ]
             },
             "status": {
-              "id": "29",
-              "name": "Practice Squad",
-              "type": "practice-squad",
-              "abbreviation": "Practice Squad"
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
             }
           },
           "source": {
@@ -393267,7 +393267,7 @@
       "injuries": [
         {
           "id": "638051",
-          "longComment": "Homer is set to suit up for Sunday's game against the Patriots. The running back has logged 1286 special-teams snaps in the regular season since being drafted in the sixth round by the Seahawks in 2019. The 28-year-old has likely been elevated to assist the Steelers' special teams unit while Jaylen Warren, Rico Dowdle and Eli Heidenreich take care of the rushing offense.",
+          "longComment": "Homer is set to suit up for Sunday's game against the Patriots. The running back has logged 1,286 special-teams snaps in the regular season since being drafted in the sixth round by the Seahawks in 2019. The 28-year-old has likely been elevated to assist the Steelers' special teams unit while Jaylen Warren, Rico Dowdle and Eli Heidenreich take care of the rushing offense.",
           "shortComment": "The Steelers elevated Homer from the practice squad to the active roster Saturday, Teresa Varley of the team's official site reports.",
           "status": "Active",
           "date": "2026-09-19T19:16Z",
@@ -393843,16 +393843,16 @@
                   "type": "news",
                   "date": "2026-09-19T19:16Z",
                   "headline": "The Steelers elevated Homer from the practice squad to the active roster Saturday, Teresa Varley of the team's official site reports.",
-                  "text": "Homer is set to suit up for Sunday's game against the Patriots. The running back has logged 1286 special-teams snaps in the regular season since being drafted in the sixth round by the Seahawks in 2019. The 28-year-old has likely been elevated to assist the Steelers' special teams unit while Jaylen Warren, Rico Dowdle and Eli Heidenreich take care of the rushing offense.",
+                  "text": "Homer is set to suit up for Sunday's game against the Patriots. The running back has logged 1,286 special-teams snaps in the regular season since being drafted in the sixth round by the Seahawks in 2019. The 28-year-old has likely been elevated to assist the Steelers' special teams unit while Jaylen Warren, Rico Dowdle and Eli Heidenreich take care of the rushing offense.",
                   "source": "RotoWire"
                 }
               ]
             },
             "status": {
-              "id": "29",
-              "name": "Practice Squad",
-              "type": "practice-squad",
-              "abbreviation": "Practice Squad"
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
             }
           },
           "source": {
@@ -393869,7 +393869,7 @@
         },
         {
           "id": "638039",
-          "longComment": "Porter has already been ruled out ahead of the Steelers' matchup with the Patriots on Sunday due to a back issue. The cornerback has consistently logged limited sessions with the issue, but there is a strong chance he is holding back as he awaits a long-term extension. If the Steelers are adamant about saving cap space, the inevitable result of the dispute may be a trade.",
+          "longComment": "Porter has already been ruled out ahead of the Steelers' matchup with the Patriots on Sunday due to a back issue. The cornerback has consistently logged limited sessions with the issue, but there is a chance he is holding back as he awaits a long-term extension. If the Steelers are adamant about saving cap space, the inevitable result of the dispute may be a trade.",
           "shortComment": "Porter (back) wants a long-term contract, regardless of where he will play it out, Jonathan Jones of the Athletic reports.",
           "status": "Out",
           "date": "2026-09-19T17:37Z",
@@ -394445,7 +394445,7 @@
                   "type": "news",
                   "date": "2026-09-19T17:37Z",
                   "headline": "Porter (back) wants a long-term contract, regardless of where he will play it out, Jonathan Jones of the Athletic reports.",
-                  "text": "Porter has already been ruled out ahead of the Steelers' matchup with the Patriots on Sunday due to a back issue. The cornerback has consistently logged limited sessions with the issue, but there is a strong chance he is holding back as he awaits a long-term extension. If the Steelers are adamant about saving cap space, the inevitable result of the dispute may be a trade.",
+                  "text": "Porter has already been ruled out ahead of the Steelers' matchup with the Patriots on Sunday due to a back issue. The cornerback has consistently logged limited sessions with the issue, but there is a chance he is holding back as he awaits a long-term extension. If the Steelers are adamant about saving cap space, the inevitable result of the dispute may be a trade.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4426506/injuries/638039?lang=en&region=us"
@@ -408981,7 +408981,7 @@
         },
         {
           "id": "638058",
-          "longComment": "The 49ers ended up trying out two kickers Saturday -- Greg Joseph and Younghoe Koo -- but won't sign either of them to the practice squad, meaning Pineiro will handle his normal placekicking duties Week 2. In 15 regular-season games with San Francisco going back to the 2025 campaign, Pineiro has netted 30 of 32 field-goal attempts and 37 of 41 point-after tries.",
+          "longComment": "The 49ers ended up trying out two kickers Saturday -- Greg Joseph and Younghoe Koo -- but won't sign either of them to the practice squad, meaning Pineiro will handle his normal placekicking duties in Week 2. In 15 regular-season games with San Francisco going back to the 2025 campaign, Pineiro has netted 30 of 32 field-goal attempts and 37 of 41 point-after tries.",
           "shortComment": "Pineiro (illness) is expected to be active Sunday against the Dolphins, Matt Maiocco of NBC Sports Bay Area reports.",
           "status": "Questionable",
           "date": "2026-09-19T20:05Z",
@@ -409557,7 +409557,7 @@
                   "type": "news",
                   "date": "2026-09-19T20:05Z",
                   "headline": "Pineiro (illness) is expected to be active Sunday against the Dolphins, Matt Maiocco of NBC Sports Bay Area reports.",
-                  "text": "The 49ers ended up trying out two kickers Saturday -- Greg Joseph and Younghoe Koo -- but won't sign either of them to the practice squad, meaning Pineiro will handle his normal placekicking duties Week 2. In 15 regular-season games with San Francisco going back to the 2025 campaign, Pineiro has netted 30 of 32 field-goal attempts and 37 of 41 point-after tries.",
+                  "text": "The 49ers ended up trying out two kickers Saturday -- Greg Joseph and Younghoe Koo -- but won't sign either of them to the practice squad, meaning Pineiro will handle his normal placekicking duties in Week 2. In 15 regular-season games with San Francisco going back to the 2025 campaign, Pineiro has netted 30 of 32 field-goal attempts and 37 of 41 point-after tries.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4034949/injuries/638058?lang=en&region=us"
@@ -423477,7 +423477,7 @@
       "injuries": [
         {
           "id": "638075",
-          "longComment": "Bradford was unable to practice on Friday, downgrading his participation level after two limited sessions earlier in the week. The starting right guard will be unable to suit up to defend Drew Lock, leaving Christian Haynes as the most likely option to start Sunday's game.",
+          "longComment": "Bradford was unable to practice Friday, downgrading his participation level after two limited sessions earlier in the week. The starting right guard will be unable to suit up to defend Drew Lock, leaving Christian Haynes as the most likely option to start Sunday's game.",
           "shortComment": "Bradford (knee) has been ruled out ahead of Sunday's game against the Cardinals, John Boyle of the Seahawks' official site reports.",
           "status": "Out",
           "date": "2026-09-19T21:32Z",
@@ -424053,7 +424053,7 @@
                   "type": "news",
                   "date": "2026-09-19T21:32Z",
                   "headline": "Bradford (knee) has been ruled out ahead of Sunday's game against the Cardinals, John Boyle of the Seahawks' official site reports.",
-                  "text": "Bradford was unable to practice on Friday, downgrading his participation level after two limited sessions earlier in the week. The starting right guard will be unable to suit up to defend Drew Lock, leaving Christian Haynes as the most likely option to start Sunday's game.",
+                  "text": "Bradford was unable to practice Friday, downgrading his participation level after two limited sessions earlier in the week. The starting right guard will be unable to suit up to defend Drew Lock, leaving Christian Haynes as the most likely option to start Sunday's game.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4429211/injuries/638075?lang=en&region=us"
@@ -481537,6 +481537,608 @@
           }
         },
         {
+          "id": "-2003484",
+          "longComment": "",
+          "shortComment": "",
+          "status": "Active",
+          "date": "2026-09-14T15:24Z",
+          "athlete": {
+            "firstName": "Ricky",
+            "lastName": "Barber",
+            "displayName": "Ricky Barber",
+            "shortName": "R. Barber",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4428343/ricky-barber",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/4428343/ricky-barber",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428343&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/4428343/ricky-barber",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4428343/ricky-barber",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428343&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/4428343/ricky-barber",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428343&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/4428343/ricky-barber",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428343&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4428343/ricky-barber",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428343",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4428343.png",
+              "alt": "Ricky Barber"
+            },
+            "position": {
+              "id": "32",
+              "name": "Defensive Tackle",
+              "displayName": "Defensive Tackle",
+              "abbreviation": "DT",
+              "leaf": true
+            },
+            "team": {
+              "id": "28",
+              "uid": "s:20~l:28~t:28",
+              "slug": "washington-commanders",
+              "name": "Commanders",
+              "abbreviation": "WSH",
+              "displayName": "Washington Commanders",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2024-06-25T18:58Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/wsh.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:58Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2024-06-25T18:58Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/wsh.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:58Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-31T12:53Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/wsh/washington-commanders",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/wsh/washington-commanders",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/wsh",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/wsh",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/washington-commanders-tickets--sports-nfl-football/performer/925?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/wsh/washington-commanders",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/wsh",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/wsh",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/wsh",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "-2003484",
+                  "type": "news",
+                  "date": "2026-09-14T15:24Z",
+                  "headline": "",
+                  "text": "",
+                  "source": "RotoWire"
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "0",
+            "name": "INJURY_STATUS_ACTIVE",
+            "description": "active",
+            "abbreviation": "A"
+          }
+        },
+        {
           "id": "637229",
           "longComment": "Diggs' nine targets were more than double the amount of any other Washington player. While the veteran wideout wasn't very efficient with those targets, he finished second on the team in receiving yards and put up a strong fantasy score thanks to a 10-yard TD connection with Jayden Daniels in the fourth quarter. Fantasy managers who roster Diggs should be encouraged by the amount of attention he got from Daniels in the pair's first regular-season action together, while presumed top WR Terry McLaurin totaled just two catches on four targets. McLaurin figures to be more involved most weeks, but Diggs showed Sunday that he can still be a viable fantasy wideout with his new club.",
           "shortComment": "Diggs brought in four of nine targets for 55 yards and a touchdown in a Week 1 loss to the Eagles on Sunday.",
@@ -483319,608 +483921,6 @@
                   "date": "2026-09-14T01:03Z",
                   "headline": "White rushed seven times for 22 yards and caught two of three targets for five yards in Sunday's loss to Dallas in Week 1.",
                   "text": "White had a long run of nine yards but was held to 13 yards across his other six carries. He did see a substantial amount of action, logging 27 offensive snaps to Jacory Croskey-Merritt's 33, with Kaytron Allen mixing in for six snaps. White was the only one of the trio to gain positive yards through the air, and he's likely to feature as the Commanders' top pass-catching back in 2026 while mostly deferring to Croskey-Merritt on the ground.",
-                  "source": "RotoWire"
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "0",
-            "name": "INJURY_STATUS_ACTIVE",
-            "description": "active",
-            "abbreviation": "A"
-          }
-        },
-        {
-          "id": "637206",
-          "longComment": "Croskey-Merritt scored Washington's only touchdown of the first half when he plunged into the end zone for a one-yard score late in the second quarter. However, he averaged just 3.9 yards per carry and also lost a fumble, though the Commanders were able to recover. Croskey-Merritt served as Washington's clear No. 1 back in terms of totes, with Rachaad White (seven carries for 22 yards) and Kaytron Allen (four carries for 16 yards) working behind him, though White's pass-catching role did garner him 27 offensive snaps to Croskey-Merritt's 33. The Commanders will take on Dallas in a Week 2 clash next Sunday.",
-          "shortComment": "Croskey-Merritt rushed 16 times for 63 yards and a touchdown while catching his only target for a seven-yard loss in a defeat to the Eagles on Sunday.",
-          "status": "Active",
-          "date": "2026-09-14T00:53Z",
-          "athlete": {
-            "firstName": "Jacory",
-            "lastName": "Croskey-Merritt",
-            "displayName": "Jacory Croskey-Merritt",
-            "shortName": "J. Croskey-Merritt",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4575131/jacory-croskey-merritt",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/4575131/jacory-croskey-merritt",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4575131&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/4575131/jacory-croskey-merritt",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4575131/jacory-croskey-merritt",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4575131&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/4575131/jacory-croskey-merritt",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4575131&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/4575131/jacory-croskey-merritt",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4575131&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4575131/jacory-croskey-merritt",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4575131",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4575131.png",
-              "alt": "Jacory Croskey-Merritt"
-            },
-            "position": {
-              "id": "9",
-              "name": "Running Back",
-              "displayName": "Running Back",
-              "abbreviation": "RB",
-              "leaf": true
-            },
-            "team": {
-              "id": "28",
-              "uid": "s:20~l:28~t:28",
-              "slug": "washington-commanders",
-              "name": "Commanders",
-              "abbreviation": "WSH",
-              "displayName": "Washington Commanders",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2024-06-25T18:58Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/wsh.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:58Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2024-06-25T18:58Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/wsh.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:58Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-31T12:53Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/fbeaf73e-6d6c-cca4-0809-713d9d741f90/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/wsh/washington-commanders",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/wsh/washington-commanders",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/wsh",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/wsh",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/washington-commanders-tickets--sports-nfl-football/performer/925?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/wsh/washington-commanders",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/wsh",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/wsh",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/wsh",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:28&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "637206",
-                  "type": "news",
-                  "date": "2026-09-14T00:53Z",
-                  "headline": "Croskey-Merritt rushed 16 times for 63 yards and a touchdown while catching his only target for a seven-yard loss in a defeat to the Eagles on Sunday.",
-                  "text": "Croskey-Merritt scored Washington's only touchdown of the first half when he plunged into the end zone for a one-yard score late in the second quarter. However, he averaged just 3.9 yards per carry and also lost a fumble, though the Commanders were able to recover. Croskey-Merritt served as Washington's clear No. 1 back in terms of totes, with Rachaad White (seven carries for 22 yards) and Kaytron Allen (four carries for 16 yards) working behind him, though White's pass-catching role did garner him 27 offensive snaps to Croskey-Merritt's 33. The Commanders will take on Dallas in a Week 2 clash next Sunday.",
                   "source": "RotoWire"
                 }
               ]
