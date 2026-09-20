@@ -6167,3 +6167,21 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** 1 WebSearch query for general Saturday-evening IR/carted-off activity plus a targeted follow-up on Anthony Johnson Jr.'s background (no new detail on the IR placement itself, just his signing history). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 18, 9:15 PM ET ages off). 23 aged off this run (Andrew Mukuba, Anthony Bradford, Avonte Maddox, Billy Bowman Jr., Bobby Brown III, Chase Young, DJ Giddens, Deonte Banks, Ed Oliver, Isaac Seumalo, Isaiah Adams, Miles Killebrew, Patrick Jones II, Teven Jenkins, Tyson Campbell, Will McDonald IV, Zach Bako-Bewele — all added Sept. 18 at 12:15 PM ET, ~33h old; Christen Miller, Dametrious Crownover, Ed Ingram, Isaiah Stalbird, Paulson Adebo, Trey Pipkins III — all added Sept. 18 at 6:15 PM ET, ~27h old). 1 new NEW badge added (Anthony Johnson Jr.). Net badge count: 35 → 10. Tile counts updated and verified against current table rows: 147 high / 116 mid / 66 low / 329 all / 10 new.
+
+## Sep 20, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering Sunday's Week 2 inactive lists.
+
+**New injuries:**
+- B.J. Hill (DT, Bengals) — Achilles (not a tear), hurt in Thursday's practice; inactive for Sunday's game vs. the Texans, could return before the Week 7 bye. Severity: mid.
+
+**Status and designation changes:**
+- Joey Porter Jr. (CB, Steelers) — confirmed inactive for Sunday's game vs. the Patriots; wording updated from the prior "questionable entering Week 2" note.
+
+**Removals:** None this run.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-20T11:31:23Z, ~37min old at run start — fresh). Filtered to the six tracked positions (113 non-Active entries across 32 teams) and diffed by player+team against all 329 pre-run dashboard rows: 99 matched a snapshot entry (0 now read "Active" — no recoveries this run), 230 had no matching snapshot entry (143 high-sev exempt; 87 mid-sev unmatched are IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern — Chamarri Conner among them, no new update found). Of 14 snapshot entries not yet on the dashboard, all were bare "Questionable"/"Out"/"inactive" tags with no injury description (several recurring stale Bills/Lions Thursday-night inactives) or the recurring Jonathon Cooper (Broncos) legal/personal-conduct matter — none added directly from the snapshot. Circuit breaker: not applicable — 0 removals proposed. Reconciliation continues to run clean.
+
+**Breaking-news sweep:** 4 WebSearch queries covering Sunday Week 2 inactive lists across the six tracked positions. Confirmed and added B.J. Hill above via Cincy Jungle. Confirmed and updated Joey Porter Jr. via SteelersDepot. Three false leads caught and discarded after verification: "Austin Ekeler (RB, Chargers) ruled out" traces to an article citing HC Brandon Staley — Staley left the Chargers after 2023, confirming this is a stale ~2022 story, not current (2026 HC is Jim Harbaugh); "Aaron Jones (RB, Packers) out vs. Falcons" is simply wrong — Jones has played for the Vikings, not the Packers, for several seasons; "David Bakhtiari (OT) out vs. Falcons" — Bakhtiari was released by the Packers in 2024 and isn't on an active 2026 roster. None of the three added. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 19, 12:15 PM ET ages off). 4 aged off this run (A.J. Terrell Jr., Cor'Dale Flott, James Williams Sr., Mansoor Delane — all added Sept. 18 at 9:15 PM ET, ~39h old). 1 new NEW badge added (B.J. Hill). Net badge count: 10 → 7. Tile counts updated and verified against current table rows: 147 high / 117 mid / 66 low / 330 all / 7 new.
