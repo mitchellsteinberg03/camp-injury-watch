@@ -6185,3 +6185,45 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** 4 WebSearch queries covering Sunday Week 2 inactive lists across the six tracked positions. Confirmed and added B.J. Hill above via Cincy Jungle. Confirmed and updated Joey Porter Jr. via SteelersDepot. Three false leads caught and discarded after verification: "Austin Ekeler (RB, Chargers) ruled out" traces to an article citing HC Brandon Staley — Staley left the Chargers after 2023, confirming this is a stale ~2022 story, not current (2026 HC is Jim Harbaugh); "Aaron Jones (RB, Packers) out vs. Falcons" is simply wrong — Jones has played for the Vikings, not the Packers, for several seasons; "David Bakhtiari (OT) out vs. Falcons" — Bakhtiari was released by the Packers in 2024 and isn't on an active 2026 roster. None of the three added. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 19, 12:15 PM ET ages off). 4 aged off this run (A.J. Terrell Jr., Cor'Dale Flott, James Williams Sr., Mansoor Delane — all added Sept. 18 at 9:15 PM ET, ~39h old). 1 new NEW badge added (B.J. Hill). Net badge count: 10 → 7. Tile counts updated and verified against current table rows: 147 high / 117 mid / 66 low / 330 all / 7 new.
+
+## Sep 20, 2026, 5:15 PM ET
+
+~5h window since the 12:15 PM ET sweep, covering inactives and in-game injuries from the 1 PM ET slate.
+
+**New injuries:**
+- Nick Scott (S, Panthers) — abdomen, ruled out for the remainder of Sunday's game vs. the Falcons. Severity: low.
+- Benjamin St-Juste (CB, Packers) — hamstring, inactive for Sunday's game vs. the Jets. Severity: low.
+- Dell Pettus (S, Patriots) — ankle, questionable to return to Sunday's game vs. the Steelers. Severity: low.
+- Samson Ebukam (LB, Falcons) — hamstring, questionable to return to Sunday's game vs. the Panthers. Severity: low.
+- Claudin Cherelus (LB, Panthers) — shoulder, ruled out for the remainder of Sunday's game vs. the Falcons. Severity: low.
+- Tyrion Ingram-Dawkins (LB, Vikings) — hip, questionable to return to Sunday's game vs. the Bears. Severity: low.
+- Kiko Mauigoa (LB, Jets) — quadriceps, questionable to return to Sunday's game vs. the Packers. Severity: low.
+- Marcelino McCrary-Ball (LB, Jets) — ankle, questionable to return to Sunday's game vs. the Packers. Severity: low.
+- Mike Onwenu (G, Patriots) — ankle, undercut by T.J. Watt, carted off and ruled out for the remainder of Sunday's game vs. the Steelers. Severity: low.
+- Rico Dowdle (RB, Steelers) — toe, exited Sunday's game vs. the Patriots and could not return. Severity: low.
+
+**Status and designation changes:**
+- Zach Bako-Bewele (OT, Packers) — carted off in an air cast during Sunday's game vs. the Jets and ruled out for the remainder; severity raised from low to mid pending further word.
+- A.J. Terrell Jr. (CB, Falcons) — doubtful to return to Sunday's game vs. the Panthers with a groin injury; wording updated from the prior pre-game "questionable" note.
+- Cor'Dale Flott (CB, Titans) — confirmed inactive for Sunday's game vs. the Eagles; upgraded from the prior pre-game "questionable" note.
+- James Williams Sr. (LB, Titans) — confirmed inactive for Sunday's game vs. the Eagles; upgraded from the prior pre-game "questionable" note.
+- Patrick Jones II (LB, Panthers) — confirmed inactive for Sunday's game vs. the Falcons; wording updated from stale Thursday-practice text.
+- Teddye Buchanan (LB, Ravens) — confirmed inactive for Sunday's game vs. the Saints; wording updated from stale Wednesday-practice text.
+- Nnamdi Madubuike (DT, Ravens) — confirmed inactive for Sunday's game vs. the Saints (neck); reverses the prior "trending toward playing" note.
+- Bobby Brown III (DT, Panthers) — confirmed ruled out for Sunday's game vs. the Falcons; wording updated from stale Thursday-practice text.
+- Billy Bowman Jr. (CB, Falcons) — confirmed inactive for Sunday's game vs. the Panthers; wording updated from stale Thursday-practice text.
+- Jake Hummel (LB, Texans) — confirmed inactive for Sunday's game vs. the Bengals (groin, carried over from the prior week); prior text referenced a stale Bills matchup.
+- Dre'Mont Jones (DE, Patriots) — questionable to return to Sunday's game vs. the Steelers with a shoulder injury; prior entry tracked a foot issue from Thursday's report.
+- Chris Jones (DT, Chiefs) — expected to play Sunday's game vs. the Colts despite the calf issue; wording updated from stale Wednesday-practice text.
+- Ed Oliver (DT, Bills) — day-to-day, could be available for the Bills' Week 3 game vs. the Chargers on Sept 27; prior text referenced the already-played Sept 17 game.
+- Kaelon Black (RB, 49ers) — on track to play Sunday's game vs. the Dolphins; wording updated from stale Thursday-practice text.
+- RJ Harvey (RB, Broncos) — confirmed inactive for Sunday's game vs. the Jaguars; wording updated from a "to be monitored" note.
+
+**Removals (12) — all confirmed "Active" for today's games in the fresh snapshot:**
+- Andrew Mukuba (S, Eagles), Miles Killebrew (S, Buccaneers), Tyson Campbell (CB, Browns), Trey Hendrickson (LB, Ravens), Chase Young (DE, Saints), Will McDonald IV (DE, Jets), Brian O'Neill (OT, Vikings), Ronnie Stanley (OT, Ravens), Troy Fautanu (OT, Steelers), Aaron Banks (G, Packers), Chris Lindstrom (G, Falcons), John Simpson (G, Ravens).
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-20T18:50:46Z, ~2h25m old at run start — fresh). Filtered to the six tracked positions (156 non-Active entries across 32 teams) and diffed by exact player+team match against all 330 pre-run dashboard rows: 98 matched a snapshot entry (12 read "Active" and confirmed via direct per-team lookup — all 12 removed above), the rest had no matching snapshot entry or matched but no status change (147 high-sev exempt; mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern — Chamarri Conner among them, no new update found). Of 65 snapshot entries not matched to an existing row (after correcting team-name matching), 10 carried informative in-game or confirmed-inactive detail and were added above; the rest were bare "Questionable"/"Out"/"inactive"/"ir" tags with no injury description, coach's-decision inactives (Tyrel Dodson, Ozzy Trapilo, D'Angelo Ponds), or the recurring Jonathon Cooper (Broncos) legal/personal-conduct matter — all excluded per policy. Circuit breaker: not applicable — 12 removals proposed on 330 pre-run rows (3.6%), well under the 25% threshold.
+
+**Breaking-news sweep:** WebSearch covering the 1 PM ET slate's carted-off/inactive activity across the six tracked positions. Confirmed and refined Mike Onwenu (ESPN story: carted off, undercut by T.J. Watt), Rico Dowdle (NBC Sports: exited again, ruled out), and Zach Bako-Bewele (ESPN story: carted off in an air cast) with specific source articles beyond the snapshot. Also surfaced team-site/beat confirmations for Billy Bowman Jr., Bobby Brown III, Teddye Buchanan, Nnamdi Madubuike, and Jake Hummel, all incorporated as status updates above. Saquon Barkley (RB, Eagles) briefly left with a stinger but returned in the second half — no action needed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 19, 5:15 PM ET ages off). 4 aged off this run (Max Melton, Deane Leonard, Andrew Billings, Roy Lopez — all added Sept. 19 at 12:15 PM ET, ~29h old). A 5th badge (Troy Fautanu, same cohort) left the board via removal above rather than aging off. 2 badges retained from prior runs (Anthony Johnson Jr., B.J. Hill — still under 24h). 10 new NEW badges added (list above). Net badge count: 7 → 12. Tile counts updated and verified against current table rows: 147 high / 118 mid / 63 low / 328 all / 12 new.
