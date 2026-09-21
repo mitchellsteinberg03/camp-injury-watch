@@ -6227,3 +6227,44 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch covering the 1 PM ET slate's carted-off/inactive activity across the six tracked positions. Confirmed and refined Mike Onwenu (ESPN story: carted off, undercut by T.J. Watt), Rico Dowdle (NBC Sports: exited again, ruled out), and Zach Bako-Bewele (ESPN story: carted off in an air cast) with specific source articles beyond the snapshot. Also surfaced team-site/beat confirmations for Billy Bowman Jr., Bobby Brown III, Teddye Buchanan, Nnamdi Madubuike, and Jake Hummel, all incorporated as status updates above. Saquon Barkley (RB, Eagles) briefly left with a stinger but returned in the second half — no action needed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 19, 5:15 PM ET ages off). 4 aged off this run (Max Melton, Deane Leonard, Andrew Billings, Roy Lopez — all added Sept. 19 at 12:15 PM ET, ~29h old). A 5th badge (Troy Fautanu, same cohort) left the board via removal above rather than aging off. 2 badges retained from prior runs (Anthony Johnson Jr., B.J. Hill — still under 24h). 10 new NEW badges added (list above). Net badge count: 7 → 12. Tile counts updated and verified against current table rows: 147 high / 118 mid / 63 low / 328 all / 12 new.
+
+## Sep 20, 2026, 9:15 PM ET
+
+~4h window since the 5:15 PM ET sweep, covering continued in-game injury activity from the 1 PM ET Sunday slate.
+
+**New injuries:**
+- Jawaan Taylor (OT, Falcons) — ribs, questionable to return to Sunday's game vs. the Browns. Severity: low.
+- Brandon Dorlus (DT, Falcons) — hand, questionable to return to Sunday's game vs. the Panthers. Severity: low.
+- Ronnie Stanley (OT, Ravens) — toe flare-up after playing through it, questionable to return to Sunday's game vs. the Saints. Severity: low.
+- Jonathon Brooks (RB, Panthers) — groin (aggravated a camp injury), considered day-to-day after Sunday's game vs. the Falcons. Severity: low.
+- Trevis Gipson (LB, Panthers) — concussion evaluation, questionable to return to Sunday's game vs. the Falcons. Severity: low.
+- Tyrique Stevenson Sr. (CB, Bears) — hamstring, unable to return to Sunday's game vs. the Vikings. Severity: low.
+- P.J. Locke (S, Cowboys) — foot, questionable to return to Sunday's game vs. the Commanders. Severity: low.
+- Aaron Banks (G, Packers) — toe (re-injury after being cleared to play), ruled out for the remainder of Sunday's game vs. the Jets. Severity: low.
+- Donovan Jennings (G, Packers) — hand, questionable to return to Sunday's game vs. the Jets. Severity: low.
+- Anthony Campbell (DT, Packers) — ankle, questionable to return to Sunday's game vs. the Jets. Severity: low.
+- Treydan Stukes (S, Raiders) — concussion, ruled out for the remainder of Sunday's game vs. the Chargers. Severity: low.
+- Derwin James Jr. (S, Chargers) — hand, questionable to return to Sunday's game vs. the Raiders. Severity: low.
+- Robert Beal Jr. (DE, Dolphins) — hamstring, questionable to return to Sunday's game vs. the 49ers. Severity: low.
+- Jaylen Wright (RB, Dolphins) — neck, questionable to return to Sunday's game vs. the 49ers. Severity: low.
+- Kelvin Banks Jr. (OT, Saints) — ankle, carted off, ruled out for the remainder of Sunday's game vs. the Ravens. Severity: low.
+- Martin Emerson Jr. (CB, Saints) — shoulder, ruled out for the remainder of Sunday's game vs. the Ravens. Severity: low.
+- David Onyemata (DT, Jets) — groin, ruled out for the remainder of Sunday's game vs. the Packers. Severity: low.
+- Jack Jones (CB, 49ers) — foot, questionable to return to Sunday's game vs. the Dolphins. Severity: low.
+- Brandon Pili (DT, Seahawks) — concussion, ruled out for the remainder of Sunday's game vs. the Cardinals. Severity: low.
+- Fernando Carmona (G, Titans) — shoulder, injured in Sunday's loss to the Eagles, status unclear pending Wednesday's practice. Severity: low.
+- Max Melton (CB, Cardinals) — toe (separate from the ankle issue that cleared him to play pregame), ruled out for the remainder of Sunday's game vs. the Seahawks. Severity: low.
+
+**Status and designation changes:**
+- Dell Pettus (S, Patriots) — confirmed ruled out for the remainder of Sunday's game vs. the Steelers (ankle, hurt on special teams); upgraded from the earlier "questionable to return" note.
+- Dre'Mont Jones (DE, Patriots) — confirmed ruled out for the remainder of Sunday's game vs. the Steelers (shoulder, hurt recovering a fumble); upgraded from the earlier "questionable to return" note.
+- Frankie Luvu (LB, Commanders) — confirmed inactive for Sunday's game vs. the Bears; wording updated from a stale pre-Week-2 "questionable" note.
+
+**Removals (7) — all confirmed "Active"/cleared to play in the fresh snapshot, verified via comment content:**
+- Isaac Seumalo (G, Cardinals), Isaiah Adams (G, Cardinals), Roy Lopez (DT, Cardinals), Dadrion Taylor-Demerson (S, Cardinals), Nick Emmanwori (S, Seahawks), Kaelon Black (RB, 49ers). Max Melton (CB, Cardinals) was also confirmed cleared for his ankle issue but was re-added above after a separate in-game toe injury.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-20T22:29:55Z, ~44min old at run start — fresh). Filtered to the six tracked positions (191 non-Active entries across 32 teams) and diffed by player+team against all 328 pre-run dashboard rows: 93 matched a snapshot entry (7 read "Active" with comment text confirming genuine clearance to play — all 7 removed above), the rest had no matching snapshot entry (145 high-sev exempt; 90 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern — no new updates found). Of 105 snapshot entries not matched to an existing row, 21 carried informative in-game detail and were added above; the rest were bare "Questionable"/"Out"/"Active" tags with no injury description, coach's-decision healthy scratches (Tyrel Dodson, Ozzy Trapilo, Tyler Goodson, D'Angelo Ponds, Kendre Miller), the recurring Jonathon Cooper (Broncos) legal/personal-conduct matter, or Tyson Campbell (Browns) whose snapshot entry contradicted its own "Questionable" status code with comment text confirming he's active and playing — excluded per policy. Circuit breaker: not applicable — 7 removals proposed on 328 pre-run rows (2.1%), well under the 25% threshold.
+
+**Breaking-news sweep:** WebSearch covering continued 1 PM ET slate activity through the early evening. Confirmed and sourced Max Melton's toe injury (Arizona Sports) as a distinct, later development from his pregame-cleared ankle issue. Confirmed Dell Pettus and Dre'Mont Jones both ruled out (Pats Pulpit, NBC Sports) beyond their earlier "questionable" tags. Noted but did not add: Caleb Williams (QB, Bears, carted off — untracked position), Jayden Daniels (QB, Commanders, carted off — untracked position), Jayden Reed (WR, Packers, stretchered off — untracked position), Eli Raridon (TE, Patriots — untracked position). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 19, 9:15 PM ET ages off). 1 aged off this run (Anthony Johnson Jr., added Sept. 19 at 9:15 PM ET, ~24h old). 22 new NEW badges added (21 new injuries above plus Dell Pettus retained its badge across the update). Net badge count: 12 → 33. Tile counts updated and verified against current table rows: 147 high / 118 mid / 78 low / 343 all / 33 new.
