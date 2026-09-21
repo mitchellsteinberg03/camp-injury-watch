@@ -6268,3 +6268,33 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch covering continued 1 PM ET slate activity through the early evening. Confirmed and sourced Max Melton's toe injury (Arizona Sports) as a distinct, later development from his pregame-cleared ankle issue. Confirmed Dell Pettus and Dre'Mont Jones both ruled out (Pats Pulpit, NBC Sports) beyond their earlier "questionable" tags. Noted but did not add: Caleb Williams (QB, Bears, carted off — untracked position), Jayden Daniels (QB, Commanders, carted off — untracked position), Jayden Reed (WR, Packers, stretchered off — untracked position), Eli Raridon (TE, Patriots — untracked position). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 19, 9:15 PM ET ages off). 1 aged off this run (Anthony Johnson Jr., added Sept. 19 at 9:15 PM ET, ~24h old). 22 new NEW badges added (21 new injuries above plus Dell Pettus retained its badge across the update). Net badge count: 12 → 33. Tile counts updated and verified against current table rows: 147 high / 118 mid / 78 low / 343 all / 33 new.
+
+## Sep 21, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering the tail end of Sunday's late-afternoon slate and Sunday Night Football (Colts at Chiefs).
+
+**New injuries:**
+- Will Johnson (CB, Cardinals) — neck, questionable to return to Sunday's game vs. the Seahawks (occurred deep in the fourth quarter). Severity: low.
+- Cobie Durant (CB, Cowboys) — hamstring, ruled out for the remainder of Sunday's game vs. the Commanders. Severity: low.
+- J.K. Dobbins (RB, Broncos) — hamstring, exited Sunday's game vs. the Jaguars. Severity: low.
+- DaVon Hamilton (DT, Jaguars) — back, questionable to return to Sunday's game vs. the Broncos. Severity: low.
+- Kayode Awosika (G, Chargers) — leg, questionable to return to Sunday's game vs. the Raiders. Severity: low.
+- Dalvin Tomlinson (DT, Chargers) — hamstring, questionable to return to Sunday's game vs. the Raiders. Severity: low.
+- James Thompson Jr. (DT, 49ers) — ankle, questionable to return to Sunday's game vs. the Dolphins. Severity: low.
+- Jadarian Price (RB, Seahawks) — chest, questionable to return to Sunday's game vs. the Cardinals. Severity: low.
+- Brandon Coleman (G, Commanders) — finger, questionable to return to Sunday's game vs. the Cowboys. Severity: low.
+- Micheal Clemons (DE, Colts) — toe, questionable to return to Sunday night's game vs. the Chiefs. Severity: low.
+- Charvarius Ward (CB, Colts) — groin, questionable to return to Sunday night's game vs. the Chiefs. Severity: low.
+
+**Status and designation changes:**
+- Chamarri Conner (S, Chiefs) — confirmed missed a second consecutive game (Sept 21 vs. the Colts) after sitting out all week's practice; wording updated from the prior "unlikely to be ready" prediction.
+
+**Removals (2) — both confirmed cleared to play in the fresh snapshot, verified via comment content:**
+- Mansoor Delane (CB, Chiefs) — full practice participant, active for Sunday night's game vs. the Colts.
+- Chris Jones (DT, Chiefs) — given the green light, active for Sunday night's game vs. the Colts.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-21T12:55:51Z, ~44min old at run start — fresh). Filtered to the six tracked positions (461 tracked entries across 32 teams, 179 non-Active) and diffed by player+team against all 343 pre-run dashboard rows: 108 matched a snapshot entry (2 read "Active" with comment text confirming genuine clearance to play — both removed above), the rest had no matching snapshot entry (145 high-sev exempt; 90 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern — no new updates found). Of 97 snapshot entries not matched to an existing row, 11 carried informative in-game detail and were added above; the rest were bare tags, coach's-decision healthy scratches (Tyrel Dodson, Ozzy Trapilo, Tyler Goodson, Kendre Miller, D'Angelo Ponds), the recurring Jonathon Cooper (Broncos) legal/personal-conduct matter, Tyson Campbell (Browns) whose "Questionable" status code again contradicted comment text confirming he's active, or Saquon Barkley (Eagles, neck/shoulder stinger — already resolved as "no action needed" per the prior sweep's later-arriving note that he returned and finished the game) — all excluded per policy. Circuit breaker: not applicable — 2 removals proposed on 343 pre-run rows (0.6%), well under the 25% threshold.
+
+**Breaking-news sweep:** WebSearch covering Monday-morning transaction/IR activity and the Colts-Chiefs Sunday Night Football injury report. Confirmed James Conner (RB, Cardinals), Josh Simmons (OT, Chiefs), Tre Brown (CB, Jets), Anez Cooper (G, Jets), and Chip Trayanum (RB, Jets) are all already accurately tracked with no updates needed. A general IR-tracker article surfaced E.J. Speed, M.J. Stewart, and K.C. Ossai (all Texans) as season-long IR/PUP cases — all three already on the dashboard with matching status; recycled recap content, no action taken. B.J. Ojulari (Cardinals LB, ACL) was released by the team and is no longer on any roster — out of scope, not added. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 20, 12:15 PM ET ages off). 0 aged off this run — B.J. Hill (added Sept. 20, 12:15 PM ET) sits at exactly 24h, not yet past the cutoff. 11 new NEW badges added (list above). Net badge count: 33 → 44. Tile counts updated and verified against current table rows: 147 high / 118 mid / 87 low / 352 all / 44 new.
