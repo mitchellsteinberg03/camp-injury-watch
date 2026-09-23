@@ -6340,3 +6340,24 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch covering Monday-night and Monday-morning post-game injury news across the six tracked positions. Confirmed Brian Burns' low-ankle sprain and revised outlook (SNY.tv via RotoWire), Andrew Thomas' groin exit, Ronnie Rivers' calf injury, Romello Height's scheduled hand surgery, and Sam Cosmi's concussion-protocol entry, each cross-checked against snapshot comment content for date/context consistency. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 21, 12:15 PM ET ages off). 22 aged off this run (all rows added Sept. 20 at 9:15 PM ET: Aaron Banks, Anthony Campbell, Brandon Dorlus, Brandon Pili, Craig Woodson, David Onyemata, Derwin James Jr., Donovan Jennings, Fernando Carmona, Jack Jones, Jawaan Taylor, Jaylen Wright, Jonathon Brooks, Kelvin Banks Jr., Martin Emerson Jr., Max Melton, P.J. Locke, Robert Beal Jr., Ronnie Stanley, Trevis Gipson, Treydan Stukes, Tyrique Stevenson Sr.). 5 new NEW badges added (list above). Net badge count: 37 → 20. Tile counts updated and verified against current table rows: 147 high / 121 mid / 93 low / 361 all / 20 new.
+
+## Sep 22, 2026, 9:15 PM ET
+
+~9h window since the 12:15 PM ET sweep, covering Tuesday's practice reports league-wide.
+
+**New injuries:**
+- Tyson Campbell (CB, Browns) — ankle/hip, exited Sunday's (Sept 20) 23-19 win over the Buccaneers early and did not return; Wednesday's practice participation should clarify his availability for Week 3 vs. the Panthers. Severity: low.
+
+**Status and designation changes:** None this run.
+
+**Removals (4) — all confirmed full practice participants and cleared to play Thursday, verified via comment content:**
+- Brandon Dorlus (DT, Falcons) — full participant in Tuesday's practice, available for Thursday's game vs. the Packers.
+- Brian Robinson Jr. (RB, Falcons) — took every rep in Tuesday's session, clears up his availability for Thursday's game at Green Bay.
+- Jawaan Taylor (OT, Falcons) — full participant in Tuesday's practice, will start at right tackle Thursday vs. the Packers.
+- Benjamin St-Juste (CB, Packers) — recovered enough to practice in full ahead of Thursday's game vs. the Falcons; resolves the ambiguous "Active" status carried over the past two sweeps with no comment content until now.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-23T00:38:33Z, ~25min old at run start — fresh). Filtered to the six tracked positions (451 tracked entries across 32 teams, 178 non-Active) and diffed by player+team against all 361 pre-run dashboard rows: 123 matched a snapshot entry (4 read "Active" with comment text confirming genuine full-practice clearance — all 4 removed above), the rest had no matching snapshot entry (145 high-sev exempt; 93 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern — no new updates found). Of 6 snapshot entries not matched to an existing row, 1 carried informative new-injury detail and was added above; the rest were bare "questionable" tags (Anthony Belton, Brandon Cisse), Edgerrin Cooper (played all 72 defensive snaps Sunday, no real absence), the recurring Jonathon Cooper (Broncos) legal matter, or Saquon Barkley's already-resolved Sunday stinger — all excluded per policy. Circuit breaker: not applicable — 4 removals proposed on 361 pre-run rows (1.1%), well under the 25% threshold.
+
+**Breaking-news sweep:** WebSearch covering Tuesday practice reports across the six tracked positions ahead of Thursday Night Football (Falcons at Packers). Confirmed Jawaan Taylor's full practice participation (RotoWire, CBS Sports) independently of the snapshot to verify the removal. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 21, 9:15 PM ET ages off). 11 aged off this run (all rows added Sept. 21 at 12:15 PM ET: Brandon Coleman, Charvarius Ward, Cobie Durant, DaVon Hamilton, Dalvin Tomlinson, J.K. Dobbins, Jadarian Price, James Thompson Jr., Kayode Awosika, Micheal Clemons, Will Johnson). 1 new NEW badge added (Tyson Campbell). Net badge count: 20 → 9. Tile counts updated and verified against current table rows: 147 high / 121 mid / 90 low / 358 all / 9 new.
