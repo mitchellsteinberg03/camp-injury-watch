@@ -6378,3 +6378,31 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch on Aaron Banks' toe/knee situation confirmed he sat out Tuesday's practice and remains questionable for Thursday, with no confirmation of a season-ending diagnosis despite some speculative headlines — resolved as day-to-day, not removed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 22, 12:15 PM ET ages off). 3 aged off this run (Javon Kinlaw, Micah McFadden, Nick Cross — all added Sept. 21 at 9:15 PM ET). 0 new NEW badges added. Net badge count: 9 → 6. Tile counts updated and verified against current table rows: 147 high / 121 mid / 90 low / 358 all / 6 new.
+
+## Sep 23, 2026, 6:15 PM ET
+
+~6h window since the 12:15 PM ET sweep — Wed/Thu/Fri 6 PM ET practice-report sweep.
+
+**New injuries:**
+- David Bailey (LB, Jets) — elbow, suffered in the Week 2 overtime loss to the Packers; considered minor, coach Aaron Glenn says he's expected to play Sunday vs. the Lions. Severity: low.
+- Jaylen Warren (RB, Steelers) — shoulder, limited participant in Wednesday's practice. Severity: low.
+- Tony Pollard (RB, Titans) — undisclosed soreness, held out of Wednesday's practice; not considered at risk of missing Sunday's game vs. the Giants. Severity: low.
+- Tyjae Spears (RB, Titans) — undisclosed soreness, sat out Wednesday's practice; same outlook as Pollard. Severity: low.
+
+**Status and designation changes:**
+- Will Johnson (CB, Cardinals) — placed on injured reserve Sept 23 for the neck injury suffered Sept 21 vs. the Seahawks; head coach said Monday he could miss the rest of the season. Severity: low → high.
+- Nick Cross (S, Commanders) — officially ruled out for Sunday's (Sept 27) game vs. the Seahawks while recovering from the internal injury suffered Sept 20 vs. the Cowboys, resolving last run's "unclear" note. Severity held at mid.
+- Zach Bako-Bewele (OT, Packers) — confirmed a complete tear of the right patellar tendon; season-ending surgery Sept 24, targeting a return for the start of the 2027 season. Severity: mid → high.
+- Kelvin Banks Jr. (OT, Saints) — placed on injured reserve Sept 23 after ankle surgery for the high ankle sprain suffered Sept 20 vs. the Ravens; best case is a 10-week recovery with a chance to return late in the season. Severity: low → mid.
+- T.J. Sanders (DT, Bills) — underwent an appendectomy Sept 22, out indefinitely per coach Joe Brady, no return timetable; wording updated off the stale "Sept 17 game" reference. Severity: low → mid.
+- Rico Dowdle (RB, Steelers) — did not participate in Wednesday's practice, seen wearing a boot on his right foot; needs to return to practice by Friday for a realistic shot at playing Sunday vs. the Bengals. Severity held at low.
+
+**Removals (2) — confirmed full practice participants Wednesday with no Week 3 injury designation:**
+- James Williams Sr. (LB, Titans) — full participant in Wednesday's practice, elbow injury resolved (per CBS Sports/RotoWire, confirmed via WebSearch since the snapshot's Active entry carried no comment text).
+- Fernando Carmona (G, Titans) — full participant in Wednesday's practice, shoulder injury resolved (per Yahoo Sports, confirmed via WebSearch since the snapshot's Active entry carried no comment text).
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-23T18:25:21Z, ~3h40m old at run start — fresh, well under the 24h usability threshold). Filtered to the six tracked positions (453 tracked entries across 32 teams, 123 non-Active) and diffed by player+team against all 358 pre-run dashboard rows: 114 matched a non-Active snapshot entry, 2 matched only an Active entry with confirmatory comment text found via WebSearch (both removed above), the remaining 242 had no matching snapshot entry at all (145 high-sev exempt; 96 mid/1 low unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations — consistent with the established pattern from prior sweeps, since this feed is a recent-news list rather than a full team injury report and long-tenured IR/PUP players routinely fall out of it). Of 9 non-Active snapshot entries not matched to an existing row, 4 were added above (David Bailey, Jaylen Warren, Tony Pollard, Tyjae Spears); the rest were excluded — Anthony Belton and Brandon Cisse (bare "questionable" tags that resolved to full participation/non-issue per WebSearch — wisdom-teeth removal, cleared to play), Saquon Barkley (stale, resolved last Sunday), and the recurring Jonathon Cooper (Broncos) legal matter (out of scope). Circuit breaker: not applicable — 2 removals proposed on 358 pre-run rows (0.6%), well under the 25% threshold.
+
+**Breaking-news sweep:** WebSearch covering Wednesday practice/injury reports across the six tracked positions leaguewide. Confirmed and sourced: T.J. Sanders' appendectomy, Will Johnson's and Kelvin Banks Jr.'s IR placements, Zach Bako-Bewele's season-ending patellar tendon tear, Nick Cross's official Week 3 out designation, and the Steelers/Titans RB practice absences. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 22, 6:15 PM ET ages off). 5 aged off this run (all rows added Sept. 22 at 12:15 PM ET: Brian Burns, Romello Height, Andrew Thomas, Sam Cosmi, Ronnie Rivers). 4 new NEW badges added (David Bailey, Jaylen Warren, Tony Pollard, Tyjae Spears). Net badge count: 6 → 5. Tile counts updated and verified against current table rows: 149 high / 122 mid / 89 low / 360 all / 5 new.
