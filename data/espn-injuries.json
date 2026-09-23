@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T07:48:11Z",
+  "timestamp": "2026-09-23T13:40:55Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -60485,6 +60485,622 @@
       "displayName": "Carolina Panthers",
       "injuries": [
         {
+          "id": "638800",
+          "longComment": "Brooks is expected to be officially placed on injured reserve in the coming days after exited this past Sunday's 34-3 win over the Falcons due to what had previously been labeled as a groin injury. With Brooks set to miss time, Chuba Hubbard should be further insulated as the Panthers' No. 1 back, while AJ Dillon is lone healthy backup option on the 53-man roster. Aaron Wilson of KPRC 2 Houston relays that the Panthers plan to work out veteran Austin Ekeler on Wednesday, and he could eventually be signed to provide further depth in the backfield.",
+          "shortComment": "Brooks is expected to undergo surgery Wednesday to repair a core-muscle injury and is likely to miss at least six weeks, Ian Rapoport of NFL Network reports.",
+          "status": "Out",
+          "date": "2026-09-23T13:10Z",
+          "athlete": {
+            "firstName": "Jonathon",
+            "lastName": "Brooks",
+            "displayName": "Jonathon Brooks",
+            "shortName": "J. Brooks",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4678008/jonathon-brooks",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/4678008/jonathon-brooks",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4678008&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/4678008/jonathon-brooks",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4678008/jonathon-brooks",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4678008&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/4678008/jonathon-brooks",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4678008&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/4678008/jonathon-brooks",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4678008&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4678008/jonathon-brooks",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4678008",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4678008.png",
+              "alt": "Jonathon Brooks"
+            },
+            "position": {
+              "id": "9",
+              "name": "Running Back",
+              "displayName": "Running Back",
+              "abbreviation": "RB",
+              "leaf": true
+            },
+            "team": {
+              "id": "29",
+              "uid": "s:20~l:28~t:29",
+              "slug": "carolina-panthers",
+              "name": "Panthers",
+              "abbreviation": "CAR",
+              "displayName": "Carolina Panthers",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2024-06-25T18:45Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/car.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:45Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2024-06-25T18:46Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/car.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:45Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-31T12:54Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/car/carolina-panthers",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/car/carolina-panthers",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/car",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/car",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/carolina-panthers-tickets--sports-nfl-football/performer/144?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/car/carolina-panthers",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/car",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/car",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/car",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "638800",
+                  "type": "news",
+                  "date": "2026-09-23T13:10Z",
+                  "headline": "Brooks is expected to undergo surgery Wednesday to repair a core-muscle injury and is likely to miss at least six weeks, Ian Rapoport of NFL Network reports.",
+                  "text": "Brooks is expected to be officially placed on injured reserve in the coming days after exited this past Sunday's 34-3 win over the Falcons due to what had previously been labeled as a groin injury. With Brooks set to miss time, Chuba Hubbard should be further insulated as the Panthers' No. 1 back, while AJ Dillon is lone healthy backup option on the 53-man roster. Aaron Wilson of KPRC 2 Houston relays that the Panthers plan to work out veteran Austin Ekeler on Wednesday, and he could eventually be signed to provide further depth in the backfield.",
+                  "source": "RotoWire",
+                  "injury": {
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4678008/injuries/638800?lang=en&region=us"
+                  }
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "details": {
+            "fantasyStatus": {
+              "description": "OUT",
+              "abbreviation": "OUT"
+            },
+            "type": "Abdomen",
+            "location": "Torso",
+            "detail": "Surgery",
+            "side": "Not Specified",
+            "returnDate": "2026-11-08"
+          }
+        },
+        {
           "id": "638758",
           "longComment": "Legette was held without a catch in a Week 1 loss to the Bears, when he saw only two targets from Bryce Young. Legette's targets in Week 2 doubled, and he split the Falcons' secondary to connect on a deep ball from Young for 55 yards late in the second quarter, which led to a seven-yard touchdown catch by Darren Waller three plays later. That 55-yard catch was the longest of Legette's three-year NFL career and his first reception of 40-plus yards. He'll operate as the Panthers' WR3 behind Tetairoa McMillan and Jalen Coker heading into a Week 3 road tilt against the Browns on Sept. 27.",
           "shortComment": "Legette caught two passes on four targets for 64 yards during the Panthers' 34-3 win over the Falcons on Sunday.",
@@ -64119,622 +64735,6 @@
             },
             "type": "Back",
             "location": "Torso",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-09-27"
-          }
-        },
-        {
-          "id": "638470",
-          "longComment": "The Panthers are unlikely to provide a formal update on Brooks' status until he gets checked out by multiple doctors, but the running back appears destined to miss time after tweaking the same groin that he first injured during training camp. Brooks had been operating as the clear No. 2 option out of the backfield behind Chuba Hubbard through the first two weeks of the season, logging 19 and 33 percent snap shares in those contests while carrying nine times for 30 yards and recording two catches for 43 yards on three targets.",
-          "shortComment": "Brooks is considered week-to-week while he receives further medical opinions on the groin injury he sustained in Sunday's 34-3 win over the Falcons, Tom Pelissero of Netflix reports.",
-          "status": "Doubtful",
-          "date": "2026-09-21T20:47Z",
-          "athlete": {
-            "firstName": "Jonathon",
-            "lastName": "Brooks",
-            "displayName": "Jonathon Brooks",
-            "shortName": "J. Brooks",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4678008/jonathon-brooks",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/4678008/jonathon-brooks",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4678008&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/4678008/jonathon-brooks",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4678008/jonathon-brooks",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4678008&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/4678008/jonathon-brooks",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4678008&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/4678008/jonathon-brooks",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4678008&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4678008/jonathon-brooks",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4678008",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4678008.png",
-              "alt": "Jonathon Brooks"
-            },
-            "position": {
-              "id": "9",
-              "name": "Running Back",
-              "displayName": "Running Back",
-              "abbreviation": "RB",
-              "leaf": true
-            },
-            "team": {
-              "id": "29",
-              "uid": "s:20~l:28~t:29",
-              "slug": "carolina-panthers",
-              "name": "Panthers",
-              "abbreviation": "CAR",
-              "displayName": "Carolina Panthers",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2024-06-25T18:45Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/car.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:45Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2024-06-25T18:46Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/car.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:45Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-31T12:54Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/647c27bf-ab86-550e-5b83-91c29e73e4a9/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/car/carolina-panthers",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/car/carolina-panthers",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/car",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/car",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/carolina-panthers-tickets--sports-nfl-football/performer/144?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/car/carolina-panthers",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/car",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/car",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/car",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "638470",
-                  "type": "news",
-                  "date": "2026-09-21T20:47Z",
-                  "headline": "Brooks is considered week-to-week while he receives further medical opinions on the groin injury he sustained in Sunday's 34-3 win over the Falcons, Tom Pelissero of Netflix reports.",
-                  "text": "The Panthers are unlikely to provide a formal update on Brooks' status until he gets checked out by multiple doctors, but the running back appears destined to miss time after tweaking the same groin that he first injured during training camp. Brooks had been operating as the clear No. 2 option out of the backfield behind Chuba Hubbard through the first two weeks of the season, logging 19 and 33 percent snap shares in those contests while carrying nine times for 30 yards and recording two catches for 43 yards on three targets.",
-                  "source": "RotoWire",
-                  "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4678008/injuries/638470?lang=en&region=us"
-                  }
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "3",
-            "name": "INJURY_STATUS_DOUBTFUL",
-            "description": "doubtful",
-            "abbreviation": "D"
-          },
-          "details": {
-            "fantasyStatus": {
-              "description": "DOUBTFUL",
-              "abbreviation": "DOUBTFUL"
-            },
-            "type": "Groin",
-            "location": "Groin",
             "detail": "Not Specified",
             "side": "Not Specified",
             "returnDate": "2026-09-27"
@@ -75625,11 +75625,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2012104",
+          "id": "-2012193",
           "longComment": "ir",
           "shortComment": "ir",
           "status": "Injured Reserve",
-          "date": "2026-09-23T07:01Z",
+          "date": "2026-09-23T13:11Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76198,14 +76198,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2012104",
+                  "id": "-2012193",
                   "type": "news",
-                  "date": "2026-09-23T07:01Z",
+                  "date": "2026-09-23T13:11Z",
                   "headline": "ir",
                   "text": "ir",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2012104?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2012193?lang=en&region=us"
                   }
                 }
               ]
@@ -469036,7 +469036,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -469638,7 +469638,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -470240,7 +470240,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -470842,7 +470842,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -471444,7 +471444,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -472046,7 +472046,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -472648,7 +472648,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -473264,7 +473264,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -473880,7 +473880,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -474482,7 +474482,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -475084,7 +475084,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -475686,7 +475686,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -476288,7 +476288,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -476904,7 +476904,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -477520,7 +477520,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -478122,7 +478122,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -478738,7 +478738,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -479354,7 +479354,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -479970,7 +479970,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -480572,7 +480572,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -481174,7 +481174,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -481776,7 +481776,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -482378,7 +482378,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -482980,7 +482980,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -483582,7 +483582,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2022-11-17T18:02Z"
+                  "lastUpdated": "2024-06-25T18:58Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
