@@ -6361,3 +6361,20 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch covering Tuesday practice reports across the six tracked positions ahead of Thursday Night Football (Falcons at Packers). Confirmed Jawaan Taylor's full practice participation (RotoWire, CBS Sports) independently of the snapshot to verify the removal. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 21, 9:15 PM ET ages off). 11 aged off this run (all rows added Sept. 21 at 12:15 PM ET: Brandon Coleman, Charvarius Ward, Cobie Durant, DaVon Hamilton, Dalvin Tomlinson, J.K. Dobbins, Jadarian Price, James Thompson Jr., Kayode Awosika, Micheal Clemons, Will Johnson). 1 new NEW badge added (Tyson Campbell). Net badge count: 20 → 9. Tile counts updated and verified against current table rows: 147 high / 121 mid / 90 low / 358 all / 9 new.
+
+## Sep 23, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering Tuesday's Packers injury report ahead of Thursday night's game vs. the Falcons.
+
+**New injuries:** None this run.
+
+**Status and designation changes:**
+- Aaron Banks (G, Packers) — did not participate in Tuesday's (Sept 22) practice with the toe injury plus a pre-existing knee issue; questionable for Thursday night's game vs. the Falcons, with up to game time to prove he can play; wording updated from the stale "ruled out for the remainder of Sunday's game" note.
+
+**Removals:** None this run.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-23T13:41:09Z, ~22min old at run start — fresh). Filtered to the six tracked positions (453 tracked entries across 32 teams, 178 non-Active) and diffed by player+team against all 358 pre-run dashboard rows: 116 matched a snapshot entry (0 read "Active" — no recoveries this run), the rest had no matching snapshot entry (145 high-sev exempt; 96 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 1 low-sev unmatched — Aaron Banks, Packers — resolved via WebSearch above rather than removed, since he's still day-to-day per Tuesday's practice report). Of 5 snapshot entries not matched to an existing row, all were the same recurring exclusions from the past two sweeps with no new development (Anthony Belton and Brandon Cisse — bare "questionable" tags; Edgerrin Cooper — already confirmed fine, played all 72 snaps Sunday; the recurring Jonathon Cooper legal matter; Saquon Barkley's already-resolved Sunday stinger) — none added. Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** WebSearch on Aaron Banks' toe/knee situation confirmed he sat out Tuesday's practice and remains questionable for Thursday, with no confirmation of a season-ending diagnosis despite some speculative headlines — resolved as day-to-day, not removed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 22, 12:15 PM ET ages off). 3 aged off this run (Javon Kinlaw, Micah McFadden, Nick Cross — all added Sept. 21 at 9:15 PM ET). 0 new NEW badges added. Net badge count: 9 → 6. Tile counts updated and verified against current table rows: 147 high / 121 mid / 90 low / 358 all / 6 new.
