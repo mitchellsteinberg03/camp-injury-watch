@@ -6406,3 +6406,30 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch covering Wednesday practice/injury reports across the six tracked positions leaguewide. Confirmed and sourced: T.J. Sanders' appendectomy, Will Johnson's and Kelvin Banks Jr.'s IR placements, Zach Bako-Bewele's season-ending patellar tendon tear, Nick Cross's official Week 3 out designation, and the Steelers/Titans RB practice absences. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 22, 6:15 PM ET ages off). 5 aged off this run (all rows added Sept. 22 at 12:15 PM ET: Brian Burns, Romello Height, Andrew Thomas, Sam Cosmi, Ronnie Rivers). 4 new NEW badges added (David Bailey, Jaylen Warren, Tony Pollard, Tyjae Spears). Net badge count: 6 → 5. Tile counts updated and verified against current table rows: 149 high / 122 mid / 89 low / 360 all / 5 new.
+
+## Sep 23, 2026, 9:15 PM ET
+
+~3h window since the 6:15 PM ET sweep, covering Wednesday practice reports league-wide ahead of Week 3.
+
+**New injuries:**
+- Kyle Monangai (RB, Bears) — undisclosed, not present for the media-access portion of Wednesday's practice. Severity: low.
+- Jonah Coleman (RB, Broncos) — ankle, did not practice Wednesday. Severity: low.
+- Aaron Jones Sr. (RB, Vikings) — undisclosed, will not participate in Wednesday's practice. Severity: low.
+- Travis Etienne Jr. (RB, Saints) — hamstring, limited participant in Wednesday's practice. Severity: low.
+
+**Status and designation changes:**
+- Brian Burns (LB, Giants) — absent from Wednesday's practice, now likely to miss Week 3 vs. the Titans (surgery not needed); corrects the prior sweep's optimistic outlook and fixes an opponent error (Titans, not Texans — Giants play Houston in Week 7, not Week 3).
+- Andrew Thomas (OT, Giants) — present at Wednesday's practice; groin injury not considered serious, could play Week 3 vs. the Titans.
+- Deonte Banks (CB, Giants) — limited participant in Wednesday's practice, worked on the side with trainers; questionable entering Week 3 vs. the Titans.
+- Derwin James Jr. (S, Chargers) — confirmed fractured left pinky finger (not just a hand injury); playing through it in a cast, not expected to miss game action the rest of the season.
+- Craig Woodson (S, Patriots) and Dre'Mont Jones (DE, Patriots) — both did not participate in Wednesday's practice, no timetable yet; both questionable for Week 3 vs. the Jaguars; wording updated from stale "ruled out for Sunday's game vs. the Steelers" notes.
+- Nnamdi Madubuike (DT, Ravens) and Teddye Buchanan (LB, Ravens) — both fully participated in Wednesday's practice for the first time this season/in a while; tracking to play Sunday vs. the Cowboys in Rio de Janeiro.
+- Jacob Parrish (CB, Buccaneers) — limited participant in Wednesday's practice (back sprain, X-ray/MRI negative); could shed his injury designation with a full practice Thursday or Friday.
+
+**Removals:** None this run.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-23T22:58:37Z, ~2h05m old at run start — fresh). Filtered to the six tracked positions (458 tracked entries across 32 teams, 179 non-Active) and diffed by player+team against all 360 pre-run dashboard rows: 109 matched a snapshot entry (14 read "Active" with no comment text — spot-checked several via WebSearch and found all still genuinely dealing with real injuries at various stages of Week 3 practice, consistent with the standing Marcus Epps rule of not trusting a bare "Active" status without corroborating comment content; none removed, several updated with fresher wording above), the rest had no matching snapshot entry (145 high-sev exempt; 102 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 4 low-sev unmatched — Deonte Banks, Derwin James Jr., Craig Woodson, Dre'Mont Jones — all vanished-checked via WebSearch and confirmed still injured, updated rather than removed). Of 57 snapshot entries not matched to an existing row, 4 carried real new-injury detail and were added above; the rest were box-score recap blurbs mistakenly carrying a "Questionable" tag with no actual injury description (Devin Lloyd, Nakobe Dean, Nate Landman, Josiah Trotter, LeQuint Allen Jr.), the recurring Jonathon Cooper (Broncos) legal matter, or Saquon Barkley's already-resolved Sunday stinger — all excluded per policy. Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** WebSearch covering Wednesday practice reports across the six tracked positions for Week 3, with particular attention to the Giants (post-MNF-loss injuries), Patriots, Ravens, Chargers, and Buccaneers. Caught and corrected a Giants opponent error carried over from a prior sweep (Titans, not Texans, for Week 3). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 22, 9:15 PM ET ages off). 0 aged off this run — Tyson Campbell (added Sept. 22 at 9:15 PM ET) sits at exactly 24h, not yet past the cutoff. 4 new NEW badges added (list above). Net badge count: 5 → 9. Tile counts updated and verified against current table rows: 149 high / 122 mid / 93 low / 364 all / 9 new.
