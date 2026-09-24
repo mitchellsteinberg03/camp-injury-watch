@@ -6433,3 +6433,63 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch covering Wednesday practice reports across the six tracked positions for Week 3, with particular attention to the Giants (post-MNF-loss injuries), Patriots, Ravens, Chargers, and Buccaneers. Caught and corrected a Giants opponent error carried over from a prior sweep (Titans, not Texans, for Week 3). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 22, 9:15 PM ET ages off). 0 aged off this run — Tyson Campbell (added Sept. 22 at 9:15 PM ET) sits at exactly 24h, not yet past the cutoff. 4 new NEW badges added (list above). Net badge count: 5 → 9. Tile counts updated and verified against current table rows: 149 high / 122 mid / 93 low / 364 all / 9 new.
+
+## Sep 24, 2026, 6:15 PM ET
+
+~21h window since the 9:15 PM ET sweep — Wed/Thu/Fri 6 PM ET practice-report sweep, covering Wednesday and Thursday's Week 3 practice/injury reports league-wide.
+
+**New injuries (16):**
+- Dadrion Taylor-Demerson (S, Cardinals) — back, did not participate in Wednesday's practice; two more chances to return before Sunday's game vs. the 49ers. Severity: low.
+- Tyler Nubin (S, Giants) — calf, estimated limited participant for Wednesday's walkthrough; could still avoid a Week 3 designation with a full practice Thursday or Friday. Severity: low.
+- Jeremy Reaves (S, Commanders) — knee, limited participant in Wednesday's practice; on pace to play Sunday vs. the Seahawks. Severity: low.
+- Jamel Dean (CB, Steelers) — ankle, did not participate in Wednesday's practice; needs to upgrade participation ahead of Sunday's game vs. the Bengals. Severity: low.
+- Devin Lloyd (LB, Panthers) — calf, did not participate in Wednesday's practice; not considered overly concerned, two more chances to return before Sunday vs. the Browns. Severity: low.
+- Nakobe Dean (LB, Raiders) — shoulder, limited participant in Wednesday's practice ahead of Sunday's game vs. the Saints. Severity: low.
+- Nate Landman (LB, Rams) — shoulder, played through it in the Week 2 win over the Giants, limited in Wednesday's estimated practice entering Week 3 vs. the Broncos. Severity: low.
+- Ernest Jones IV (LB, Seahawks) — neck, limited participant in Wednesday's practice ahead of Sunday's game vs. the Commanders. Severity: low.
+- Rueben Bain Jr. (LB, Buccaneers) — groin, non-participant in Wednesday's practice; two more opportunities to return before Sunday's game vs. the Vikings. Severity: low.
+- Josiah Trotter (LB, Buccaneers) — shoulder, did not participate in Wednesday's practice; same outlook as Bain. Severity: low.
+- Leo Chenal (LB, Commanders) — chest, limited participant in Wednesday's practice, filling in for Frankie Luvu (groin); on track to start again Sunday vs. the Seahawks. Severity: low.
+- C.J. West (DT, 49ers) — knee, a bone chip discovered after the Week 2 win over the Buccaneers requiring surgery; placed on injured reserve Wednesday, expected to miss at least four games but not the season. Severity: mid.
+- LeQuint Allen Jr. (RB, Jaguars) — hip, a recurring issue that has limited him off and on all season; limited participant in Wednesday's practice, considered likely to play Sunday vs. the Patriots. Severity: low.
+- DeeJay Dallas (RB, Vikings) — toe, limited participant in Wednesday's practice; with Aaron Jones (knee) also injured, Demond Claiborne is the only fully healthy back. Severity: low.
+- Reggie Gilliam (FB, Patriots) — knee, limited participant in Wednesday's practice; two more chances to return before Sunday's game vs. the Jaguars. Severity: low.
+- George Holani (RB, Seahawks) — knee, limited participant in Wednesday's practice amid a reduced snap share the past two weeks. Severity: low.
+
+**Status and designation changes:**
+- Dell Pettus (S, Patriots) — placed on injured reserve Sept 23 for the ankle injury suffered exiting the second quarter of Sunday's (Sept 20) win over the Steelers; out at least four games. Severity: low → mid.
+- Warren Brinson (DT, Packers) — still unable to practice with the preseason calf injury; ruled out for a third straight game (Thursday night vs. the Falcons) with no return timetable. Severity: low → mid.
+- Aaron Banks (G, Packers) — ruled out for Thursday night's game vs. the Falcons after being unable to practice all week; Donovan Jennings starting at left guard in his place.
+- M.J. Stewart (S, Texans) — designated for return from Reserve/PUP Sept 23, opening a 21-day practice window; limited participant Wednesday, did not practice Thursday.
+- Dalvin Tomlinson (DT, Chargers) — did not participate in Wednesday's practice after hurting his hamstring Sunday vs. the Raiders; trending toward unavailable for Sunday's Week 3 game at Buffalo.
+- Kamren Kinchens (S, Rams) — little visible progress in Wednesday's practice with the hamstring injury; needs to upgrade to at least limited by Friday to avoid missing Sunday's game vs. the Broncos.
+- Robert Beal Jr. (DE, Dolphins) — still hasn't practiced entering Week 3; trending toward missing Sunday's game vs. the Chiefs without a practice upgrade by Friday.
+- Ronnie Stanley (OT, Ravens) — did not participate in Wednesday's practice after re-injuring the toe in the Week 2 loss to the Saints; uncertain for Sunday's Week 3 matchup vs. the Cowboys in São Paulo.
+- Rico Dowdle (RB, Steelers) — did not practice Wednesday or Thursday, still in a boot on his right foot; increasingly trending toward missing Sunday's game vs. the Bengals.
+- Jake Hummel (LB, Texans) and Ed Ingram (OG, Texans) — both did not practice again Thursday; continue to be sidelined entering Sunday's Week 3 game at the Colts; wording updated off stale Week 2 (vs. Bengals) references.
+- RJ Harvey (RB, Broncos) and J.K. Dobbins (RB, Broncos) — both limited participants Wednesday and spotted on the field for Thursday's media-access portion, a positive sign for Sunday's game vs. the Rams; wording corrected off a stale "vs. the Jaguars" reference.
+- Jonah Coleman (RB, Broncos) — did not practice Wednesday, but was spotted on the field for Thursday's media-access portion, trending toward playing Sunday vs. the Rams.
+- Aaron Jones Sr. (RB, Vikings) — did not practice Wednesday, but logged a limited session Thursday, a positive trend entering Sunday's game at the Buccaneers.
+- Garrett Williams (CB, Cardinals) — limited participant in Wednesday's practice, continuing to work back from a torn Achilles; two more chances to log a full session before a possible season debut Sunday vs. the 49ers.
+- Ty Okada (S, Seahawks) — has missed both of the team's first two games with the hamstring injury; two more chances to return to practice before Sunday's game vs. the Commanders.
+- Andrew Thomas (OT, Giants) — limited participant (not just "present") in Wednesday's practice; groin injury not considered serious, expected to play through it Sunday vs. the Titans.
+- Max Melton (CB, Cardinals) and Frankie Luvu (LB, Commanders) — wording updated off stale, already-played Week 2 game references to reflect continued Week 3 practice absences (Cardinals vs. 49ers Sunday; Commanders vs. Seahawks Sunday).
+- Tyson Campbell (CB, Browns) — limited participant in Wednesday's practice after playing through the ankle issue Sunday at Tampa Bay; needs a full session Thursday or Friday to avoid a Week 3 designation vs. the Panthers. Resolves last run's forward-looking note.
+- Dametrious Crownover (OT, Patriots) — limited participant in Wednesday's practice, a sign he's progressing back toward availability for Week 3 vs. the Jaguars, after missing all three Week 2 practices and the Steelers game; wording updated off a stale "ruled out for Sunday" reference.
+- Elijah Molden (CB, Chargers) — did not participate in Wednesday's practice; needs at least a limited session Thursday or Friday for a shot at playing Sunday at Buffalo; wording updated off a stale Week 2 reference.
+
+**Removals (8) — confirmed full practice participants Wednesday with no lingering Week 3 injury designation, per the ESPN snapshot's own commentary:**
+- Jacob Parrish (CB, Buccaneers) — back to full health, full participant Wednesday, on track to return vs. the Vikings in Week 3.
+- Deane Leonard (CB, Chargers) — upgraded to full practice participation, likely overcame the abdominal issue, expected to suit up Sunday vs. the Bills.
+- Trevis Gipson (LB, Panthers) — cleared of a possible concussion by an independent neurologist during the Week 2 game; not listed on the Week 3 injury report, fully participating.
+- Micah McFadden (LB, Giants) — estimated as a full participant Wednesday; absent any setbacks, expected to suit up Sunday vs. the Titans.
+- Bobby Brown III (DT, Panthers) — back to full health, logged full participation to open Week 3, set to start Sunday vs. the Browns.
+- Andrew Billings (DT, Cardinals) — back to full health, resuming his reserve defensive-tackle role for Sunday vs. the 49ers.
+- Donovan Jennings (G, Packers) — carries no injury designation ahead of Thursday night's game vs. the Falcons; was competing to replace the now-out Aaron Banks, no longer injured himself.
+- Brandon Coleman (OT, Commanders) — officially on track to be active after logging a full practice; coach said "all signs look good" for Sunday vs. the Seahawks.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-24T21:34:10Z, ~40min old at run start — fresh). Filtered to the six tracked positions (463 tracked entries across 32 teams, 176 non-Active) and diffed by player+team against all 364 pre-run dashboard rows: 117 matched a snapshot entry, the rest had no matching snapshot entry (145 high-sev exempt; 100 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 2 low-sev unmatched — Craig Woodson and Dre'Mont Jones, both Patriots — WebSearched individually and confirmed still out with no practice all week, rows already carried accurate current text, left unchanged). Of the 176 non-Active snapshot entries not matched to an existing row, 16 carried real new-injury detail and were added above; the rest were bare "questionable"/"out" tags with zero corroborating comment text, the recurring Jonathon Cooper (Broncos) legal/exempt-list matter, or Saquon Barkley's shoulder (already playing through it in a protective collar, not out) — all excluded per policy. Separately, cross-checked all currently-tracked non-high rows against the snapshot for explicit recovery language ("back to full health," "full participant," "no injury designation"): 8 hits, all removed above. Circuit breaker: not applicable — 8 removals proposed on 364 pre-run rows (2.2%), well under the 25% threshold.
+
+**Breaking-news sweep:** ~6 WebSearch queries covering Wednesday/Thursday Week 3 practice reports across the six tracked positions leaguewide, plus general IR-placement and carted-off queries for the window. Confirmed and sourced C.J. West's (49ers) knee IR placement, Aaron Banks' (Packers) Thursday-night out designation via Packers.com's official Week 3 report, and Craig Woodson's/Dre'Mont Jones's/Dametrious Crownover's (all Patriots) continued Wednesday absences. Checked and declined as already accurate with no change needed: Jonas Sanker (S, Saints) and Nathan Shepherd (DT, Saints) — both returned to full practice participation Thursday per search results, so not added despite appearing as Questionable in the snapshot (would only be added and immediately removed). Also confirmed Henry To'oTo'o (LB, Texans, IR) and Deonte Banks/Brian Burns/Ed Oliver (Giants/Bills) rows were already current and accurate, no changes needed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 23, 6:15 PM ET ages off). 1 aged off this run (Tyson Campbell, added Sept. 22 at 9:15 PM ET). David Bailey, Jaylen Warren, Tony Pollard, and Tyjae Spears (all added Sept. 23 at 6:15 PM ET) sit at exactly 24h, not yet past the cutoff — kept. 16 new NEW badges added (list above). Net badge count: 9 → 24. Tile counts updated and verified against current table rows: 149 high / 125 mid / 98 low / 372 all / 24 new.
