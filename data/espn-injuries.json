@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T04:58:09Z",
+  "timestamp": "2026-09-24T11:53:28Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -30241,11 +30241,11 @@
       "displayName": "Baltimore Ravens",
       "injuries": [
         {
-          "id": "-2013591",
+          "id": "-2013671",
           "longComment": "questionable",
           "shortComment": "questionable",
           "status": "Questionable",
-          "date": "2026-09-24T04:00Z",
+          "date": "2026-09-24T11:01Z",
           "athlete": {
             "firstName": "Chris",
             "lastName": "Moore",
@@ -30814,14 +30814,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2013591",
+                  "id": "-2013671",
                   "type": "news",
-                  "date": "2026-09-24T04:00Z",
+                  "date": "2026-09-24T11:01Z",
                   "headline": "questionable",
                   "text": "questionable",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/2576581/injuries/-2013591?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/2576581/injuries/-2013671?lang=en&region=us"
                   }
                 }
               ]
@@ -75685,11 +75685,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2013590",
+          "id": "-2013670",
           "longComment": "ir",
           "shortComment": "ir",
           "status": "Injured Reserve",
-          "date": "2026-09-24T04:00Z",
+          "date": "2026-09-24T11:01Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76258,14 +76258,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2013590",
+                  "id": "-2013670",
                   "type": "news",
-                  "date": "2026-09-24T04:00Z",
+                  "date": "2026-09-24T11:01Z",
                   "headline": "ir",
                   "text": "ir",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2013590?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2013670?lang=en&region=us"
                   }
                 }
               ]
@@ -242744,7 +242744,7 @@
                   "type": "news",
                   "date": "2026-09-24T01:01Z",
                   "headline": "Stukes (concussion) did not participate at the Raiders' practice Wednesday, Ryan McFadden of ESPN.com reports.",
-                  "text": "Stukes suffered a concussion during the team's 26-14 win over the Chargers on Sunday, and he now appears to be at risk of missing the team's Week 3 matchup with New Orleans. If he is unable to clear concussion protocol, Isaiah Pola-Mao would likely start at free safety against the Saints.",
+                  "text": "Stukes suffered a concussion during the team's 26-14 win over the Chargers on Sunday, and he now appears to be at risk of missing the Raiders' Week 3 matchup with New Orleans. If he is unable to clear concussion protocol, Isaiah Pola-Mao would likely start at free safety against the Saints.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4697757/injuries/638920?lang=en&region=us"
@@ -334406,7 +334406,7 @@
                   "type": "news",
                   "date": "2026-09-24T01:07Z",
                   "headline": "Miller (toe) did not participate in Wednesday's practice.",
-                  "text": "Miller continues to miss practice sessions as the defensive tackle works through the toe injury he likely suffered in the Saints' Week 1 overtime loss to the Lions. The rookie second-rounder was able to practice in a limited capacity Friday but has been downgraded to a non-participant to start Week 3, signaling that not much progress has likely been made in the recovery process.",
+                  "text": "Miller continues to miss practice sessions as the defensive tackle works through the toe injury he likely suffered in the Saints' Week 1 overtime loss to the Lions. The rookie second-rounder was able to practice in a limited capacity Friday but has been downgraded to a non-participant to start Week 3 prep, suggesting not much progress has likely been made in his recovery.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4685479/injuries/638923?lang=en&region=us"
@@ -335022,7 +335022,7 @@
                   "type": "news",
                   "date": "2026-09-24T00:59Z",
                   "headline": "Young (calf) was a limited participant in Wednesday's practice.",
-                  "text": "Young was a limited participant in the Thursday and Friday practices leading up to the Saints' Week 2 win over the Ravens. The pass rusher played through the calf issue in the win and will likely continue to log consecutive limited sessions in Week 3 to prepare for Sunday's game against the Raiders.",
+                  "text": "Young was a limited participant in the Thursday and Friday's practices leading up to the Saints' Week 2 win over the Ravens. The pass rusher played through the calf issue in the win and may see his workload in practice limited again during Week 3 prep ahead of Sunday's game against the Raiders.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4241986/injuries/638919?lang=en&region=us"
@@ -348410,7 +348410,7 @@
       "injuries": [
         {
           "id": "638961",
-          "longComment": "Thomas exited Monday's game against the fourth quarter with a groin injury. The adductor issue he suffered is not considered a serious injury, and the left tackle could play in Sunday's game against the Titans, Adam Schefter of ESPN reports. Thomas will likely spend the week as a limited practice participant before suiting up for Sunday's game to play through the injury.",
+          "longComment": "Thomas exited Monday's game in the fourth quarter with a groin injury. The adductor issue he suffered is not considered a serious injury, and the left tackle could play in Sunday's game against the Titans, Adam Schefter of ESPN reports. Thomas will probably spend the week as a limited practice participant before likely suiting up for Sunday's game to play through the injury.",
           "shortComment": "Thomas (groin) was a limited participant in Wednesday's practice,  Dan Salomone of the Giants' official site reports.",
           "status": "Questionable",
           "date": "2026-09-24T02:52Z",
@@ -348986,7 +348986,7 @@
                   "type": "news",
                   "date": "2026-09-24T02:52Z",
                   "headline": "Thomas (groin) was a limited participant in Wednesday's practice,  Dan Salomone of the Giants' official site reports.",
-                  "text": "Thomas exited Monday's game against the fourth quarter with a groin injury. The adductor issue he suffered is not considered a serious injury, and the left tackle could play in Sunday's game against the Titans, Adam Schefter of ESPN reports. Thomas will likely spend the week as a limited practice participant before suiting up for Sunday's game to play through the injury.",
+                  "text": "Thomas exited Monday's game in the fourth quarter with a groin injury. The adductor issue he suffered is not considered a serious injury, and the left tackle could play in Sunday's game against the Titans, Adam Schefter of ESPN reports. Thomas will probably spend the week as a limited practice participant before likely suiting up for Sunday's game to play through the injury.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4259566/injuries/638961?lang=en&region=us"
