@@ -6556,3 +6556,42 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch covering Friday-morning Week 3 practice reports across the six tracked positions, with particular attention to a large batch of Thursday "Active"-status snapshot entries requiring comment-content verification before any removal. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 24, 12:15 PM ET ages off). 4 aged off this run (Aaron Jones Sr., Jonah Coleman, Kyle Monangai, Travis Etienne Jr. — all added Sept. 23 at 9:15 PM ET). 5 new NEW badges added (list above). Net badge count: 26 → 24. Tile counts updated and verified against current table rows: 149 high / 125 mid / 94 low / 368 all / 24 new.
+
+## Sep 25, 2026, 6:15 PM ET
+
+~6h window since the 12:15 PM ET sweep, covering Friday's final Week 3 practice reports and official game-status designations league-wide.
+
+**New injuries:**
+- Trent Brown, OT, Texans — knee/wrist, questionable for Sunday at the Colts after a full participant Friday; trending toward playing. Severity: low.
+- Gennings Dunker, G, Steelers — knee, ruled out for Sunday vs. the Bengals after failing to practice Friday; first appearance on the injury report this season. Severity: low.
+
+**Status and designation changes (official Friday designations superseding earlier "trending" reports):**
+- Nick Bosa, DE, 49ers — upgraded from low to mid severity: doubtful for Sunday vs. the Cardinals, expected to miss multiple weeks with a strained calf (Schefter); IR decision still pending.
+- B.J. Hill, DT, Bengals — doubtful for Sunday vs. the Steelers (Achilles), missed practice all week; corrected stale text that had referenced a prior Texans game and Week 7 bye.
+- Elijah Molden, Dalvin Tomlinson, Trey Pipkins III, Kayode Awosika — all Chargers ruled out for Sunday at Buffalo.
+- Jamel Dean, CB, Steelers — officially questionable for Sunday vs. the Bengals (ankle) after a second straight limited day.
+- Rico Dowdle, RB, Steelers — officially ruled out for Sunday vs. the Bengals (toe), still in a boot.
+- Jaylen Warren, RB, Steelers — officially questionable for Sunday vs. the Bengals (shoulder) after limited Friday practice; RB coach signaled he's expected to play.
+- Ed Ingram, Jake Hummel, Jadeveon Clowney, M.J. Stewart — all Texans ruled out for Sunday at the Colts; corrected stale opponent references (Clowney had read "vs. the Bengals").
+- Charvarius Ward, CB, Colts — officially questionable for Sunday vs. the Texans (groin) after a full Friday practice, trending positive; corrected stale "vs. the Chiefs" reference.
+- Brian Burns, Deonte Banks, Tyler Nubin — all Giants officially questionable for Sunday vs. the Titans.
+- Ronnie Stanley, OT, Ravens — officially ruled out for Sunday vs. the Cowboys in Rio de Janeiro (toe); Carson Vinson to make his first career start.
+- Sam Cosmi, G, Commanders — ruled out for Sunday vs. the Seahawks, remains in concussion protocol (also a throat injury).
+- Frankie Luvu, LB, Commanders — ruled out for Sunday vs. the Seahawks (groin), hasn't practiced since Week 1.
+- Julian Love, S, Seahawks — ruled out for Sunday vs. the Commanders (calf); Seahawks will be without both starting safeties.
+- Ty Okada, S, Seahawks — ruled out for a third straight game, Sunday vs. the Commanders (hamstring).
+- Malik Hooker, P.J. Locke, Cobie Durant, DeMarvion Overshown — all Cowboys ruled out for Sunday vs. the Ravens in Rio de Janeiro; corrected stale "vs. the Commanders" references from Week 2.
+- Tyjae Spears, RB, Titans — officially questionable for Sunday vs. the Giants (ankle) after only a limited Friday practice.
+- Kyle Monangai, RB, Bears — upgraded from a Thursday DNP to a full Friday practice, trending toward playing Sunday vs. the Eagles.
+- Tyrique Stevenson Sr., CB, Bears — upgraded to limited Friday practice after a Thursday DNP; status for Sunday vs. the Eagles still to be determined.
+
+**Removals (3) — confirmed cleared to play, verified via comment content:**
+- Andrew Thomas (OT, Giants) — returned to practice Friday, took full reps, no injury designation; cleared for Sunday vs. the Titans.
+- Aaron Jones Sr. (RB, Vikings) — progressed through the week to a full clearance; no game status on Friday's final Week 3 report, active for Sunday vs. the Buccaneers.
+- Javon Kinlaw (DT, Commanders) — practiced in full Friday and came off the final injury report; cleared for Sunday vs. the Seahawks.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-25T18:40:59Z, current at run time). Snapshot's non-active entries newly dated within this window were almost entirely bare "out"/"doubtful" tags with no corroborating comment text (Bills, Panthers, Bears, Chargers, Buccaneers game-status posts) — excluded per policy, since all of those players already carry existing rows with substantive text that Friday's official designations (sourced via WebSearch team-report articles) were used to update instead. Circuit breaker: not applicable — 3 removals proposed on 368 pre-run rows (0.8%), well under the 25% threshold.
+
+**Breaking-news sweep:** ~20 WebSearch queries covering Friday's final Week 3 injury/practice reports across the six tracked positions, team by team (Bengals/Steelers, Chargers/Bills, Texans/Colts, Giants/Titans, Ravens/Cowboys, Commanders/Seahawks, Bears/Eagles, Vikings/Buccaneers). Cross-checked several conflicting/ambiguous headlines (e.g., a recycled-looking "Jaylen Warren cleared" headline that contradicted three same-day sources reporting him questionable) against multiple corroborating sources before writing. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 24, 6:15 PM ET ages off). 0 aged off this run — the oldest currently-NEW rows sit at exactly 24h (added Sept. 24 at 6:15 PM ET), not yet past the cutoff. 2 new NEW badges added (Trent Brown, Gennings Dunker). Net badge count: 24 → 26. Tile counts updated and verified against current table rows: 149 high / 126 mid / 92 low / 367 all / 26 new.
