@@ -6493,3 +6493,35 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** ~6 WebSearch queries covering Wednesday/Thursday Week 3 practice reports across the six tracked positions leaguewide, plus general IR-placement and carted-off queries for the window. Confirmed and sourced C.J. West's (49ers) knee IR placement, Aaron Banks' (Packers) Thursday-night out designation via Packers.com's official Week 3 report, and Craig Woodson's/Dre'Mont Jones's/Dametrious Crownover's (all Patriots) continued Wednesday absences. Checked and declined as already accurate with no change needed: Jonas Sanker (S, Saints) and Nathan Shepherd (DT, Saints) — both returned to full practice participation Thursday per search results, so not added despite appearing as Questionable in the snapshot (would only be added and immediately removed). Also confirmed Henry To'oTo'o (LB, Texans, IR) and Deonte Banks/Brian Burns/Ed Oliver (Giants/Bills) rows were already current and accurate, no changes needed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 23, 6:15 PM ET ages off). 1 aged off this run (Tyson Campbell, added Sept. 22 at 9:15 PM ET). David Bailey, Jaylen Warren, Tony Pollard, and Tyjae Spears (all added Sept. 23 at 6:15 PM ET) sit at exactly 24h, not yet past the cutoff — kept. 16 new NEW badges added (list above). Net badge count: 9 → 24. Tile counts updated and verified against current table rows: 149 high / 125 mid / 98 low / 372 all / 24 new.
+
+## Sep 24, 2026, 9:15 PM ET
+
+~3h window since the 6:15 PM ET sweep, covering Thursday practice reports league-wide, including a heavy Eagles cluster ahead of Monday night's game vs. the Bears.
+
+**Note:** This session's noon ET sweep did not run — GitHub's credential/git-access layer was returning persistent 503 errors ("credential service temporarily unavailable") on all fetch/push attempts, confirmed down across 5+ retries with backoff over roughly a minute. Access recovered by this 9:15 PM ET run with no further issues. No dashboard changes were lost; the Wed 6:15 PM and Thu 6:15 PM sweeps (visible in the commit history) ran from other scheduled firings and covered the intervening ground.
+
+**New injuries:**
+- Thomas Harper (S, Lions) — ankle, did not practice Thursday; status for Sunday's game vs. the Jets TBD. Severity: low.
+- Andrew Mukuba (S, Eagles) — knee, limited Thursday; questionable for Monday night's (Sept 28) game vs. the Bears. Severity: low.
+- Jalen Carter (DT, Eagles) — wrist, limited Thursday; questionable for Monday night vs. the Bears. Severity: low.
+- Will Shipley (RB, Eagles) — foot, did not practice Thursday; questionable for Monday night vs. the Bears. Severity: low.
+- Tank Bigsby (RB, Eagles) — hamstring, did not practice Thursday; questionable for Monday night vs. the Bears. Severity: low.
+- Saquon Barkley (RB, Eagles) — neck/shoulder stinger originally from Sept 20 vs. the Titans, still lingering; limited Thursday. Severity: low.
+
+**Status and designation changes:**
+- Craig Woodson (S, Patriots) and Dre'Mont Jones (DE, Patriots) — both missed practice for the second straight day Thursday, no timetable yet; Sunday's designation vs. the Jaguars comes after Friday's practice.
+- Darien Porter (CB, Raiders) — returned to practice Wednesday; has two more chances to log a full practice before Sunday's (Sept 27) game vs. the Saints; corrected a wrong-opponent draft before publishing.
+- Chop Robinson (LB, Dolphins) — trending positive ahead of Week 3, but still needs independent-neurologist clearance from the concussion protocol.
+
+**Removals (5) — all confirmed cleared/activated, verified via comment content:**
+- Ty Johnson (RB, Bills) — poised for his season debut Sunday vs. the Chargers after missing the first two games.
+- Patrick Jones II (LB, Panthers) — good to go ahead of Week 3 after missing the first two games with a back injury.
+- RJ Harvey (RB, Broncos) — full practice session Thursday, set to return to action Sunday vs. the Rams.
+- Carlton Davis III (CB, Patriots) — now appears healthy ahead of Sunday's game vs. the Jaguars.
+- Isaiah Stalbird (LB, Saints) — back to full health, back in his role.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-25T00:34:45Z, ~30min old at run start — fresh). Filtered to the six tracked positions (465 tracked entries across 32 teams, 178 non-Active) and diffed by player+team against all 372 pre-run dashboard rows: 125 matched a snapshot entry (20 read "Active" — spot-checked comment content on all of them; 5 clearly confirmed cleared/activated and removed above, the rest still mid-recovery or genuinely ambiguous and kept per the standing Marcus Epps rule, with a few wording updates applied), the rest had no matching snapshot entry (145 high-sev exempt; 100 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 2 low-sev unmatched — Craig Woodson, Dre'Mont Jones, Patriots — vanished-checked via WebSearch and confirmed still out, updated rather than removed). Of 44 snapshot entries not matched to an existing row, 6 carried real new-injury/practice-report detail and were added above; the rest were box-score recap blurbs with no injury description (Devin Lloyd, Nate Landman, Josiah Trotter, LeQuint Allen Jr., others), a non-injury illness (Kendre Miller, Saints), or the recurring Jonathon Cooper (Broncos) legal matter — all excluded per policy. Circuit breaker: not applicable — 5 removals proposed on 372 pre-run rows (1.3%), well under the 25% threshold.
+
+**Breaking-news sweep:** WebSearch covering Thursday practice reports across the six tracked positions, with particular attention to the Eagles' cluster of new Thursday designations and the Patriots' second-straight-day absences. Verified Raiders' and Eagles' correct Week 3 opponents before publishing (Saints and Bears respectively) after catching a wrong-opponent draft for Darien Porter. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 23, 9:15 PM ET ages off). 4 aged off this run (David Bailey, Jaylen Warren, Tony Pollard, Tyjae Spears — all added Sept. 23 at 6:15 PM ET). 6 new NEW badges added (list above). Net badge count: 24 → 26. Tile counts updated and verified against current table rows: 149 high / 125 mid / 99 low / 373 all / 26 new.
