@@ -6525,3 +6525,34 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch covering Thursday practice reports across the six tracked positions, with particular attention to the Eagles' cluster of new Thursday designations and the Patriots' second-straight-day absences. Verified Raiders' and Eagles' correct Week 3 opponents before publishing (Saints and Bears respectively) after catching a wrong-opponent draft for Darien Porter. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 23, 9:15 PM ET ages off). 4 aged off this run (David Bailey, Jaylen Warren, Tony Pollard, Tyjae Spears — all added Sept. 23 at 6:15 PM ET). 6 new NEW badges added (list above). Net badge count: 24 → 26. Tile counts updated and verified against current table rows: 149 high / 125 mid / 99 low / 373 all / 26 new.
+
+## Sep 25, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering Thursday's final practice reports and Thursday Night Football (Packers 20, Falcons 17) fallout.
+
+**New injuries:**
+- Ben Bartch (G, Lions) — foot, did not participate in Thursday's practice. Severity: low.
+- Tate Ratledge (G, Lions) — elbow, limited participant in Thursday's practice. Severity: low.
+- Edgerrin Cooper (LB, Packers) — concussion, evaluated during Thursday night's game vs. the Falcons. Severity: low.
+- Nick Bosa (DE, 49ers) — calf/knee, did not participate in Thursday's practice. Severity: low.
+- Julian Love (S, Seahawks) — calf, did not practice Thursday. Severity: low.
+
+**Status and designation changes:** None this run.
+
+**Removals (10) — all confirmed cleared/on track to play, verified via comment content:**
+- Darien Porter (CB, Raiders) — logged a full practice, on track to play Sunday at New Orleans.
+- Nakobe Dean (LB, Raiders) — back to full participation, good to go for Sunday vs. the Saints.
+- Tyrion Ingram-Dawkins (LB, Vikings) — upgraded Thursday, good to go Sunday vs. Tampa Bay.
+- Dametrious Crownover (OT, Patriots) — fully practiced Thursday, on track to play Sunday vs. the Jaguars.
+- Ernest Jones IV (LB, Seahawks) — full participation Thursday, well on track to play.
+- Jeremy Reaves (S, Commanders) — practiced in full, clearly on track to play Sunday vs. the Seahawks.
+- Teddye Buchanan (LB, Ravens) — full practice Wednesday and Thursday, season debut expected Sunday vs. the Cowboys.
+- J.K. Dobbins (RB, Broncos) — full session Thursday, neither hamstring nor hip an issue any longer.
+- Javon Hargrave (DT, Packers) — cleared by an independent neurologist, started and played Thursday night vs. the Falcons.
+- Chop Robinson (LB, Dolphins) — cleared the concussion protocol, available to play Sunday vs. the Chiefs.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-25T13:53:09Z, ~11min old at run start — fresh). Filtered to the six tracked positions (463 tracked entries across 32 teams, 178 non-Active) and diffed by player+team against all 373 pre-run dashboard rows: 128 matched a snapshot entry (16 read "Active" — comment content confirmed 10 as genuinely cleared/on-track-to-play and removed above; the rest remain ambiguous or still recovering and kept unchanged per the standing Marcus Epps rule), the rest had no matching snapshot entry (145 high-sev exempt; 100 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 0 low-sev unmatched this run). Of 37 snapshot entries not matched to an existing row, 5 carried real new-injury/practice-report detail and were added above; the rest were box-score recap blurbs with no injury description, a non-injury illness (Kendre Miller, Saints, repeated from the prior sweep), or the recurring Jonathon Cooper (Broncos) legal matter — all excluded per policy. Circuit breaker: not applicable — 10 removals proposed on 373 pre-run rows (2.7%), well under the 25% threshold.
+
+**Breaking-news sweep:** WebSearch covering Friday-morning Week 3 practice reports across the six tracked positions, with particular attention to a large batch of Thursday "Active"-status snapshot entries requiring comment-content verification before any removal. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 24, 12:15 PM ET ages off). 4 aged off this run (Aaron Jones Sr., Jonah Coleman, Kyle Monangai, Travis Etienne Jr. — all added Sept. 23 at 9:15 PM ET). 5 new NEW badges added (list above). Net badge count: 26 → 24. Tile counts updated and verified against current table rows: 149 high / 125 mid / 94 low / 368 all / 24 new.
