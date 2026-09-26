@@ -6622,3 +6622,29 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch covering Friday's final Week 3 injury designations, with particular focus on the Lions' offensive-line situation (Ratledge/Miller/Mahogany/Bartch) since the snapshot's own comment text hadn't caught up to Friday's practice outcome for three of those four players. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 24, 9:15 PM ET ages off). 11 aged off this run (all rows added Sept. 24 at 6:15 PM ET: Dadrion Taylor-Demerson, Devin Lloyd, George Holani, Jamel Dean, Josiah Trotter, Leo Chenal, Nate Landman, Reggie Gilliam, Rueben Bain Jr., Tyler Nubin, C.J. West). 1 new NEW badge added (Grant Delpit). Net badge count: 26 → 12. Tile counts updated and verified against current table rows: 149 high / 126 mid / 82 low / 357 all / 12 new.
+
+## Sep 26, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering Friday's remaining Week 3 injury designations and Friday roster moves.
+
+**New injuries:**
+- Roy Lopez (DT, Cardinals) — groin, questionable for Sunday's game vs. the 49ers. Severity: low.
+- Jordan Hancock (CB, Bills) — hamstring, placed on injured reserve Sept 25. Severity: mid.
+- Quintayvious Hutchins (LB, Patriots) — knee, placed on injured reserve Sept 25. Severity: mid.
+
+**Status and designation changes:** None this run.
+
+**Removals (7) — all confirmed cleared/no injury designation for Week 3, verified via comment content:**
+- Garrett Williams (CB, Cardinals) — full participant Friday, no injury designation for Sunday vs. the 49ers.
+- Andrew Mukuba (S, Eagles) — full participant Friday, appears over the knee injury, on track for Monday night.
+- Nate Landman (LB, Rams) — limited practice all week but that isn't enough to keep him off the field.
+- Leo Chenal (LB, Commanders) — set to suit up for Sunday's game despite limited practices all week.
+- Jalen Carter (DT, Eagles) — upgraded to full participation Friday, appears over the wrist injury.
+- Reggie Gilliam (FB, Patriots) — limited all week, but it won't stop him from suiting up Sunday.
+- George Holani (RB, Seahawks) — no designation for Sunday's game at Washington.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-26T11:30:50Z, ~34min old at run start — fresh). Filtered to the six tracked positions (462 tracked entries across 32 teams, 178 non-Active) and diffed by player+team against all 357 pre-run dashboard rows: 112 matched a snapshot entry (12 read "Active" — comment content confirmed 7 as genuinely cleared/no-designation and removed above; the rest remain ambiguous or still recovering and kept unchanged per the standing Marcus Epps rule), the rest had no matching snapshot entry (145 high-sev exempt; 100 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 0 low-sev unmatched this run). Of 12 snapshot entries not matched to an existing row, 3 carried real new-injury/roster-move detail and were added above; the rest were box-score recap blurbs or the recurring Jonathon Cooper (Broncos) legal matter — excluded per policy. Circuit breaker: not applicable — 7 removals proposed on 357 pre-run rows (2.0%), well under the 25% threshold.
+
+**Breaking-news sweep:** Snapshot comment content was thorough enough this run to resolve all removal/addition decisions without needing supplementary WebSearch queries; direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 25, 12:15 PM ET ages off). 3 aged off this run (Tank Bigsby, Thomas Harper, Will Shipley — all added Sept. 24 at 9:15 PM ET). 3 new NEW badges added (list above). Net badge count: 12 → 10. Tile counts updated and verified against current table rows: 149 high / 128 mid / 76 low / 353 all / 10 new.
