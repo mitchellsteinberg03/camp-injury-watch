@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-26T11:30:43Z",
+  "timestamp": "2026-09-26T16:28:01Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -14,7 +14,7 @@
       "injuries": [
         {
           "id": "639237",
-          "longComment": "Lopez has been dealing with the groin issue for a few weeks. He didn't practice Wednesday or Thursday, and while he was limited during Friday's session, he is still considered questionable to play in Week 3. If Lopez isn't available against the 49ers, Andrew Billings may take on as much work as he can handle.",
+          "longComment": "Lopez has been dealing with the groin issue for a few weeks. He didn't practice Wednesday or Thursday, and while he was limited during Friday's session, he is still considered questionable to play in Week 3. If Lopez isn't available against the 49ers, Andrew Billings may be in line for extra snaps.",
           "shortComment": "Lopez (groin) is listed as questionable for Sunday's game versus the 49ers, Darren Urban of the Cardinals' official site reports.",
           "status": "Questionable",
           "date": "2026-09-26T00:39Z",
@@ -590,7 +590,7 @@
                   "type": "news",
                   "date": "2026-09-26T00:39Z",
                   "headline": "Lopez (groin) is listed as questionable for Sunday's game versus the 49ers, Darren Urban of the Cardinals' official site reports.",
-                  "text": "Lopez has been dealing with the groin issue for a few weeks. He didn't practice Wednesday or Thursday, and while he was limited during Friday's session, he is still considered questionable to play in Week 3. If Lopez isn't available against the 49ers, Andrew Billings may take on as much work as he can handle.",
+                  "text": "Lopez has been dealing with the groin issue for a few weeks. He didn't practice Wednesday or Thursday, and while he was limited during Friday's session, he is still considered questionable to play in Week 3. If Lopez isn't available against the 49ers, Andrew Billings may be in line for extra snaps.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4040805/injuries/639237?lang=en&region=us"
@@ -30274,7 +30274,7 @@
       "injuries": [
         {
           "id": "639249",
-          "longComment": "Stanley did not log a single practice in Week 3. The starting left tackle exited the Ravens' Week 2 loss to the Saints early with a toe injury. Stanley appeared to be over the injury heading into Week 2 but aggravated the issue in the loss, which may lead to a longer period of missed time for the offensive lineman.",
+          "longComment": "Stanley did not log any practice participation during Week 3 prep. The starting left tackle aggravated a toe injury during the Ravens' Week 2 loss to the Saints, and it will now cost him one game at minimum while likely affording Carson Vinson a start against Dallas.",
           "shortComment": "Stanley (toe) has been ruled out ahead of Sunday's game against the Cowboys.",
           "status": "Out",
           "date": "2026-09-26T01:21Z",
@@ -30850,7 +30850,7 @@
                   "type": "news",
                   "date": "2026-09-26T01:21Z",
                   "headline": "Stanley (toe) has been ruled out ahead of Sunday's game against the Cowboys.",
-                  "text": "Stanley did not log a single practice in Week 3. The starting left tackle exited the Ravens' Week 2 loss to the Saints early with a toe injury. Stanley appeared to be over the injury heading into Week 2 but aggravated the issue in the loss, which may lead to a longer period of missed time for the offensive lineman.",
+                  "text": "Stanley did not log any practice participation during Week 3 prep. The starting left tackle aggravated a toe injury during the Ravens' Week 2 loss to the Saints, and it will now cost him one game at minimum while likely affording Carson Vinson a start against Dallas.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/2980153/injuries/639249?lang=en&region=us"
@@ -32696,7 +32696,7 @@
         },
         {
           "id": "639151",
-          "longComment": "Flowers upgraded to limited practice participation Friday after sitting out every other session the past two weeks. It's unclear if he has a real chance to play or the Ravens are just trying to create that impression, so fantasy managers will need to stay tuned as the 4:25 p.m. ET kickoff approaches Sunday. It'll be a tricky situation if Flowers comes down to a game-time call, but there are at least three other games with late-afternoon kickoffs, plus SNF and MNF. Flowers' teammate Rashod Bateman is one of the better replacement options after putting up 88 yards and a TD in Flowers' absence last week.",
+          "longComment": "Flowers upgraded to limited practice participation Friday after sitting out every other session the past two weeks. It's unclear if he has a real chance to play, or if the Ravens are just trying to create that impression, so fantasy managers will need to stay tuned as the 4:25 p.m. ET kickoff approaches Sunday. It'll be a tricky situation if Flowers comes down to a game-time call, but there are at least three other games with late-afternoon kickoffs, plus SNF and MNF. Flowers' teammate Rashod Bateman is one of the better replacement options after putting up 88 yards and a TD in Flowers' absence last week.",
           "shortComment": "Flowers (hamstring) is listed as questionable for Sunday's game against the Cowboys in Brazil.",
           "status": "Questionable",
           "date": "2026-09-25T20:14Z",
@@ -33272,7 +33272,7 @@
                   "type": "news",
                   "date": "2026-09-25T20:14Z",
                   "headline": "Flowers (hamstring) is listed as questionable for Sunday's game against the Cowboys in Brazil.",
-                  "text": "Flowers upgraded to limited practice participation Friday after sitting out every other session the past two weeks. It's unclear if he has a real chance to play or the Ravens are just trying to create that impression, so fantasy managers will need to stay tuned as the 4:25 p.m. ET kickoff approaches Sunday. It'll be a tricky situation if Flowers comes down to a game-time call, but there are at least three other games with late-afternoon kickoffs, plus SNF and MNF. Flowers' teammate Rashod Bateman is one of the better replacement options after putting up 88 yards and a TD in Flowers' absence last week.",
+                  "text": "Flowers upgraded to limited practice participation Friday after sitting out every other session the past two weeks. It's unclear if he has a real chance to play, or if the Ravens are just trying to create that impression, so fantasy managers will need to stay tuned as the 4:25 p.m. ET kickoff approaches Sunday. It'll be a tricky situation if Flowers comes down to a game-time call, but there are at least three other games with late-afternoon kickoffs, plus SNF and MNF. Flowers' teammate Rashod Bateman is one of the better replacement options after putting up 88 yards and a TD in Flowers' absence last week.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4429615/injuries/639151?lang=en&region=us"
@@ -75648,11 +75648,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2015664",
+          "id": "-2015724",
           "longComment": "ir",
           "shortComment": "ir",
           "status": "Injured Reserve",
-          "date": "2026-09-26T11:01Z",
+          "date": "2026-09-26T16:05Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76221,14 +76221,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2015664",
+                  "id": "-2015724",
                   "type": "news",
-                  "date": "2026-09-26T11:01Z",
+                  "date": "2026-09-26T16:05Z",
                   "headline": "ir",
                   "text": "ir",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2015664?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2015724?lang=en&region=us"
                   }
                 }
               ]
@@ -107073,14 +107073,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "639201",
+                  "id": "639267",
                   "type": "news",
-                  "date": "2026-09-25T22:38Z",
-                  "headline": "Delpit (shoulder) is listed as questionable for Sunday's game against the Panthers, Zac Jackson of The Athletic reports.",
-                  "text": "Delpit was a limited participant in all three practices this past week while tending to a shoulder issue. If he's unable to play against Carolina, then rookie second-rounder Emmanuel McNeil-Warren would be the top candidate to start at safety alongside Ronnie Hickman. Delpit has eight tackles (six solo), including 1.0 sacks, and one pass defense through two regular-season games.",
+                  "date": "2026-09-26T16:10Z",
+                  "headline": "Delpit (shoulder) said he will play in Sunday's game against the Panthers, Scott Petrak of the Elyria Chronicle-Telegram reports.",
+                  "text": "Delpit said he feels good enough to take the field in Sunday's game. The strong safety has been dealing with a shoulder injury he likely suffered in the Browns' Week 2 win over the Buccaneers. Delpit's presence means rookie second-rounder Emmanuel McNeil-Warren likely won't see many snaps in the contest.",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4242208/injuries/639201?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4242208/injuries/639267?lang=en&region=us"
                   }
                 }
               ]
@@ -136711,7 +136711,7 @@
         },
         {
           "id": "639156",
-          "longComment": "J.K. Dobbins and R.J. Harvey have also been banged up, both both upgraded to full practice participation Thursday and seem ready to play this Sunday against the Rams. Coleman's status is less clear, though he might not have much of a role anyway with both Dobbins and Harvey on track to play. With Harvey out last week and Dobbins exiting early, Coleman took 13 touches for 58 yards and a TD in the 20-13 win over Jacksonville. A repeat performance doesn't appear likely this week, but he's at least started building his case for role growth throughout the season.",
+          "longComment": "J.K. Dobbins and RJ Harvey also have been banged up, but both upgraded to full practice participation Thursday and seem ready to play this Sunday against the Rams. Coleman's status is less clear, though he might not have much of a role anyway with both Dobbins and Harvey on track to play. With Harvey out last week and Dobbins exiting early, Coleman took 13 touches for 58 yards and a TD in the 20-13 win over Jacksonville. A repeat performance doesn't appear likely this week, but he's at least started building his case for role growth throughout the season.",
           "shortComment": "Coleman (ankle) returned to practice Friday, Zac Stevens of DNVR Sports reports.",
           "status": "Out",
           "date": "2026-09-25T20:33Z",
@@ -137287,7 +137287,7 @@
                   "type": "news",
                   "date": "2026-09-25T20:33Z",
                   "headline": "Coleman (ankle) returned to practice Friday, Zac Stevens of DNVR Sports reports.",
-                  "text": "J.K. Dobbins and R.J. Harvey have also been banged up, both both upgraded to full practice participation Thursday and seem ready to play this Sunday against the Rams. Coleman's status is less clear, though he might not have much of a role anyway with both Dobbins and Harvey on track to play. With Harvey out last week and Dobbins exiting early, Coleman took 13 touches for 58 yards and a TD in the 20-13 win over Jacksonville. A repeat performance doesn't appear likely this week, but he's at least started building his case for role growth throughout the season.",
+                  "text": "J.K. Dobbins and RJ Harvey also have been banged up, but both upgraded to full practice participation Thursday and seem ready to play this Sunday against the Rams. Coleman's status is less clear, though he might not have much of a role anyway with both Dobbins and Harvey on track to play. With Harvey out last week and Dobbins exiting early, Coleman took 13 touches for 58 yards and a TD in the 20-13 win over Jacksonville. A repeat performance doesn't appear likely this week, but he's at least started building his case for role growth throughout the season.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4702555/injuries/639156?lang=en&region=us"
@@ -151837,7 +151837,7 @@
         },
         {
           "id": "639257",
-          "longComment": "Ratledge was limited in back-to-back practices to start Week 3 before upgrading to a full participant in Friday's session. The starting right guard is set to suit up for Sunday's game. With Christian Mahogany and Blake Miller also set to suit up, the entire starting Lions offensive line will be able to support backup center Juice Scruggs in Sunday's contest.",
+          "longComment": "Ratledge was limited in back-to-back practices to start Week 3 prep before upgrading to a full participant in Friday's session. With Christian Mahogany and Blake Miller also set to suit up, four-fifths of the starting Lions offensive line will be available to support backup center Juice Scruggs in Sunday's contest.",
           "shortComment": "Ratledge (elbow) does not have any injury designation ahead of Sunday's game against the Jets, Tim Twentyman of the Lions' official site reports.",
           "status": "Active",
           "date": "2026-09-26T01:43Z",
@@ -152439,7 +152439,7 @@
         },
         {
           "id": "639255",
-          "longComment": "Miller was a limited participant in the first two practices of Week 3 before upgrading to full participation in Friday's session. The rookie first-rounder is set to suit up for his second NFL game after a brief week-long hiatus spent dealing with a knee injury.",
+          "longComment": "Miller was a limited participant in the first two practices of Week 3 prep before upgrading to full participation in Friday's session. The rookie first-rounder is set to suit up for his second NFL game after a brief week-long hiatus spent dealing with a knee injury.",
           "shortComment": "Miller (knee) does not have any injury designation ahead of Sunday's game against the Jets, Tim Twentyman of the Lions' official site reports.",
           "status": "Active",
           "date": "2026-09-26T01:34Z",
@@ -153015,7 +153015,7 @@
                   "type": "news",
                   "date": "2026-09-26T01:34Z",
                   "headline": "Miller (knee) does not have any injury designation ahead of Sunday's game against the Jets, Tim Twentyman of the Lions' official site reports.",
-                  "text": "Miller was a limited participant in the first two practices of Week 3 before upgrading to full participation in Friday's session. The rookie first-rounder is set to suit up for his second NFL game after a brief week-long hiatus spent dealing with a knee injury.",
+                  "text": "Miller was a limited participant in the first two practices of Week 3 prep before upgrading to full participation in Friday's session. The rookie first-rounder is set to suit up for his second NFL game after a brief week-long hiatus spent dealing with a knee injury.",
                   "source": "RotoWire"
                 }
               ]
@@ -153041,7 +153041,7 @@
         },
         {
           "id": "639254",
-          "longComment": "Mahogany opened Week 3 with back-to-back limited practices before upgrading to a full participant in Friday's session. The starting left guard is set to suit up for Sunday's contest after missing the Lions' Week 2 loss to the Bills.",
+          "longComment": "Mahogany opened Week 3 prep with back-to-back limited practices before upgrading to a full participant in Friday's session. The starting left guard is set to suit up for Sunday's contest after missing the Lions' Week 2 loss to the Bills.",
           "shortComment": "Mahogany (hip) does not have any injury designation ahead of Sunday's game against the Jets, Tim Twentyman of the Lions' official site reports.",
           "status": "Active",
           "date": "2026-09-26T01:32Z",
@@ -153617,7 +153617,7 @@
                   "type": "news",
                   "date": "2026-09-26T01:32Z",
                   "headline": "Mahogany (hip) does not have any injury designation ahead of Sunday's game against the Jets, Tim Twentyman of the Lions' official site reports.",
-                  "text": "Mahogany opened Week 3 with back-to-back limited practices before upgrading to a full participant in Friday's session. The starting left guard is set to suit up for Sunday's contest after missing the Lions' Week 2 loss to the Bills.",
+                  "text": "Mahogany opened Week 3 prep with back-to-back limited practices before upgrading to a full participant in Friday's session. The starting left guard is set to suit up for Sunday's contest after missing the Lions' Week 2 loss to the Bills.",
                   "source": "RotoWire"
                 }
               ]
@@ -196626,6 +196626,622 @@
       "displayName": "Indianapolis Colts",
       "injuries": [
         {
+          "id": "639266",
+          "longComment": "A stint on IR requires a player to miss at least four games, but Pierce is expected to be sidelined for several weeks while rehabbing from a heel injury that he aggravated during the Colts' overtime loss to the Chiefs in Week 2. The good news for Pierce is that X-rays game back negative on the heel, but in his absence, the Colts will rely more heavily on Josh Downs, Keenan Allen, Darius Slayton and Tyler Warren in the passing game. In a corresponding move, Anthony Gould was signed from the Colts' practice squad to the active roster.",
+          "shortComment": "Pierce (heel) was placed on injured reserve Saturday.",
+          "status": "Injured Reserve",
+          "date": "2026-09-26T16:10Z",
+          "athlete": {
+            "firstName": "Alec",
+            "lastName": "Pierce",
+            "displayName": "Alec Pierce",
+            "shortName": "A. Pierce",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4360078/alec-pierce",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/4360078/alec-pierce",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4360078&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/4360078/alec-pierce",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4360078/alec-pierce",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4360078&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/4360078/alec-pierce",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4360078&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/4360078/alec-pierce",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4360078&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4360078/alec-pierce",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4360078",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4360078.png",
+              "alt": "Alec Pierce"
+            },
+            "position": {
+              "id": "1",
+              "name": "Wide Receiver",
+              "displayName": "Wide Receiver",
+              "abbreviation": "WR",
+              "leaf": true
+            },
+            "team": {
+              "id": "11",
+              "uid": "s:20~l:28~t:11",
+              "slug": "indianapolis-colts",
+              "name": "Colts",
+              "abbreviation": "IND",
+              "displayName": "Indianapolis Colts",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2024-06-25T18:50Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/ind.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:50Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2024-06-25T18:50Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/ind.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:50Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-31T12:52Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-02-13T03:12Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/ind/indianapolis-colts",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:11&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/ind/indianapolis-colts",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:11&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/ind",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:11&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/ind",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/indianapolis-colts-tickets--sports-nfl-football/performer/370?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/ind/indianapolis-colts",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/ind",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/ind",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/ind",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:11&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "639266",
+                  "type": "news",
+                  "date": "2026-09-26T16:10Z",
+                  "headline": "Pierce (heel) was placed on injured reserve Saturday.",
+                  "text": "A stint on IR requires a player to miss at least four games, but Pierce is expected to be sidelined for several weeks while rehabbing from a heel injury that he aggravated during the Colts' overtime loss to the Chiefs in Week 2. The good news for Pierce is that X-rays game back negative on the heel, but in his absence, the Colts will rely more heavily on Josh Downs, Keenan Allen, Darius Slayton and Tyler Warren in the passing game. In a corresponding move, Anthony Gould was signed from the Colts' practice squad to the active roster.",
+                  "source": "RotoWire",
+                  "injury": {
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4360078/injuries/639266?lang=en&region=us"
+                  }
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "5",
+            "name": "INJURY_STATUS_IR",
+            "description": "Injured Reserve",
+            "abbreviation": "IR"
+          },
+          "details": {
+            "fantasyStatus": {
+              "description": "IR",
+              "abbreviation": "IR"
+            },
+            "type": "Heel",
+            "location": "Leg",
+            "detail": "Not Specified",
+            "side": "Left",
+            "returnDate": "2026-10-25"
+          }
+        },
+        {
           "id": "639193",
           "longComment": "Ward drew the questionable tag for Week 3 following a DNP-LP-FP practice log. He's working through a groin injury that he picked up in Week 2 against the Chiefs, and if he cannot play Sunday, then Cam Taylor-Britt would likely start at outside cornerback opposite Sauce Gardner.",
           "shortComment": "Ward (groin) is listed as questionable for Sunday's game against the Texans, Adam Caplan of SiriusXM NFL Radio reports.",
@@ -198457,622 +199073,6 @@
             "name": "INJURY_STATUS_ACTIVE",
             "description": "active",
             "abbreviation": "A"
-          }
-        },
-        {
-          "id": "638803",
-          "longComment": "According to Ian Rapoport of NFL Network, Pierce -- who had surgery on the same left heel and ankle in late March -- will avoid another procedure and will instead treat the injury with rest and rehab after he suffered an aggravation in this past Sunday's overtime loss to the Chiefs. Pierce's impending move to IR means that he'll be sidelined for at least the Colts' next four games, with his availability beyond that set to be determined by how he responds to rehab. Given the recurring nature of the injury, the Colts could have Pierce take a conservative approach with his recovery program, especially after the team signed him to a lavish four-year, $114 million contract in the offseason.",
-          "shortComment": "Colts head coach Shane Steichen said Wednesday that Pierce (heel) will be placed on injured reserve and is without a timeline for a return, Kevin Bowen of 107.5 The Fan Indianapolis reports.",
-          "status": "Out",
-          "date": "2026-09-23T15:37Z",
-          "athlete": {
-            "firstName": "Alec",
-            "lastName": "Pierce",
-            "displayName": "Alec Pierce",
-            "shortName": "A. Pierce",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4360078/alec-pierce",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/4360078/alec-pierce",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4360078&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/4360078/alec-pierce",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4360078/alec-pierce",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4360078&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/4360078/alec-pierce",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4360078&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/4360078/alec-pierce",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4360078&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4360078/alec-pierce",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4360078",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4360078.png",
-              "alt": "Alec Pierce"
-            },
-            "position": {
-              "id": "1",
-              "name": "Wide Receiver",
-              "displayName": "Wide Receiver",
-              "abbreviation": "WR",
-              "leaf": true
-            },
-            "team": {
-              "id": "11",
-              "uid": "s:20~l:28~t:11",
-              "slug": "indianapolis-colts",
-              "name": "Colts",
-              "abbreviation": "IND",
-              "displayName": "Indianapolis Colts",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2024-06-25T18:50Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/ind.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:50Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2024-06-25T18:50Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/ind.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:50Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-31T12:52Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-02-13T03:12Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/582d14eb-da61-e505-cc40-d972a1b60ed1/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/ind/indianapolis-colts",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:11&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/ind/indianapolis-colts",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:11&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/ind",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:11&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/ind",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/indianapolis-colts-tickets--sports-nfl-football/performer/370?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/ind/indianapolis-colts",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/ind",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/ind",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/ind",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:11&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "638803",
-                  "type": "news",
-                  "date": "2026-09-23T15:37Z",
-                  "headline": "Colts head coach Shane Steichen said Wednesday that Pierce (heel) will be placed on injured reserve and is without a timeline for a return, Kevin Bowen of 107.5 The Fan Indianapolis reports.",
-                  "text": "According to Ian Rapoport of NFL Network, Pierce -- who had surgery on the same left heel and ankle in late March -- will avoid another procedure and will instead treat the injury with rest and rehab after he suffered an aggravation in this past Sunday's overtime loss to the Chiefs. Pierce's impending move to IR means that he'll be sidelined for at least the Colts' next four games, with his availability beyond that set to be determined by how he responds to rehab. Given the recurring nature of the injury, the Colts could have Pierce take a conservative approach with his recovery program, especially after the team signed him to a lavish four-year, $114 million contract in the offseason.",
-                  "source": "RotoWire",
-                  "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4360078/injuries/638803?lang=en&region=us"
-                  }
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "4",
-            "name": "INJURY_STATUS_OUT",
-            "description": "out",
-            "abbreviation": "O"
-          },
-          "details": {
-            "fantasyStatus": {
-              "description": "OUT",
-              "abbreviation": "OUT"
-            },
-            "type": "Heel",
-            "location": "Leg",
-            "detail": "Not Specified",
-            "side": "Left",
-            "returnDate": "2026-10-25"
           }
         },
         {
@@ -215337,7 +215337,7 @@
                   "type": "news",
                   "date": "2026-09-25T20:26Z",
                   "headline": "Meyers (thumb) was a full participant in Friday's practice and doesn't have an injury designation for Sunday's game against the Patriots.",
-                  "text": "Meyers quietly leads the Jaguars with an 86 percent route share, but he's been targeted on just 6 percent of his routes, taking a backseat to Parker Washington and Brian Thomas, in that order. Thomas' sloppy play in a Week 2 loss at Denver could perhaps push more volume in Meyers' direction, though that's likely to happen in any case even if his thumb injury continues to linger.",
+                  "text": "Meyers quietly leads the Jaguars with an 86 percent route share, but he's been targeted on just six percent of his routes, taking a backseat to Parker Washington and Brian Thomas, in that order. Thomas' sloppy play in a Week 2 loss at Denver could perhaps push more volume in Meyers' direction, though that's likely to happen in any case even if his thumb injury continues to linger.",
                   "source": "RotoWire"
                 }
               ]
@@ -226821,7 +226821,7 @@
       "injuries": [
         {
           "id": "639211",
-          "longComment": "Sneed logged limited practices throughout Week 3. Despite not upgrading to a full participant in Friday's session, the cornerback has avoided any injury designation for Sunday's contest. Sneed is all set to suit up as the starting slot cornerback for the Chiefs' defense in Sunday's game.",
+          "longComment": "Sneed logged limited practices throughout Week 3 prep. Despite not upgrading to a full participant in Friday's session, the cornerback has avoided any injury designation for Sunday's contest and is slated to fill his usual starting cornerback role.",
           "shortComment": "Sneed (knee) does not have any injury designation ahead of Sunday's game against the Dolphins, Matt McMullen of the Chiefs' official site reports.",
           "status": "Active",
           "date": "2026-09-25T23:09Z",
@@ -227397,7 +227397,7 @@
                   "type": "news",
                   "date": "2026-09-25T23:09Z",
                   "headline": "Sneed (knee) does not have any injury designation ahead of Sunday's game against the Dolphins, Matt McMullen of the Chiefs' official site reports.",
-                  "text": "Sneed logged limited practices throughout Week 3. Despite not upgrading to a full participant in Friday's session, the cornerback has avoided any injury designation for Sunday's contest. Sneed is all set to suit up as the starting slot cornerback for the Chiefs' defense in Sunday's game.",
+                  "text": "Sneed logged limited practices throughout Week 3 prep. Despite not upgrading to a full participant in Friday's session, the cornerback has avoided any injury designation for Sunday's contest and is slated to fill his usual starting cornerback role.",
                   "source": "RotoWire"
                 }
               ]
@@ -287911,7 +287911,7 @@
         },
         {
           "id": "639209",
-          "longComment": "Miller was limited in Wednesday's practice before missing Thursday's session. The wide receiver ultimately upgraded to full participation in Friday's session, making it likely that Miller will be able to suit up as a depth option for Sunday's contest.",
+          "longComment": "Miller was limited in Wednesday's practice before missing Thursday's session. The wide receiver ultimately upgraded to full participation Friday, making it likely that Miller will be able to suit up as a depth option for Sunday's contest.",
           "shortComment": "Miller (hip) is listed as questionable ahead of Sunday's game against the Chiefs, Matt McMullen of the Chiefs' official site reports.",
           "status": "Questionable",
           "date": "2026-09-25T23:04Z",
@@ -288487,7 +288487,7 @@
                   "type": "news",
                   "date": "2026-09-25T23:04Z",
                   "headline": "Miller (hip) is listed as questionable ahead of Sunday's game against the Chiefs, Matt McMullen of the Chiefs' official site reports.",
-                  "text": "Miller was limited in Wednesday's practice before missing Thursday's session. The wide receiver ultimately upgraded to full participation in Friday's session, making it likely that Miller will be able to suit up as a depth option for Sunday's contest.",
+                  "text": "Miller was limited in Wednesday's practice before missing Thursday's session. The wide receiver ultimately upgraded to full participation Friday, making it likely that Miller will be able to suit up as a depth option for Sunday's contest.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4369466/injuries/639209?lang=en&region=us"
@@ -302435,7 +302435,7 @@
       "injuries": [
         {
           "id": "639244",
-          "longComment": "Thorson was unable to practice throughout Week 3 due to a right hamstring injury. Recent practice squad addition Johnny Hekker is set to be elevated to the active roster to punt and hold for the Vikings in Thorson's absence.",
+          "longComment": "Thorson was unable to practice throughout Week 3 due to a right hamstring injury. Recent practice-squad addition Johnny Hekker is set to be elevated to the active roster to punt and hold for the Vikings in Thorson's absence.",
           "shortComment": "Thorson (hamstring) has been ruled out ahead of Sunday's game against the Buccaneers, Craig Peters of the Vikings' official site reports.",
           "status": "Out",
           "date": "2026-09-26T01:13Z",
@@ -303007,7 +303007,7 @@
                   "type": "news",
                   "date": "2026-09-26T01:13Z",
                   "headline": "Thorson (hamstring) has been ruled out ahead of Sunday's game against the Buccaneers, Craig Peters of the Vikings' official site reports.",
-                  "text": "Thorson was unable to practice throughout Week 3 due to a right hamstring injury. Recent practice squad addition Johnny Hekker is set to be elevated to the active roster to punt and hold for the Vikings in Thorson's absence.",
+                  "text": "Thorson was unable to practice throughout Week 3 due to a right hamstring injury. Recent practice-squad addition Johnny Hekker is set to be elevated to the active roster to punt and hold for the Vikings in Thorson's absence.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4799994/injuries/639244?lang=en&region=us"
@@ -303047,7 +303047,7 @@
         },
         {
           "id": "639243",
-          "longComment": "Samac missed consecutive practices to end Week 3 with a knee injury. The backup to Blake Brandel will now miss Sunday's contest due to the injury, leaving the Vikings with less depth on the offensive line.",
+          "longComment": "Samac missed consecutive practices to wrap up Week 3 prep. The backup to Blake Brandel will now miss Sunday's contest due to the injury, leaving the Vikings with less depth on the offensive line.",
           "shortComment": "Samac (knee) has been ruled out ahead of Sunday's game against the Buccaneers, Craig Peters of the Vikings' official site reports.",
           "status": "Out",
           "date": "2026-09-26T01:10Z",
@@ -303623,7 +303623,7 @@
                   "type": "news",
                   "date": "2026-09-26T01:10Z",
                   "headline": "Samac (knee) has been ruled out ahead of Sunday's game against the Buccaneers, Craig Peters of the Vikings' official site reports.",
-                  "text": "Samac missed consecutive practices to end Week 3 with a knee injury. The backup to Blake Brandel will now miss Sunday's contest due to the injury, leaving the Vikings with less depth on the offensive line.",
+                  "text": "Samac missed consecutive practices to wrap up Week 3 prep. The backup to Blake Brandel will now miss Sunday's contest due to the injury, leaving the Vikings with less depth on the offensive line.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4428421/injuries/639243?lang=en&region=us"
@@ -319965,7 +319965,7 @@
         },
         {
           "id": "639236",
-          "longComment": "Raridon started the week as a limited participant Wednesday before downgrading to a non-participant in the Thursday and Friday practice sessions. The rookie third-rounder has still managed to draw the questionable tag despite consecutive absences, meaning the 22-year-old may have been granted some additional rest in anticipation of Sunday's contest.",
+          "longComment": "Raridon started the week as a limited participant Wednesday before downgrading to a non-participant in Thursday and Friday's practice sessions. The rookie third-rounder has still managed to draw the questionable tag despite consecutive absences, meaning Raridon's absences the last two days may have been at least partly for rest/precautionary reasons.",
           "shortComment": "Raridon (thigh) is listed as questionable ahead of Sunday's game against the Jaguars.",
           "status": "Questionable",
           "date": "2026-09-26T00:38Z",
@@ -320541,7 +320541,7 @@
                   "type": "news",
                   "date": "2026-09-26T00:38Z",
                   "headline": "Raridon (thigh) is listed as questionable ahead of Sunday's game against the Jaguars.",
-                  "text": "Raridon started the week as a limited participant Wednesday before downgrading to a non-participant in the Thursday and Friday practice sessions. The rookie third-rounder has still managed to draw the questionable tag despite consecutive absences, meaning the 22-year-old may have been granted some additional rest in anticipation of Sunday's contest.",
+                  "text": "Raridon started the week as a limited participant Wednesday before downgrading to a non-participant in Thursday and Friday's practice sessions. The rookie third-rounder has still managed to draw the questionable tag despite consecutive absences, meaning Raridon's absences the last two days may have been at least partly for rest/precautionary reasons.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4831959/injuries/639236?lang=en&region=us"
@@ -348371,7 +348371,7 @@
                   "type": "news",
                   "date": "2026-09-26T01:53Z",
                   "headline": "Thomas (groin) does not have any injury designation ahead of Sunday's game against the Titans, Mike Garafolo of NFL Network reports.",
-                  "text": "Thomas was limited in Wednesday's practice before logging a DNP on Thursday. The left tackle upgraded to a limited participant once again Friday, managing to avoid any injury designation for Sunday's contest. Thomas will suit up to protect Jameis Winston's blindside due to the injury to starting quarterback Jaxson Dart (knee).",
+                  "text": "Thomas was limited in Wednesday's practice before logging a DNP on Thursday. The left tackle upgraded to a limited participant once again Friday, managing to avoid any injury designation for Sunday's contest. Thomas will be protecting Jameis Winston's blind side due to the injury to starting quarterback Jaxson Dart (knee).",
                   "source": "RotoWire"
                 }
               ]
@@ -349013,7 +349013,7 @@
         },
         {
           "id": "639214",
-          "longComment": "Nubin was a limited practice participant for the third consecutive day. If the 25-year-old can't suit up for the Week 3 meeting with the Titans, Jason Pinnock is a candidate to replace him in the starting lineup. Ar'Darius Washington could also be on track for more snaps.",
+          "longComment": "Nubin was a limited practice participant for the third consecutive day Friday. If the 25-year-old can't suit up for the Week 3 meeting with the Titans, Jason Pinnock is a candidate to replace him in the starting lineup. Ar'Darius Washington could also be on track for more snaps.",
           "shortComment": "Nubin (calf) is listed as questionable for Sunday's game versus Tennessee, Mike Garafolo of NFL Network reports.",
           "status": "Questionable",
           "date": "2026-09-25T23:21Z",
@@ -349589,7 +349589,7 @@
                   "type": "news",
                   "date": "2026-09-25T23:21Z",
                   "headline": "Nubin (calf) is listed as questionable for Sunday's game versus Tennessee, Mike Garafolo of NFL Network reports.",
-                  "text": "Nubin was a limited practice participant for the third consecutive day. If the 25-year-old can't suit up for the Week 3 meeting with the Titans, Jason Pinnock is a candidate to replace him in the starting lineup. Ar'Darius Washington could also be on track for more snaps.",
+                  "text": "Nubin was a limited practice participant for the third consecutive day Friday. If the 25-year-old can't suit up for the Week 3 meeting with the Titans, Jason Pinnock is a candidate to replace him in the starting lineup. Ar'Darius Washington could also be on track for more snaps.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4430261/injuries/639214?lang=en&region=us"
@@ -349629,7 +349629,7 @@
         },
         {
           "id": "639212",
-          "longComment": "Adam Schefter of ESPN reported that Burns won't require surgery to address the low-ankle sprain suffered in the Week 2 loss to the Rams. However, despite the questionable designation, he is expected to miss time, meaning he isn't anticipated to see the field versus Tennessee. If Burns is officially ruled out, that could mean more work for Kayvon Thibodeaux in Week 3.",
+          "longComment": "Adam Schefter of ESPN reported that Burns won't require surgery to address the low-ankle sprain suffered in the Week 2 loss to the Rams. However, despite the questionable designation, he is expected to miss time, meaning he isn't expected to see the field versus Tennessee. If Burns is officially ruled out, that could mean more work for Kayvon Thibodeaux in Week 3.",
           "shortComment": "Burns (ankle) is listed as questionable for Sunday's game against the Titans, Mike Garafolo of NFL Network reports.",
           "status": "Questionable",
           "date": "2026-09-25T23:14Z",
@@ -350205,7 +350205,7 @@
                   "type": "news",
                   "date": "2026-09-25T23:14Z",
                   "headline": "Burns (ankle) is listed as questionable for Sunday's game against the Titans, Mike Garafolo of NFL Network reports.",
-                  "text": "Adam Schefter of ESPN reported that Burns won't require surgery to address the low-ankle sprain suffered in the Week 2 loss to the Rams. However, despite the questionable designation, he is expected to miss time, meaning he isn't anticipated to see the field versus Tennessee. If Burns is officially ruled out, that could mean more work for Kayvon Thibodeaux in Week 3.",
+                  "text": "Adam Schefter of ESPN reported that Burns won't require surgery to address the low-ankle sprain suffered in the Week 2 loss to the Rams. However, despite the questionable designation, he is expected to miss time, meaning he isn't expected to see the field versus Tennessee. If Burns is officially ruled out, that could mean more work for Kayvon Thibodeaux in Week 3.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4035631/injuries/639212?lang=en&region=us"
@@ -362907,7 +362907,7 @@
       "injuries": [
         {
           "id": "639252",
-          "longComment": "Ossai was limited in the Jets' Wednesday and Thursday practices before upgrading to a full participant in Friday's session. The defensive end could suit up for his 2026 debut in Sunday's game against the Lions as a rotational edge rusher.",
+          "longComment": "Ossai was limited in the first two practices of the week before upgrading to a full participant in Friday's session. The defensive end could suit up for his 2026 debut in Sunday's game against the Lions as a rotational edge rusher.",
           "shortComment": "Ossai (foot) is listed as questionable for Sunday's game against the Lions, Rich Cimini of ESPN.com reports.",
           "status": "Questionable",
           "date": "2026-09-26T01:28Z",
@@ -363523,7 +363523,7 @@
         },
         {
           "id": "639251",
-          "longComment": "Mauigoa has not practiced since he sustained a quadriceps injury in the Jets' Week 2 overtime loss to the Packers. The outside linebacker will need another player to take over his special-teams snaps as he continues to recover from the injury.",
+          "longComment": "Mauigoa has not practiced since he sustained a quadriceps injury in the Jets' Week 2 overtime loss to the Packers. The outside linebacker's absence will be felt on both the defense and special teams.",
           "shortComment": "Mauigoa (quadriceps) has been ruled out ahead of Sunday's game against the Lions, Rich Cimini of ESPN.com reports.",
           "status": "Out",
           "date": "2026-09-26T01:24Z",
@@ -367161,14 +367161,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "639111",
+                  "id": "639153",
                   "type": "news",
-                  "date": "2026-09-25T15:15Z",
-                  "headline": "Mitchell (finger) will be limited in Friday's practice.",
-                  "text": "With Mitchell now limited in back-to-back practices due to the finger issue, it's possible he receives an injury designation for the Week 3 matchup with Detroit. The Jets' final injury report Friday afternoon will reveal Mitchell's status.",
+                  "date": "2026-09-25T20:21Z",
+                  "headline": "Mitchell (finger) is listed as questionable for Sunday's game against Detroit.",
+                  "text": "Mitchell was added to the injury report Thursday as a limited participant, and he again was limited at Friday's session while wearing a large wrap over his right hand, per Brian Costello of the New York Post. Mitchell isn't sure-handed even in the best of times, but he's been piling up targets and air yards anyway and now will get a favorable dome matchup with the Lions (if he's able to suit up). If Mitchell doesn't end up playing, the Jets may need a lot of snaps from a practice-squad veteran like Sterling Shepard or Tyler Johnson. Their WR depth wasn't great in the first place and already has been stretched thin with rookie Omar Cooper (ankle) on injured reserve for at least three more weeks.",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4597500/injuries/639111?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4597500/injuries/639153?lang=en&region=us"
                   }
                 }
               ]
@@ -379293,7 +379293,7 @@
         },
         {
           "id": "639229",
-          "longComment": "Greenard has logged a pair of limited practice sessions during the Eagles' Week 3 prep for Monday night's game against the Bears. The strongside linebacker logged three limited sessions in Week 2 before remaining sidelined in the team's 24-20 win over the Titans. Unless Greenard upgrades to a full participant in Saturday's session, the 29-year-old will likely continue to wait for his 2026 debut.",
+          "longComment": "Greenard has logged a pair of limited practice sessions during the Eagles' Week 3 prep for Monday night's game against the Bears. The strong-side linebacker logged three limited sessions in Week 2 before remaining sidelined in the team's 24-20 win over the Titans. Unless Greenard upgrades to a full participant in Saturday's session, the 29-year-old's team/season debut will be delayed at least another week.",
           "shortComment": "Greenard (pectoral) was a limited participant in Friday's practice.",
           "status": "Questionable",
           "date": "2026-09-26T00:18Z",
@@ -379869,7 +379869,7 @@
                   "type": "news",
                   "date": "2026-09-26T00:18Z",
                   "headline": "Greenard (pectoral) was a limited participant in Friday's practice.",
-                  "text": "Greenard has logged a pair of limited practice sessions during the Eagles' Week 3 prep for Monday night's game against the Bears. The strongside linebacker logged three limited sessions in Week 2 before remaining sidelined in the team's 24-20 win over the Titans. Unless Greenard upgrades to a full participant in Saturday's session, the 29-year-old will likely continue to wait for his 2026 debut.",
+                  "text": "Greenard has logged a pair of limited practice sessions during the Eagles' Week 3 prep for Monday night's game against the Bears. The strong-side linebacker logged three limited sessions in Week 2 before remaining sidelined in the team's 24-20 win over the Titans. Unless Greenard upgrades to a full participant in Saturday's session, the 29-year-old's team/season debut will be delayed at least another week.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3916409/injuries/639229?lang=en&region=us"
@@ -393243,7 +393243,7 @@
       "injuries": [
         {
           "id": "639248",
-          "longComment": "Dunker appeared as limited on Thursday's practice report. The offensive guard was downgraded to a non-participant in Friday's session, drawing an out designation for Sunday's contest. It is unclear how long the new knee injury will sideline the depth option.",
+          "longComment": "Dunker appeared as limited on Thursday's practice report. The offensive guard was downgraded to a non-participant in Friday's session, leading to him being ruled out for Sunday's contest. It is unclear how long the new knee injury will sideline the depth option.",
           "shortComment": "Dunker (knee) has been ruled out ahead of Sunday's game against the Bengals, Adam Caplan of SiriusXM NFL Radio reports.",
           "status": "Out",
           "date": "2026-09-26T01:17Z",
@@ -393819,7 +393819,7 @@
                   "type": "news",
                   "date": "2026-09-26T01:17Z",
                   "headline": "Dunker (knee) has been ruled out ahead of Sunday's game against the Bengals, Adam Caplan of SiriusXM NFL Radio reports.",
-                  "text": "Dunker appeared as limited on Thursday's practice report. The offensive guard was downgraded to a non-participant in Friday's session, drawing an out designation for Sunday's contest. It is unclear how long the new knee injury will sideline the depth option.",
+                  "text": "Dunker appeared as limited on Thursday's practice report. The offensive guard was downgraded to a non-participant in Friday's session, leading to him being ruled out for Sunday's contest. It is unclear how long the new knee injury will sideline the depth option.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4431258/injuries/639248?lang=en&region=us"
@@ -395667,7 +395667,7 @@
                   "type": "news",
                   "date": "2026-09-25T20:06Z",
                   "headline": "Pittman (foot) is listed as questionable for Sunday's game, according to Alan Saunders of Steelers Now.",
-                  "text": "A limited practice participant throughout the week, Pittman appears truly questionable ahead of a 1:00 p.m. ET kickoff Sunday. If he can't go, Germie Bernard figures to fill in again alongside DK Metcalf and Roman Wilson in an offense that's largely worked out of three-wide formations this season.",
+                  "text": "A limited practice participant throughout the week, Pittman appears truly questionable ahead of a 1:00 p.m. ET kickoff Sunday. If Pittman can't go, Germie Bernard figures to fill in again alongside DK Metcalf and Roman Wilson in an offense that's largely worked out of three-wide formations this season.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4035687/injuries/639150?lang=en&region=us"
@@ -395707,7 +395707,7 @@
         },
         {
           "id": "639146",
-          "longComment": "A limited practice participant throughout the week, Warren gets a 'questionable' tag but may in fact be headed for his largest workload of the season. Backfield mate Rico Dowdle (toe) has been ruled out, and Steelers RBs coach Ramon Chinyoung suggested Friday that Warren will play, per Nick Farabaugh of PennLive.com. The Steelers otherwise have Travis Homer and Lew Nichols (practice squad) as their top alternatives, which could lead to Warren seeing more work on early downs while Homer takes over some of the passing snaps. An early kickoff at 1:00 p.m. ET kickoff allows Warren's fantasy managers to confirm his availability when inactive lists are released Sunday morning around 11:30 a.m. ET.",
+          "longComment": "A limited practice participant throughout the week, Warren gets a 'questionable' tag but may in fact be headed for his largest workload of the season. Backfield mate Rico Dowdle (toe) has been ruled out, and Steelers RBs coach Ramon Chinyoung suggested Friday that Warren will play, per Nick Farabaugh of PennLive.com. The Steelers otherwise have Travis Homer and Lew Nichols (practice squad) as their top alternatives, which could lead to Warren seeing more work on early downs while Homer takes over some of the passing snaps. An early kickoff at 1:00 p.m. ET allows Warren's fantasy managers to confirm his availability when inactive lists are released Sunday morning around 11:30 a.m. ET.",
           "shortComment": "Warren (shoulder) is listed as questionable for Sunday's game against the Bengals after being a limited participant in Friday's practice, Alan Saunders of Steelers Now reports.",
           "status": "Questionable",
           "date": "2026-09-25T19:55Z",
@@ -396283,7 +396283,7 @@
                   "type": "news",
                   "date": "2026-09-25T19:55Z",
                   "headline": "Warren (shoulder) is listed as questionable for Sunday's game against the Bengals after being a limited participant in Friday's practice, Alan Saunders of Steelers Now reports.",
-                  "text": "A limited practice participant throughout the week, Warren gets a 'questionable' tag but may in fact be headed for his largest workload of the season. Backfield mate Rico Dowdle (toe) has been ruled out, and Steelers RBs coach Ramon Chinyoung suggested Friday that Warren will play, per Nick Farabaugh of PennLive.com. The Steelers otherwise have Travis Homer and Lew Nichols (practice squad) as their top alternatives, which could lead to Warren seeing more work on early downs while Homer takes over some of the passing snaps. An early kickoff at 1:00 p.m. ET kickoff allows Warren's fantasy managers to confirm his availability when inactive lists are released Sunday morning around 11:30 a.m. ET.",
+                  "text": "A limited practice participant throughout the week, Warren gets a 'questionable' tag but may in fact be headed for his largest workload of the season. Backfield mate Rico Dowdle (toe) has been ruled out, and Steelers RBs coach Ramon Chinyoung suggested Friday that Warren will play, per Nick Farabaugh of PennLive.com. The Steelers otherwise have Travis Homer and Lew Nichols (practice squad) as their top alternatives, which could lead to Warren seeing more work on early downs while Homer takes over some of the passing snaps. An early kickoff at 1:00 p.m. ET allows Warren's fantasy managers to confirm his availability when inactive lists are released Sunday morning around 11:30 a.m. ET.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4569987/injuries/639146?lang=en&region=us"
@@ -408999,7 +408999,7 @@
         },
         {
           "id": "639222",
-          "longComment": "Height was unable to practice during Week 3 due to a hand injury he suffered against the Dolphins in Week 2. The defensive end underwent surgery for the injury Tuesday and is set to return quickly, though he could not return to the field in time for Week 3. With Nick Bosa (calf) and Height ruled out, Khalid Kareem is set to start at defensive end opposite Keion White for Sunday's game.",
+          "longComment": "Height was unable to practice during Week 3 due to a hand injury he suffered against the Dolphins in Week 2. The defensive end underwent surgery for the injury Tuesday and is set to return in relatively short order, though he may not return to the field in time for Week 3. With Nick Bosa (calf) and Height ruled out, Khalid Kareem is set to start at defensive end opposite Keion White for Sunday's game.",
           "shortComment": "Height (hand) has been ruled out ahead of Sunday's game against the Cardinals.",
           "status": "Out",
           "date": "2026-09-25T23:47Z",
@@ -409575,7 +409575,7 @@
                   "type": "news",
                   "date": "2026-09-25T23:47Z",
                   "headline": "Height (hand) has been ruled out ahead of Sunday's game against the Cardinals.",
-                  "text": "Height was unable to practice during Week 3 due to a hand injury he suffered against the Dolphins in Week 2. The defensive end underwent surgery for the injury Tuesday and is set to return quickly, though he could not return to the field in time for Week 3. With Nick Bosa (calf) and Height ruled out, Khalid Kareem is set to start at defensive end opposite Keion White for Sunday's game.",
+                  "text": "Height was unable to practice during Week 3 due to a hand injury he suffered against the Dolphins in Week 2. The defensive end underwent surgery for the injury Tuesday and is set to return in relatively short order, though he may not return to the field in time for Week 3. With Nick Bosa (calf) and Height ruled out, Khalid Kareem is set to start at defensive end opposite Keion White for Sunday's game.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4432244/injuries/639222?lang=en&region=us"
@@ -423551,7 +423551,7 @@
       "injuries": [
         {
           "id": "639226",
-          "longComment": "Okada has not practiced since suffering a hamstring issue in the lead-up to the Seahawks' Week 1 win over the Patriots. AJ Finley will likely start at strong safety opposite Rodney Thomas at free safety, who is filling in for Julian Love (calf). With both starters out, coach Mike MacDonald will likely lean even more heavily on star slot cornerback Nick Emmanwori.",
+          "longComment": "Okada has not practiced since suffering a hamstring issue in the lead-up to the Seahawks' Week 1 win over the Patriots. AJ Finley will likely start at strong safety in Okada's stead opposite Rodney Thomas, who is filling in for Julian Love (calf). With both starters out, coach Mike MacDonald may lean more on star slot cornerback Nick Emmanwori.",
           "shortComment": "Okada (hamstring) has been ruled out ahead of Sunday's game against the Commanders, John Boyle of the Seahawks' official site reports.",
           "status": "Out",
           "date": "2026-09-26T00:01Z",
@@ -424127,7 +424127,7 @@
                   "type": "news",
                   "date": "2026-09-26T00:01Z",
                   "headline": "Okada (hamstring) has been ruled out ahead of Sunday's game against the Commanders, John Boyle of the Seahawks' official site reports.",
-                  "text": "Okada has not practiced since suffering a hamstring issue in the lead-up to the Seahawks' Week 1 win over the Patriots. AJ Finley will likely start at strong safety opposite Rodney Thomas at free safety, who is filling in for Julian Love (calf). With both starters out, coach Mike MacDonald will likely lean even more heavily on star slot cornerback Nick Emmanwori.",
+                  "text": "Okada has not practiced since suffering a hamstring issue in the lead-up to the Seahawks' Week 1 win over the Patriots. AJ Finley will likely start at strong safety in Okada's stead opposite Rodney Thomas, who is filling in for Julian Love (calf). With both starters out, coach Mike MacDonald may lean more on star slot cornerback Nick Emmanwori.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4247808/injuries/639226?lang=en&region=us"
@@ -424167,7 +424167,7 @@
         },
         {
           "id": "639224",
-          "longComment": "Love had his calf tighten up on him during Thursday's practice, and the safety was unable to get back on the field for Friday's session. With Love ruled out ahead of Sunday's game, Rodney Thomas is set to start at free safety opposite AJ Finley at strong safety. Both defensive backs are filling in, leaving the back end of Seattle's defensive unit weaker for Week 3.",
+          "longComment": "Love had his calf tighten up on him during Thursday's practice, and the safety was unable to get back on the field for Friday's session. With Love ruled out ahead of Sunday's game, Rodney Thomas is set to start at free safety opposite AJ Finley. Both defensive backs are filling in for injured teammates -- Finley is replacing Ty Okada (hamstring) -- leaving the back end of Seattle's defensive unit weaker for Week 3.",
           "shortComment": "Love (calf) has been ruled out ahead of Sunday's game against the Commanders, John Boyle of the Seahawks' official site reports.",
           "status": "Out",
           "date": "2026-09-25T23:56Z",
@@ -424743,7 +424743,7 @@
                   "type": "news",
                   "date": "2026-09-25T23:56Z",
                   "headline": "Love (calf) has been ruled out ahead of Sunday's game against the Commanders, John Boyle of the Seahawks' official site reports.",
-                  "text": "Love had his calf tighten up on him during Thursday's practice, and the safety was unable to get back on the field for Friday's session. With Love ruled out ahead of Sunday's game, Rodney Thomas is set to start at free safety opposite AJ Finley at strong safety. Both defensive backs are filling in, leaving the back end of Seattle's defensive unit weaker for Week 3.",
+                  "text": "Love had his calf tighten up on him during Thursday's practice, and the safety was unable to get back on the field for Friday's session. With Love ruled out ahead of Sunday's game, Rodney Thomas is set to start at free safety opposite AJ Finley. Both defensive backs are filling in for injured teammates -- Finley is replacing Ty Okada (hamstring) -- leaving the back end of Seattle's defensive unit weaker for Week 3.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4046675/injuries/639224?lang=en&region=us"
@@ -456798,6 +456798,622 @@
           }
         },
         {
+          "id": "639144",
+          "longComment": "Spears returned to practice Friday as a limited participant after sitting out the previous two days. Tony Pollard, meanwhile, upgraded to full participation at the end of the week and doesn't have an injury designation for Sunday's game. Even if Spears ends up playing, he won't have much fantasy appeal when he's the less healthy of two RBs in a backfield that hasn't been productive so far. The Titans and Giants are schedule for an early kickoff Sunday at 1:00 p.m. ET.",
+          "shortComment": "Spears (ankle) is listed as questionable for Sunday's game against the Giants, Turron Davenport of ESPN.com reports.",
+          "status": "Questionable",
+          "date": "2026-09-25T19:50Z",
+          "athlete": {
+            "firstName": "Tyjae",
+            "lastName": "Spears",
+            "displayName": "Tyjae Spears",
+            "shortName": "T. Spears",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4428557/tyjae-spears",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/4428557/tyjae-spears",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/4428557/tyjae-spears",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4428557/tyjae-spears",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/4428557/tyjae-spears",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/4428557/tyjae-spears",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4428557/tyjae-spears",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4428557.png",
+              "alt": "Tyjae Spears"
+            },
+            "position": {
+              "id": "9",
+              "name": "Running Back",
+              "displayName": "Running Back",
+              "abbreviation": "RB",
+              "leaf": true
+            },
+            "team": {
+              "id": "10",
+              "uid": "s:20~l:28~t:10",
+              "slug": "tennessee-titans",
+              "name": "Titans",
+              "abbreviation": "TEN",
+              "displayName": "Tennessee Titans",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2026-03-20T19:56Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/ten.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2026-03-20T19:56Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2026-03-20T19:56Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/ten.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2026-03-20T19:56Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-31T12:53Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/ten/tennessee-titans",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/ten/tennessee-titans",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/ten/tennessee-titans",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/ten",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/ten",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/tennessee-titans-tickets--sports-nfl-football/performer/848?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/ten/tennessee-titans",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/ten",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/ten",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/ten",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "639144",
+                  "type": "news",
+                  "date": "2026-09-25T19:50Z",
+                  "headline": "Spears (ankle) is listed as questionable for Sunday's game against the Giants, Turron Davenport of ESPN.com reports.",
+                  "text": "Spears returned to practice Friday as a limited participant after sitting out the previous two days. Tony Pollard, meanwhile, upgraded to full participation at the end of the week and doesn't have an injury designation for Sunday's game. Even if Spears ends up playing, he won't have much fantasy appeal when he's the less healthy of two RBs in a backfield that hasn't been productive so far. The Titans and Giants are schedule for an early kickoff Sunday at 1:00 p.m. ET.",
+                  "source": "RotoWire",
+                  "injury": {
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4428557/injuries/639144?lang=en&region=us"
+                  }
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "2",
+            "name": "INJURY_STATUS_QUESTIONABLE",
+            "description": "questionable",
+            "abbreviation": "Q"
+          },
+          "details": {
+            "fantasyStatus": {
+              "description": "QUESTIONABLE",
+              "abbreviation": "QUESTIONABLE"
+            },
+            "type": "Ankle",
+            "location": "Leg",
+            "detail": "Soreness",
+            "side": "Not Specified",
+            "returnDate": "2026-09-27"
+          }
+        },
+        {
           "id": "639143",
           "longComment": "Tyjae Spears, on the other hand, is listed as questionable due to an ankle injury of his own. Neither running back has been of much use to fantasy managers this season, but Pollard at least would get a significant projection boost if Spears were to land on the inactive list ahead of a 1:00 p.m. ET kickoff Sunday.",
           "shortComment": "Pollard (ankle) doesn't have an injury designation for Sunday's game against the Giants after returning to a full practice Friday, Jim Wyatt of the Titans' official site reports.",
@@ -457397,622 +458013,6 @@
             "name": "INJURY_STATUS_ACTIVE",
             "description": "active",
             "abbreviation": "A"
-          }
-        },
-        {
-          "id": "639123",
-          "longComment": "Spears didn't practice Wednesday or Thursday, but a return to limited participation at the end of the week suggests he has a chance to play this Sunday against Cleveland. Fellow Titans running back Tony Pollard (ankle) is upgrading to full participation Friday, so he appears ready to start and take most of the carries.",
-          "shortComment": "Spears (ankle) was listed as limited for Friday's practice, Terry McCormick of TitanInsider reports.",
-          "status": "Questionable",
-          "date": "2026-09-25T16:14Z",
-          "athlete": {
-            "firstName": "Tyjae",
-            "lastName": "Spears",
-            "displayName": "Tyjae Spears",
-            "shortName": "T. Spears",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4428557/tyjae-spears",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/4428557/tyjae-spears",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/4428557/tyjae-spears",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4428557/tyjae-spears",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/4428557/tyjae-spears",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/4428557/tyjae-spears",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4428557/tyjae-spears",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4428557.png",
-              "alt": "Tyjae Spears"
-            },
-            "position": {
-              "id": "9",
-              "name": "Running Back",
-              "displayName": "Running Back",
-              "abbreviation": "RB",
-              "leaf": true
-            },
-            "team": {
-              "id": "10",
-              "uid": "s:20~l:28~t:10",
-              "slug": "tennessee-titans",
-              "name": "Titans",
-              "abbreviation": "TEN",
-              "displayName": "Tennessee Titans",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2026-03-20T19:56Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/ten.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2026-03-20T19:56Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2026-03-20T19:56Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/ten.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2026-03-20T19:56Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-31T12:53Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/ten/tennessee-titans",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/ten/tennessee-titans",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/ten/tennessee-titans",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/ten",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/ten",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/tennessee-titans-tickets--sports-nfl-football/performer/848?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/ten/tennessee-titans",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/ten",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/ten",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/ten",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "639123",
-                  "type": "news",
-                  "date": "2026-09-25T16:14Z",
-                  "headline": "Spears (ankle) was listed as limited for Friday's practice, Terry McCormick of TitanInsider reports.",
-                  "text": "Spears didn't practice Wednesday or Thursday, but a return to limited participation at the end of the week suggests he has a chance to play this Sunday against Cleveland. Fellow Titans running back Tony Pollard (ankle) is upgrading to full participation Friday, so he appears ready to start and take most of the carries.",
-                  "source": "RotoWire",
-                  "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4428557/injuries/639123?lang=en&region=us"
-                  }
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "2",
-            "name": "INJURY_STATUS_QUESTIONABLE",
-            "description": "questionable",
-            "abbreviation": "Q"
-          },
-          "details": {
-            "fantasyStatus": {
-              "description": "QUESTIONABLE",
-              "abbreviation": "QUESTIONABLE"
-            },
-            "type": "Ankle",
-            "location": "Leg",
-            "detail": "Soreness",
-            "side": "Not Specified",
-            "returnDate": "2026-09-27"
           }
         },
         {
@@ -469475,7 +469475,7 @@
         },
         {
           "id": "639219",
-          "longComment": "Kinlaw improved his participation in practice throughout Week 3, moving from a non-participant in Wednesday's session to a full participant by Friday. The defensive tackle has recovered from his shoulder injury and is set to take the field alongside Tim Settle and Daron Payne on the defensive line in Sunday's contest.",
+          "longComment": "Kinlaw improved his participation in practice throughout Week 3 prep, moving from a non-participant in Wednesday's session to a full participant by Friday. The defensive tackle has recovered from his shoulder injury and is set to take the field alongside Tim Settle and Daron Payne on the defensive line in Sunday's contest.",
           "shortComment": "Kinlaw (shoulder) does not have any injury designation ahead of Sunday's game against the Seahawks.",
           "status": "Active",
           "date": "2026-09-25T23:38Z",
@@ -470051,7 +470051,7 @@
                   "type": "news",
                   "date": "2026-09-25T23:38Z",
                   "headline": "Kinlaw (shoulder) does not have any injury designation ahead of Sunday's game against the Seahawks.",
-                  "text": "Kinlaw improved his participation in practice throughout Week 3, moving from a non-participant in Wednesday's session to a full participant by Friday. The defensive tackle has recovered from his shoulder injury and is set to take the field alongside Tim Settle and Daron Payne on the defensive line in Sunday's contest.",
+                  "text": "Kinlaw improved his participation in practice throughout Week 3 prep, moving from a non-participant in Wednesday's session to a full participant by Friday. The defensive tackle has recovered from his shoulder injury and is set to take the field alongside Tim Settle and Daron Payne on the defensive line in Sunday's contest.",
                   "source": "RotoWire"
                 }
               ]
@@ -470077,7 +470077,7 @@
         },
         {
           "id": "639218",
-          "longComment": "Chenal logged limited practice sessions throughout Week 3 as he dealt with a chest injury he suffered in the Commanders' Week 2 loss to the Cowboys. The linebacker is set to suit up for Sunday's game and will be the starting inside linebacker next to Sonny Styles due to the absence of Frankie Luvu (groin).",
+          "longComment": "Chenal logged limited practice sessions throughout Week 3 prep as he dealt with a chest injury he suffered in the Commanders' Week 2 loss to the Cowboys. The linebacker is set to suit up for Sunday's game and will be the starting inside linebacker next to Sonny Styles due to the absence of Frankie Luvu (groin).",
           "shortComment": "Chenal (chest) does not have any injury designation ahead of Sunday's game against the Seahawks.",
           "status": "Active",
           "date": "2026-09-25T23:32Z",
@@ -470653,7 +470653,7 @@
                   "type": "news",
                   "date": "2026-09-25T23:32Z",
                   "headline": "Chenal (chest) does not have any injury designation ahead of Sunday's game against the Seahawks.",
-                  "text": "Chenal logged limited practice sessions throughout Week 3 as he dealt with a chest injury he suffered in the Commanders' Week 2 loss to the Cowboys. The linebacker is set to suit up for Sunday's game and will be the starting inside linebacker next to Sonny Styles due to the absence of Frankie Luvu (groin).",
+                  "text": "Chenal logged limited practice sessions throughout Week 3 prep as he dealt with a chest injury he suffered in the Commanders' Week 2 loss to the Cowboys. The linebacker is set to suit up for Sunday's game and will be the starting inside linebacker next to Sonny Styles due to the absence of Frankie Luvu (groin).",
                   "source": "RotoWire"
                 }
               ]
@@ -470679,7 +470679,7 @@
         },
         {
           "id": "639216",
-          "longComment": "Luvu has been unable to practice since sustaining a groin strain in the Commanders' Week 1 loss to the Eagles. The \"minor\" issue appears to have become a persistent injury, now sidelining the linebacker for consecutive weeks. With Luvu ruled out, Leo Chenal will likely be the starting linebacker for Sunday's contest.",
+          "longComment": "Luvu has been unable to practice since sustaining a groin strain in the Commanders' Week 1 loss to the Eagles. The \"minor\" issue appears to have become a lingering injury, now sidelining the linebacker for consecutive weeks. With Luvu ruled out, Leo Chenal will likely be the starting linebacker for Sunday's contest.",
           "shortComment": "Luvu (groin) has been ruled out ahead of Sunday's game against the Seahawks.",
           "status": "Out",
           "date": "2026-09-25T23:27Z",
@@ -471255,7 +471255,7 @@
                   "type": "news",
                   "date": "2026-09-25T23:27Z",
                   "headline": "Luvu (groin) has been ruled out ahead of Sunday's game against the Seahawks.",
-                  "text": "Luvu has been unable to practice since sustaining a groin strain in the Commanders' Week 1 loss to the Eagles. The \"minor\" issue appears to have become a persistent injury, now sidelining the linebacker for consecutive weeks. With Luvu ruled out, Leo Chenal will likely be the starting linebacker for Sunday's contest.",
+                  "text": "Luvu has been unable to practice since sustaining a groin strain in the Commanders' Week 1 loss to the Eagles. The \"minor\" issue appears to have become a lingering injury, now sidelining the linebacker for consecutive weeks. With Luvu ruled out, Leo Chenal will likely be the starting linebacker for Sunday's contest.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3127273/injuries/639216?lang=en&region=us"
