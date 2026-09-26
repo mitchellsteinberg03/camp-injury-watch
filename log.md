@@ -6595,3 +6595,30 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** ~20 WebSearch queries covering Friday's final Week 3 injury/practice reports across the six tracked positions, team by team (Bengals/Steelers, Chargers/Bills, Texans/Colts, Giants/Titans, Ravens/Cowboys, Commanders/Seahawks, Bears/Eagles, Vikings/Buccaneers). Cross-checked several conflicting/ambiguous headlines (e.g., a recycled-looking "Jaylen Warren cleared" headline that contradicted three same-day sources reporting him questionable) against multiple corroborating sources before writing. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 24, 6:15 PM ET ages off). 0 aged off this run — the oldest currently-NEW rows sit at exactly 24h (added Sept. 24 at 6:15 PM ET), not yet past the cutoff. 2 new NEW badges added (Trent Brown, Gennings Dunker). Net badge count: 24 → 26. Tile counts updated and verified against current table rows: 149 high / 126 mid / 92 low / 367 all / 26 new.
+
+## Sep 25, 2026, 9:15 PM ET
+
+~3h window since the 6:15 PM ET sweep, covering Friday's final Week 3 injury designations league-wide.
+
+**New injuries:**
+- Grant Delpit (S, Browns) — shoulder, questionable for Sunday's game vs. the Panthers. Severity: low.
+
+**Status and designation changes:**
+- Ben Bartch (G, Lions) — ruled out for Sunday's game vs. the Jets; not a long-term concern per coach Dan Campbell.
+
+**Removals (11) — all confirmed cleared/no injury designation for Week 3, verified via comment content:**
+- Kyle Monangai (RB, Bears) — back to full activity, health cleared ahead of Monday's game vs. the Eagles.
+- DaVon Hamilton (DT, Jaguars) — cleared by medical staff to enter the weekend without an injury tag.
+- LeQuint Allen Jr. (RB, Jaguars) — shed the injury tag for Week 3.
+- DeeJay Dallas (RB, Vikings) — handled every rep Friday, cleared to be available this weekend.
+- Travis Etienne Jr. (RB, Saints) — removed from the injury report, "available and ready to go" vs. the Raiders.
+- Saquon Barkley (RB, Eagles) — full practice participant Friday, good to go for Monday's game in Chicago.
+- Jadarian Price (RB, Seahawks) — full practice Friday, in the clear for Sunday.
+- Tony Pollard (RB, Titans) — no injury designation for Sunday's game vs. the Giants after a full practice Friday.
+- Tate Ratledge (G, Lions), Blake Miller (OT, Lions), Christian Mahogany (G, Lions) — all three confirmed good to go for Sunday's game vs. the Jets per coach Dan Campbell's Friday comments; the Lions will field their preferred starting offensive line except at center.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-25T23:19:45Z, ~1h44m old at run start — fresh). Filtered to the six tracked positions (463 tracked entries across 32 teams, 178 non-Active) and diffed by player+team against all 367 pre-run dashboard rows: 122 matched a snapshot entry (23 read "Active" — comment content confirmed 11 as genuinely cleared/no-designation and removed above, including a three-player Lions offensive-line cluster verified further via WebSearch; the rest remain ambiguous or still recovering and kept unchanged per the standing Marcus Epps rule), the rest had no matching snapshot entry (145 high-sev exempt; 100 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 0 low-sev unmatched this run). Of 13 snapshot entries not matched to an existing row, 1 carried real new-injury detail and was added above; the rest were box-score recap blurbs or the recurring Jonathon Cooper (Broncos) legal matter — excluded per policy. Circuit breaker: not applicable — 11 removals proposed on 367 pre-run rows (3.0%), well under the 25% threshold.
+
+**Breaking-news sweep:** WebSearch covering Friday's final Week 3 injury designations, with particular focus on the Lions' offensive-line situation (Ratledge/Miller/Mahogany/Bartch) since the snapshot's own comment text hadn't caught up to Friday's practice outcome for three of those four players. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 24, 9:15 PM ET ages off). 11 aged off this run (all rows added Sept. 24 at 6:15 PM ET: Dadrion Taylor-Demerson, Devin Lloyd, George Holani, Jamel Dean, Josiah Trotter, Leo Chenal, Nate Landman, Reggie Gilliam, Rueben Bain Jr., Tyler Nubin, C.J. West). 1 new NEW badge added (Grant Delpit). Net badge count: 26 → 12. Tile counts updated and verified against current table rows: 149 high / 126 mid / 82 low / 357 all / 12 new.
