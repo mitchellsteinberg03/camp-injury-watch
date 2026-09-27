@@ -6668,3 +6668,21 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** Snapshot comment content was thorough enough this run to resolve all removal/addition decisions without needing supplementary WebSearch queries; direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 25, 9:15 PM ET ages off). 6 aged off this run (Ben Bartch, Edgerrin Cooper, Julian Love, Nick Bosa — all added Sept. 25 at 12:15 PM ET; Gennings Dunker, Trent Brown — added Sept. 25 at 6:15 PM ET). 1 new NEW badge added (Fred Johnson). Net badge count: 10 → 5. Tile counts updated and verified against current table rows: 149 high / 128 mid / 74 low / 351 all / 5 new.
+
+## Sep 27, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering Saturday/Sunday-morning roster moves ahead of the early Sunday slate.
+
+**New injuries:** None this run.
+
+**Status and designation changes:**
+- A.J. Terrell Jr. (CB, Falcons) — placed on IR Sept 22 after exiting Sunday's (Sept 20) loss to the Panthers in the first quarter; out at least four games, eligible to return Week 7. Severity upgraded from low to mid.
+- Jonathon Brooks (RB, Panthers) — underwent core-muscle surgery and placed on IR Sept 23; sidelined at least six weeks, with an early Week 5 bye possibly limiting the missed-game count to five. Severity upgraded from low to mid.
+
+**Removals:** None this run.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-27T14:06:09Z, ~2min old at run start — fresh). Filtered to the six tracked positions (457 tracked entries across 32 teams, 178 non-Active) and diffed by player+team against all 351 pre-run dashboard rows: 102 matched a snapshot entry (5 read "Active" — same ambiguous/still-recovering cases from prior sweeps with no comment update this run, kept unchanged per the standing Marcus Epps rule), the rest had no matching snapshot entry (145 high-sev exempt; 102 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 1 low-sev unmatched — A.J. Terrell Jr., Falcons — vanished-checked via WebSearch and found to have been placed on IR, updated above rather than removed). Of 10 snapshot entries not matched to an existing row, none carried informative new-injury detail — all were bare "inactive"/"questionable"/"doubtful" tags with no injury description, a non-injury personal matter (Ivan Pace Jr., Vikings, repeated from a prior sweep), or the recurring Jonathon Cooper (Broncos) legal matter. Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** WebSearch covering Saturday/Sunday-morning roster moves and injury updates across the six tracked positions. Caught two IR moves the snapshot's own comment text hadn't fully reflected yet (A.J. Terrell Jr., Jonathon Brooks) via general Week 3 injury-news searches. Confirmed Nick Bosa's (49ers) existing "multiple weeks" note was already accurate, no change needed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 26, 12:15 PM ET ages off). 1 aged off this run (Grant Delpit, added Sept. 25 at 9:15 PM ET). 0 new NEW badges added. Net badge count: 5 → 4. Tile counts updated and verified against current table rows: 149 high / 130 mid / 72 low / 351 all / 4 new.
