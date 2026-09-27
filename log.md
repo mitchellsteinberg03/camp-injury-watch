@@ -6648,3 +6648,23 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** Snapshot comment content was thorough enough this run to resolve all removal/addition decisions without needing supplementary WebSearch queries; direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 25, 12:15 PM ET ages off). 3 aged off this run (Tank Bigsby, Thomas Harper, Will Shipley — all added Sept. 24 at 9:15 PM ET). 3 new NEW badges added (list above). Net badge count: 12 → 10. Tile counts updated and verified against current table rows: 149 high / 128 mid / 76 low / 353 all / 10 new.
+
+## Sep 26, 2026, 9:15 PM ET
+
+~9h window since the 12:15 PM ET sweep, covering Saturday's final Week 3 injury designations.
+
+**New injuries:**
+- Fred Johnson (OT, Eagles) — knee, ruled out for Monday night's (Sept 28) game vs. the Bears. Severity: low.
+
+**Status and designation changes:** None this run.
+
+**Removals (3) — all confirmed cleared for Week 3, verified via comment content:**
+- Tyrique Stevenson Sr. (CB, Bears) — upgraded to full participation Saturday, all set to suit up Sunday.
+- Will Shipley (RB, Eagles) — officially cleared to play for Monday Night Football.
+- Tank Bigsby (RB, Eagles) — faded his injury tag after a full practice Saturday.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-27T00:40:15Z, ~23min old at run start — fresh). Filtered to the six tracked positions (459 tracked entries across 32 teams, 178 non-Active) and diffed by player+team against all 353 pre-run dashboard rows: 106 matched a snapshot entry (8 read "Active" — comment content confirmed 3 as genuinely cleared and removed above; the rest remain ambiguous or still recovering and kept unchanged per the standing Marcus Epps rule), the rest had no matching snapshot entry (145 high-sev exempt; 102 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 0 low-sev unmatched this run). Of 11 snapshot entries not matched to an existing row, 1 carried real new-injury detail and was added above; the rest were a non-injury personal-matter designation (Ivan Pace Jr., Vikings), the recurring Jonathon Cooper (Broncos) legal matter, or box-score recap blurbs — excluded per policy. Circuit breaker: not applicable — 3 removals proposed on 353 pre-run rows (0.8%), well under the 25% threshold.
+
+**Breaking-news sweep:** Snapshot comment content was thorough enough this run to resolve all removal/addition decisions without needing supplementary WebSearch queries; direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 25, 9:15 PM ET ages off). 6 aged off this run (Ben Bartch, Edgerrin Cooper, Julian Love, Nick Bosa — all added Sept. 25 at 12:15 PM ET; Gennings Dunker, Trent Brown — added Sept. 25 at 6:15 PM ET). 1 new NEW badge added (Fred Johnson). Net badge count: 10 → 5. Tile counts updated and verified against current table rows: 149 high / 128 mid / 74 low / 351 all / 5 new.
