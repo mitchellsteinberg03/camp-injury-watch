@@ -6686,3 +6686,47 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch covering Saturday/Sunday-morning roster moves and injury updates across the six tracked positions. Caught two IR moves the snapshot's own comment text hadn't fully reflected yet (A.J. Terrell Jr., Jonathon Brooks) via general Week 3 injury-news searches. Confirmed Nick Bosa's (49ers) existing "multiple weeks" note was already accurate, no change needed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 26, 12:15 PM ET ages off). 1 aged off this run (Grant Delpit, added Sept. 25 at 9:15 PM ET). 0 new NEW badges added. Net badge count: 5 → 4. Tile counts updated and verified against current table rows: 149 high / 130 mid / 72 low / 351 all / 4 new.
+
+## Sep 27, 2026, 5:15 PM ET
+
+~5h window since the 12:15 PM ET sweep, covering inactives and in-game injuries from the Sunday 1 PM ET slate.
+
+**New injuries (11):**
+- De'Von Achane (RB, Dolphins) — knee, hurt on an 11-yard run on Miami's opening drive vs. the Chiefs; did not return to the 24-10 loss. HC Jeff Hafley said afterward it "does not sound very optimistic." Severity: low (pending further evaluation).
+- Breece Hall (RB, Jets) — thigh, hurt on a fourth-quarter carry vs. the Lions; ruled out for the rest of the game, Braelon Allen took over. Severity: low.
+- Christian Barmore (DT, Patriots) — shoulder, did not return to Sunday's loss at Jacksonville. Severity: low.
+- Laiatu Latu (LB/DE, Colts) — chest, questionable to return vs. the Texans. Severity: low.
+- Albert Regis (DT, Jaguars) — elbow, inactive vs. the Patriots. Severity: low.
+- Mike Jackson (CB, Panthers) — groin, ruled out for the rest of Sunday's game vs. the Browns. Severity: low.
+- Damien Lewis (OG, Panthers) — elbow, questionable to return vs. Cleveland. Severity: low.
+- Greg Van Roten (OG, Patriots) — thigh, questionable to return vs. the Jaguars. Severity: low.
+- Fernando Carmona (OG, Titans) — ankle, exited the game vs. the Giants, questionable to return. Severity: low.
+- Ar'maj Reed-Adams (OG, Bills) — elbow, inactive vs. the Chargers. Severity: low.
+- Azeez Al-Shaair (LB, Texans) — groin, questionable to return vs. the Colts. Severity: low.
+
+**Status and designation changes:**
+- *IR placements (9, escalated from day-to-day/low):* T.J. Tampa (CB, Ravens — knee, IR Sept 19); Avonte Maddox (CB, Lions — foot, IR Sept 22); Ronnie Harrison Jr. (LB, Dolphins — hamstring, IR Sept 19); Micheal Clemons (DE, Colts — toe, IR Sept 23); Anthony Bradford (OG, Seahawks — knee, IR Sept 23); Mike Onwenu (OG, Patriots — ankle, IR Sept 23); P.J. Locke (S, Cowboys — foot, IR Sept 26); Claudin Cherelus (LB, Panthers — shoulder, IR Sept 26); Jake Hummel (LB, Texans — groin, IR Sept 26); Gennings Dunker (OG, Steelers — knee, IR Sept 26). All upgraded low→mid.
+- Nick Bosa (DE, 49ers) — 49ers have decided against placing him on IR (roster-space/return-flexibility reasons per Adam Schefter/CBS Sports), still ruled out and expected to miss multiple weeks with the calf strain. Severity unchanged: mid.
+- Minkah Fitzpatrick (S, Jets), Deonte Banks (CB, Giants), Tyler Nubin (S, Giants), Craig Woodson (S, Patriots), Dre'Mont Jones (DE, Patriots), Tyson Campbell (CB, Browns), Kiko Mauigoa (LB, Jets), Robert Beal Jr. (DE, Dolphins), Devin Lloyd (LB, Panthers), B.J. Hill (DT, Bengals), Jaylen Wright (RB, Dolphins) — all confirmed inactive/out for their Sunday games, upgraded from pending/questionable practice-report language to official inactive status; stale week-old opponent references corrected.
+- Kamren Kinchens (S, Rams) — upgraded to doubtful for Sunday's game vs. the Broncos.
+- Martin Emerson Jr. (CB, Saints) — questionable for Sunday's game vs. the Raiders (corrected stale opponent reference from a prior week).
+- Christen Miller (DT, Saints) — upgraded to out for Sunday's game vs. the Raiders (corrected stale opponent reference).
+- James Thompson Jr. (DT, 49ers) — out for Sunday's game vs. the Cardinals (corrected stale opponent reference).
+- Jonathan Greenard (LB, Eagles) — questionable ahead of Monday, Sept 28's game vs. the Bears (corrected stale Week 2 reference).
+- Romello Height (DE, 49ers), Rueben Bain Jr. (LB, Buccaneers), Josiah Trotter (LB, Buccaneers) — all confirmed ruled out for their Sunday games (upgraded from pending-practice language).
+- Shemar Turner (DT, Bears) — 21-day practice window opened Sept 23; still on Reserve/PUP, earliest return unchanged at Oct. 11 vs. Packers.
+- Zach Charbonnet (RB, Seahawks) — HC Mike Macdonald said an activation off Reserve/PUP is potentially on the table next week.
+
+**Removals (14) — all confirmed active/playing or no longer injury-related, verified via snapshot and WebSearch:**
+- Cor'Dale Flott (CB, Titans), Charvarius Ward (CB, Colts), Jamel Dean (CB, Steelers), Grant Delpit (S, Browns), Joseph Ossai (LB, Jets), Brian Burns (LB, Giants), Ed Oliver (DT, Bills), Jaylen Warren (RB, Steelers), Tyjae Spears (RB, Titans) — all officially active and playing in their Sunday games per the snapshot's own gameday comment text.
+- Trent Brown (OT, Texans) — confirmed active and playing vs. the Colts despite the questionable tag.
+- Nnamdi Madubuike (DT, Ravens) — officially active and played in the Rio de Janeiro game vs. the Cowboys, his first appearance since Sept. 14, 2025.
+- Derwin James Jr. (S, Chargers) — playing every game in a cast for the fractured pinky finger, full practice participant, not missing any game action.
+- David Bailey (LB, Jets) — full practice participation, HC Aaron Glenn confirmed he's fine; played vs. the Lions.
+- Joey Porter Jr. (CB, Steelers) — the back injury has resolved; inactive this week for conditioning/contract-related (non-injury) reasons per multiple reports, no longer an injury designation.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-27T18:28:37Z, ~2h44m old at run start — fresh). Filtered to the six tracked positions (465 tracked entries across 32 teams) and diffed by player+team against all 351 pre-run dashboard rows: 103 matched a snapshot entry (14 read "Active" — 9 confirmed playing today via explicit "active for Sunday's game" comment text and removed above, 3 more confirmed active/playing via WebSearch and removed above, 2 stale/contradicted by more current dashboard info and kept unchanged). The rest had no matching snapshot entry (145 high-sev exempt; remaining mid/low unmatched rows cross-checked against snapshot "Out"/"Questionable"/"Injured Reserve" entries where names matched, driving the IR-escalation and status-upgrade batch above). Of 362 snapshot entries not matched to an existing row, the large majority were bare "inactive"/"questionable" tags with no injury description, coach's-decision inactives, or the recurring Jonathon Cooper (Broncos, legal matter) and Ivan Pace Jr. (Vikings, personal matter) entries — excluded per policy; 10 carried genuine new-injury detail at the tracked positions and were added above (plus Breece Hall, caught via WebSearch since his in-game injury postdated the snapshot fetch). Circuit breaker: 14 removals proposed on 351 pre-run rows (4.0%), well under the 25% threshold — proceeded.
+
+**Breaking-news sweep:** WebSearch covering Sunday 1 PM ET slate inactives and in-game injuries, plus verification of 5 ambiguous "Active"-status snapshot matches (Joey Porter Jr., Derwin James Jr., Trent Brown, Nnamdi Madubuike, David Bailey) and the Nick Bosa IR decision. Caught one recycled false lead: a general injury-news query surfaced old Week 1 articles on Kitan Crawford (Cardinals) and Kelvin Banks Jr. (Saints) framed as "carted off Sunday" — both cross-checked against existing accurate dashboard entries and confirmed stale/miscategorized, no changes made. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 26, 5:15 PM ET ages off). 3 aged off this run (Jordan Hancock, Quintayvious Hutchins, Roy Lopez — all added Sept. 26 at 12:15 PM ET). 11 new NEW badges added (list above). Net badge count: 4 → 12. Tile counts updated and verified against current table rows: 149 high / 138 mid / 61 low / 348 all / 12 new.
