@@ -6765,3 +6765,23 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** Snapshot comment content was thorough enough this run to resolve all removal/addition decisions without needing supplementary WebSearch queries; direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 26, 9:15 PM ET ages off). 0 aged off this run — Fred Johnson (added Sept. 26 at 9:15 PM ET) sits at exactly 24h, not yet past the cutoff. 14 new NEW badges added (list above). Net badge count: 12 → 24. Tile counts updated and verified against current table rows: 149 high / 139 mid / 69 low / 357 all / 24 new.
+
+## Sep 28, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering the tail end of Sunday's late slate and Monday-morning reporting.
+
+**New injuries:**
+- Jackson Powers-Johnson (G, Raiders) — groin, evaluated late in the fourth quarter of Sunday's (Sept 27) game vs. the Saints; final game availability not confirmed in reporting. Severity: low.
+- Anfernee Jennings (LB, Saints) — knee, left Sunday's (Sept 27) game vs. the Raiders; final game availability not confirmed in reporting. Severity: low.
+- Dre Greenlaw (LB, 49ers) — quadriceps, exited early in the fourth quarter of Sunday's (Sept 27) game vs. the Cardinals; final game availability not confirmed in reporting. Severity: low.
+
+**Status and designation changes:** None this run.
+
+**Removals (1) — confirmed cleared, verified via comment content:**
+- Renardo Green (CB, 49ers) — cleared by trainers after a concussion evaluation, returned to the field in the fourth quarter.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-28T14:04:45Z, ~19min old at run start — fresh). Filtered to the six tracked positions (472 tracked entries across 32 teams, 198 non-Active) and diffed by player+team against all 357 pre-run dashboard rows: 107 matched a snapshot entry (2 read "Active" — 1 confirmed cleared and removed above; Billy Bowman Jr. remains ambiguous and was kept), the rest had no matching snapshot entry (145 high-sev exempt; 105 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern). Of 86 snapshot entries not matched to an existing row, 3 carried real injury detail (all still-unresolved "questionable to return" situations from Sunday's games, with no fresher Monday update found via WebSearch) and were added above; the rest were coach's-decision/conditioning healthy scratches (Emari Demercado, Devin Singletary, Nahshon Wright, Joey Porter Jr., Eli Heidenreich, Michael Carter, Javontae Jean-Baptiste) or bare tags with no injury description — excluded per policy. Circuit breaker: not applicable — 1 removal proposed on 357 pre-run rows (0.3%).
+
+**Breaking-news sweep:** WebSearch on Jackson Powers-Johnson, Anfernee Jennings, and Dre Greenlaw found no Monday-morning follow-up beyond Sunday's in-game "questionable to return" reports; added with that caveat rather than guessing at a resolved outcome. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 27, 12:15 PM ET ages off). 1 aged off this run (Fred Johnson, added Sept. 26 at 9:15 PM ET). 3 new NEW badges added (list above). Net badge count: 24 → 25. Tile counts updated and verified against current table rows: 149 high / 139 mid / 71 low / 359 all / 25 new.
