@@ -6730,3 +6730,38 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch covering Sunday 1 PM ET slate inactives and in-game injuries, plus verification of 5 ambiguous "Active"-status snapshot matches (Joey Porter Jr., Derwin James Jr., Trent Brown, Nnamdi Madubuike, David Bailey) and the Nick Bosa IR decision. Caught one recycled false lead: a general injury-news query surfaced old Week 1 articles on Kitan Crawford (Cardinals) and Kelvin Banks Jr. (Saints) framed as "carted off Sunday" — both cross-checked against existing accurate dashboard entries and confirmed stale/miscategorized, no changes made. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 26, 5:15 PM ET ages off). 3 aged off this run (Jordan Hancock, Quintayvious Hutchins, Roy Lopez — all added Sept. 26 at 12:15 PM ET). 11 new NEW badges added (list above). Net badge count: 4 → 12. Tile counts updated and verified against current table rows: 149 high / 138 mid / 61 low / 348 all / 12 new.
+
+## Sep 27, 2026, 9:15 PM ET
+
+~4h window since the 5:15 PM ET sweep, covering in-game injuries and inactives from the 1 PM/4:05 PM ET Sunday slate.
+
+**New injuries:**
+- Christian Benford (CB, Bills) — toe, ruled out for the rest of Sunday's game vs. the Chargers. Severity: low.
+- Jalen Davis (CB, Bengals) — hamstring, questionable to return to Sunday's game vs. the Steelers. Severity: low.
+- Jalen Thompson (S, Cowboys) — hamstring, ruled out for the remainder of Sunday's game vs. the Ravens. Severity: low.
+- Mario Edwards Jr. (DT, Texans) — knee, questionable to return to Sunday's game vs. the Colts. Severity: low.
+- Charles Demmings (CB, Vikings) — hamstring, ruled out for the remainder of Sunday's game vs. the Buccaneers. Severity: low.
+- Travis Etienne Jr. (RB, Saints) — undisclosed, went to the locker room in the second half of Sunday's game vs. the Raiders. Severity: low.
+- Pete Werner (LB, Saints) — neck, questionable to return to Sunday's game vs. the Raiders. Severity: low.
+- Brian Burns (LB, Giants) — right knee, sustained in the Giants' 12-7 win over the Titans; will undergo an MRI. Severity: mid.
+- Dylan Parham (G, Jets) — knee, ruled out for the rest of Sunday's game vs. the Lions. Severity: low.
+- Brandin Echols (CB, Steelers) — concussion evaluation, questionable to return to Sunday's game vs. the Bengals. Severity: low.
+- Gracen Halton (DT, 49ers) — ankle, questionable to return to Sunday's game vs. the Cardinals. Severity: low.
+- Renardo Green (CB, 49ers) — concussion evaluation, questionable to return to Sunday's game vs. the Cardinals. Severity: low.
+- Trent Williams (OT, 49ers) — neck, questionable to return to Sunday's game vs. the Cardinals. Severity: low.
+- Leo Chenal (LB, Commanders) — neck, new in-game injury, won't return to Sunday's game vs. the Seahawks (re-added after Friday's clearance).
+
+**Status and designation changes:** None this run.
+
+**Removals (5) — all confirmed cleared to play/returned, verified via comment content:**
+- Max Melton (CB, Cardinals) — cleared to play after pregame warmups.
+- Roy Lopez (DT, Cardinals) — given the green light by medical staff to play.
+- Azeez Al-Shaair (LB, Texans) — cleared to return after an in-game evaluation.
+- Laiatu Latu (LB, Colts) — back on the field in the third quarter after briefly leaving.
+- Jack Jones (CB, 49ers) — cleared to play.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-27T23:06:17Z, ~1h58m old at run start — fresh). Filtered to the six tracked positions (477 tracked entries across 32 teams, 197 non-Active) and diffed by player+team against all 348 pre-run dashboard rows: 98 matched a snapshot entry (6 read "Active" — comment content confirmed 5 as genuinely cleared/returned and removed above; Billy Bowman Jr. remains ambiguous and was kept), the rest had no matching snapshot entry (145 high-sev exempt; 105 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern). Of 93 snapshot entries not matched to an existing row, 14 carried real in-game/injury detail and were added above; the rest were coach's-decision healthy scratches (Emari Demercado, Devin Singletary, Nahshon Wright, Joey Porter Jr., Eli Heidenreich, Michael Carter, Javontae Jean-Baptiste) or bare tags with no injury description — all excluded per policy. Circuit breaker: not applicable — 5 removals proposed on 348 pre-run rows (1.4%), well under the 25% threshold.
+
+**Breaking-news sweep:** Snapshot comment content was thorough enough this run to resolve all removal/addition decisions without needing supplementary WebSearch queries; direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 26, 9:15 PM ET ages off). 0 aged off this run — Fred Johnson (added Sept. 26 at 9:15 PM ET) sits at exactly 24h, not yet past the cutoff. 14 new NEW badges added (list above). Net badge count: 12 → 24. Tile counts updated and verified against current table rows: 149 high / 139 mid / 69 low / 357 all / 24 new.
