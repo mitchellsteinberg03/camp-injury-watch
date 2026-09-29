@@ -6785,3 +6785,20 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch on Jackson Powers-Johnson, Anfernee Jennings, and Dre Greenlaw found no Monday-morning follow-up beyond Sunday's in-game "questionable to return" reports; added with that caveat rather than guessing at a resolved outcome. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 27, 12:15 PM ET ages off). 1 aged off this run (Fred Johnson, added Sept. 26 at 9:15 PM ET). 3 new NEW badges added (list above). Net badge count: 24 → 25. Tile counts updated and verified against current table rows: 149 high / 139 mid / 71 low / 359 all / 25 new.
+
+## Sep 28, 2026, 9:15 PM ET
+
+~9h window since the 12:15 PM ET sweep, covering Monday practice/roster news ahead of Thursday's Steelers-Browns game and Monday Night Football.
+
+**New injuries:**
+- Jaycee Horn (CB, Panthers) — torn quad, suffered in the fourth quarter of Sunday's (Sept 27) 21-18 loss to the Browns; headed to IR, seeking a second opinion on possible surgery, sources say he could miss 6-12 weeks or the rest of the season. Severity: high.
+
+**Status and designation changes:** None this run.
+
+**Removals:** None this run.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-28T20:35:16Z, ~28min old at run start — fresh). Filtered to the six tracked positions (471 tracked entries across 32 teams, 178 non-Active) and diffed by player+team against all 359 pre-run dashboard rows: 109 matched a snapshot entry (2 read "Active" — Billy Bowman Jr. and DJ Giddens, both still ambiguous with no comment update, kept unchanged per the standing Marcus Epps rule), the rest had no matching snapshot entry (144 high-sev exempt; 106 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern). Of 5 snapshot entries not matched to an existing row, 1 carried real new-injury detail and was added above; the rest were bare tags (Donte Jackson, Jaylen Watson, Jackson Slater) or a non-injury "conditioning"/contract-dispute designation (Joey Porter Jr., Steelers — verified via WebSearch that he's trending toward a return, not newly hurt) — excluded per policy. Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** WebSearch confirmed Jaycee Horn's torn quad and IR-bound status (ESPN, CBS Sports, NBC Sports) and clarified that Joey Porter Jr.'s "out" designation reflects conditioning/contract-dispute context rather than a new injury. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 27, 9:15 PM ET ages off). 9 aged off this run (all rows added Sept. 27 at 5:15 PM ET: Albert Regis, Ar'maj Reed-Adams, Breece Hall, Christian Barmore, Damien Lewis, De'Von Achane, Fernando Carmona, Greg Van Roten, Mike Jackson). 1 new NEW badge added (Jaycee Horn). Net badge count: 25 → 17. Tile counts updated and verified against current table rows: 150 high / 139 mid / 71 low / 360 all / 17 new.
