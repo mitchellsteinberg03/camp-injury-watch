@@ -6802,3 +6802,27 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch confirmed Jaycee Horn's torn quad and IR-bound status (ESPN, CBS Sports, NBC Sports) and clarified that Joey Porter Jr.'s "out" designation reflects conditioning/contract-dispute context rather than a new injury. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 27, 9:15 PM ET ages off). 9 aged off this run (all rows added Sept. 27 at 5:15 PM ET: Albert Regis, Ar'maj Reed-Adams, Breece Hall, Christian Barmore, Damien Lewis, De'Von Achane, Fernando Carmona, Greg Van Roten, Mike Jackson). 1 new NEW badge added (Jaycee Horn). Net badge count: 25 → 17. Tile counts updated and verified against current table rows: 150 high / 139 mid / 71 low / 360 all / 17 new.
+
+## Sep 29, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering Monday Night Football (Eagles at Bears) and Monday practice/injury reports league-wide.
+
+**New injuries:**
+- Jovaughn Gwyn (G, Ravens) — ankle, set to miss significant time. Severity: mid.
+- Jackson Slater (G, Titans) — significant foot injury suffered during Sunday's (Sept 27) loss to the Giants; status to be determined. Severity: mid.
+- Cam Lewis (CB, Bears) — leg, exited Monday night's (Sept 28) game vs. the Eagles early. Severity: low.
+- Grant Delpit (S, Browns) — shoulder, estimated as a limited participant in Monday's practice. Severity: low.
+- Jaylen Watson (CB, Rams) — dislocated shoulder, suffered in Sunday night's (Sept 27) loss to the Broncos; likely to miss next Sunday's game vs. the Eagles. Severity: mid.
+- Jalen Ramsey (CB, Steelers) — wrist, estimated as a limited participant on Monday's practice report. Severity: low.
+- Braxton Jones (OT, Bears) — knee, doubtful to return to Monday night's game vs. the Eagles. Severity: low.
+
+**Status and designation changes:** None this run.
+
+**Removals (1) — confirmed activated, verified via comment content:**
+- Jonathan Greenard (LB, Eagles) — set to make his Eagles debut after recovering from a pectoral injury.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-29T08:37:48Z, ~3h26m old at run start — fresh). Filtered to the six tracked positions (464 tracked entries across 32 teams, 178 non-Active) and diffed by player+team against all 360 pre-run dashboard rows: 111 matched a snapshot entry (3 read "Active" — 1 confirmed activated and removed above; Billy Bowman Jr. and DJ Giddens remain ambiguous and were kept), the rest had no matching snapshot entry (144 high-sev exempt; 105 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern). Of 14 snapshot entries not matched to an existing row, 7 carried real injury detail and were added above; the rest were bare tags with no injury description. Circuit breaker: not applicable — 1 removal proposed on 360 pre-run rows (0.3%).
+
+**Breaking-news sweep:** Snapshot comment content was thorough enough this run to resolve all removal/addition decisions without needing supplementary WebSearch queries; direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 28, 12:15 PM ET ages off). 13 aged off this run (all rows added Sept. 27 at 9:15 PM ET: Brandin Echols, Charles Demmings, Christian Benford, Dylan Parham, Gracen Halton, Jalen Davis, Jalen Thompson, Leo Chenal, Mario Edwards Jr., Pete Werner, Travis Etienne Jr., Trent Williams, Brian Burns). 7 new NEW badges added (list above). Net badge count: 17 → 11. Tile counts updated and verified against current table rows: 150 high / 141 mid / 75 low / 366 all / 11 new.
