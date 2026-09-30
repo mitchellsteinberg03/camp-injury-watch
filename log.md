@@ -6842,3 +6842,22 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** Snapshot data was thin this run (a quiet Tuesday night with no major games); no supplementary WebSearch queries were needed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 28, 9:15 PM ET ages off). 3 aged off this run (Anfernee Jennings, Dre Greenlaw, Jackson Powers-Johnson — all added Sept. 28 at 12:15 PM ET). 0 new NEW badges added. Net badge count: 11 → 8. Tile counts updated and verified against current table rows: 150 high / 141 mid / 75 low / 366 all / 8 new.
+
+## Sep 30, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering Tuesday-night/Wednesday-morning injury news from Sunday's Week 3 games.
+
+**New injuries:**
+- Jonathan Bullard (DT, Cowboys) — calf, hurt in Sunday's (Sept 27) loss to the Ravens; expected to miss 3-4 weeks. Severity: mid.
+- Shavon Revel Jr. (CB, Cowboys) — hurt attempting a tackle in Sunday's (Sept 27) loss to the Ravens; likely to practice to some extent this week, per coach Brian Schottenheimer. Severity: low.
+- Percy Butler (S, Commanders) — concussion, availability for Week 4 vs. the Colts uncertain. Severity: low.
+
+**Status and designation changes:** None this run.
+
+**Removals:** None this run.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-30T12:42:12Z, ~3h22m old at run start — fresh). Filtered to the six tracked positions (460 tracked entries across 32 teams, 178 non-Active) and diffed by player+team against all 366 pre-run dashboard rows: 112 matched a snapshot entry (2 read "Active" — Billy Bowman Jr. and DJ Giddens, both still ambiguous with no comment update, kept unchanged per the standing Marcus Epps rule), the rest had no matching snapshot entry (144 high-sev exempt; 105 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern). Of 6 snapshot entries not matched to an existing row, 3 carried real injury detail and were added above; the rest were bare tags with no injury description (Tytus Howard, Donte Jackson, AJ Epenesa). Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** Snapshot comment content was thorough enough this run to resolve all addition decisions without needing supplementary WebSearch queries; direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 29, 12:15 PM ET ages off). 1 aged off this run (Jaycee Horn, added Sept. 28 at 9:15 PM ET). 3 new NEW badges added (list above). Net badge count: 8 → 10. Tile counts updated and verified against current table rows: 150 high / 142 mid / 77 low / 369 all / 10 new.
