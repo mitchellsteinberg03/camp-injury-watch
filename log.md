@@ -6861,3 +6861,43 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** Snapshot comment content was thorough enough this run to resolve all addition decisions without needing supplementary WebSearch queries; direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 29, 12:15 PM ET ages off). 1 aged off this run (Jaycee Horn, added Sept. 28 at 9:15 PM ET). 3 new NEW badges added (list above). Net badge count: 8 → 10. Tile counts updated and verified against current table rows: 150 high / 142 mid / 77 low / 369 all / 10 new.
+
+## Sep 30, 2026, 6:10 PM ET
+
+~6h window since the 12:15 PM ET sweep — Wednesday practice-report sweep (official Week 4 practice participation and game-status designations).
+
+**New injuries:**
+- Joey Porter Jr. (CB, Steelers) — back, a recurring issue previously tied to conditioning; ruled out for Thursday night's game vs. the Browns, a fourth straight missed game. Severity: low.
+- Monroe Freeling (OT, Panthers) — concussion, rookie RT in the protocol; did not practice Wednesday, questionable but expected to clear this week per HC Dave Canales. Severity: low.
+- Princely Umanmielen (LB, Panthers) — groin, rookie OLB; did not practice Wednesday, questionable, HC hopes he won't miss much time. Severity: low.
+- Rachaad White (RB, Commanders) — shoulder, injured late in the first half of Sunday's (Sept 27) win over Seattle but finished the game; won't practice Wednesday, questionable for Sunday vs. the Colts in London. Severity: low.
+- Tony Pollard (RB, Titans) — ankle; won't practice Wednesday, no real concern for Sunday vs. the Ravens per coach Robert Saleh. Severity: low.
+- Tyjae Spears (RB, Titans) — ankle; won't practice Wednesday, no real concern for Sunday vs. the Ravens per coach Robert Saleh. Severity: low.
+
+**Status and designation changes (14):**
+- Mike Jackson (CB, Panthers) — officially placed on IR Sept 30 (groin); out at least four weeks. low → mid.
+- Jaycee Horn (CB, Panthers) — officially placed on IR Sept 30 (was "headed to IR"); 6-12 week outlook confirmed. Stays high.
+- Jalen Thompson (S, Cowboys) — officially placed on IR Sept 30 (hamstring); out at least four games. low → mid.
+- Nick Cross (S, Commanders) — the "internal injury" is now officially called an illness; ruled out for Sunday vs. the Colts in London, a second straight missed game. Stays mid.
+- Minkah Fitzpatrick (S, Jets) — will be limited in Wednesday's practice, decent shot at returning Sunday vs. the Bears after missing two straight. Stays low.
+- Brian Burns (LB, Giants) — MRI confirmed a torn ACL; out for the rest of the season. mid → high.
+- Leo Chenal (LB, Commanders) — fractured neck, had season-ending surgery within 24 hours, placed on IR Sept 29. low → high.
+- Mario Edwards Jr. (DT, Texans) — diagnosed with a torn ACL; out for the rest of the season. low → high.
+- Damien Lewis (G, Panthers) — UCL tear confirmed, doubtful, set to miss a few weeks. low → mid.
+- Fernando Carmona (G, Titans) — officially placed on IR Sept 29 (ankle); out at least four games. low → mid.
+- Jackson Slater (G, Titans) — officially placed on IR Sept 29 (foot, was "status TBD"); out at least four games. Stays mid.
+- Sam Cosmi (G, Commanders) — remains in concussion protocol; won't travel to London, ruled out for Sunday vs. the Colts, a second straight missed game. Stays low.
+- Dylan Parham (G, Jets) — doubtful, did not practice Wednesday, week-to-week per coach Aaron Glenn; Jordan Meredith in line to start. Stays low.
+- Jaylen Wright (RB, Dolphins) — now day-to-day, will practice Wednesday, decent odds for Sunday vs. the Vikings. Stays low.
+- Kene Nwangwu (RB, Jets) — limited in Wednesday's practice; has yet to play this season. Stays low.
+- Rico Dowdle (RB, Steelers) — ruled out for Thursday's game vs. the Browns (new week); Jaylen Warren in line for a workhorse role. Stays low.
+- Breece Hall (RB, Jets) — doubtful, won't practice Wednesday, viewed week-to-week; Braelon Allen in line for the lead role vs. the Bears. Stays low.
+- De'Von Achane (RB, Dolphins) — torn ACL confirmed, placed on IR Sept 29; out for the rest of the season. low → high.
+
+**Removals:** None this run.
+
+**Reconciliation:** Ran against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-30T19:25:58Z, ~45min old at run start — fresh). This is a per-team rolling feed capped at exactly 25 items per team (confirmed again this run: all 32 teams show exactly 25), so a player's absence from it is not a reliable "recovered" signal on its own — consistent with the standing finding documented since the Aug 5 first-snapshot sweep. Filtered to the six tracked positions and today's-date (Sept 30) entries specifically, since this is the Wednesday practice-report sweep: 59 entries dated today, of which the above represent every one carrying real injury detail relevant to game status or practice participation; excluded a large batch of bare post-game "Active" box-score notes (tackle/reception stats, practice-squad signings) that carry no injury content, plus two Panthers rows (Monroe Freeling, Princely Umanmielen) whose snapshot comments were bare "questionable" tags — those two were added anyway after WebSearch surfaced real injury detail (concussion, groin) from Panthers.com and NBC Sports. Separately spot-checked De'Von Achane and Leo Chenal via WebSearch after their existing rows' old "did not return to Sunday's game" status looked stale; both had since gone to IR with season-ending diagnoses. Did not attempt a full row-by-row absence check against the 375 pre-run dashboard rows beyond the tracked-position/date-window scope above — the rolling 25-per-team cap makes that check unreliable for the ~106 mid-severity IR/Reserve-PUP/NFI rows that structurally cycle out of a 25-item recent-news feed without having recovered (this pattern has been verified and documented repeatedly since Aug 5; re-confirmed this run by spot-checking that all 32 teams are still capped at exactly 25 entries). Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** WebSearch used for all six new additions plus the Achane/Chenal/Burns updates; discarded no false leads this run — all hits traced cleanly to today's (Sept 30) practice reports or this week's roster moves with internally consistent dates. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected; the snapshot plus WebSearch covered the window fully.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 29, 6:10 PM ET ages off). 7 aged off this run (all rows added Sept. 29 at 12:15 PM ET: Cam Lewis, Grant Delpit, Jaylen Watson, Jalen Ramsey, Braxton Jones, Jovaughn Gwyn, Jackson Slater). 6 new NEW badges added (list above). Net badge count: 10 → 9. Tile counts updated and verified against current table rows: 154 high / 145 mid / 76 low / 375 all / 9 new.
