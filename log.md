@@ -6826,3 +6826,19 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** Snapshot comment content was thorough enough this run to resolve all removal/addition decisions without needing supplementary WebSearch queries; direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 28, 12:15 PM ET ages off). 13 aged off this run (all rows added Sept. 27 at 9:15 PM ET: Brandin Echols, Charles Demmings, Christian Benford, Dylan Parham, Gracen Halton, Jalen Davis, Jalen Thompson, Leo Chenal, Mario Edwards Jr., Pete Werner, Travis Etienne Jr., Trent Williams, Brian Burns). 7 new NEW badges added (list above). Net badge count: 17 → 11. Tile counts updated and verified against current table rows: 150 high / 141 mid / 75 low / 366 all / 11 new.
+
+## Sep 29, 2026, 9:15 PM ET
+
+~9h window since the 12:15 PM ET sweep — quiet window, no news at the six positions.
+
+**New injuries:** None this run.
+
+**Status and designation changes:** None this run.
+
+**Removals:** None this run.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-29T22:20:15Z, ~44min old at run start — fresh). Filtered to the six tracked positions (466 tracked entries across 32 teams, 179 non-Active) and diffed by player+team against all 366 pre-run dashboard rows: 113 matched a snapshot entry (3 read "Active" — Billy Bowman Jr. and DJ Giddens remain ambiguous with no comment content; Keshawn Banks, Falcons, a high-sev season-long IR case, showed "Active" with no comment and no explicit activation news, so per policy for high-sev exempt rows it was kept unchanged), the rest had no matching snapshot entry (143 high-sev exempt; 105 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern). Of 6 snapshot entries not matched to an existing row, none carried informative injury detail — all were bare "questionable"/"out"/"inactive" tags with no injury description. Circuit breaker: not applicable — 0 removals proposed.
+
+**Breaking-news sweep:** Snapshot data was thin this run (a quiet Tuesday night with no major games); no supplementary WebSearch queries were needed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 28, 9:15 PM ET ages off). 3 aged off this run (Anfernee Jennings, Dre Greenlaw, Jackson Powers-Johnson — all added Sept. 28 at 12:15 PM ET). 0 new NEW badges added. Net badge count: 11 → 8. Tile counts updated and verified against current table rows: 150 high / 141 mid / 75 low / 366 all / 8 new.
