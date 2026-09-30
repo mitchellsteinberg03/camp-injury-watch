@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T05:38:38Z",
+  "timestamp": "2026-09-30T12:42:04Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -75568,11 +75568,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2020754",
-          "longComment": "ir",
-          "shortComment": "ir",
-          "status": "Injured Reserve",
-          "date": "2026-09-30T05:01Z",
+          "id": "-2020799",
+          "longComment": "out",
+          "shortComment": "out",
+          "status": "Out",
+          "date": "2026-09-30T12:00Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76141,14 +76141,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2020754",
+                  "id": "-2020799",
                   "type": "news",
-                  "date": "2026-09-30T05:01Z",
-                  "headline": "ir",
-                  "text": "ir",
+                  "date": "2026-09-30T12:00Z",
+                  "headline": "out",
+                  "text": "out",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2020754?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2020799?lang=en&region=us"
                   }
                 }
               ]
@@ -76166,18 +76166,20 @@
             "state": "basic"
           },
           "type": {
-            "id": "5",
-            "name": "INJURY_STATUS_IR",
-            "description": "Injured Reserve",
-            "abbreviation": "IR"
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
           },
           "details": {
             "fantasyStatus": {
-              "description": "IR",
-              "abbreviation": "IR"
+              "description": "OUT",
+              "abbreviation": "OUT"
             },
             "type": "Undisclosed",
             "location": "Other",
+            "detail": "Not Specified",
+            "side": "Not Specified",
             "returnDate": "2026-10-18"
           }
         },
@@ -122793,7 +122795,7 @@
         },
         {
           "id": "639857",
-          "longComment": "Coach Brian Schottenheimer was not very optimistic about the starting cornerback's chances of playing in Week 4. Durant sustained a hamstring injury during the Cowboys' Week 2 win over the Commanders and has not practiced since suffering the injury. With current starter Shavon Revel (knee) also dealing with an injury, third option Ameer Speed may start at cornerback opposite DaRon Bland for Sunday's game.",
+          "longComment": "When addressing reporters Tuesday, head coach Brian Schottenheimer was not very optimistic about the starting cornerback's chances of playing in Week 4. Durant sustained a hamstring injury during the Cowboys' Week 2 win over the Commanders and has not practiced since suffering the injury. With current starter Shavon Revel (knee) also dealing with an injury, Ameer Speed may start at cornerback opposite DaRon Bland in Sunday's game.",
           "shortComment": "Durant (hamstring) likely won't be suiting up for Sunday's game against the Texans, Joe Hoyt of The Dallas Morning News reports.",
           "status": "Doubtful",
           "date": "2026-09-29T23:51Z",
@@ -123369,7 +123371,7 @@
                   "type": "news",
                   "date": "2026-09-29T23:51Z",
                   "headline": "Durant (hamstring) likely won't be suiting up for Sunday's game against the Texans, Joe Hoyt of The Dallas Morning News reports.",
-                  "text": "Coach Brian Schottenheimer was not very optimistic about the starting cornerback's chances of playing in Week 4. Durant sustained a hamstring injury during the Cowboys' Week 2 win over the Commanders and has not practiced since suffering the injury. With current starter Shavon Revel (knee) also dealing with an injury, third option Ameer Speed may start at cornerback opposite DaRon Bland for Sunday's game.",
+                  "text": "When addressing reporters Tuesday, head coach Brian Schottenheimer was not very optimistic about the starting cornerback's chances of playing in Week 4. Durant sustained a hamstring injury during the Cowboys' Week 2 win over the Commanders and has not practiced since suffering the injury. With current starter Shavon Revel (knee) also dealing with an injury, Ameer Speed may start at cornerback opposite DaRon Bland in Sunday's game.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4384549/injuries/639857?lang=en&region=us"
@@ -166547,7 +166549,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -167163,7 +167165,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -167779,7 +167781,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -168395,7 +168397,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -169011,7 +169013,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -169627,7 +169629,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -170243,7 +170245,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -170845,7 +170847,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -171447,7 +171449,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -172049,7 +172051,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -172651,7 +172653,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -173253,7 +173255,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -173855,7 +173857,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -174457,7 +174459,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -175059,7 +175061,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -175661,7 +175663,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -176263,7 +176265,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -176879,7 +176881,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -177481,7 +177483,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -178083,7 +178085,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -178685,7 +178687,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -179287,7 +179289,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -179889,7 +179891,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -180491,7 +180493,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -181093,7 +181095,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:49Z"
+                  "lastUpdated": "2024-10-30T17:26Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -182106,7 +182108,7 @@
         },
         {
           "id": "639854",
-          "longComment": "Ogunbowale settled for the Raiders' practice squad after being trimmed from the team's roster during August's cutdown day. The running back now returns to Houston, where he participated in 129 offensive snaps and 281 special-teams snaps over 17 regular-season games in 2025.",
+          "longComment": "Ogunbowale signed with the Raiders' practice squad after being trimmed from the team's roster during final cuts. The running back now returns to Houston, where he participated in 129 offensive snaps and 281 special-teams snaps over 17 regular-season games in 2025.",
           "shortComment": "The Texans signed Ogunbowale off the Raiders' practice squad Tuesday.",
           "status": "Active",
           "date": "2026-09-29T23:43Z",
@@ -182682,7 +182684,7 @@
                   "type": "news",
                   "date": "2026-09-29T23:43Z",
                   "headline": "The Texans signed Ogunbowale off the Raiders' practice squad Tuesday.",
-                  "text": "Ogunbowale settled for the Raiders' practice squad after being trimmed from the team's roster during August's cutdown day. The running back now returns to Houston, where he participated in 129 offensive snaps and 281 special-teams snaps over 17 regular-season games in 2025.",
+                  "text": "Ogunbowale signed with the Raiders' practice squad after being trimmed from the team's roster during final cuts. The running back now returns to Houston, where he participated in 129 offensive snaps and 281 special-teams snaps over 17 regular-season games in 2025.",
                   "source": "RotoWire"
                 }
               ]
@@ -379440,7 +379442,7 @@
         },
         {
           "id": "639844",
-          "longComment": "The Colts released Moore in early May, and the defensive back joined up with the Eagles' practice squad Sept. 22. The deal was always that Moore would eventually be promoted to the 53-man roster and given a one-year, $3 million contract with the team. That time has come, and Moore is set to be the primary depth option in the Eagles' secondary for the remainder of the 2026 season.",
+          "longComment": "The Colts released Moore in early May, and the defensive back signed with the Eagles' practice squad Sept. 22. The expectation was always that Moore would eventually be promoted to the 53-man roster and given a one-year, $3 million contract. Moore is set to serve as the primary depth option in the Eagles' secondary for the remainder of the 2026 season.",
           "shortComment": "The Eagles signed Moore from the practice squad to the active roster Tuesday.",
           "status": "Active",
           "date": "2026-09-29T23:22Z",
@@ -380016,7 +380018,7 @@
                   "type": "news",
                   "date": "2026-09-29T23:22Z",
                   "headline": "The Eagles signed Moore from the practice squad to the active roster Tuesday.",
-                  "text": "The Colts released Moore in early May, and the defensive back joined up with the Eagles' practice squad Sept. 22. The deal was always that Moore would eventually be promoted to the 53-man roster and given a one-year, $3 million contract with the team. That time has come, and Moore is set to be the primary depth option in the Eagles' secondary for the remainder of the 2026 season.",
+                  "text": "The Colts released Moore in early May, and the defensive back signed with the Eagles' practice squad Sept. 22. The expectation was always that Moore would eventually be promoted to the 53-man roster and given a one-year, $3 million contract. Moore is set to serve as the primary depth option in the Eagles' secondary for the remainder of the 2026 season.",
                   "source": "RotoWire"
                 }
               ]
