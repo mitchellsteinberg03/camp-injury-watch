@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T06:03:19Z",
+  "timestamp": "2026-10-01T13:26:00Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -15154,7 +15154,7 @@
       "injuries": [
         {
           "id": "640066",
-          "longComment": "Atlanta acquired Dexter via a trade with the Bears back in August, and now the team will have him under contract through the 2030 season. Through three games in 2026, he has recorded seven tackles (two solo) including 0.5 sacks and a pass defensed.",
+          "longComment": "Atlanta acquired Dexter via a trade with the Bears back in August, and now the team will have him under contract through the 2030 season. Through three games in 2026, he has recorded seven tackles (two solo) including 0.5 sacks, and a pass defensed.",
           "shortComment": "The Falcons signed Dexter to a four-year, $78 million contract extension Wednesday, Adam Schefter of ESPN reports.",
           "status": "Active",
           "date": "2026-09-30T23:58Z",
@@ -15730,7 +15730,7 @@
                   "type": "news",
                   "date": "2026-09-30T23:58Z",
                   "headline": "The Falcons signed Dexter to a four-year, $78 million contract extension Wednesday, Adam Schefter of ESPN reports.",
-                  "text": "Atlanta acquired Dexter via a trade with the Bears back in August, and now the team will have him under contract through the 2030 season. Through three games in 2026, he has recorded seven tackles (two solo) including 0.5 sacks and a pass defensed.",
+                  "text": "Atlanta acquired Dexter via a trade with the Bears back in August, and now the team will have him under contract through the 2030 season. Through three games in 2026, he has recorded seven tackles (two solo) including 0.5 sacks, and a pass defensed.",
                   "source": "RotoWire"
                 }
               ]
@@ -30219,11 +30219,11 @@
       "displayName": "Baltimore Ravens",
       "injuries": [
         {
-          "id": "-2022093",
+          "id": "-2022139",
           "longComment": "questionable",
           "shortComment": "questionable",
           "status": "Questionable",
-          "date": "2026-10-01T05:01Z",
+          "date": "2026-10-01T11:00Z",
           "athlete": {
             "firstName": "Chris",
             "lastName": "Moore",
@@ -30792,14 +30792,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2022093",
+                  "id": "-2022139",
                   "type": "news",
-                  "date": "2026-10-01T05:01Z",
+                  "date": "2026-10-01T11:00Z",
                   "headline": "questionable",
                   "text": "questionable",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/2576581/injuries/-2022093?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/2576581/injuries/-2022139?lang=en&region=us"
                   }
                 }
               ]
@@ -30836,7 +30836,7 @@
         },
         {
           "id": "640088",
-          "longComment": "The fourth-year center is expected to be sidelined for 2-to-3 months, though likely more if he ends up undergoing surgery. Backup center Ethan Pocic (knee) is also expected to miss significant time, and with Danny Pinter (knee) on injured reserve, that leaves rookie first-rounder Olaivavega Ioane as the starting center for the Ravens for Week 4 against the Titans.",
+          "longComment": "The fourth-year center is expected to be sidelined for 2-to-3 months, though likely more if he ends up undergoing surgery. Backup center Ethan Pocic (knee) is also expected to miss significant time, and with Danny Pinter (knee) on injured reserve, that leaves rookie first-rounder Olaivavega Ioane as the starting center for the Ravens in Week 4 against the Titans.",
           "shortComment": "Gwyn was diagnosed with a fractured fibula that will likely require surgery, Jamison Hensley of ESPN.com reports.",
           "status": "Out",
           "date": "2026-10-01T00:39Z",
@@ -31412,7 +31412,7 @@
                   "type": "news",
                   "date": "2026-10-01T00:39Z",
                   "headline": "Gwyn was diagnosed with a fractured fibula that will likely require surgery, Jamison Hensley of ESPN.com reports.",
-                  "text": "The fourth-year center is expected to be sidelined for 2-to-3 months, though likely more if he ends up undergoing surgery. Backup center Ethan Pocic (knee) is also expected to miss significant time, and with Danny Pinter (knee) on injured reserve, that leaves rookie first-rounder Olaivavega Ioane as the starting center for the Ravens for Week 4 against the Titans.",
+                  "text": "The fourth-year center is expected to be sidelined for 2-to-3 months, though likely more if he ends up undergoing surgery. Backup center Ethan Pocic (knee) is also expected to miss significant time, and with Danny Pinter (knee) on injured reserve, that leaves rookie first-rounder Olaivavega Ioane as the starting center for the Ravens in Week 4 against the Titans.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4362845/injuries/640088?lang=en&region=us"
@@ -75736,11 +75736,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2022092",
+          "id": "-2022138",
           "longComment": "out",
           "shortComment": "out",
           "status": "Out",
-          "date": "2026-10-01T05:01Z",
+          "date": "2026-10-01T11:00Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76309,14 +76309,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2022092",
+                  "id": "-2022138",
                   "type": "news",
-                  "date": "2026-10-01T05:01Z",
+                  "date": "2026-10-01T11:00Z",
                   "headline": "out",
                   "text": "out",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2022092?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2022138?lang=en&region=us"
                   }
                 }
               ]
@@ -121773,7 +121773,7 @@
         },
         {
           "id": "640072",
-          "longComment": "Hooker was unable to practice during the Cowboys' Week 3 prep, being ruled out early ahead of the game against the Ravens. The free safety starting Week 4 prep as a limited participant is a great sign that the 30-year-old may be able to suit up for Sunday's game against the Texans. Hooker will likely need to upgrade to a full participant by Friday to avoid any injury designation ahead of Sunday's contest.",
+          "longComment": "Hooker was unable to practice during the Cowboys' Week 3 prep, getting ruled out early ahead of the game against the Ravens. The free safety starting Week 4 prep as a limited participant is a great sign that the 30-year-old may be able to suit up for Sunday's game against the Texans. Hooker will likely need to upgrade to a full participant by Friday to avoid any injury designation ahead of Sunday's contest.",
           "shortComment": "Hooker (forearm) was a limited participant in Wednesday's practice, Tommy Yarrish of the Cowboys' official site reports.",
           "status": "Questionable",
           "date": "2026-10-01T00:11Z",
@@ -122349,7 +122349,7 @@
                   "type": "news",
                   "date": "2026-10-01T00:11Z",
                   "headline": "Hooker (forearm) was a limited participant in Wednesday's practice, Tommy Yarrish of the Cowboys' official site reports.",
-                  "text": "Hooker was unable to practice during the Cowboys' Week 3 prep, being ruled out early ahead of the game against the Ravens. The free safety starting Week 4 prep as a limited participant is a great sign that the 30-year-old may be able to suit up for Sunday's game against the Texans. Hooker will likely need to upgrade to a full participant by Friday to avoid any injury designation ahead of Sunday's contest.",
+                  "text": "Hooker was unable to practice during the Cowboys' Week 3 prep, getting ruled out early ahead of the game against the Ravens. The free safety starting Week 4 prep as a limited participant is a great sign that the 30-year-old may be able to suit up for Sunday's game against the Texans. Hooker will likely need to upgrade to a full participant by Friday to avoid any injury designation ahead of Sunday's contest.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3121415/injuries/640072?lang=en&region=us"
@@ -122389,7 +122389,7 @@
         },
         {
           "id": "640068",
-          "longComment": "Overshown was not practiced since sustaining a hamstring injury during the Cowboys' Week 1 loss to the Giants. The linebacker continues to recover from the injury. Still, the 26-year-old will not suit up for Sunday's game against the Texans unless he can log at least one session of limited practice participation by Friday.",
+          "longComment": "Overshown has not practiced since sustaining a hamstring injury during the Cowboys' Week 1 loss to the Giants. Given the amount of time he's been sidelined, Overshown likely needs to log at least one limited session during Week 4 prep to have a chance to suit up for Sunday's game against the Texans.",
           "shortComment": "Overshown (hamstring) did not participate in Wednesday's practice, Tommy Yarrish of the Cowboys' official site reports.",
           "status": "Questionable",
           "date": "2026-10-01T00:02Z",
@@ -122965,7 +122965,7 @@
                   "type": "news",
                   "date": "2026-10-01T00:02Z",
                   "headline": "Overshown (hamstring) did not participate in Wednesday's practice, Tommy Yarrish of the Cowboys' official site reports.",
-                  "text": "Overshown was not practiced since sustaining a hamstring injury during the Cowboys' Week 1 loss to the Giants. The linebacker continues to recover from the injury. Still, the 26-year-old will not suit up for Sunday's game against the Texans unless he can log at least one session of limited practice participation by Friday.",
+                  "text": "Overshown has not practiced since sustaining a hamstring injury during the Cowboys' Week 1 loss to the Giants. Given the amount of time he's been sidelined, Overshown likely needs to log at least one limited session during Week 4 prep to have a chance to suit up for Sunday's game against the Texans.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4362088/injuries/640068?lang=en&region=us"
@@ -166549,7 +166549,7 @@
       "injuries": [
         {
           "id": "640092",
-          "longComment": "The contract is worth $4.05 million, with a maximum value of $5 million. It's another move the Packers are making to revamp their offensive line, as the offense ranks last in the league in rushing yards per game (48.7). It's possible that Zeitler supplants Jacob Monk (quadriceps) for the starting job at right guard for Sunday's game against the Buccaneers.",
+          "longComment": "The contract is worth $4.05 million, with a maximum value of $5 million. It's another move the Packers are making to revamp their offensive line, as the team ranks last in the league in rushing yards per game (48.7). It's possible that Zeitler supplants Jacob Monk (quadriceps) for the starting job at right guard for Sunday's game against the Buccaneers.",
           "shortComment": "The Packers signed Zeitler to a one-year contract Wednesday, Rob Demovsky of ESPN.com reports.",
           "status": "Active",
           "date": "2026-10-01T00:50Z",
@@ -167125,7 +167125,7 @@
                   "type": "news",
                   "date": "2026-10-01T00:50Z",
                   "headline": "The Packers signed Zeitler to a one-year contract Wednesday, Rob Demovsky of ESPN.com reports.",
-                  "text": "The contract is worth $4.05 million, with a maximum value of $5 million. It's another move the Packers are making to revamp their offensive line, as the offense ranks last in the league in rushing yards per game (48.7). It's possible that Zeitler supplants Jacob Monk (quadriceps) for the starting job at right guard for Sunday's game against the Buccaneers.",
+                  "text": "The contract is worth $4.05 million, with a maximum value of $5 million. It's another move the Packers are making to revamp their offensive line, as the team ranks last in the league in rushing yards per game (48.7). It's possible that Zeitler supplants Jacob Monk (quadriceps) for the starting job at right guard for Sunday's game against the Buccaneers.",
                   "source": "RotoWire"
                 }
               ]
@@ -167767,7 +167767,7 @@
         },
         {
           "id": "640059",
-          "longComment": "Cooper sustained a concussion during the Packers' Week 3 loss to the Falcons, and he also appears to have picked up a shoulder injury, too. Even if he practices in full over the coming days, he would need to pass an evaluation by an independent neurologist in order to clear the league's concussion protocol ahead of Sunday's road game against the Buccaneers.",
+          "longComment": "Cooper sustained a concussion during the Packers' Week 3 loss to the Falcons, and he also appears to have picked up a shoulder injury. Even if he practices in full over the coming days, he would need to pass an evaluation by an independent neurologist in order to clear the league's concussion protocol ahead of Sunday's road game against the Buccaneers.",
           "shortComment": "Cooper (concussion/shoulder) was a limited participant in Wednesday's practice.",
           "status": "Questionable",
           "date": "2026-09-30T23:44Z",
@@ -168343,7 +168343,7 @@
                   "type": "news",
                   "date": "2026-09-30T23:44Z",
                   "headline": "Cooper (concussion/shoulder) was a limited participant in Wednesday's practice.",
-                  "text": "Cooper sustained a concussion during the Packers' Week 3 loss to the Falcons, and he also appears to have picked up a shoulder injury, too. Even if he practices in full over the coming days, he would need to pass an evaluation by an independent neurologist in order to clear the league's concussion protocol ahead of Sunday's road game against the Buccaneers.",
+                  "text": "Cooper sustained a concussion during the Packers' Week 3 loss to the Falcons, and he also appears to have picked up a shoulder injury. Even if he practices in full over the coming days, he would need to pass an evaluation by an independent neurologist in order to clear the league's concussion protocol ahead of Sunday's road game against the Buccaneers.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4430438/injuries/640059?lang=en&region=us"
@@ -227248,7 +227248,7 @@
       "injuries": [
         {
           "id": "640093",
-          "longComment": "Simmons has a bulging disc in his lower back. Coach Andy Reid said the left tackle continues to make progress and regain strength but has not given any hints as to when the left tackle will return. The 2025 first-rounder played eight games in 2025 as a rookie but has been unable to suit up at all in 2026.",
+          "longComment": "Simmons has a bulging disc in his lower back. Coach Andy Reid said the left tackle continues to make progress and regain strength but has not given any indication as to when Simmons may be able to make his season debut. The 2025 first-rounder played eight regular-season games in 2025 as a rookie but has been unable to suit up at all in 2026.",
           "shortComment": "Simmons (back) did not participate in Wednesday's practice, Matt McMullen of the Chiefs' official site reports.",
           "status": "Questionable",
           "date": "2026-10-01T00:54Z",
@@ -227824,7 +227824,7 @@
                   "type": "news",
                   "date": "2026-10-01T00:54Z",
                   "headline": "Simmons (back) did not participate in Wednesday's practice, Matt McMullen of the Chiefs' official site reports.",
-                  "text": "Simmons has a bulging disc in his lower back. Coach Andy Reid said the left tackle continues to make progress and regain strength but has not given any hints as to when the left tackle will return. The 2025 first-rounder played eight games in 2025 as a rookie but has been unable to suit up at all in 2026.",
+                  "text": "Simmons has a bulging disc in his lower back. Coach Andy Reid said the left tackle continues to make progress and regain strength but has not given any indication as to when Simmons may be able to make his season debut. The 2025 first-rounder played eight regular-season games in 2025 as a rookie but has been unable to suit up at all in 2026.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4569659/injuries/640093?lang=en&region=us"
@@ -258648,7 +258648,7 @@
         },
         {
           "id": "640069",
-          "longComment": "It's not obvious when James sustained the injury, but his presence at practice Wednesday suggests it's probably not anything too serious. As long as he can practice in full Thursday or Friday, he should be able to avoid carrying an injury designation into the weekend.",
+          "longComment": "It's not clear when James sustained the injury, but his presence at practice Wednesday suggests it's probably not anything too serious. As long as he can practice in full Thursday or Friday, he should be able to avoid carrying an injury designation into the weekend.",
           "shortComment": "James (hamstring) was a limited participant at practice Wednesday.",
           "status": "Questionable",
           "date": "2026-10-01T00:02Z",
@@ -259224,7 +259224,7 @@
                   "type": "news",
                   "date": "2026-10-01T00:02Z",
                   "headline": "James (hamstring) was a limited participant at practice Wednesday.",
-                  "text": "It's not obvious when James sustained the injury, but his presence at practice Wednesday suggests it's probably not anything too serious. As long as he can practice in full Thursday or Friday, he should be able to avoid carrying an injury designation into the weekend.",
+                  "text": "It's not clear when James sustained the injury, but his presence at practice Wednesday suggests it's probably not anything too serious. As long as he can practice in full Thursday or Friday, he should be able to avoid carrying an injury designation into the weekend.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3691739/injuries/640069?lang=en&region=us"
@@ -319398,7 +319398,7 @@
         },
         {
           "id": "640051",
-          "longComment": "Gonzalez likely picked up the injury during the Patriots' 35-6 loss to the Jaguars in Week 3, when he recorded two solo tackles and a pass defense while failing to play every single defensive snap for the first time this season. He'll have two more chances to return to practice this week, but if he cannot play against the Bills this Sunday, then Charles Wood figures to be the top candidate to start at outside cornerback opposite Carlton Davis.",
+          "longComment": "Gonzalez likely picked up the injury during the Patriots' 35-6 loss to the Jaguars in Week 3, when he recorded two solo tackles and a pass defense while failing to play every single defensive snap for the first time this season. He'll have two more chances to return to practice this week, but if he cannot play against the Bills this Sunday, then Charles Woods figures to be the top candidate to start at outside cornerback opposite Carlton Davis.",
           "shortComment": "Gonzalez (shoulder) did not practice Wednesday.",
           "status": "Questionable",
           "date": "2026-09-30T23:26Z",
@@ -319974,7 +319974,7 @@
                   "type": "news",
                   "date": "2026-09-30T23:26Z",
                   "headline": "Gonzalez (shoulder) did not practice Wednesday.",
-                  "text": "Gonzalez likely picked up the injury during the Patriots' 35-6 loss to the Jaguars in Week 3, when he recorded two solo tackles and a pass defense while failing to play every single defensive snap for the first time this season. He'll have two more chances to return to practice this week, but if he cannot play against the Bills this Sunday, then Charles Wood figures to be the top candidate to start at outside cornerback opposite Carlton Davis.",
+                  "text": "Gonzalez likely picked up the injury during the Patriots' 35-6 loss to the Jaguars in Week 3, when he recorded two solo tackles and a pass defense while failing to play every single defensive snap for the first time this season. He'll have two more chances to return to practice this week, but if he cannot play against the Bills this Sunday, then Charles Woods figures to be the top candidate to start at outside cornerback opposite Carlton Davis.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4686772/injuries/640051?lang=en&region=us"
@@ -364300,7 +364300,7 @@
         },
         {
           "id": "640095",
-          "longComment": "Parham is expected to sit out Sunday's matchup versus the Bears after suffering a knee injury during the Week 3 loss to the Lions. In his absence, James Meredith will likely start at left guard.",
+          "longComment": "Parham is expected to sit out Sunday's matchup versus the Bears after suffering a knee injury during the Week 3 loss to the Lions. In his absence, Jordan Meredith will likely start at left guard.",
           "shortComment": "Parham is considered week to week due to a knee injury, Zack Rosenblatt of The Athletic reports.",
           "status": "Doubtful",
           "date": "2026-10-01T00:57Z",
@@ -364876,7 +364876,7 @@
                   "type": "news",
                   "date": "2026-10-01T00:57Z",
                   "headline": "Parham is considered week to week due to a knee injury, Zack Rosenblatt of The Athletic reports.",
-                  "text": "Parham is expected to sit out Sunday's matchup versus the Bears after suffering a knee injury during the Week 3 loss to the Lions. In his absence, James Meredith will likely start at left guard.",
+                  "text": "Parham is expected to sit out Sunday's matchup versus the Bears after suffering a knee injury during the Week 3 loss to the Lions. In his absence, Jordan Meredith will likely start at left guard.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4243375/injuries/640095?lang=en&region=us"
@@ -378908,7 +378908,7 @@
       "injuries": [
         {
           "id": "640089",
-          "longComment": "Campbell likely suffered his knee injury during the Eagles' Week 3 loss to the Bears. The linebacker practicing in a limited capacity despite the new injury is a good sign. Campbell should be able to avoid any injury designation by upgrading to a full participant in practice by Friday.",
+          "longComment": "Campbell likely suffered his knee injury during the Eagles' Week 3 loss to the Bears. The linebacker practicing in a limited capacity despite the new injury is a good sign. Campbell should be able to avoid any injury designation for Sunday's Week 4 matchup with the Rams by upgrading to a full participant in practice by Friday.",
           "shortComment": "Campbell (knee) was a limited participant in Wednesday's practice.",
           "status": "Questionable",
           "date": "2026-10-01T00:40Z",
@@ -379484,7 +379484,7 @@
                   "type": "news",
                   "date": "2026-10-01T00:40Z",
                   "headline": "Campbell (knee) was a limited participant in Wednesday's practice.",
-                  "text": "Campbell likely suffered his knee injury during the Eagles' Week 3 loss to the Bears. The linebacker practicing in a limited capacity despite the new injury is a good sign. Campbell should be able to avoid any injury designation by upgrading to a full participant in practice by Friday.",
+                  "text": "Campbell likely suffered his knee injury during the Eagles' Week 3 loss to the Bears. The linebacker practicing in a limited capacity despite the new injury is a good sign. Campbell should be able to avoid any injury designation for Sunday's Week 4 matchup with the Rams by upgrading to a full participant in practice by Friday.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4685287/injuries/640089?lang=en&region=us"
@@ -380140,7 +380140,7 @@
         },
         {
           "id": "640082",
-          "longComment": "Brown has yet to practice since sustaining his ankle injury during Week 3 prep. The wide receiver will need to upgrade to at least limited practice participation by Friday for a shot at playing in the Eagles' contest against the Rams on Sunday.",
+          "longComment": "Brown has yet to practice since sustaining his ankle injury during Week 3 prep. The wide receiver will likely need to upgrade to at least limited practice participation by Friday to have a shot at playing in the Eagles' contest against the Rams on Sunday.",
           "shortComment": "Brown (ankle) did not participate in Wednesday's practice.",
           "status": "Questionable",
           "date": "2026-10-01T00:26Z",
@@ -380716,7 +380716,7 @@
                   "type": "news",
                   "date": "2026-10-01T00:26Z",
                   "headline": "Brown (ankle) did not participate in Wednesday's practice.",
-                  "text": "Brown has yet to practice since sustaining his ankle injury during Week 3 prep. The wide receiver will need to upgrade to at least limited practice participation by Friday for a shot at playing in the Eagles' contest against the Rams on Sunday.",
+                  "text": "Brown has yet to practice since sustaining his ankle injury during Week 3 prep. The wide receiver will likely need to upgrade to at least limited practice participation by Friday to have a shot at playing in the Eagles' contest against the Rams on Sunday.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4241372/injuries/640082?lang=en&region=us"
@@ -380756,7 +380756,7 @@
         },
         {
           "id": "640075",
-          "longComment": "Shipley ended Week 3 prep with back-to-back limited practices and had no injury designation heading into the Eagles' 27-7 loss to the Bears on Monday Night Football. Shipley's downgrade to a non-participant in Wednesday's session could be precautionary or could imply that the running back aggravated the issue during Monday's game.",
+          "longComment": "Shipley ended Week 3 prep with back-to-back limited practices and had no injury designation heading into the Eagles' 27-7 loss to the Bears on Monday Night Football. Shipley's downgrade to a non-participant in Wednesday's session could be precautionary or may be a sign the running back aggravated the issue during Monday's game.",
           "shortComment": "Shipley (foot) did not participate in Wednesday's practice.",
           "status": "Questionable",
           "date": "2026-10-01T00:19Z",
@@ -381332,7 +381332,7 @@
                   "type": "news",
                   "date": "2026-10-01T00:19Z",
                   "headline": "Shipley (foot) did not participate in Wednesday's practice.",
-                  "text": "Shipley ended Week 3 prep with back-to-back limited practices and had no injury designation heading into the Eagles' 27-7 loss to the Bears on Monday Night Football. Shipley's downgrade to a non-participant in Wednesday's session could be precautionary or could imply that the running back aggravated the issue during Monday's game.",
+                  "text": "Shipley ended Week 3 prep with back-to-back limited practices and had no injury designation heading into the Eagles' 27-7 loss to the Bears on Monday Night Football. Shipley's downgrade to a non-participant in Wednesday's session could be precautionary or may be a sign the running back aggravated the issue during Monday's game.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4431545/injuries/640075?lang=en&region=us"
@@ -394076,7 +394076,7 @@
       "injuries": [
         {
           "id": "640098",
-          "longComment": "Echols cleared the NFL's five-step concussion protocol Wednesday but remains questionable for Thursday's game. It is unclear why the cornerback may be held out of the contest, but it may have to do with the limited amount of prep the 28-year-old was able to achieve in a short week.",
+          "longComment": "Echols cleared the NFL's five-step concussion protocol Wednesday but remains questionable for Thursday's game. The short turnaround for the divisional clash may prove prohibitive for Echols' chances of suiting up, but his status will be clarified when the Steelers announce their inactives 90 minutes before the game's 8:15 p.m. ET kickoff.",
           "shortComment": "Echols (concussion) is listed as questionable ahead of Thursday's game against the Browns, Alan Saunders of SteelersNow.com reported Wednesday.",
           "status": "Questionable",
           "date": "2026-10-01T01:00Z",
@@ -395304,622 +395304,6 @@
             "detail": "Fracture",
             "side": "Right",
             "returnDate": "2026-10-01"
-          }
-        },
-        {
-          "id": "639995",
-          "longComment": "Porter had previously been listed on the Steelers' Week 4 injury report due to conditioning, but he may have had his back flare up on him during Wednesday's practice. He turned in a full practice Tuesday, but he downgraded to limited participation a day later. As a result, Porter's 2026 debut will be delayed at least another week. The Steelers will lean on Jamel Dean, Asante Samuel and Daylen Everette as their primary options at the outside cornerback spots Thursday.",
-          "shortComment": "Porter (back) has been ruled out ahead of Thursday's game against the Browns, Brooke Pryor of ESPN.com reports.",
-          "status": "Out",
-          "date": "2026-09-30T19:10Z",
-          "athlete": {
-            "firstName": "Joey",
-            "lastName": "Porter Jr.",
-            "displayName": "Joey Porter Jr.",
-            "shortName": "J. Porter Jr.",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4426506/joey-porter-jr",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/4426506/joey-porter-jr",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4426506&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/4426506/joey-porter-jr",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4426506/joey-porter-jr",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4426506&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/4426506/joey-porter-jr",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4426506&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/4426506/joey-porter-jr",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4426506&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4426506/joey-porter-jr",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4426506",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4426506.png",
-              "alt": "Joey Porter Jr."
-            },
-            "position": {
-              "id": "29",
-              "name": "Cornerback",
-              "displayName": "Cornerback",
-              "abbreviation": "CB",
-              "leaf": true
-            },
-            "team": {
-              "id": "23",
-              "uid": "s:20~l:28~t:23",
-              "slug": "pittsburgh-steelers",
-              "name": "Steelers",
-              "abbreviation": "PIT",
-              "displayName": "Pittsburgh Steelers",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2024-06-25T18:56Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/pit.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:56Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2024-06-25T18:56Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/pit.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2024-06-25T18:56Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-31T12:53Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/pit/pittsburgh-steelers",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:23&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/pit/pittsburgh-steelers",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:23&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/pit",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:23&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/pit",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/pittsburgh-steelers-tickets--sports-nfl-football/performer/686?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/pit/pittsburgh-steelers",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/pit",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/pit",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/pit",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:23&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "640130",
-                  "type": "news",
-                  "date": "2026-10-01T04:29Z",
-                  "headline": "The Steelers and Cowboys have agreed to terms on a trade to send Porter to Dallas, Tom Pelissero of Netflix reports.",
-                  "text": "Porter has been staging a hold-in of sorts since the start of training camp, citing a back injury that continually flares up since he began missing regular-season contests in Week 1. Now that the situation has resolved itself and he's moving on to the Cowboys, it remains to be seen when he may be healthy enough to suit up for game action. As for the compensation going back to Pittsburgh, NFL reporter Jordan Schultz reports the Steelers are receiving a second-round pick and a conditional sixth-rounder from Dallas.",
-                  "source": "RotoWire",
-                  "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4426506/injuries/640130?lang=en&region=us"
-                  }
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "4",
-            "name": "INJURY_STATUS_OUT",
-            "description": "out",
-            "abbreviation": "O"
-          },
-          "details": {
-            "fantasyStatus": {
-              "description": "OUT",
-              "abbreviation": "OUT"
-            },
-            "type": "Back",
-            "location": "Torso",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-10-11"
           }
         },
         {
@@ -409171,6 +408555,608 @@
                   "date": "2026-09-26T20:54Z",
                   "headline": "The Steelers signed Homer from the practice squad to the active roster Saturday, Teresa Varley of the team's official site reports.",
                   "text": "Homer was elevated for the Steelers' Week 2 loss to the Patriots, playing two offensive snaps and 10 special-teams snaps in the game while logging two rushes for 16 yards. The running back could be the primary option for the Steelers in the Week 3 contest against the Bengals. Jaylen Warren (shoulder) is listed as questionable and Rico Dowdle (toe) has been ruled out, meaning at worst Homer will be the No. 2 or No. 3 option Sunday.",
+                  "source": "RotoWire"
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "0",
+            "name": "INJURY_STATUS_ACTIVE",
+            "description": "active",
+            "abbreviation": "A"
+          }
+        },
+        {
+          "id": "638493",
+          "longComment": "The rookie second-rounder operated as the WR3 due to the absence of Michael Pittman (foot). Aaron Rodgers struggled at Gillette Stadium, but Bernard did his part by leading the Steelers pass catchers in receiving yards while finishing second in catches behind Roman Wilson (five) and second in targets to DK Metcalf (nine). Pittman's status for Week 3 against the Bengals on Sept. 27 is up in the air, but even if he was ruled out, Bernard's production (along with the other Steelers pass catchers) will be capped unless Rodgers improves his play.",
+          "shortComment": "Bernard caught four passes on eight targets for 35 yards during the Steelers' 20-3 loss to the Patriots on Sunday.",
+          "status": "Active",
+          "date": "2026-09-21T22:38Z",
+          "athlete": {
+            "firstName": "Germie",
+            "lastName": "Bernard",
+            "displayName": "Germie Bernard",
+            "shortName": "G. Bernard",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4685261/germie-bernard",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/4685261/germie-bernard",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4685261&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/4685261/germie-bernard",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4685261/germie-bernard",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4685261&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/4685261/germie-bernard",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4685261&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/4685261/germie-bernard",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4685261&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4685261/germie-bernard",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4685261",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4685261.png",
+              "alt": "Germie Bernard"
+            },
+            "position": {
+              "id": "1",
+              "name": "Wide Receiver",
+              "displayName": "Wide Receiver",
+              "abbreviation": "WR",
+              "leaf": true
+            },
+            "team": {
+              "id": "23",
+              "uid": "s:20~l:28~t:23",
+              "slug": "pittsburgh-steelers",
+              "name": "Steelers",
+              "abbreviation": "PIT",
+              "displayName": "Pittsburgh Steelers",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2024-06-25T18:56Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/pit.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:56Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2024-06-25T18:56Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/pit.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2024-06-25T18:56Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-31T12:53Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/debcd592-8d53-71f1-fc15-5c8b8ef9df6e/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/pit/pittsburgh-steelers",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:23&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/pit/pittsburgh-steelers",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:23&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/pit",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:23&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/pit",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/pittsburgh-steelers-tickets--sports-nfl-football/performer/686?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/pit/pittsburgh-steelers",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/pit",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/pit",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/pit",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:23&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "638493",
+                  "type": "news",
+                  "date": "2026-09-21T22:38Z",
+                  "headline": "Bernard caught four passes on eight targets for 35 yards during the Steelers' 20-3 loss to the Patriots on Sunday.",
+                  "text": "The rookie second-rounder operated as the WR3 due to the absence of Michael Pittman (foot). Aaron Rodgers struggled at Gillette Stadium, but Bernard did his part by leading the Steelers pass catchers in receiving yards while finishing second in catches behind Roman Wilson (five) and second in targets to DK Metcalf (nine). Pittman's status for Week 3 against the Bengals on Sept. 27 is up in the air, but even if he was ruled out, Bernard's production (along with the other Steelers pass catchers) will be capped unless Rodgers improves his play.",
                   "source": "RotoWire"
                 }
               ]
@@ -439566,7 +439552,7 @@
       "injuries": [
         {
           "id": "640064",
-          "longComment": "Bain has been unable to practice since sustaining a groin injury during the Buccaneers' Week 2 loss to the Browns. The first-round rookie has missed four consecutive sessions and does not appear to be any closer to playing in Week 4 than he was in Week 3. AlQuadin Muhammad is once again set to receive the lion's share of starting snaps as the outside linebacker across from Yaya Diaby (calf).",
+          "longComment": "Bain has been unable to practice since sustaining a groin injury during the Buccaneers' Week 2 loss to the Browns. The first-round rookie has missed four consecutive sessions and does not appear to be any closer to playing in Week 4 than he was in Week 3. Al-Quadin Muhammad is once again set to receive the lion's share of starting snaps as the outside linebacker across from Yaya Diaby (calf).",
           "shortComment": "Bain (groin) did not participate in Wednesday's practice.",
           "status": "Questionable",
           "date": "2026-09-30T23:55Z",
@@ -440142,7 +440128,7 @@
                   "type": "news",
                   "date": "2026-09-30T23:55Z",
                   "headline": "Bain (groin) did not participate in Wednesday's practice.",
-                  "text": "Bain has been unable to practice since sustaining a groin injury during the Buccaneers' Week 2 loss to the Browns. The first-round rookie has missed four consecutive sessions and does not appear to be any closer to playing in Week 4 than he was in Week 3. AlQuadin Muhammad is once again set to receive the lion's share of starting snaps as the outside linebacker across from Yaya Diaby (calf).",
+                  "text": "Bain has been unable to practice since sustaining a groin injury during the Buccaneers' Week 2 loss to the Browns. The first-round rookie has missed four consecutive sessions and does not appear to be any closer to playing in Week 4 than he was in Week 3. Al-Quadin Muhammad is once again set to receive the lion's share of starting snaps as the outside linebacker across from Yaya Diaby (calf).",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4870617/injuries/640064?lang=en&region=us"
@@ -440182,7 +440168,7 @@
         },
         {
           "id": "640058",
-          "longComment": "Trotter was unable to suit up for the Buccaneers' Week 3 loss to the Panthers due to a shoulder injury. The linebacker upgraded to a limited participant in last Friday's session, so maintaining that level of participation in Wednesday's practice is a good sign for the rookie second-rounder. Trotter will need to upgrade to a full participant by Friday to avoid any injury designation ahead of Sunday's game against the Packers.",
+          "longComment": "Trotter was unable to suit up for the Buccaneers' Week 3 loss to the Vikings due to a shoulder injury. The linebacker upgraded to limited participation in Friday's session, so maintaining that level of participation in Wednesday's practice is a good sign for the rookie second-rounder. Trotter will need to upgrade to full participation by Friday to avoid any injury designation ahead of Sunday's game against the Packers.",
           "shortComment": "Trotter (shoulder) was a limited participant in Wednesday's practice.",
           "status": "Questionable",
           "date": "2026-09-30T23:43Z",
@@ -440758,7 +440744,7 @@
                   "type": "news",
                   "date": "2026-09-30T23:43Z",
                   "headline": "Trotter (shoulder) was a limited participant in Wednesday's practice.",
-                  "text": "Trotter was unable to suit up for the Buccaneers' Week 3 loss to the Panthers due to a shoulder injury. The linebacker upgraded to a limited participant in last Friday's session, so maintaining that level of participation in Wednesday's practice is a good sign for the rookie second-rounder. Trotter will need to upgrade to a full participant by Friday to avoid any injury designation ahead of Sunday's game against the Packers.",
+                  "text": "Trotter was unable to suit up for the Buccaneers' Week 3 loss to the Vikings due to a shoulder injury. The linebacker upgraded to limited participation in Friday's session, so maintaining that level of participation in Wednesday's practice is a good sign for the rookie second-rounder. Trotter will need to upgrade to full participation by Friday to avoid any injury designation ahead of Sunday's game against the Packers.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4870998/injuries/640058?lang=en&region=us"
