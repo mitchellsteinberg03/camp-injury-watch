@@ -6933,3 +6933,31 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** Snapshot comment content was thorough enough this run to resolve all removal/addition decisions without needing supplementary WebSearch queries; direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 29, 9:15 PM ET ages off). 0 aged off this run — all current NEW badges are under 24h old. 11 new NEW badges added (list above). Net badge count: 9 → 20. Tile counts updated and verified against current table rows: 154 high / 145 mid / 82 low / 381 all / 20 new.
+
+## Oct 1, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering Thursday night's Browns-Steelers game and Wednesday/Thursday practice reports league-wide ahead of the rest of Week 4.
+
+**New injuries:**
+- Mack Wilson Sr. (LB, Cardinals) — thumb, limited participant in Wednesday's practice. Severity: low.
+- Lukas Van Ness (DE, Packers) — shoulder, limited participant in Wednesday's practice. Severity: low.
+- Will Anderson Jr. (DE, Texans) — ankle, limited participant in Wednesday's practice. Severity: low.
+- Derwin James Jr. (S, Chargers) — hamstring (separate from the earlier pinky fracture), limited participant at Wednesday's practice. Severity: low.
+- Nate Landman (LB, Rams) — shoulder, limited participant in Wednesday's practice. Severity: low.
+- Blake Cashman (LB, Vikings) — elbow, limited participant in Wednesday's practice. Severity: low.
+- Jihaad Campbell (LB, Eagles) — knee, limited participant in Wednesday's practice. Severity: low.
+- Zack Baun (LB, Eagles) — concussion, did not participate in Wednesday's practice. Severity: low.
+- Will Shipley (RB, Eagles) — foot (new flare-up), did not participate in Wednesday's practice. Severity: low.
+
+**Status and designation changes:**
+- Marcelino McCrary-Ball (LB, Jets) — confirmed placed on IR Sept 23 after being carted off during the Week 2 game vs. the Packers; out at least four games, eligible to return Week 7. Severity upgraded from low to mid.
+
+**Removals (2) — confirmed cleared, verified via comment content:**
+- Ar'maj Reed-Adams (G, Bills) — full practice Wednesday, set to suit up against the Patriots.
+- Gracen Halton (DT, 49ers) — absence from the injury report indicates the ankle is fine, should be available.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-01T13:26:02Z, ~39min old at run start — fresh). Filtered to the six tracked positions (474 tracked entries across 32 teams, 179 non-Active) and diffed by player+team against all 381 pre-run dashboard rows: 123 matched a snapshot entry (5 read "Active" — comment content confirmed 2 as genuinely cleared and removed above; Kene Nwangwu's comment explicitly said he's still dealing with a back injury despite the "Active" status, so kept per the standing Marcus Epps rule; Billy Bowman Jr. and DJ Giddens remain ambiguous and were kept), the rest had no matching snapshot entry (143 high-sev exempt; 108 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 2 low-sev unmatched — Joey Porter Jr. already accurately reflected ruled-out status, no change needed; Marcelino McCrary-Ball vanished-checked via WebSearch and found to be on IR, updated above). Of 56 snapshot entries not matched to an existing row, 9 carried real injury/practice-report detail and were added above; the rest were bare tags with no injury description. Circuit breaker: not applicable — 2 removals proposed on 381 pre-run rows (0.5%).
+
+**Breaking-news sweep:** WebSearch confirmed Joey Porter Jr.'s continued back issue (already correctly tracked) and found Marcelino McCrary-Ball's IR placement (CBS Sports, RotoWire) to update his stale "questionable to return" status from three weeks ago. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 30, 12:15 PM ET ages off). 0 aged off this run — all current NEW badges are under 24h old. 9 new NEW badges added (list above). Net badge count: 20 → 29. Tile counts updated and verified against current table rows: 154 high / 146 mid / 88 low / 388 all / 29 new.
