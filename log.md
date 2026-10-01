@@ -6901,3 +6901,35 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch used for all six new additions plus the Achane/Chenal/Burns updates; discarded no false leads this run — all hits traced cleanly to today's (Sept 30) practice reports or this week's roster moves with internally consistent dates. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected; the snapshot plus WebSearch covered the window fully.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 29, 6:10 PM ET ages off). 7 aged off this run (all rows added Sept. 29 at 12:15 PM ET: Cam Lewis, Grant Delpit, Jaylen Watson, Jalen Ramsey, Braxton Jones, Jovaughn Gwyn, Jackson Slater). 6 new NEW badges added (list above). Net badge count: 10 → 9. Tile counts updated and verified against current table rows: 154 high / 145 mid / 76 low / 375 all / 9 new.
+
+## Sep 30, 2026, 9:15 PM ET
+
+~3h window since the 6:10 PM ET sweep, covering Wednesday's final practice reports ahead of Thursday's Browns-Steelers game and the rest of Week 4.
+
+**New injuries:**
+- Kyle Dugger (S, Bengals) — quadriceps, did not participate in Wednesday's practice. Severity: low.
+- D.J. Reed (CB, Lions) — ribs, limited participant in Wednesday's practice. Severity: low.
+- Azeez Al-Shaair (LB, Texans) — groin, suffered during Sunday's (Sept 27) game at Indianapolis; week-to-week per coach DeMeco Ryans. Severity: mid.
+- LeQuint Allen Jr. (RB, Jaguars) — hip, limited participant in Wednesday's practice. Severity: low.
+- Keaton Mitchell (RB, Chargers) — ankle, limited participant in Wednesday's practice. Severity: low.
+- Reggie Gilliam (FB, Patriots) — knee, limited participant in Wednesday's practice. Severity: low.
+- Christian Gonzalez (CB, Patriots) — shoulder, did not practice Wednesday. Severity: low.
+- Tyrone Tracy Jr. (RB, Giants) — knee, did not practice Wednesday. Severity: low.
+- George Holani (RB, Seahawks) — ribs, limited participant in Wednesday's practice. Severity: low.
+- Jadarian Price (RB, Seahawks) — chest, limited participant in Wednesday's practice. Severity: low.
+- Bucky Irving (RB, Buccaneers) — glute, limited participant in Wednesday's practice. Severity: low.
+
+**Status and designation changes:** None this run.
+
+**Removals (5) — all confirmed cleared/on track to play, verified via comment content:**
+- Devin Lloyd (LB, Panthers) — appears ready to return to the lineup Sunday night vs. the Lions.
+- Nick Scott (S, Panthers) — appears ready to return from his one-game absence, back to starting role.
+- Grant Delpit (S, Browns) — played through the issue in Sunday's win, will do the same Thursday, playing every defensive snap.
+- Tyson Campbell (CB, Browns) — fully practiced Wednesday, on track to play Thursday.
+- Chamarri Conner (S, Chiefs) — on track to make his 2026 regular-season debut in Week 4, projects to start.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-09-30T23:55:00Z, ~1h09m old at run start — fresh). Filtered to the six tracked positions (467 tracked entries across 32 teams, 179 non-Active) and diffed by player+team against all 375 pre-run dashboard rows: 115 matched a snapshot entry (9 read "Active" — comment content confirmed 5 as genuinely cleared/on-track-to-play and removed above; the rest remain ambiguous or still recovering and kept unchanged per the standing Marcus Epps rule), the rest had no matching snapshot entry (144 high-sev exempt; 107 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern). Of 61 snapshot entries not matched to an existing row, 11 carried real injury/practice-report detail and were added above; the rest were box-score recap blurbs with no injury description (Blake Cashman, Jihaad Campbell) or bare tags — excluded per policy. Circuit breaker: not applicable — 5 removals proposed on 375 pre-run rows (1.3%), well under the 25% threshold.
+
+**Breaking-news sweep:** Snapshot comment content was thorough enough this run to resolve all removal/addition decisions without needing supplementary WebSearch queries; direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 29, 9:15 PM ET ages off). 0 aged off this run — all current NEW badges are under 24h old. 11 new NEW badges added (list above). Net badge count: 9 → 20. Tile counts updated and verified against current table rows: 154 high / 145 mid / 82 low / 381 all / 20 new.
