@@ -6961,3 +6961,27 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch confirmed Joey Porter Jr.'s continued back issue (already correctly tracked) and found Marcelino McCrary-Ball's IR placement (CBS Sports, RotoWire) to update his stale "questionable to return" status from three weeks ago. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 30, 12:15 PM ET ages off). 0 aged off this run — all current NEW badges are under 24h old. 9 new NEW badges added (list above). Net badge count: 20 → 29. Tile counts updated and verified against current table rows: 154 high / 146 mid / 88 low / 388 all / 29 new.
+
+## Oct 1, 2026, 6:05 PM ET
+
+~6h window since the 12:15 PM ET sweep, covering Thursday afternoon's practice reports and Thursday Night Football (Steelers at Browns, Week 4).
+
+**New injuries:** None at the six tracked positions this window.
+
+**Status and designation changes:**
+- Travis Etienne Jr. (RB, Saints) — placed on injured reserve Oct 1 (hamstring, suffered in the Sept 27 loss to the Raiders); out at least four weeks. low → mid.
+- Zach Charbonnet (RB, Seahawks) — designated to return to practice Thursday, Oct 1, opening his 21-day window off Reserve/PUP; eligible for activation as soon as Week 5. Stays mid.
+- Teven Jenkins (G, Browns) — officially ruled out for Thursday's game vs. the Steelers (back). Stays low.
+- Jalen Ramsey (CB, Steelers) — questionable, expected to play Thursday against the Browns (wrist); replaced stale "Monday's practice report" wording. Stays low.
+- Tony Pollard (RB, Titans) — expected to practice Thursday, per coach Robert Saleh, with no concern about Sunday's game vs. the Ravens; body part corrected to foot per the snapshot. Stays low.
+- Tyjae Spears (RB, Titans) — expected to practice Thursday alongside Pollard, per coach Robert Saleh; no concern about Sunday's game vs. the Ravens. Stays low.
+- Kene Nwangwu (RB, Jets) — upgraded to a full participant in the Sept 30 practice (previously estimated limited); has yet to play this season. Stays low.
+
+**Removals:**
+- Brandin Echols (CB, Steelers) — removed: no longer has an injury designation for Thursday's game vs. the Browns (cleared from concussion evaluation).
+
+**Reconciliation:** Ran against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-01T19:35:23Z, ~2h30m old at run start — current). Filtered to the six tracked positions and entries dated after the prior sweep's 16:15 UTC cutoff: only 5 snapshot entries fell in the window (Charbonnet, Pollard, Spears, Ramsey, and a duplicate Anthony Johnson Jr. IR tag with no new information — no action needed on the last one). Cross-referenced all "Active"-status tracked-position snapshot entries against existing non-high-severity dashboard rows for clearance signals: 4 matches found — Brandin Echols (removed, above), Kene Nwangwu (updated, above), Billy Bowman Jr. (Falcons S — snapshot entry dated Sept 24, tied to last week's Thursday game, not a current-window signal, no action), and DJ Giddens (Colts RB — bare tag with no comment text, insufficient signal, kept per standing policy). Did not run a full 387-row absence sweep this cycle given the short ~6h window and thin snapshot delta; the standing finding (mid-severity IR/PUP/NFI rows structurally cycle out of ESPN's capped per-team recent-news feed without having recovered) continues to apply. Circuit breaker: not applicable — 1 removal proposed on 388 pre-run rows (0.3%).
+
+**Breaking-news sweep:** 4 WebSearch queries across all six tracked positions for the window. Surfaced and verified Travis Etienne Jr.'s IR placement (hamstring, four-plus weeks) across multiple independent outlets (NBC Sports, FantasyPros, Audacy/WWL Radio, ClutchPoints) — added above. Elgton Jenkins (C, Browns — out, concussion) confirmed via snapshot but excluded as out-of-scope (center is not a tracked position). Yahya Black (DE, Steelers) added to the Steelers' injury report as questionable, but for a personal matter, not an injury — excluded per scope. Discarded as stale/recycled or already tracked with no change: Nic Scourton (LB, Panthers — season-ending ACL, already on the board since the baseline sweep), Jalon Walker (LB, Falcons — August training-camp ACL tear, already tracked long ago), Billy Bowman Jr. (S, Falcons — last week's game-status note, not current), Breece Hall (RB, Jets — a search result's "Thursday"/quad framing matched the already-accurate existing thigh/quad row with no new development), Joey Porter Jr. and Rico Dowdle (both Steelers — already correctly tracked as ruled out, re-confirmed). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept 30, 6:05 PM ET ages off). 3 aged off this run (all added Sept 30 at 12:15 PM ET: Shavon Revel Jr., Percy Butler, Jonathan Bullard). 0 new NEW badges added (no new additions this run). Net badge count: 29 → 26. Tile counts updated and verified against current table rows: 154 high / 147 mid / 86 low / 387 all / 26 new.
