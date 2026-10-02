@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T05:46:31Z",
+  "timestamp": "2026-10-02T12:44:37Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -30219,11 +30219,11 @@
       "displayName": "Baltimore Ravens",
       "injuries": [
         {
-          "id": "-2023042",
+          "id": "-2023099",
           "longComment": "questionable",
           "shortComment": "questionable",
           "status": "Questionable",
-          "date": "2026-10-02T05:00Z",
+          "date": "2026-10-02T12:01Z",
           "athlete": {
             "firstName": "Chris",
             "lastName": "Moore",
@@ -30792,14 +30792,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2023042",
+                  "id": "-2023099",
                   "type": "news",
-                  "date": "2026-10-02T05:00Z",
+                  "date": "2026-10-02T12:01Z",
                   "headline": "questionable",
                   "text": "questionable",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/2576581/injuries/-2023042?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/2576581/injuries/-2023099?lang=en&region=us"
                   }
                 }
               ]
@@ -61129,7 +61129,7 @@
         },
         {
           "id": "640147",
-          "longComment": "Legette is considered week-to-week and is trending toward a second consecutive absence Sunday night against the Lions. He'll likely have to practice in some capacity Friday to avoid being ruled out on Friday's injury report. Brycen Tremayne, John Metchie and David Moore are candidates for increased roles in a Panthers wide receiver room that may also be without Jalen Coker (quadriceps), who practiced in limited fashion Thursday after sitting out Wednesday's session.",
+          "longComment": "Legette is considered week-to-week and is trending toward a second consecutive absence Sunday night against the Lions. He'll likely have to practice in some capacity Friday to avoid being ruled out on Friday's injury report. Brycen Tremayne, John Metchie and David Moore are candidates for increased roles in a Panthers wide receiver room that may also be without Jalen Coker (quadriceps), who practiced in a limited fashion Thursday after sitting out Wednesday's session.",
           "shortComment": "Legette (knee) remained a non-participant at Thursday's practice.",
           "status": "Doubtful",
           "date": "2026-10-01T19:42Z",
@@ -61705,7 +61705,7 @@
                   "type": "news",
                   "date": "2026-10-01T19:42Z",
                   "headline": "Legette (knee) remained a non-participant at Thursday's practice.",
-                  "text": "Legette is considered week-to-week and is trending toward a second consecutive absence Sunday night against the Lions. He'll likely have to practice in some capacity Friday to avoid being ruled out on Friday's injury report. Brycen Tremayne, John Metchie and David Moore are candidates for increased roles in a Panthers wide receiver room that may also be without Jalen Coker (quadriceps), who practiced in limited fashion Thursday after sitting out Wednesday's session.",
+                  "text": "Legette is considered week-to-week and is trending toward a second consecutive absence Sunday night against the Lions. He'll likely have to practice in some capacity Friday to avoid being ruled out on Friday's injury report. Brycen Tremayne, John Metchie and David Moore are candidates for increased roles in a Panthers wide receiver room that may also be without Jalen Coker (quadriceps), who practiced in a limited fashion Thursday after sitting out Wednesday's session.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4430034/injuries/640147?lang=en&region=us"
@@ -75666,11 +75666,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2023041",
-          "longComment": "out",
-          "shortComment": "out",
-          "status": "Out",
-          "date": "2026-10-02T05:00Z",
+          "id": "-2023098",
+          "longComment": "ir",
+          "shortComment": "ir",
+          "status": "Injured Reserve",
+          "date": "2026-10-02T12:01Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76239,14 +76239,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2023041",
+                  "id": "-2023098",
                   "type": "news",
-                  "date": "2026-10-02T05:00Z",
-                  "headline": "out",
-                  "text": "out",
+                  "date": "2026-10-02T12:01Z",
+                  "headline": "ir",
+                  "text": "ir",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2023041?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2023098?lang=en&region=us"
                   }
                 }
               ]
@@ -76264,20 +76264,18 @@
             "state": "basic"
           },
           "type": {
-            "id": "4",
-            "name": "INJURY_STATUS_OUT",
-            "description": "out",
-            "abbreviation": "O"
+            "id": "5",
+            "name": "INJURY_STATUS_IR",
+            "description": "Injured Reserve",
+            "abbreviation": "IR"
           },
           "details": {
             "fantasyStatus": {
-              "description": "OUT",
-              "abbreviation": "OUT"
+              "description": "IR",
+              "abbreviation": "IR"
             },
             "type": "Undisclosed",
             "location": "Other",
-            "detail": "Not Specified",
-            "side": "Not Specified",
             "returnDate": "2026-10-18"
           }
         },
@@ -106017,7 +106015,7 @@
       "injuries": [
         {
           "id": "640274",
-          "longComment": "Concepcion and fellow rookie Denzel Boston continued to spark the Browns' air attack Thursday, and the former finished second in receptions and receiving yards while setting the pace in targets. Concepcion's catch and yardage totals also qualified as new career highs, and the productive night served as a welcome bounce-back effort after the rookie first-round pick had been held to 2-9-0 line in the Week 3 win over the Panthers. Concepcion should continue to garner plenty of Deshaun Watson's attention in a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
+          "longComment": "Concepcion and fellow rookie Denzel Boston continued to spark the Browns' air attack Thursday, and the former finished second in receptions and receiving yards while setting the pace in targets. Concepcion's catch and yardage totals also qualified as new career highs, and the productive night served as a welcome bounce-back effort after the rookie first-round pick had been held to 2-9-0 receiving line in the Week 3 win over the Panthers. He should continue to garner plenty of Deshaun Watson's attention in a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
           "shortComment": "Concepcion secured five of eight targets for 64 yards and returned two punts for 10 yards in the Browns' 27-24 win over the Steelers on Thursday.",
           "status": "Active",
           "date": "2026-10-02T05:10Z",
@@ -106593,7 +106591,7 @@
                   "type": "news",
                   "date": "2026-10-02T05:10Z",
                   "headline": "Concepcion secured five of eight targets for 64 yards and returned two punts for 10 yards in the Browns' 27-24 win over the Steelers on Thursday.",
-                  "text": "Concepcion and fellow rookie Denzel Boston continued to spark the Browns' air attack Thursday, and the former finished second in receptions and receiving yards while setting the pace in targets. Concepcion's catch and yardage totals also qualified as new career highs, and the productive night served as a welcome bounce-back effort after the rookie first-round pick had been held to 2-9-0 line in the Week 3 win over the Panthers. Concepcion should continue to garner plenty of Deshaun Watson's attention in a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
+                  "text": "Concepcion and fellow rookie Denzel Boston continued to spark the Browns' air attack Thursday, and the former finished second in receptions and receiving yards while setting the pace in targets. Concepcion's catch and yardage totals also qualified as new career highs, and the productive night served as a welcome bounce-back effort after the rookie first-round pick had been held to 2-9-0 receiving line in the Week 3 win over the Panthers. He should continue to garner plenty of Deshaun Watson's attention in a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
                   "source": "RotoWire"
                 }
               ]
@@ -394050,7 +394048,7 @@
       "injuries": [
         {
           "id": "640276",
-          "longComment": "Wilson capped off a marathon 17-play opening drive for the Steelers with a play that showcased his speed, as the second-year wideout scored from 12 yards out on a shovel pass from Aaron Rodgers. Wilson has at least three catches in each of his first four games, and Thursday's yardage total established a new season high after he'd also done so with his 60-yard tally in Week 3. Wilson also has exactly six targets in each contest thus far, cementing him as a key complementary component of the air attack heading into a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
+          "longComment": "Wilson capped off a marathon 17-play opening drive for the Steelers with a play by showcasing his speed, as the second-year wideout scored from 12 yards out on a shovel pass from Aaron Rodgers. Wilson has at least three catches in each of his first four games, and Thursday's yardage total established a new season high after he'd also done so with his 60-yard tally in Week 3. Wilson also has exactly six targets in each contest thus far, cementing him as a key complementary component of the air attack heading into a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
           "shortComment": "Wilson brought in three of six targets for 74 yards and a touchdown in the Steelers' 27-24 loss to the Browns on Thursday.",
           "status": "Active",
           "date": "2026-10-02T05:23Z",
@@ -394626,7 +394624,7 @@
                   "type": "news",
                   "date": "2026-10-02T05:23Z",
                   "headline": "Wilson brought in three of six targets for 74 yards and a touchdown in the Steelers' 27-24 loss to the Browns on Thursday.",
-                  "text": "Wilson capped off a marathon 17-play opening drive for the Steelers with a play that showcased his speed, as the second-year wideout scored from 12 yards out on a shovel pass from Aaron Rodgers. Wilson has at least three catches in each of his first four games, and Thursday's yardage total established a new season high after he'd also done so with his 60-yard tally in Week 3. Wilson also has exactly six targets in each contest thus far, cementing him as a key complementary component of the air attack heading into a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
+                  "text": "Wilson capped off a marathon 17-play opening drive for the Steelers with a play by showcasing his speed, as the second-year wideout scored from 12 yards out on a shovel pass from Aaron Rodgers. Wilson has at least three catches in each of his first four games, and Thursday's yardage total established a new season high after he'd also done so with his 60-yard tally in Week 3. Wilson also has exactly six targets in each contest thus far, cementing him as a key complementary component of the air attack heading into a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
                   "source": "RotoWire"
                 }
               ]
@@ -394652,7 +394650,7 @@
         },
         {
           "id": "640275",
-          "longComment": "Freiermuth and fellow tight end Darnell Washington each had three catches and a touchdown on five targets, as the two continued in a pretty even timeshare at the position. Freiermuth's scoring grab was particularly timely, as it came with 1:42 remaining and put the Steelers within two points of knotting the game up at 24-24. Freiermuth has multiple receptions in every game this season and a pair of touchdown catches, and he should remain in a similar role when Pittsburgh returns to action to face off with the Colts in a Week 5 home matchup on Sunday, Oct. 11.",
+          "longComment": "Freiermuth and fellow tight end Darnell Washington each had three catches and a touchdown on five targets, as the two continued in a pretty even timeshare at the position. Freiermuth's scoring grab was particularly timely, as it came with 1:42 remaining and put the Steelers within two points of knotting the game up at 24-24. Freiermuth has multiple receptions in every game this season and a pair of touchdown catches, and he should remain in a similar role when Pittsburgh returns to action in a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
           "shortComment": "Freiermuth brought in three of five targets for 17 yards and a touchdown in the Steelers' 27-24 loss to the Browns on Thursday.",
           "status": "Active",
           "date": "2026-10-02T05:18Z",
@@ -395228,7 +395226,7 @@
                   "type": "news",
                   "date": "2026-10-02T05:18Z",
                   "headline": "Freiermuth brought in three of five targets for 17 yards and a touchdown in the Steelers' 27-24 loss to the Browns on Thursday.",
-                  "text": "Freiermuth and fellow tight end Darnell Washington each had three catches and a touchdown on five targets, as the two continued in a pretty even timeshare at the position. Freiermuth's scoring grab was particularly timely, as it came with 1:42 remaining and put the Steelers within two points of knotting the game up at 24-24. Freiermuth has multiple receptions in every game this season and a pair of touchdown catches, and he should remain in a similar role when Pittsburgh returns to action to face off with the Colts in a Week 5 home matchup on Sunday, Oct. 11.",
+                  "text": "Freiermuth and fellow tight end Darnell Washington each had three catches and a touchdown on five targets, as the two continued in a pretty even timeshare at the position. Freiermuth's scoring grab was particularly timely, as it came with 1:42 remaining and put the Steelers within two points of knotting the game up at 24-24. Freiermuth has multiple receptions in every game this season and a pair of touchdown catches, and he should remain in a similar role when Pittsburgh returns to action in a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
                   "source": "RotoWire"
                 }
               ]
@@ -395254,7 +395252,7 @@
         },
         {
           "id": "640270",
-          "longComment": "Rodgers' final line underscores the type of uneven night it was for the future Hall of Famer and the Steelers' offense as a whole. Rodgers got started on the right foot by leading a marathon 17-play, 78-yard drive that consumed 9:48 on Pittsburgh's opening drive, one he capped off with a 12-yard touchdown shovel pass to Roman Wilson. Rodgers would go on to add 21- and three-yard scoring tosses in the fourth quarter to tight ends Darnell Washington and Pat Freiermuth, respectively, the latter which the 22-year veteran followed up with a game-tying two-point conversion quarterback sneak. However, Rodgers' one non-Hail Mary interception in the second quarter, which was largely the result of his arm being hit as he threw, did lead to a Cleveland touchdown. Rodgers, who now has consecutive three-touchdown tallies, will look to regroup over the extended time between Thursday and a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
+          "longComment": "Rodgers' final line underscores the type of uneven night it was for the future Hall of Famer and the Steelers offense as a whole. He got started on the right foot by leading a marathon 17-play, 78-yard drive that consumed 9:48 on Pittsburgh's opening drive, one he capped off with a 12-yard touchdown shovel pass to Roman Wilson. Rodgers would go on to add 21- and three-yard scoring tosses in the fourth quarter to tight ends Darnell Washington and Pat Freiermuth, respectively, the latter which the 22-year veteran followed up with a game-tying two-point conversion quarterback sneak. However, Rodgers' one non-Hail Mary interception in the second quarter, which was largely the result of his arm being hit as he threw, did lead to a Cleveland touchdown. Rodgers, who now has consecutive three-touchdown tallies, will look to regroup over the extended time between Thursday and a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
           "shortComment": "Rodgers completed 22 of 40 passes for 299 yards with three touchdowns and two interceptions in the Steelers' 27-24 loss to the Browns on Thursday. He also ran in a game-tying two-point conversion.",
           "status": "Active",
           "date": "2026-10-02T04:48Z",
@@ -454720,6 +454718,622 @@
       "displayName": "Tennessee Titans",
       "injuries": [
         {
+          "id": "640166",
+          "longComment": "In addition to being stuck behind Tony Pollard on the depth chart, Spears also is the less healthy of Tennessee's top two running backs, as Pollard returned to practice without limitations Thursday after both sat out Wednesday. Spears played through a questionable designation against the Giants in Week 3 but handled just three touches. Barring an upgrade to full participation Friday, Spears looks likely to remain questionable for Sunday's game against the Ravens.",
+          "shortComment": "Spears (ankle) was a limited participant at Thursday's practice.",
+          "status": "Questionable",
+          "date": "2026-10-01T20:28Z",
+          "athlete": {
+            "firstName": "Tyjae",
+            "lastName": "Spears",
+            "displayName": "Tyjae Spears",
+            "shortName": "T. Spears",
+            "links": [
+              {
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4428557/tyjae-spears",
+                "text": "Player Card",
+                "shortText": "Player Card",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/stats/_/id/4428557/tyjae-spears",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=stats",
+                "text": "Stats",
+                "shortText": "Stats",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/splits/_/id/4428557/tyjae-spears",
+                "text": "Splits",
+                "shortText": "Splits",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4428557/tyjae-spears",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "gamelog",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=gamelog",
+                "text": "Game Log",
+                "shortText": "Game Log",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/news/_/id/4428557/tyjae-spears",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "news",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=news",
+                "text": "News",
+                "shortText": "News",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/bio/_/id/4428557/tyjae-spears",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "bio",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=bio",
+                "text": "Bio",
+                "shortText": "Bio",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "desktop",
+                  "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4428557/tyjae-spears",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              },
+              {
+                "language": "en-US",
+                "rel": [
+                  "overview",
+                  "sportscenter",
+                  "app",
+                  "athlete"
+                ],
+                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557",
+                "text": "Overview",
+                "shortText": "Overview",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4428557.png",
+              "alt": "Tyjae Spears"
+            },
+            "position": {
+              "id": "9",
+              "name": "Running Back",
+              "displayName": "Running Back",
+              "abbreviation": "RB",
+              "leaf": true
+            },
+            "team": {
+              "id": "10",
+              "uid": "s:20~l:28~t:10",
+              "slug": "tennessee-titans",
+              "name": "Titans",
+              "abbreviation": "TEN",
+              "displayName": "Tennessee Titans",
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "default"
+                  ],
+                  "lastUpdated": "2026-03-20T19:56Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/ten.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "dark"
+                  ],
+                  "lastUpdated": "2026-03-20T19:56Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard"
+                  ],
+                  "lastUpdated": "2026-03-20T19:56Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/ten.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "scoreboard",
+                    "dark"
+                  ],
+                  "lastUpdated": "2026-03-20T19:56Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/grayscale.png",
+                  "width": 500,
+                  "height": 500,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "grayscale"
+                  ],
+                  "lastUpdated": "2026-03-31T12:53Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "primary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_white_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_white_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_black_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_black_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_primary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_primary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_secondary_color.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_on_secondary_color"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_black.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_black"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                },
+                {
+                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_white.png",
+                  "width": 4096,
+                  "height": 4096,
+                  "alt": "",
+                  "rel": [
+                    "full",
+                    "secondary_logo_white"
+                  ],
+                  "lastUpdated": "2026-07-22T20:30Z"
+                }
+              ],
+              "links": [
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "clubhouse",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/_/name/ten/tennessee-titans",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/roster/_/name/ten/tennessee-titans",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "roster",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=roster",
+                  "text": "Roster",
+                  "shortText": "Roster",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/stats/_/name/ten/tennessee-titans",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "stats",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=stats",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/schedule/_/name/ten",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "schedule",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=scores",
+                  "text": "Schedule",
+                  "shortText": "Schedule",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "photos",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/photos/_/name/ten",
+                  "text": "photos",
+                  "shortText": "photos",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.vividseats.com/tennessee-titans-tickets--sports-nfl-football/performer/848?wsUser=717",
+                  "text": "Tickets",
+                  "shortText": "Tickets",
+                  "isExternal": true,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "draftpicks",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/draft/teams/_/name/ten/tennessee-titans",
+                  "text": "Draft Picks",
+                  "shortText": "Draft Picks",
+                  "isExternal": false,
+                  "isPremium": true
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "transactions",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/transactions/_/name/ten",
+                  "text": "Transactions",
+                  "shortText": "Transactions",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "injuries",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/injuries/_/name/ten",
+                  "text": "Injuries",
+                  "shortText": "Injuries",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "desktop",
+                    "team"
+                  ],
+                  "href": "https://www.espn.com/nfl/team/depth/_/name/ten",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en-US",
+                  "rel": [
+                    "depthchart",
+                    "sportscenter",
+                    "app",
+                    "team"
+                  ],
+                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=depthchart",
+                  "text": "Depth Chart",
+                  "shortText": "Depth Chart",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ]
+            },
+            "notes": {
+              "items": [
+                {
+                  "id": "640166",
+                  "type": "news",
+                  "date": "2026-10-01T20:28Z",
+                  "headline": "Spears (ankle) was a limited participant at Thursday's practice.",
+                  "text": "In addition to being stuck behind Tony Pollard on the depth chart, Spears also is the less healthy of Tennessee's top two running backs, as Pollard returned to practice without limitations Thursday after both sat out Wednesday. Spears played through a questionable designation against the Giants in Week 3 but handled just three touches. Barring an upgrade to full participation Friday, Spears looks likely to remain questionable for Sunday's game against the Ravens.",
+                  "source": "RotoWire",
+                  "injury": {
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4428557/injuries/640166?lang=en&region=us"
+                  }
+                }
+              ]
+            },
+            "status": {
+              "id": "1",
+              "name": "Active",
+              "type": "active",
+              "abbreviation": "Active"
+            }
+          },
+          "source": {
+            "id": "1",
+            "description": "basic/manual",
+            "state": "basic"
+          },
+          "type": {
+            "id": "2",
+            "name": "INJURY_STATUS_QUESTIONABLE",
+            "description": "questionable",
+            "abbreviation": "Q"
+          },
+          "details": {
+            "fantasyStatus": {
+              "description": "QUESTIONABLE",
+              "abbreviation": "QUESTIONABLE"
+            },
+            "type": "Ankle",
+            "location": "Leg",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-10-04"
+          }
+        },
+        {
           "id": "640164",
           "longComment": "It looks like Wednesday's missed practice was just a maintenance day for Pollard, who handled a season-high 21 touches in the Week 3 loss to the Giants after also sitting out practice the Wednesday preceding that game. Pollard continues to work ahead of Tyjae Spears (ankle), who was limited Thursday after missing Wednesday's practice. Barring a setback, Pollard is poised to head into Sunday's game at Baltimore without an injury designation.",
           "shortComment": "Pollard (foot) practiced without limitations Thursday.",
@@ -455319,622 +455933,6 @@
             "name": "INJURY_STATUS_ACTIVE",
             "description": "active",
             "abbreviation": "A"
-          }
-        },
-        {
-          "id": "640138",
-          "longComment": "Tennessee's top two running backs sat out Wednesday's practice, but both Spears and Pollard are expected to resume practicing Thursday. Spears' ankle injury also hindered his practice participation leading up to this past Sunday's loss against the Giants, during which Spears handled only three touches. The change-of-pace running back can typically be expected to garner a touch count in the high single digits, though that number could climb higher if Spears gets close to full health and Pollard's foot injury limits Tennessee's lead back Sunday in Baltimore.",
-          "shortComment": "Spears (ankle) and Tony Pollard (foot) will both practice Thursday, per head coach Robert Saleh, Jim Wyatt of the Titans' official site reports.",
-          "status": "Questionable",
-          "date": "2026-10-01T16:52Z",
-          "athlete": {
-            "firstName": "Tyjae",
-            "lastName": "Spears",
-            "displayName": "Tyjae Spears",
-            "shortName": "T. Spears",
-            "links": [
-              {
-                "language": "en-US",
-                "rel": [
-                  "playercard",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4428557/tyjae-spears",
-                "text": "Player Card",
-                "shortText": "Player Card",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/stats/_/id/4428557/tyjae-spears",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "stats",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=stats",
-                "text": "Stats",
-                "shortText": "Stats",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "splits",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/splits/_/id/4428557/tyjae-spears",
-                "text": "Splits",
-                "shortText": "Splits",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/gamelog/_/id/4428557/tyjae-spears",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "gamelog",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=gamelog",
-                "text": "Game Log",
-                "shortText": "Game Log",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/news/_/id/4428557/tyjae-spears",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "news",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=news",
-                "text": "News",
-                "shortText": "News",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/bio/_/id/4428557/tyjae-spears",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "bio",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557&section=bio",
-                "text": "Bio",
-                "shortText": "Bio",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "desktop",
-                  "athlete"
-                ],
-                "href": "https://www.espn.com/nfl/player/_/id/4428557/tyjae-spears",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              },
-              {
-                "language": "en-US",
-                "rel": [
-                  "overview",
-                  "sportscenter",
-                  "app",
-                  "athlete"
-                ],
-                "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4428557",
-                "text": "Overview",
-                "shortText": "Overview",
-                "isExternal": false,
-                "isPremium": false
-              }
-            ],
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4428557.png",
-              "alt": "Tyjae Spears"
-            },
-            "position": {
-              "id": "9",
-              "name": "Running Back",
-              "displayName": "Running Back",
-              "abbreviation": "RB",
-              "leaf": true
-            },
-            "team": {
-              "id": "10",
-              "uid": "s:20~l:28~t:10",
-              "slug": "tennessee-titans",
-              "name": "Titans",
-              "abbreviation": "TEN",
-              "displayName": "Tennessee Titans",
-              "logos": [
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "default"
-                  ],
-                  "lastUpdated": "2026-03-20T19:56Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/ten.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "dark"
-                  ],
-                  "lastUpdated": "2026-03-20T19:56Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard"
-                  ],
-                  "lastUpdated": "2026-03-20T19:56Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/ten.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "scoreboard",
-                    "dark"
-                  ],
-                  "lastUpdated": "2026-03-20T19:56Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/grayscale.png",
-                  "width": 500,
-                  "height": 500,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "grayscale"
-                  ],
-                  "lastUpdated": "2026-03-31T12:53Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/primary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "primary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_white_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_white_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_black_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_black_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_primary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_primary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_on_secondary_color.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_on_secondary_color"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_black.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_black"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                },
-                {
-                  "href": "https://a.espncdn.com/guid/0a0aea59-9a5e-01b3-57a3-0151cf4bf393/logos/secondary_logo_white.png",
-                  "width": 4096,
-                  "height": 4096,
-                  "alt": "",
-                  "rel": [
-                    "full",
-                    "secondary_logo_white"
-                  ],
-                  "lastUpdated": "2026-07-22T20:30Z"
-                }
-              ],
-              "links": [
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "clubhouse",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/_/name/ten/tennessee-titans",
-                  "text": "Clubhouse",
-                  "shortText": "Clubhouse",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/roster/_/name/ten/tennessee-titans",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "roster",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=roster",
-                  "text": "Roster",
-                  "shortText": "Roster",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/stats/_/name/ten/tennessee-titans",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "stats",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=stats",
-                  "text": "Statistics",
-                  "shortText": "Statistics",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/schedule/_/name/ten",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "schedule",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=scores",
-                  "text": "Schedule",
-                  "shortText": "Schedule",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "photos",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/photos/_/name/ten",
-                  "text": "photos",
-                  "shortText": "photos",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.vividseats.com/tennessee-titans-tickets--sports-nfl-football/performer/848?wsUser=717",
-                  "text": "Tickets",
-                  "shortText": "Tickets",
-                  "isExternal": true,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "draftpicks",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/draft/teams/_/name/ten/tennessee-titans",
-                  "text": "Draft Picks",
-                  "shortText": "Draft Picks",
-                  "isExternal": false,
-                  "isPremium": true
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "transactions",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/transactions/_/name/ten",
-                  "text": "Transactions",
-                  "shortText": "Transactions",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "injuries",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/injuries/_/name/ten",
-                  "text": "Injuries",
-                  "shortText": "Injuries",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "desktop",
-                    "team"
-                  ],
-                  "href": "https://www.espn.com/nfl/team/depth/_/name/ten",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                },
-                {
-                  "language": "en-US",
-                  "rel": [
-                    "depthchart",
-                    "sportscenter",
-                    "app",
-                    "team"
-                  ],
-                  "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:10&section=depthchart",
-                  "text": "Depth Chart",
-                  "shortText": "Depth Chart",
-                  "isExternal": false,
-                  "isPremium": false
-                }
-              ]
-            },
-            "notes": {
-              "items": [
-                {
-                  "id": "640138",
-                  "type": "news",
-                  "date": "2026-10-01T16:52Z",
-                  "headline": "Spears (ankle) and Tony Pollard (foot) will both practice Thursday, per head coach Robert Saleh, Jim Wyatt of the Titans' official site reports.",
-                  "text": "Tennessee's top two running backs sat out Wednesday's practice, but both Spears and Pollard are expected to resume practicing Thursday. Spears' ankle injury also hindered his practice participation leading up to this past Sunday's loss against the Giants, during which Spears handled only three touches. The change-of-pace running back can typically be expected to garner a touch count in the high single digits, though that number could climb higher if Spears gets close to full health and Pollard's foot injury limits Tennessee's lead back Sunday in Baltimore.",
-                  "source": "RotoWire",
-                  "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4428557/injuries/640138?lang=en&region=us"
-                  }
-                }
-              ]
-            },
-            "status": {
-              "id": "1",
-              "name": "Active",
-              "type": "active",
-              "abbreviation": "Active"
-            }
-          },
-          "source": {
-            "id": "1",
-            "description": "basic/manual",
-            "state": "basic"
-          },
-          "type": {
-            "id": "2",
-            "name": "INJURY_STATUS_QUESTIONABLE",
-            "description": "questionable",
-            "abbreviation": "Q"
-          },
-          "details": {
-            "fantasyStatus": {
-              "description": "QUESTIONABLE",
-              "abbreviation": "QUESTIONABLE"
-            },
-            "type": "Ankle",
-            "location": "Leg",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-10-04"
           }
         },
         {
@@ -471065,7 +471063,7 @@
         },
         {
           "id": "640150",
-          "longComment": "Okonkwo was estimated to be a limited participant at Wednesday's walk-through, and his status remained unchanged the following day. The offseason acquisition hurt his hamstring in his Commanders debut and hasn't suited up since, but Okonkwo has a chance to return for Sunday's game against the Colts in London. Once cleared for action, Okonkwo figures to reclaim his spot atop the tight end depth chart.",
+          "longComment": "Okonkwo was estimated to be a limited participant at Wednesday's walkthrough, and his status remained unchanged the following day. The offseason acquisition hurt his hamstring in his Commanders debut and hasn't suited up since, but Okonkwo has a chance to return for Sunday's game against the Colts in London. Once cleared for action, Okonkwo figures to reclaim his spot atop the tight end depth chart.",
           "shortComment": "Okonkwo (hamstring) was a limited participant at Thursday's practice.",
           "status": "Questionable",
           "date": "2026-10-01T20:02Z",
@@ -471641,7 +471639,7 @@
                   "type": "news",
                   "date": "2026-10-01T20:02Z",
                   "headline": "Okonkwo (hamstring) was a limited participant at Thursday's practice.",
-                  "text": "Okonkwo was estimated to be a limited participant at Wednesday's walk-through, and his status remained unchanged the following day. The offseason acquisition hurt his hamstring in his Commanders debut and hasn't suited up since, but Okonkwo has a chance to return for Sunday's game against the Colts in London. Once cleared for action, Okonkwo figures to reclaim his spot atop the tight end depth chart.",
+                  "text": "Okonkwo was estimated to be a limited participant at Wednesday's walkthrough, and his status remained unchanged the following day. The offseason acquisition hurt his hamstring in his Commanders debut and hasn't suited up since, but Okonkwo has a chance to return for Sunday's game against the Colts in London. Once cleared for action, Okonkwo figures to reclaim his spot atop the tight end depth chart.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4360635/injuries/640150?lang=en&region=us"
