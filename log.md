@@ -7014,3 +7014,33 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch confirmed Joey Porter Jr.'s trade to the Cowboys and his new team's injury designation, resolving an otherwise-ambiguous vanished-from-snapshot case. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 30, 9:15 PM ET ages off). 4 aged off this run (Monroe Freeling, Princely Umanmielen, Rachaad White, Tyjae Spears — all added Sept. 30 at 6:10 PM ET). 5 new NEW badges added (list above). Net badge count: 26 → 23. Tile counts updated and verified against current table rows: 154 high / 147 mid / 84 low / 385 all / 23 new.
+
+## Oct 2, 2026, 12:15 PM ET
+
+~15h window since the 9:15 PM ET sweep, covering the aftermath of Thursday Night Football (Browns 27, Steelers 24) and Thursday practice reports league-wide.
+
+**New injuries:**
+- Mason Graham (DT, Browns) — knee, left on crutches in a brace after Thursday's (Oct 1) win over the Steelers; MRI pending, early belief is it may not be significant. Severity: mid.
+- Derrick Harmon (DT, Steelers) — foot, ruled out from returning to Thursday's game vs. the Browns. Severity: low.
+- Jamel Dean (CB, Steelers) — ankle, ruled out from returning to Thursday's game vs. the Browns. Severity: low.
+- Dondrea Tillman (LB, Broncos) — hamstring, did not practice Wednesday or Thursday. Severity: low.
+- Kaden Elliss (LB, Saints) — calf, did not participate at Thursday's practice. Severity: low.
+- Donte Jackson (CB, Chargers) — concussion, limited participant at Thursday's practice. Severity: low.
+- Julian Blackmon (S, Saints) — calf, limited participant at Thursday's practice. Severity: low.
+- Andrew Thomas (OT, Giants) — groin (recurring), did not participate at Thursday's practice. Severity: low.
+
+**Status and designation changes:** None this run.
+
+**Removals (6) — all confirmed cleared/on track to play, verified via comment content:**
+- Mack Wilson Sr. (LB, Cardinals) — good to go for Sunday after increasing practice participation.
+- Treydan Stukes (S, Raiders) — cleared concussion protocol, on track to return Sunday.
+- Brandon Pili (DT, Seahawks) — appears good to go for Sunday's matchup.
+- Josiah Trotter (LB, Buccaneers) — back to full health, likely back in his starting role.
+- Joey Porter Jr. (CB, Cowboys) — wasn't listed on the Cowboys' injury report Friday.
+- Martin Emerson Jr. (CB, Saints) — full practice session, appears he will be back on the field.
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-02T12:44:39Z, fresh at run start). Filtered to the six tracked positions (477 tracked entries across 32 teams, 178 non-Active) and diffed by player+team against all 385 pre-run dashboard rows: 112 matched a snapshot entry (10 read "Active" — comment content confirmed 6 as genuinely cleared/on-track-to-play and removed above; the rest remain ambiguous or still recovering, including Jalen Ramsey who continues playing through a confirmed broken wrist, and were kept unchanged per the standing Marcus Epps rule), the rest had no matching snapshot entry (143 high-sev exempt; 112 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern). Of 52 snapshot entries not matched to an existing row, 8 carried real injury detail and were added above; the rest were bare tags with no injury description. Circuit breaker: not applicable — 6 removals proposed on 385 pre-run rows (1.6%).
+
+**Breaking-news sweep:** WebSearch confirmed Mason Graham's knee injury details (crutches, brace, MRI pending, cautious optimism) beyond the snapshot's comment text. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Oct. 1, 12:15 PM ET ages off). 11 aged off this run (all rows added Sept. 30 at 9:15 PM ET: Bucky Irving, Christian Gonzalez, D.J. Reed, George Holani, Jadarian Price, Keaton Mitchell, Kyle Dugger, LeQuint Allen Jr., Reggie Gilliam, Tyrone Tracy Jr., Azeez Al-Shaair). 8 new NEW badges added (list above). Net badge count: 23 → 18. Tile counts updated and verified against current table rows: 154 high / 148 mid / 85 low / 387 all / 18 new.
