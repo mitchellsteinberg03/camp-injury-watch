@@ -6985,3 +6985,32 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** 4 WebSearch queries across all six tracked positions for the window. Surfaced and verified Travis Etienne Jr.'s IR placement (hamstring, four-plus weeks) across multiple independent outlets (NBC Sports, FantasyPros, Audacy/WWL Radio, ClutchPoints) — added above. Elgton Jenkins (C, Browns — out, concussion) confirmed via snapshot but excluded as out-of-scope (center is not a tracked position). Yahya Black (DE, Steelers) added to the Steelers' injury report as questionable, but for a personal matter, not an injury — excluded per scope. Discarded as stale/recycled or already tracked with no change: Nic Scourton (LB, Panthers — season-ending ACL, already on the board since the baseline sweep), Jalon Walker (LB, Falcons — August training-camp ACL tear, already tracked long ago), Billy Bowman Jr. (S, Falcons — last week's game-status note, not current), Breece Hall (RB, Jets — a search result's "Thursday"/quad framing matched the already-accurate existing thigh/quad row with no new development), Joey Porter Jr. and Rico Dowdle (both Steelers — already correctly tracked as ruled out, re-confirmed). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Sept 30, 6:05 PM ET ages off). 3 aged off this run (all added Sept 30 at 12:15 PM ET: Shavon Revel Jr., Percy Butler, Jonathan Bullard). 0 new NEW badges added (no new additions this run). Net badge count: 29 → 26. Tile counts updated and verified against current table rows: 154 high / 147 mid / 86 low / 387 all / 26 new.
+
+## Oct 1, 2026, 9:15 PM ET
+
+~3h window since the 6:05 PM ET sweep, covering Thursday's final practice reports and a mid-week trade.
+
+**New injuries:**
+- D'Andre Swift (RB, Bears) — knee, did not participate in Thursday's practice. Severity: low.
+- British Brooks (RB, Texans) — hamstring, did not participate in Thursday's practice. Severity: low.
+- Joey Porter Jr. (CB, Cowboys) — back, traded from the Steelers mid-week; has a chance to make his Cowboys debut Sunday vs. the Texans. Severity: low.
+- Kingsley Enagbare (LB, Jets) — knee, unable to participate in Thursday's practice. Severity: low.
+- Aaron Donald (DT, Rams) — back, sidelined at Thursday's practice. Severity: low.
+
+**Status and designation changes:**
+- Jalen Ramsey (CB, Steelers) — confirmed broken wrist suffered in the Week 3 (Sept 28) win over the Bengals; playing through it, appeared in Thursday's game vs. the Browns.
+
+**Removals (7) — all confirmed cleared/traded off the Steelers' report, verified via comment content and WebSearch:**
+- Will Anderson Jr. (DE, Texans) — appears good to go for Sunday vs. the Cowboys.
+- Jaylen Wright (RB, Dolphins) — upgraded to full practice activity Thursday.
+- Minkah Fitzpatrick (S, Jets) — appears set to return to his starting safety role after missing two games.
+- Kene Nwangwu (RB, Jets) — took every rep in Thursday's session, back issue seemingly behind him.
+- Jihaad Campbell (LB, Eagles) — limited practice despite a new knee injury is a good sign; should avoid a designation.
+- Tony Pollard (RB, Titans) — Wednesday's missed practice was just a maintenance day; handled a season-high 21 touches in Week 3.
+- Joey Porter Jr. (CB, Steelers) — traded to the Cowboys mid-week (re-added above under his new team with a live injury designation).
+
+**Reconciliation:** Ran full reconciliation against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-01T23:55:45Z, ~1h08m old at run start — fresh). Filtered to the six tracked positions (479 tracked entries across 32 teams, 179 non-Active) and diffed by player+team against all 387 pre-run dashboard rows: 117 matched a snapshot entry (15 read "Active" — comment content confirmed 6 as genuinely cleared/trending-to-play and removed above; the rest remain ambiguous or still recovering and kept unchanged per the standing Marcus Epps rule), the rest had no matching snapshot entry (143 high-sev exempt; 111 mid-sev unmatched remain IR/Reserve-PUP/NFI/injury-settlement designations, consistent with the established pattern; 1 low-sev unmatched — Joey Porter Jr., Steelers — vanished-checked via WebSearch and found to have been traded to the Cowboys mid-week, removed from the Steelers' entry and re-added under Dallas). Of 55 snapshot entries not matched to an existing row, 5 carried real injury detail and were added above; the rest were bare tags with no injury description. Circuit breaker: not applicable — 7 removals proposed on 387 pre-run rows (1.8%), well under the 25% threshold.
+
+**Breaking-news sweep:** WebSearch confirmed Joey Porter Jr.'s trade to the Cowboys and his new team's injury designation, resolving an otherwise-ambiguous vanished-from-snapshot case. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Sept. 30, 9:15 PM ET ages off). 4 aged off this run (Monroe Freeling, Princely Umanmielen, Rachaad White, Tyjae Spears — all added Sept. 30 at 6:10 PM ET). 5 new NEW badges added (list above). Net badge count: 26 → 23. Tile counts updated and verified against current table rows: 154 high / 147 mid / 84 low / 385 all / 23 new.
