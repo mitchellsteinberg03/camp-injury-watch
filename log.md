@@ -7044,3 +7044,29 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch confirmed Mason Graham's knee injury details (crutches, brace, MRI pending, cautious optimism) beyond the snapshot's comment text. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Oct. 1, 12:15 PM ET ages off). 11 aged off this run (all rows added Sept. 30 at 9:15 PM ET: Bucky Irving, Christian Gonzalez, D.J. Reed, George Holani, Jadarian Price, Keaton Mitchell, Kyle Dugger, LeQuint Allen Jr., Reggie Gilliam, Tyrone Tracy Jr., Azeez Al-Shaair). 8 new NEW badges added (list above). Net badge count: 23 → 18. Tile counts updated and verified against current table rows: 154 high / 148 mid / 85 low / 387 all / 18 new.
+
+## Oct 2, 2026, 6:10 PM ET
+
+~6h window since the 12:15 PM ET sweep, covering Friday afternoon's official practice participation and final Week 4 injury/game-status reports.
+
+**New injuries:**
+- Benjamin Morrison (CB, Buccaneers) — quadriceps, ruled out for Sunday's game against the Packers. Severity: low.
+- Jacob Monk (G, Packers) — quadriceps, did not practice all week after leaving the Week 3 game vs. the Falcons; ruled out for Sunday's game against the Buccaneers. Severity: low.
+- Jager Burton (G, Packers) — groin, added to the injury report Thursday, limited practice Thursday and Friday; questionable for Sunday's game against the Buccaneers. Severity: low.
+- Ray Davis (RB, Bills) — hamstring, questionable for Sunday's game against the Patriots. Severity: low.
+
+**Status and designation changes:**
+- Rueben Bain Jr. (LB, Buccaneers) — added shoulder alongside the groin injury; ruled out for Sunday's game against the Packers (replaced a stale "vs. the Vikings" opponent reference). Stays low.
+- Edgerrin Cooper (LB, Packers) — added shoulder alongside the concussion; questionable for Sunday's game against the Buccaneers (replaced a stale Sept 24 in-game reference). Stays low.
+- Warren Brinson (DT, Packers) — added groin alongside the calf injury; ruled out for Sunday's game against the Buccaneers with no return timetable (replaced a stale "third straight game/Thursday vs. the Falcons" reference). Stays mid.
+
+**Removals (3) — all confirmed cleared via WebSearch:**
+- Frankie Luvu (LB, Commanders) — no injury designation; set to play Sunday vs. the Colts in London after a full week of limited practice.
+- Princely Umanmielen (LB, Panthers) — full practice participant Thursday and Friday on a since-resolved ankle issue (initial groin tag from training-camp had long since become ankle); no longer any concern about his status.
+- D'Andre Swift (RB, Bears) — full participant Friday, taken off the injury report; good to go for Sunday vs. the Jets.
+
+**Reconciliation:** Ran against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-02T19:22:05Z, well under 1h old at run start — current). Filtered the snapshot to the six tracked positions (443 entries across 32 teams) and diffed by player+team against all 387 pre-run dashboard rows: 124 matched a snapshot entry (7 read "Active" — WebSearch confirmed 3 as genuinely recovered and removed above; the other 4 — Billy Bowman Jr., Jalen Ramsey, Blake Cashman, DJ Giddens — were stale/ambiguous/bare and kept unchanged per the standing policy). 263 had no matching snapshot entry (143 high-severity, exempt; 115 mid / 5 low unmatched, consistent with the established finding from prior runs that ESPN's per-team injuries feed is capped to recent news and structurally drops standing mid/low designations without the player having recovered — spot-checked three via WebSearch this run, Bam Martin-Scott and Jonathon Brooks (Panthers, RB/LB) and Travis Etienne Jr. (Saints RB), all confirmed still out/on IR, no change needed). Circuit breaker: not applicable — 3 verified removals on 387 pre-run rows (0.8%), well under the 25% threshold.
+
+**Breaking-news sweep:** 7 WebSearch queries across all six tracked positions for the Friday practice-report window. Surfaced and added the four new rows above via official team-site reports (Packers, Buccaneers, Bills). Confirmed Jaycee Horn and Mike Jackson (Panthers CBs, both placed on IR Sept 30) and De'Von Achane (RB, Dolphins, torn ACL/IR) and Brian Burns (LB, Giants, torn ACL) were already correctly tracked with no new information. Discarded as already-tracked with no change, or bare/uninformative: Trent Williams, Fred Johnson, Braxton Jones, Aaron Banks, Sam Cosmi, Greg Van Roten, Dylan Parham, Zach Bako-Bewele, Cobie Durant, plus numerous bare "questionable"/"out" snapshot tags dated Sept 30–Oct 1 across all six positions with no injury description. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 1, 6:10 PM ET ages off). 6 aged off this run (all added Oct 1 at 12:15 PM ET: Derwin James Jr., Lukas Van Ness, Nate Landman, Blake Cashman, Zack Baun, Will Shipley). 4 new NEW badges added (list above); 1 more (D'Andre Swift) left with the removal above. Net badge count: 18 → 15. Tile counts updated and verified against current table rows: 154 high / 148 mid / 86 low / 388 all / 15 new.
