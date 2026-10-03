@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-03T05:23:50Z",
+  "timestamp": "2026-10-03T11:44:48Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -30205,11 +30205,11 @@
       "displayName": "Baltimore Ravens",
       "injuries": [
         {
-          "id": "-2024080",
+          "id": "-2024113",
           "longComment": "questionable",
           "shortComment": "questionable",
           "status": "Questionable",
-          "date": "2026-10-03T05:01Z",
+          "date": "2026-10-03T10:00Z",
           "athlete": {
             "firstName": "Chris",
             "lastName": "Moore",
@@ -30778,14 +30778,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2024080",
+                  "id": "-2024113",
                   "type": "news",
-                  "date": "2026-10-03T05:01Z",
+                  "date": "2026-10-03T10:00Z",
                   "headline": "questionable",
                   "text": "questionable",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/2576581/injuries/-2024080?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/2576581/injuries/-2024113?lang=en&region=us"
                   }
                 }
               ]
@@ -75633,11 +75633,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2024079",
-          "longComment": "ir",
-          "shortComment": "ir",
-          "status": "Injured Reserve",
-          "date": "2026-10-03T05:01Z",
+          "id": "-2024112",
+          "longComment": "out",
+          "shortComment": "out",
+          "status": "Out",
+          "date": "2026-10-03T10:00Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76206,14 +76206,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2024079",
+                  "id": "-2024112",
                   "type": "news",
-                  "date": "2026-10-03T05:01Z",
-                  "headline": "ir",
-                  "text": "ir",
+                  "date": "2026-10-03T10:00Z",
+                  "headline": "out",
+                  "text": "out",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2024079?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2024112?lang=en&region=us"
                   }
                 }
               ]
@@ -76231,18 +76231,20 @@
             "state": "basic"
           },
           "type": {
-            "id": "5",
-            "name": "INJURY_STATUS_IR",
-            "description": "Injured Reserve",
-            "abbreviation": "IR"
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
           },
           "details": {
             "fantasyStatus": {
-              "description": "IR",
-              "abbreviation": "IR"
+              "description": "OUT",
+              "abbreviation": "OUT"
             },
             "type": "Undisclosed",
             "location": "Other",
+            "detail": "Not Specified",
+            "side": "Not Specified",
             "returnDate": "2026-10-18"
           }
         },
@@ -166655,7 +166657,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -167271,7 +167273,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -167887,7 +167889,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -168503,7 +168505,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -169119,7 +169121,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -169735,7 +169737,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -170337,7 +170339,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -170953,7 +170955,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -171555,7 +171557,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -172157,7 +172159,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -172759,7 +172761,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -173375,7 +173377,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -173991,7 +173993,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -174607,7 +174609,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -175209,7 +175211,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -175811,7 +175813,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -176413,7 +176415,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -177015,7 +177017,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -177617,7 +177619,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -178219,7 +178221,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -178821,7 +178823,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -179423,7 +179425,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -180025,7 +180027,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -180627,7 +180629,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -181229,7 +181231,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -258430,7 +258432,7 @@
         },
         {
           "id": "640371",
-          "longComment": "Kolar fractured his forearm during the Chargers' Week 2 loss to the Raiders. He'll miss a second consecutive game due to his injury, but the positive news for the fifth-year tight end is that he ended Week 4 prep with a limited practice Friday. Head coach Jim Harbaugh told reporters after Friday's session that Kolar is \"doing everything and anything possible\" to return to the field, and he could return as soon as Week 5 against the Broncos on Sunday, Oct. 11. For now, Oronde Gadsden will serve as the Chargers' TE1, with Hayden Rucci also in the mix for offensive snaps.",
+          "longComment": "Kolar fractured his forearm during the Chargers' Week 2 loss to the Raiders. He'll miss a second consecutive game due to his injury, but the positive news for the fifth-year tight end is that he ended Week 4 prep with a limited practice Friday. Head coach Jim Harbaugh told reporters after Friday's session that Kolar is \"doing everything and anything possible\" to return to the field, and he could get back as soon as Week 5 against the Broncos on Sunday, Oct. 11. For now, Oronde Gadsden will serve as the Chargers' TE1, with Hayden Rucci also in the mix for offensive snaps.",
           "shortComment": "Kolar (forearm) has been ruled out for Sunday's game against the Seahawks.",
           "status": "Out",
           "date": "2026-10-02T23:11Z",
@@ -259006,7 +259008,7 @@
                   "type": "news",
                   "date": "2026-10-02T23:11Z",
                   "headline": "Kolar (forearm) has been ruled out for Sunday's game against the Seahawks.",
-                  "text": "Kolar fractured his forearm during the Chargers' Week 2 loss to the Raiders. He'll miss a second consecutive game due to his injury, but the positive news for the fifth-year tight end is that he ended Week 4 prep with a limited practice Friday. Head coach Jim Harbaugh told reporters after Friday's session that Kolar is \"doing everything and anything possible\" to return to the field, and he could return as soon as Week 5 against the Broncos on Sunday, Oct. 11. For now, Oronde Gadsden will serve as the Chargers' TE1, with Hayden Rucci also in the mix for offensive snaps.",
+                  "text": "Kolar fractured his forearm during the Chargers' Week 2 loss to the Raiders. He'll miss a second consecutive game due to his injury, but the positive news for the fifth-year tight end is that he ended Week 4 prep with a limited practice Friday. Head coach Jim Harbaugh told reporters after Friday's session that Kolar is \"doing everything and anything possible\" to return to the field, and he could get back as soon as Week 5 against the Broncos on Sunday, Oct. 11. For now, Oronde Gadsden will serve as the Chargers' TE1, with Hayden Rucci also in the mix for offensive snaps.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4241263/injuries/640371?lang=en&region=us"
@@ -379098,7 +379100,7 @@
         },
         {
           "id": "640407",
-          "longComment": "Lemon, a rookie first-rounder, has seen his receiving yards steadily increase over the first three games of the regular season, and with Smith sidelined for at least one week, Lemon will have the opportunity to establish himself as a go-to target in the passing game for Jalen Hurts. The Rams will be without starting outside cornerback Jaylen Watson (shoulder), so whomever Los Angeles rolls out as a replacement could be a target that Lemon and the Eagles offense exploits.",
+          "longComment": "Lemon, a rookie first-rounder, has seen his receiving yards steadily increase over the first three games of the regular season, and with Smith sidelined for at least one week, the former will have the opportunity to establish himself as a go-to target in the passing game for Jalen Hurts. The Rams will be without starting outside cornerback Jaylen Watson (shoulder), so whomever Los Angeles rolls out as a replacement could be a target that Lemon and the Eagles offense exploits.",
           "shortComment": "Lemon and Dontayvion Wicks will both operate in larger roles against the Rams on Sunday due to the absence of DeVonta Smith (hamstring), Chris McPherson of the Eagles' official site reports.",
           "status": "Active",
           "date": "2026-10-03T00:31Z",
@@ -379674,7 +379676,7 @@
                   "type": "news",
                   "date": "2026-10-03T00:31Z",
                   "headline": "Lemon and Dontayvion Wicks will both operate in larger roles against the Rams on Sunday due to the absence of DeVonta Smith (hamstring), Chris McPherson of the Eagles' official site reports.",
-                  "text": "Lemon, a rookie first-rounder, has seen his receiving yards steadily increase over the first three games of the regular season, and with Smith sidelined for at least one week, Lemon will have the opportunity to establish himself as a go-to target in the passing game for Jalen Hurts. The Rams will be without starting outside cornerback Jaylen Watson (shoulder), so whomever Los Angeles rolls out as a replacement could be a target that Lemon and the Eagles offense exploits.",
+                  "text": "Lemon, a rookie first-rounder, has seen his receiving yards steadily increase over the first three games of the regular season, and with Smith sidelined for at least one week, the former will have the opportunity to establish himself as a go-to target in the passing game for Jalen Hurts. The Rams will be without starting outside cornerback Jaylen Watson (shoulder), so whomever Los Angeles rolls out as a replacement could be a target that Lemon and the Eagles offense exploits.",
                   "source": "RotoWire"
                 }
               ]
@@ -396632,8 +396634,8 @@
         },
         {
           "id": "640382",
-          "longComment": "Bernard was not targeted by Aaron Rodgers until late in the fourth quarter, with the duo connecting on passes for six and five yards to help set up a three-yard touchdown catch by Pat Freiermuth after the two-minute warning. The rookie second-rounder was on the field for 29 of the Steelers' 72 offensive snaps (40.3 percent), which was third-most among wide receivers behind DK Metcalf (70) and Michael Pittman (52) and ahead of Roman Wilson (22). Bernard has a 7-60-0 receiving line on 11 targets through four regular-season games, though his role in the offense will be limited behind Metcalf, Pittman, Freiermuth, Darnell Washington and Jaylen Warren. The Steelers head back home for Week 5 against the Colts on Sunday, Oct. 11.",
-          "shortComment": "Bernard caught both of his passes for 11 yards during the Steelers' 27-24 loss to the Browns on Thursday.",
+          "longComment": "Bernard was not targeted by Aaron Rodgers until late in the fourth quarter, with the duo connecting on passes for six and five yards to help set up a three-yard touchdown catch by Pat Freiermuth after the two-minute warning. The rookie second-rounder was on the field for 29 of the Steelers' 72 offensive snaps (40.3 percent), which was third most among wide receivers behind DK Metcalf (70) and Michael Pittman (52) and ahead of Roman Wilson (22). Bernard has a 7-60-0 line on 11 targets through four regular-season games, though his role in the offense will be limited behind Metcalf, Pittman, Freiermuth, Darnell Washington and Jaylen Warren. The Steelers head back home for Week 5 against the Colts on Sunday, Oct. 11.",
+          "shortComment": "Bernard caught both of his targets for 11 yards during the Steelers' 27-24 loss to the Browns on Thursday.",
           "status": "Active",
           "date": "2026-10-02T23:31Z",
           "athlete": {
@@ -397207,8 +397209,8 @@
                   "id": "640382",
                   "type": "news",
                   "date": "2026-10-02T23:31Z",
-                  "headline": "Bernard caught both of his passes for 11 yards during the Steelers' 27-24 loss to the Browns on Thursday.",
-                  "text": "Bernard was not targeted by Aaron Rodgers until late in the fourth quarter, with the duo connecting on passes for six and five yards to help set up a three-yard touchdown catch by Pat Freiermuth after the two-minute warning. The rookie second-rounder was on the field for 29 of the Steelers' 72 offensive snaps (40.3 percent), which was third-most among wide receivers behind DK Metcalf (70) and Michael Pittman (52) and ahead of Roman Wilson (22). Bernard has a 7-60-0 receiving line on 11 targets through four regular-season games, though his role in the offense will be limited behind Metcalf, Pittman, Freiermuth, Darnell Washington and Jaylen Warren. The Steelers head back home for Week 5 against the Colts on Sunday, Oct. 11.",
+                  "headline": "Bernard caught both of his targets for 11 yards during the Steelers' 27-24 loss to the Browns on Thursday.",
+                  "text": "Bernard was not targeted by Aaron Rodgers until late in the fourth quarter, with the duo connecting on passes for six and five yards to help set up a three-yard touchdown catch by Pat Freiermuth after the two-minute warning. The rookie second-rounder was on the field for 29 of the Steelers' 72 offensive snaps (40.3 percent), which was third most among wide receivers behind DK Metcalf (70) and Michael Pittman (52) and ahead of Roman Wilson (22). Bernard has a 7-60-0 line on 11 targets through four regular-season games, though his role in the offense will be limited behind Metcalf, Pittman, Freiermuth, Darnell Washington and Jaylen Warren. The Steelers head back home for Week 5 against the Colts on Sunday, Oct. 11.",
                   "source": "RotoWire"
                 }
               ]
