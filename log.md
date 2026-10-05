@@ -7268,3 +7268,33 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch confirmed David Onyemata's and Trey Pipkins III's IR placements, and Jager Burton's active/played status. Excluded as bare/uninformative (game-day status word only, no injury description) or non-injury coach's-decision/personal inactives — a large batch from Sunday's inactive lists across all 32 teams, including Lane Johnson (Eagles OT, reconfirmed via snapshot comment to be out for a personal matter, not a physical injury, with his absence possibly extending beyond Week 4), Kyle Monangai (Bears RB, comment too vague/undisclosed to describe a specific injury), and dozens of standard healthy-scratch inactives across the Cardinals, Panthers, Bears, Bengals, Cowboys, Lions, Texans, Jaguars, Chiefs, Raiders, Rams, Dolphins, Vikings, Patriots, Giants, Jets, Steelers, 49ers, Seahawks, Buccaneers, Titans, and Commanders. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 3, 9:10 PM ET ages off). 0 aged off this run (nothing crossed the threshold). 24 new NEW badges added (list above). Net badge count recomputed directly from table rows after all additions/removals: 41. Tile counts updated and verified against current table rows: 155 high / 149 mid / 94 low / 398 all / 41 new.
+
+## Oct 5, 2026, 12:10 PM ET
+
+~15h window since the 9:10 PM ET sweep, covering the rest of Sunday's Week 4 games (Sunday Night Football and late-afternoon windows) plus Monday morning follow-ups. As with the prior sweep, the snapshot's new-entry pool was large (93 candidates) and dominated by bare gameday inactives/designations excluded per scope — only entries naming an actual injury were added.
+
+**New injuries:**
+- Isaiah Adams (G, Cardinals) — ankle, carted to the locker room in Sunday's (Oct 4) loss to the Giants. Severity: low.
+- Jaelan Phillips (LB, Panthers) — back, also evaluated for a concussion, in Sunday night's (Oct 4) game vs. the Lions; unlikely to return. Severity: low.
+- Monroe Freeling (OT, Panthers) — knee, hurt in the third quarter of Sunday night's game vs. the Lions (a new injury — previously tracked for an unrelated concussion that cleared and was removed two sweeps ago); ruled out for the remainder of the game, will rest it over Carolina's Week 5 bye before returning Oct 18 vs. the Eagles. Severity: low.
+- Cam Jackson (DT, Panthers) — knee, inactive for Sunday night's game vs. the Lions. Severity: low.
+- Rock Ya-Sin (CB, Lions) — hamstring, hurt in the second half vs. the Panthers; ruled out for the rest of the game. Severity: low.
+- Jaden Crumedy (DT, Texans) — shoulder, exited the 34-30 loss to the Cowboys in the second half. Severity: low.
+- Trevor Penning (G, Chargers) — head, sent to the locker room late in the second half vs. the Seahawks for evaluation. Severity: low.
+- Rashawn Slater (OT, Chargers) — ankle, hurt vs. the Seahawks; questionable to return. Severity: low.
+- Jackson Woodard (LB, Dolphins) — ankle, hurt in the 15-10 loss to the Vikings; severity unclear pending Wednesday's practice. Severity: low.
+- Chauncey Golston (DE, Giants) — neck, hurt in the win over the Cardinals; did not return. Severity: low.
+- Jason Pinnock (S, Giants) — concussion, suffered in the 36-24 win over the Cardinals; must clear the protocol for Week 5 vs. Washington. Severity: low.
+- Braiden McGregor (DE, Jets) — chest, exited the game vs. the Bears; did not return. Severity: low.
+- Kyle Juszczyk (FB, 49ers) — right knee sprain, exited early in the fourth quarter of the 24-14 win over the Broncos; early evaluation suggests the ACL is intact, MRI Monday for clarity, team bracing for multiple weeks out and possibly IR. Severity: mid.
+- Marques Sigle (S, 49ers) — ankle, hurt in the win over the Broncos. Severity: low.
+- Leonard Williams (DT, Seahawks) — ankle, hurt vs. the Chargers; questionable to return. Severity: low.
+
+**Status and designation changes:**
+- D.J. Reed (CB, Lions) — reworded to reflect he played through the rib injury Sunday night (Oct 4) vs. the Panthers after a week of limited practice (replaced a stale "limited participant in Wednesday's practice" reference). Stays low.
+
+**Reconciliation:** Ran against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-05T14:50:04Z, under 2h old at run start — current). Filtered to the six tracked positions (477 entries across 32 teams) and diffed by player+team against all 398 pre-run dashboard rows. 4 rows matched a snapshot entry reading "Active" for all matches — none removed this run: Jalen Ramsey (playing through a broken wrist), D.J. Reed (reworded above, playing through it), Julian Blackmon (comment unchanged since Friday, still pending), George Holani (non-injury comment) all kept. 266 had no matching snapshot entry (146 high-severity, exempt; 119 mid / 1 low unmatched — Jacob Monk, Packers G, spot-checked via WebSearch this run; no post-Week 4 update has surfaced yet since Week 5 injury reports don't typically start until Wednesday/Thursday, so kept unchanged pending next report). Circuit breaker: not applicable — 0 removals this run.
+
+**Breaking-news sweep:** Excluded as bare/uninformative (game-day status word only, no injury description) or non-injury coach's-decision inactives — another large batch of Sunday's late-afternoon/SNF inactive lists across the Cardinals, Ravens, Bills, Panthers, Bears, Bengals, Cowboys, Broncos, Lions, Packers, Texans, Colts, Jaguars, Chiefs, Raiders, Chargers, Rams, Dolphins, Vikings, Patriots, Giants, Jets, Eagles, Steelers, 49ers, Seahawks, Buccaneers, Titans, and Commanders, including Kyle Monangai (Bears RB, still too vague/undisclosed) and Lane Johnson (Eagles OT, reconfirmed personal matter, not injury). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 4, 12:10 PM ET ages off). 3 aged off this run (all added Oct 3 at 9:10 PM ET: Yasir Abdullah, Divine Deablo, Carl Granderson). 15 new NEW badges added (list above). Net badge count recomputed directly from table rows: 53. Tile counts updated and verified against current table rows: 155 high / 150 mid / 108 low / 413 all / 53 new.
