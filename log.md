@@ -7312,3 +7312,31 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** No new breaking developments surfaced beyond the two additions above. Excluded as bare/uninformative (game-day status word only, no injury description): Drew Shelton, Josiah Trotter. Excluded as a non-injury personal matter (reconfirmed again this run): Lane Johnson (Eagles OT). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 4, 9:10 PM ET ages off). 14 aged off this run (all added Oct 4 at 12:10 PM ET or 5:15 PM ET: Channing Canada, Andrew Wingard, Montaric Brown, Christian Braswell, Tyler Owens, Caleb Ransaw, Jaylin Smith, Marlon Humphrey, Charles Omenihu, Trey Hendrickson, Swayze Bozeman, Andrew Vorhees, Chris Brooks, Saquon Barkley). 2 new NEW badges added (list above). Net badge count: 53 → 41. Tile counts updated and verified against current table rows: 155 high / 150 mid / 110 low / 415 all / 41 new.
+
+## Oct 6, 2026, 12:10 PM ET
+
+~15h window since the 9:10 PM ET sweep, covering Monday Night Football (Falcons 45, Saints 24) and Tuesday-morning coach's-press-conference follow-ups.
+
+**New injuries:**
+- Za'Darius Smith (DE, Falcons) — concussion, went down for several minutes in the first quarter of Monday night's game vs. the Saints; ruled out, entering the five-step return-to-play protocol. Severity: low.
+- Jake Matthews (OT, Falcons) — groin, hurt late in the first quarter vs. the Saints; downgraded to out for the rest of the game. Severity: low.
+- Arden Key (DE, Colts) — hamstring, hurt in Sunday's (Oct 4) win over Washington; HC Shane Steichen says he'll "miss some time," at least ruled out for Week 5 (Oct 11) at Pittsburgh. Severity: low.
+- Davon Godchaux (DT, Saints) — groin, exited Monday night's game vs. the Falcons; officially questionable to return. Severity: low.
+- Josiah Trotter (LB, Buccaneers) — knee, possibly picked up in Sunday's 17-14 loss to the Packers after returning from a shoulder injury; limited participant on Monday's estimated injury report, two more chances to upgrade before Thursday night (Oct 8) vs. the Cowboys. Severity: low.
+
+**Status and designation changes:**
+- Jadarian Price (RB, Seahawks) — confirmed placed on injured reserve Oct 3 for the chest injury (previously only logged as "limited participant in Wednesday's practice"); out at least four games, eligible to return Week 8 (Nov 2) vs. the Bears. Upgraded from low to mid.
+- Rueben Bain Jr. (LB, Buccaneers) — reworded: full participant at Monday's walkthrough after sitting out Sunday's loss to the Packers, seems likely to play Thursday night (Oct 8) vs. the Cowboys (replaced a stale "ruled out for Sunday's game" reference). Stays low.
+
+**Removals (5) — confirmed cleared via snapshot comment text or WebSearch:**
+- Samson Ebukam (LB, Falcons) — ready to suit up for Monday's game after clearing a hamstring injury.
+- Pete Werner (LB, Saints) — all set to play Monday after a Week 3 neck injury.
+- Yasir Abdullah (LB, Falcons) — overcame a Saturday illness in time to suit up as a reserve edge rusher.
+- Divine Deablo (LB, Falcons) — hamstring availability confirmed ahead of Monday's game.
+- Julian Blackmon (S, Saints) — confirmed via WebSearch to have played Monday night with no injury designation, leading New Orleans with 10 tackles (the snapshot's comment on this row had sat unchanged and unresolved for several sweeps; resolved this run via direct search).
+
+**Reconciliation:** Ran against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-06T15:15:23Z, under 1h old at run start — current). Filtered to the six tracked positions (470 entries across 32 teams) and diffed by player+team against all 415 pre-run dashboard rows. 9 rows matched a snapshot entry reading "Active" for all matches — 4 confirmed genuinely cleared via comment text and removed above (Ebukam, Werner, Abdullah, Deablo), plus Julian Blackmon removed via WebSearch (its comment never updated to confirm clearance directly); the other 4 — D.J. Reed (playing through a rib injury), Rueben Bain Jr. (reworded, not yet confirmed clear), DJ Giddens (bare comment), George Holani (non-injury comment, also surfaced Jadarian Price's IR placement, update above) — kept unchanged or reworded short of removal. 268 had no matching snapshot entry (147 high-severity, exempt; 119 mid / 2 low unmatched — no new checks needed this run beyond what's already logged). Circuit breaker: not applicable — 5 verified removals on 415 pre-run rows (1.2%), well under the 25% threshold.
+
+**Breaking-news sweep:** WebSearch confirmed Julian Blackmon's clean game Monday night (used for the removal above). Excluded as bare/uninformative (game-day status word only, no injury description): Jared Ivey, Ethan Onianwa, Robert Longerbeam, Malcolm DeWalt IV, Drew Shelton, Decamerion Richardson. Excluded as non-injury designations: Christen Miller (Saints DT, coach's decision — distinct from the earlier toe injury that was previously tracked and removed when resolved) and Lane Johnson (Eagles OT, personal matter, reconfirmed again). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 5, 12:10 PM ET ages off). 24 aged off this run (all added Oct 4 at 9:10 PM ET: Dee Alford, Te'Cory Couch, Riley Moss, Pat Surtain II, Brandon Cisse, Eric Murray, Reese Taylor, Dante Trader Jr., Charles Woods, Jarvis Brownlee Jr., Quinyon Mitchell, Antoine Winfield Jr., Jeremy Reaves, Edgerrin Cooper, Kenneth Murray Jr., Jonathan Greenard, Chazz Surratt, Ed Oliver, Joe Alt, Christian Darrisaw, Ronnie Stanley, Paris Johnson Jr., Donovan Jackson, Tank Bigsby). 5 new NEW badges added (list above). Net badge count: 41 → 22. Tile counts updated and verified against current table rows: 155 high / 151 mid / 109 low / 415 all / 22 new.
