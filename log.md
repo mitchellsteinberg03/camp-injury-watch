@@ -7366,3 +7366,32 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** No additional breaking developments surfaced beyond the one addition above. Excluded as bare/uninformative (game-day status word only, no injury description): Jaylon Carlies, Anthony Nelson. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 6, 12:10 PM ET ages off). 2 aged off this run (both added Oct 5 at 9:10 PM ET: Jeremiyah Love, Kyle Monangai). 1 new NEW badge added (Drew Shelton). Net badge count: 7 → 6. Tile counts updated and verified against current table rows: 155 high / 152 mid / 109 low / 416 all / 6 new.
+
+## Oct 7, 2026, 6:05 PM ET
+
+~6h window since the 12:10 PM ET sweep, covering the Wednesday official practice/injury report.
+
+**New injuries:** None met the bar for a new row this run. Excluded as bare/uninformative (official designation only, no injury description): Amani Hooker (S, Titans — questionable), consistent with this tracker's standing policy on bare tags.
+
+**Status and designation changes (the bulk of this run — a batch of Tuesday/Wednesday IR moves and practice-report designations the snapshot had picked up since the last sweep's data, mostly predating but not yet reflected on the board):**
+- Caleb Ransaw (S, Jaguars) — placed on injured reserve Oct 6 with the knee injury suffered Oct 4; out at least four games, eligible to return as early as Week 10. Low → mid.
+- Jaylin Smith (CB, Texans) — placed on injured reserve Oct 6 with the hamstring injury suffered Oct 4; out at least four games, eligible to return as early as Week 10. Low → mid.
+- Braiden McGregor (DE, Jets) — placed on injured reserve this week with the chest injury suffered Oct 4; out at least four games. Low → mid.
+- Derrick Harmon (DT, Steelers) — carted off during the Oct 1 loss to the Browns with the foot injury; placed on injured reserve Oct 5, out at least four games, eligible to return as early as Week 10. Low → mid.
+- Paris Johnson Jr. (OT, Cardinals) — placed on injured reserve Oct 6 with a biceps injury (previously undisclosed, seen in a postgame sling Oct 4); out at least four games, eligible to return as early as Week 10. Low → mid.
+- Donovan Jackson (G, Vikings) — placed on injured reserve Oct 6 with the knee injury suffered Oct 4; out at least four games, eligible to return as early as Week 10. Low → mid.
+- Tank Bigsby (RB, Eagles) — placed on injured reserve Oct 6; the previously undisclosed injury from the Oct 4 game confirmed as abdomen; out at least four games, eligible to return as early as Week 10. Low → mid.
+- Edgerrin Cooper (LB, Packers) — Oct 5 MRI confirmed the torn Achilles suspected since Sunday; out for the season, placed on IR Oct 6. Stays high; wording updated from "feared torn" to confirmed, source upgraded to a dated NBC Sports/Rapoport report.
+- Kalia Davis (DT, Browns) — opened a 21-day practice window off IR on Oct 6; could be activated within three weeks. Stays mid.
+- Mason Graham (DT, Browns) — listed doubtful on the Oct 7 report for Sunday's (Oct 11) game, putting his earlier Oct 11 return target in question. Stays mid.
+- Breece Hall (RB, Jets) — officially doubtful again on the Oct 7 report; HC Aaron Glenn reiterated he remains week-to-week with the quad injury. Stays low; removed a stale "vs. the Bears" reference from an earlier week.
+- Rico Dowdle (RB, Steelers) — still working off to the side with the rehab group as of Wednesday's (Oct 7) practice; toe injury ongoing. Stays low; removed a stale "Thursday vs. the Browns" reference from Week 4.
+- SirVocea Dennis (LB, Buccaneers) — listed out for Thursday's (Oct 8) game vs. the Cowboys with the ankle injury, replacing the earlier "isn't certain to return" game-day note. Stays low.
+
+**Removals:** None this run.
+
+**Reconciliation:** Ran `git pull` (fast-forward, clean) against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-07T17:26:38Z, ~35 min old at run start — fresh/current). Filtered to the six tracked positions and diffed by player name against all 416 pre-run dashboard rows. 5 rows matched a snapshot entry reading "Active" for all matches (D.J. Reed, Rueben Bain Jr., Josiah Trotter, DJ Giddens, George Holani) — same five as the noon sweep's check, no new information since, kept unchanged. 122 non-high-severity rows had no matching snapshot entry — consistent with the noon sweep's ~121-row baseline for this same snapshot generation (the league-wide report appears to only carry players with a current-week designation, not a full season-long IR/PUP list, so long-settled injured-reserve stints routinely drop out of it without the player having returned); circuit breaker would block a mass deletion at this ratio (~29% of eligible rows) in any case, so none were removed, matching the established pattern for this tracker. Beyond the absence check, every remaining dashboard row was cross-checked by name against the snapshot's actual entries (not just presence/absence) to catch status changes on players who *do* still appear — this surfaced the Tuesday/Wednesday IR-placement and practice-report batch detailed above, which the noon sweep's older (08:46Z) snapshot pull had evidently not carried forward into a status update.
+
+**Breaking-news sweep:** ~8 WebSearch queries across all six tracked positions, plus general IR/carted-off/torn-ACL/Achilles queries for the window. Search results lagged the snapshot by roughly a day in most cases (stale or no 2026-10-07-dated hits for Graham, Hooker, Johnson Jr., Hall, Ransaw, Smith, Jackson, Harmon, Bigsby, McGregor); one query did surface a dated, corroborating source for the Edgerrin Cooper Achilles confirmation (NBC Sports/Rapoport, Oct 5), used above. No additional new injuries at the six tracked positions turned up beyond what the snapshot already showed. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 6, 6:05 PM ET ages off). 5 aged off this run (all added Oct 6 at 12:10 PM ET: Za'Darius Smith, Arden Key, Josiah Trotter, Davon Godchaux, Jake Matthews). 0 new NEW badges added (no new rows this run). Net badge count: 6 → 1. Tile counts updated and verified against current table rows: 155 high / 159 mid / 102 low / 416 all / 1 new.
