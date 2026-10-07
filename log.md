@@ -7350,3 +7350,19 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** Lane Johnson (Eagles OT) announced his retirement via social media Tuesday (Oct 6) — this closes out the "personal matter" thread this tracker has carried on his row for the past several sweeps (now resolved as retirement, not an injury). Retirement is a non-injury designation outside this tracker's scope (IR/PUP/NFI/injury-settlement only), so no row was added or changed for him; he was never carrying an active row to remove. Excluded as bare/uninformative (game-day status word only, no injury description): Drew Shelton, Jacardia Wright, Anthony Nelson. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 5, 9:10 PM ET ages off). 15 aged off this run (all added Oct 5 at 12:10 PM ET: Rock Ya-Sin, Jason Pinnock, Marques Sigle, Jaelan Phillips, Jackson Woodard, Chauncey Golston, Braiden McGregor, Cam Jackson, Jaden Crumedy, Leonard Williams, Monroe Freeling, Rashawn Slater, Isaiah Adams, Trevor Penning, Kyle Juszczyk). 0 new NEW badges added. Net badge count: 22 → 7. Tile counts updated and verified against current table rows: 155 high / 151 mid / 109 low / 415 all / 7 new.
+
+## Oct 7, 2026, 12:10 PM ET
+
+~15h window since the 9:10 PM ET sweep, covering Tuesday coach's-press-conference injury updates ahead of Thursday night's Cowboys-Buccaneers game.
+
+**New injuries:**
+- Drew Shelton (OT, Cowboys) — hamstring, likely picked up in the Week 4 win over the Texans; HC Brian Schottenheimer says he's week-to-week, unclear if IR is necessary, unlikely to be cleared for Thursday night (Oct 8) vs. the Buccaneers. Severity: mid.
+
+**Status and designation changes:**
+- Josiah Trotter (LB, Buccaneers) — upgraded to a full practice participant Tuesday after an opening limited session Monday; should be ready for Thursday night (Oct 8) vs. the Cowboys (replaced the prior day's "two more chances to upgrade" framing). Stays low.
+
+**Reconciliation:** Ran against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-07T08:46:04Z, about 7h15m old at run start — within the 6-24h usable window but noted here as not fully current). Filtered to the six tracked positions (470 entries across 32 teams) and diffed by player+team against all 415 pre-run dashboard rows. 5 rows matched a snapshot entry reading "Active" for all matches — none removed: D.J. Reed (playing through a rib injury), Rueben Bain Jr. (not yet confirmed clear), Josiah Trotter (reworded above), DJ Giddens and George Holani (bare/non-injury comments) all kept unchanged. 268 had no matching snapshot entry (147 high-severity, exempt; 118 mid / 3 low unmatched — Jalen Ramsey, Christian Braswell, Jacob Monk, all previously checked/noted in recent sweeps with no new information surfacing, kept unchanged). Circuit breaker: not applicable — 0 removals this run.
+
+**Breaking-news sweep:** No additional breaking developments surfaced beyond the one addition above. Excluded as bare/uninformative (game-day status word only, no injury description): Jaylon Carlies, Anthony Nelson. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 6, 12:10 PM ET ages off). 2 aged off this run (both added Oct 5 at 9:10 PM ET: Jeremiyah Love, Kyle Monangai). 1 new NEW badge added (Drew Shelton). Net badge count: 7 → 6. Tile counts updated and verified against current table rows: 155 high / 152 mid / 109 low / 416 all / 6 new.
