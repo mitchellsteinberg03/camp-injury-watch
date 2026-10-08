@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T06:12:46Z",
+  "timestamp": "2026-10-08T13:39:15Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -30275,11 +30275,11 @@
       "displayName": "Baltimore Ravens",
       "injuries": [
         {
-          "id": "-2031901",
+          "id": "-2031979",
           "longComment": "questionable",
           "shortComment": "questionable",
           "status": "Questionable",
-          "date": "2026-10-08T06:00Z",
+          "date": "2026-10-08T13:00Z",
           "athlete": {
             "firstName": "Chris",
             "lastName": "Moore",
@@ -30848,14 +30848,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2031889",
+                  "id": "-2031979",
                   "type": "news",
-                  "date": "2026-10-08T05:01Z",
+                  "date": "2026-10-08T13:00Z",
                   "headline": "questionable",
                   "text": "questionable",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/2576581/injuries/-2031889?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/2576581/injuries/-2031979?lang=en&region=us"
                   }
                 }
               ]
@@ -32124,7 +32124,7 @@
         },
         {
           "id": "641250",
-          "longComment": "The move gives Baltimore depth at tight end following Durham Smythe's placement on injured reserve due to a torn Achilles tendon. Vannett opened the season on the Ravens' practice squad, and he'll now operate as the team's TE4 behind Mark Andrews and rookies Matthew Hibner and Josh Cuevas.",
+          "longComment": "The move gives Baltimore depth at tight end following Durham Smythe's placement on injured reserve due to a torn Achilles tendon. Vannett opened the season on the Ravens' practice squad, and he'll now operate as the team's TE4 behind Mark Andrews, and rookies Matthew Hibner and Josh Cuevas.",
           "shortComment": "The Ravens signed Vannett to the active roster off their practice squad Wednesday.",
           "status": "Active",
           "date": "2026-10-07T22:17Z",
@@ -32700,7 +32700,7 @@
                   "type": "news",
                   "date": "2026-10-07T22:17Z",
                   "headline": "The Ravens signed Vannett to the active roster off their practice squad Wednesday.",
-                  "text": "The move gives Baltimore depth at tight end following Durham Smythe's placement on injured reserve due to a torn Achilles tendon. Vannett opened the season on the Ravens' practice squad, and he'll now operate as the team's TE4 behind Mark Andrews and rookies Matthew Hibner and Josh Cuevas.",
+                  "text": "The move gives Baltimore depth at tight end following Durham Smythe's placement on injured reserve due to a torn Achilles tendon. Vannett opened the season on the Ravens' practice squad, and he'll now operate as the team's TE4 behind Mark Andrews, and rookies Matthew Hibner and Josh Cuevas.",
                   "source": "RotoWire"
                 }
               ]
@@ -75820,11 +75820,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2031900",
+          "id": "-2031978",
           "longComment": "ir",
           "shortComment": "ir",
           "status": "Injured Reserve",
-          "date": "2026-10-08T06:00Z",
+          "date": "2026-10-08T13:00Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76393,14 +76393,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2031900",
+                  "id": "-2031978",
                   "type": "news",
-                  "date": "2026-10-08T06:00Z",
+                  "date": "2026-10-08T13:00Z",
                   "headline": "ir",
                   "text": "ir",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2031900?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2031978?lang=en&region=us"
                   }
                 }
               ]
@@ -106841,7 +106841,7 @@
         },
         {
           "id": "641278",
-          "longComment": "Wallace sat out Cleveland's contest versus the Steelers in Week 4 due to a knee injury, and now his availability for Week 5 is up in the air too. He'll probably need to return to practice in some capacity Thursday or Friday to have a realistic chance of playing Sunday against the Jets.",
+          "longComment": "Wallace sat out Cleveland's contest versus the Steelers in Week 4 due to a knee injury, and now his availability for Week 5 is up in the air, too. He'll probably need to return to practice in some capacity Thursday or Friday to have a realistic chance of playing Sunday against the Jets.",
           "shortComment": "Wallace (knee) did not participate at practice Wednesday.",
           "status": "Questionable",
           "date": "2026-10-07T23:14Z",
@@ -107417,7 +107417,7 @@
                   "type": "news",
                   "date": "2026-10-07T23:14Z",
                   "headline": "Wallace (knee) did not participate at practice Wednesday.",
-                  "text": "Wallace sat out Cleveland's contest versus the Steelers in Week 4 due to a knee injury, and now his availability for Week 5 is up in the air too. He'll probably need to return to practice in some capacity Thursday or Friday to have a realistic chance of playing Sunday against the Jets.",
+                  "text": "Wallace sat out Cleveland's contest versus the Steelers in Week 4 due to a knee injury, and now his availability for Week 5 is up in the air, too. He'll probably need to return to practice in some capacity Thursday or Friday to have a realistic chance of playing Sunday against the Jets.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4241424/injuries/641278?lang=en&region=us"
@@ -122639,7 +122639,7 @@
         },
         {
           "id": "641261",
-          "longComment": "As expected, Durant will miss a third-straight game due to a hamstring injury he sustained against the Commanders in Week 2. His next chance to play is Week 6 against the Packers on Sunday, Oct. 18, though Durant has yet to return to practice since his injury. DaRond Bland and Joey Porter will be the Cowboys' starting outside cornerbacks for Thursday Night Football.",
+          "longComment": "As expected, Durant will miss a third-straight game due to a hamstring injury he sustained against the Commanders in Week 2. His next chance to play is Week 6 against the Packers on Sunday, Oct. 18, though Durant has yet to return to practice since his injury. DaRon Bland and Joey Porter will be the Cowboys' starting outside cornerbacks for Thursday Night Football.",
           "shortComment": "The Cowboys have ruled out Durant (hamstring) for Thursday's game against the Buccaneers, Tommy Yarrish of the Cowboys' official site reports.",
           "status": "Out",
           "date": "2026-10-07T22:39Z",
@@ -123215,7 +123215,7 @@
                   "type": "news",
                   "date": "2026-10-07T22:39Z",
                   "headline": "The Cowboys have ruled out Durant (hamstring) for Thursday's game against the Buccaneers, Tommy Yarrish of the Cowboys' official site reports.",
-                  "text": "As expected, Durant will miss a third-straight game due to a hamstring injury he sustained against the Commanders in Week 2. His next chance to play is Week 6 against the Packers on Sunday, Oct. 18, though Durant has yet to return to practice since his injury. DaRond Bland and Joey Porter will be the Cowboys' starting outside cornerbacks for Thursday Night Football.",
+                  "text": "As expected, Durant will miss a third-straight game due to a hamstring injury he sustained against the Commanders in Week 2. His next chance to play is Week 6 against the Packers on Sunday, Oct. 18, though Durant has yet to return to practice since his injury. DaRon Bland and Joey Porter will be the Cowboys' starting outside cornerbacks for Thursday Night Football.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4384549/injuries/641261?lang=en&region=us"
@@ -123872,7 +123872,7 @@
         {
           "id": "641256",
           "longComment": "Wednesday was the first time this week that Mingo popped up on the injury report, which casts uncertainty over his status for Thursday Night Football. He's seen just three targets through four regular-season games, but if Mingo isn't cleared to play, then undrafted rookie Camden Brown would be in line to be on the active gameday roster for the first time this season, with Ryan Flournoy and KaVontae Turpin both in the mix for a slight increase in offensive snaps.",
-          "shortComment": "Mingo did not practice Wednesday due to an illness and is listed as questionable for Thursday's game against the Buccaneers, Tommy Yarrish of the Cowboys' official site reports.",
+          "shortComment": "Mingo was estimated to be a nonparticipant at Wednesday's walkthrough practice due to an illness and is listed as questionable for Thursday's game against the Buccaneers, Tommy Yarrish of the Cowboys' official site reports.",
           "status": "Questionable",
           "date": "2026-10-07T22:31Z",
           "athlete": {
@@ -124446,7 +124446,7 @@
                   "id": "641256",
                   "type": "news",
                   "date": "2026-10-07T22:31Z",
-                  "headline": "Mingo did not practice Wednesday due to an illness and is listed as questionable for Thursday's game against the Buccaneers, Tommy Yarrish of the Cowboys' official site reports.",
+                  "headline": "Mingo was estimated to be a nonparticipant at Wednesday's walkthrough practice due to an illness and is listed as questionable for Thursday's game against the Buccaneers, Tommy Yarrish of the Cowboys' official site reports.",
                   "text": "Wednesday was the first time this week that Mingo popped up on the injury report, which casts uncertainty over his status for Thursday Night Football. He's seen just three targets through four regular-season games, but if Mingo isn't cleared to play, then undrafted rookie Camden Brown would be in line to be on the active gameday roster for the first time this season, with Ryan Flournoy and KaVontae Turpin both in the mix for a slight increase in offensive snaps.",
                   "source": "RotoWire",
                   "injury": {
@@ -137793,7 +137793,7 @@
         },
         {
           "id": "641268",
-          "longComment": "Bryant sprained his right ankle during the Broncos' Week 4 loss to the 49ers. An MRI did not reveal a high-ankle sprain, which is good news for the second-year wide receiver. Bryant is still expected to miss time, so he can be considered on the doubtful side for Sunday's AFC West showdown against the Chargers. He has a 9-133-1 receiving line (12 targets) through four games, and assuming Bryant is sidelined for Week 5, that workload will be absorbed by Jaylen Waddle, Courtland Sutton, Marvin Mims and Troy Franklin.",
+          "longComment": "Bryant sprained his right ankle during the Broncos' Week 4 loss to the 49ers. An MRI did not reveal a high-ankle sprain, which is good news for the second-year wide receiver. Bryant is still expected to miss time, so he can be considered on the doubtful side for Sunday's AFC West showdown against the Chargers. He has a 9-133-1 receiving line (on 12 targets) through four games, and assuming Bryant is sidelined for Week 5, that workload will be absorbed by Jaylen Waddle, Courtland Sutton, Marvin Mims and Troy Franklin.",
           "shortComment": "Bryant (ankle) did not participate in Wednesday's practice, Aric DiLalla of the Broncos' official site reports.",
           "status": "Doubtful",
           "date": "2026-10-07T22:54Z",
@@ -138369,7 +138369,7 @@
                   "type": "news",
                   "date": "2026-10-07T22:54Z",
                   "headline": "Bryant (ankle) did not participate in Wednesday's practice, Aric DiLalla of the Broncos' official site reports.",
-                  "text": "Bryant sprained his right ankle during the Broncos' Week 4 loss to the 49ers. An MRI did not reveal a high-ankle sprain, which is good news for the second-year wide receiver. Bryant is still expected to miss time, so he can be considered on the doubtful side for Sunday's AFC West showdown against the Chargers. He has a 9-133-1 receiving line (12 targets) through four games, and assuming Bryant is sidelined for Week 5, that workload will be absorbed by Jaylen Waddle, Courtland Sutton, Marvin Mims and Troy Franklin.",
+                  "text": "Bryant sprained his right ankle during the Broncos' Week 4 loss to the 49ers. An MRI did not reveal a high-ankle sprain, which is good news for the second-year wide receiver. Bryant is still expected to miss time, so he can be considered on the doubtful side for Sunday's AFC West showdown against the Chargers. He has a 9-133-1 receiving line (on 12 targets) through four games, and assuming Bryant is sidelined for Week 5, that workload will be absorbed by Jaylen Waddle, Courtland Sutton, Marvin Mims and Troy Franklin.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4600981/injuries/641268?lang=en&region=us"
@@ -152317,7 +152317,7 @@
         },
         {
           "id": "641253",
-          "longComment": "Branch was limited in Wednesday's practice, but it was an encouraging sign to see the fourth-year pro back on the field following a lengthy recovery from a torn Achilles that he sustained in early December of 2025. The Lions' secondary has been one of the worst in the league this season, and while Branch's return would be a significant upgrade to the unit, he'll likely need to log multiple full practices before being activated from the reserve/PUP list. While unlikely, Branch's first opportunity to make his 2026 debut is Sunday against the Cardinals.",
+          "longComment": "Branch was limited in Wednesday's practice, but it was an encouraging sign to see the fourth-year pro back on the field following a lengthy recovery from a torn Achilles that he sustained in early December of 2025. The Lions' secondary has been one of the worst in the league this season, and while Branch's return would be a significant upgrade to the unit, he'll likely need to log multiple full practices before being activated from the reserve/PUP list. While it's unlikely he'd play, Branch's first opportunity to make his 2026 debut is Sunday against the Cardinals.",
           "shortComment": "Branch (Achilles) had his 21-day practice window opened by the Lions on Sunday, Richard Silva of The Detroit News reports.",
           "status": "Out",
           "date": "2026-10-07T22:23Z",
@@ -152893,7 +152893,7 @@
                   "type": "news",
                   "date": "2026-10-07T22:23Z",
                   "headline": "Branch (Achilles) had his 21-day practice window opened by the Lions on Sunday, Richard Silva of The Detroit News reports.",
-                  "text": "Branch was limited in Wednesday's practice, but it was an encouraging sign to see the fourth-year pro back on the field following a lengthy recovery from a torn Achilles that he sustained in early December of 2025. The Lions' secondary has been one of the worst in the league this season, and while Branch's return would be a significant upgrade to the unit, he'll likely need to log multiple full practices before being activated from the reserve/PUP list. While unlikely, Branch's first opportunity to make his 2026 debut is Sunday against the Cardinals.",
+                  "text": "Branch was limited in Wednesday's practice, but it was an encouraging sign to see the fourth-year pro back on the field following a lengthy recovery from a torn Achilles that he sustained in early December of 2025. The Lions' secondary has been one of the worst in the league this season, and while Branch's return would be a significant upgrade to the unit, he'll likely need to log multiple full practices before being activated from the reserve/PUP list. While it's unlikely he'd play, Branch's first opportunity to make his 2026 debut is Sunday against the Cardinals.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4692025/injuries/641253?lang=en&region=us"
@@ -167066,7 +167066,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -167668,7 +167668,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -168284,7 +168284,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -168900,7 +168900,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -169516,7 +169516,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -170132,7 +170132,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -170748,7 +170748,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -171364,7 +171364,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -171966,7 +171966,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -172582,7 +172582,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -173198,7 +173198,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -173814,7 +173814,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -174430,7 +174430,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -175032,7 +175032,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -175634,7 +175634,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -176236,7 +176236,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -176852,7 +176852,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -177454,7 +177454,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -178056,7 +178056,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -178658,7 +178658,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -179260,7 +179260,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -179862,7 +179862,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -180464,7 +180464,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -181066,7 +181066,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -181682,7 +181682,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -184501,7 +184501,7 @@
         },
         {
           "id": "641314",
-          "longComment": "Smith opened the regular season on IR due to a torn plantar fascia, a diagnosis that came with a 4-to-6 week recovery timeline. Now that he's been designated to return, Smith will have 21 days to be activated from IR, otherwise he would be forced to sit for the entire 2026 season. The 2018 second-rounder was limited in Wednesday's practice.",
+          "longComment": "Smith opened the regular season on IR due to a torn plantar fascia, a diagnosis that came with a four- to six-week recovery timeline. Now that he's been designated to return, Smith will have 21 days to be activated from IR, otherwise he would be forced to sit for the entire 2026 season. The 2018 second-rounder was limited in Wednesday's practice.",
           "shortComment": "The Texans designated Smith (foot) to return from injured reserve Wednesday.",
           "status": "Injured Reserve",
           "date": "2026-10-08T00:17Z",
@@ -185077,7 +185077,7 @@
                   "type": "news",
                   "date": "2026-10-08T00:17Z",
                   "headline": "The Texans designated Smith (foot) to return from injured reserve Wednesday.",
-                  "text": "Smith opened the regular season on IR due to a torn plantar fascia, a diagnosis that came with a 4-to-6 week recovery timeline. Now that he's been designated to return, Smith will have 21 days to be activated from IR, otherwise he would be forced to sit for the entire 2026 season. The 2018 second-rounder was limited in Wednesday's practice.",
+                  "text": "Smith opened the regular season on IR due to a torn plantar fascia, a diagnosis that came with a four- to six-week recovery timeline. Now that he's been designated to return, Smith will have 21 days to be activated from IR, otherwise he would be forced to sit for the entire 2026 season. The 2018 second-rounder was limited in Wednesday's practice.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3121595/injuries/641314?lang=en&region=us"
@@ -242923,7 +242923,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -243539,7 +243539,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -244155,7 +244155,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -244771,7 +244771,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -245187,7 +245187,7 @@
         },
         {
           "id": "641241",
-          "longComment": "The Raiders are likely just managing Bowers' reps after he's decimated both the Saints and Chiefs in back-to-back games since making his 2026 debut in Week 3. He has 16 catches for 202 yards and two touchdowns on a whopping 25 targets across two appearances. Bowers is the weekly TE1 in fantasy every week no matter the matchup.",
+          "longComment": "The Raiders are likely just managing Bowers' reps after he's decimated both the Saints and Chiefs in back-to-back games since making his 2026 debut in Week 3. He has 16 catches for 202 yards and two touchdowns on a whopping 25 targets across two appearances. Bowers is a weekly elite tight end in fantasy every week no matter the matchup.",
           "shortComment": "Bowers (knee) was listed as a limited participant in Wednesday's practice, Anthony Galaviz of The Fresno Bee reports.",
           "status": "Questionable",
           "date": "2026-10-07T21:54Z",
@@ -245387,7 +245387,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -245763,7 +245763,7 @@
                   "type": "news",
                   "date": "2026-10-07T21:54Z",
                   "headline": "Bowers (knee) was listed as a limited participant in Wednesday's practice, Anthony Galaviz of The Fresno Bee reports.",
-                  "text": "The Raiders are likely just managing Bowers' reps after he's decimated both the Saints and Chiefs in back-to-back games since making his 2026 debut in Week 3. He has 16 catches for 202 yards and two touchdowns on a whopping 25 targets across two appearances. Bowers is the weekly TE1 in fantasy every week no matter the matchup.",
+                  "text": "The Raiders are likely just managing Bowers' reps after he's decimated both the Saints and Chiefs in back-to-back games since making his 2026 debut in Week 3. He has 16 catches for 202 yards and two touchdowns on a whopping 25 targets across two appearances. Bowers is a weekly elite tight end in fantasy every week no matter the matchup.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4432665/injuries/641241?lang=en&region=us"
@@ -246003,7 +246003,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -246619,7 +246619,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -247221,7 +247221,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -247837,7 +247837,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -248439,7 +248439,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -249041,7 +249041,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -249643,7 +249643,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -250245,7 +250245,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -250847,7 +250847,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -251449,7 +251449,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -252051,7 +252051,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -252653,7 +252653,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -253255,7 +253255,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -253857,7 +253857,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -254459,7 +254459,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -255075,7 +255075,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -255677,7 +255677,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -256279,7 +256279,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -256881,7 +256881,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -257483,7 +257483,7 @@
                     "full",
                     "default"
                   ],
-                  "lastUpdated": "2024-09-22T22:51Z"
+                  "lastUpdated": "2020-02-25T17:01Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
@@ -259739,7 +259739,7 @@
         },
         {
           "id": "641301",
-          "longComment": "Kolar has missed the Chargers' last two games while recovering from a fractured left forearm that he sustained in Week 2 against the Seahawks. He's progressed enough in his recovery to return to practice Wednesday, and his participation over the next two days will provide clarity on his chances of playing against the Broncos on Sunday. If Kolar is cleared to return, then he would likely split starting tight end duties with Oronde Gadsden, especially with David Njoku (knee) on injured reserve.",
+          "longComment": "Kolar has missed the Chargers' last two games while recovering from a fractured left forearm that he sustained in Week 2 against the Seahawks. He's progressed enough in his recovery to return to practice Wednesday, and his participation over the next two days will provide clarity on his chances of playing against the Broncos on Sunday. If Kolar is cleared to return, then he would likely split tight end duties with Oronde Gadsden since David Njoku (knee) is on injured reserve.",
           "shortComment": "Kolar (forearm) was a limited participant in Wednesday's practice.",
           "status": "Questionable",
           "date": "2026-10-07T23:58Z",
@@ -260315,7 +260315,7 @@
                   "type": "news",
                   "date": "2026-10-07T23:58Z",
                   "headline": "Kolar (forearm) was a limited participant in Wednesday's practice.",
-                  "text": "Kolar has missed the Chargers' last two games while recovering from a fractured left forearm that he sustained in Week 2 against the Seahawks. He's progressed enough in his recovery to return to practice Wednesday, and his participation over the next two days will provide clarity on his chances of playing against the Broncos on Sunday. If Kolar is cleared to return, then he would likely split starting tight end duties with Oronde Gadsden, especially with David Njoku (knee) on injured reserve.",
+                  "text": "Kolar has missed the Chargers' last two games while recovering from a fractured left forearm that he sustained in Week 2 against the Seahawks. He's progressed enough in his recovery to return to practice Wednesday, and his participation over the next two days will provide clarity on his chances of playing against the Broncos on Sunday. If Kolar is cleared to return, then he would likely split tight end duties with Oronde Gadsden since David Njoku (knee) is on injured reserve.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4241263/injuries/641301?lang=en&region=us"
@@ -262203,7 +262203,7 @@
         },
         {
           "id": "641271",
-          "longComment": "The Chargers' receiving corps is banged up at the moment, with all of WR Ladd McConkey (foot, DNP on Wednesday), WR Brenen Thompson (quadriceps, LP) and TE Charlie Kolar (forearm, LP) dealing with health concerns, and WR KeAndre Lambert-Smith (hamstring) and TE David Njoku (fibula) on IR. Johnston has had every opportunity to produce this season, with at least a 75 percent snap share in all four games, but he so far has just nine touches for 111 yards from scrimmage and no TDs. Assuming McConkey isn't able to play Sunday versus the Broncos and Johnson suits up, the latter could be the unquestioned No. 1 pass catcher for QB Justin Herbert.",
+          "longComment": "The Chargers' receiving corps is banged up at the moment, with all of WR Ladd McConkey (foot, DNP on Wednesday), WR Brenen Thompson (quadriceps, LP) and TE Charlie Kolar (forearm, LP) dealing with health concerns, and WR KeAndre Lambert-Smith (hamstring) and TE David Njoku (fibula) on IR. Johnston has had every opportunity to produce this season, with at least a 75 percent snap share in all four games, but he so far has just nine touches for 111 yards from scrimmage and no TDs. Assuming McConkey isn't able to play Sunday versus the Broncos and Johnston suits up, the latter could be the unquestioned No. 1 pass catcher for QB Justin Herbert.",
           "shortComment": "Johnston was limited at Wednesday's practice due to a chest injury.",
           "status": "Questionable",
           "date": "2026-10-07T23:03Z",
@@ -262779,7 +262779,7 @@
                   "type": "news",
                   "date": "2026-10-07T23:03Z",
                   "headline": "Johnston was limited at Wednesday's practice due to a chest injury.",
-                  "text": "The Chargers' receiving corps is banged up at the moment, with all of WR Ladd McConkey (foot, DNP on Wednesday), WR Brenen Thompson (quadriceps, LP) and TE Charlie Kolar (forearm, LP) dealing with health concerns, and WR KeAndre Lambert-Smith (hamstring) and TE David Njoku (fibula) on IR. Johnston has had every opportunity to produce this season, with at least a 75 percent snap share in all four games, but he so far has just nine touches for 111 yards from scrimmage and no TDs. Assuming McConkey isn't able to play Sunday versus the Broncos and Johnson suits up, the latter could be the unquestioned No. 1 pass catcher for QB Justin Herbert.",
+                  "text": "The Chargers' receiving corps is banged up at the moment, with all of WR Ladd McConkey (foot, DNP on Wednesday), WR Brenen Thompson (quadriceps, LP) and TE Charlie Kolar (forearm, LP) dealing with health concerns, and WR KeAndre Lambert-Smith (hamstring) and TE David Njoku (fibula) on IR. Johnston has had every opportunity to produce this season, with at least a 75 percent snap share in all four games, but he so far has just nine touches for 111 yards from scrimmage and no TDs. Assuming McConkey isn't able to play Sunday versus the Broncos and Johnston suits up, the latter could be the unquestioned No. 1 pass catcher for QB Justin Herbert.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4429025/injuries/641271?lang=en&region=us"
@@ -288913,7 +288913,7 @@
         },
         {
           "id": "641221",
-          "longComment": "Bell will continue to be limited in practices until the Dolphins are willing to fully unleash him off last season's torn ACL. While he's had his reps managed during the week, Bell has been seeing extensive snaps on Sundays, especially since Caleb Douglas has been out with an ankle injury. Bell has reeled in just five of 14 targets this season for 92 yards.",
+          "longComment": "Bell will likely continue to be limited in practices until the Dolphins are willing to fully unleash him following last season's torn ACL. While he's had his reps managed during the week, Bell has been seeing extensive snaps on Sundays, especially since Caleb Douglas has been out with an ankle injury. Bell has reeled in just five of 14 targets this season for 92 yards.",
           "shortComment": "Bell (knee) was limited in Wednesday's practice, C. Isaiah Smalls II of the Miami Herald reports.",
           "status": "Questionable",
           "date": "2026-10-07T20:41Z",
@@ -289489,7 +289489,7 @@
                   "type": "news",
                   "date": "2026-10-07T20:41Z",
                   "headline": "Bell (knee) was limited in Wednesday's practice, C. Isaiah Smalls II of the Miami Herald reports.",
-                  "text": "Bell will continue to be limited in practices until the Dolphins are willing to fully unleash him off last season's torn ACL. While he's had his reps managed during the week, Bell has been seeing extensive snaps on Sundays, especially since Caleb Douglas has been out with an ankle injury. Bell has reeled in just five of 14 targets this season for 92 yards.",
+                  "text": "Bell will likely continue to be limited in practices until the Dolphins are willing to fully unleash him following last season's torn ACL. While he's had his reps managed during the week, Bell has been seeing extensive snaps on Sundays, especially since Caleb Douglas has been out with an ankle injury. Bell has reeled in just five of 14 targets this season for 92 yards.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4869961/injuries/641221?lang=en&region=us"
@@ -337635,7 +337635,7 @@
         },
         {
           "id": "641225",
-          "longComment": "Fant missed Monday night's loss to the Falcons, but his limited start to the week would seem to give the veteran tight end a good shot to return to the field for Week 5 against the Vikings. He's turned 12 targets into eight catches for 66 yards and three touchdowns this season as one of Tyler Shough's favorite targets near the end zone.",
+          "longComment": "Fant missed Monday night's loss to the Falcons, but his limited start to the week would seem to give the veteran tight end a good shot to return to the field for Week 5 against the Vikings. He's turned 12 targets into eight catches for 66 yards and three touchdowns this season as one of Tyler Shough's favorite options near the end zone.",
           "shortComment": "Fant (abdomen) was limited in Wednesday's practice.",
           "status": "Questionable",
           "date": "2026-10-07T20:52Z",
@@ -338211,7 +338211,7 @@
                   "type": "news",
                   "date": "2026-10-07T20:52Z",
                   "headline": "Fant (abdomen) was limited in Wednesday's practice.",
-                  "text": "Fant missed Monday night's loss to the Falcons, but his limited start to the week would seem to give the veteran tight end a good shot to return to the field for Week 5 against the Vikings. He's turned 12 targets into eight catches for 66 yards and three touchdowns this season as one of Tyler Shough's favorite targets near the end zone.",
+                  "text": "Fant missed Monday night's loss to the Falcons, but his limited start to the week would seem to give the veteran tight end a good shot to return to the field for Week 5 against the Vikings. He's turned 12 targets into eight catches for 66 yards and three touchdowns this season as one of Tyler Shough's favorite options near the end zone.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4036131/injuries/641225?lang=en&region=us"
@@ -364554,7 +364554,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -365156,7 +365156,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -365758,7 +365758,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -366149,7 +366149,7 @@
         },
         {
           "id": "641321",
-          "longComment": "Parham sat out Sunday's game at Chicago with the knee injury he picked up in Week 3 at Detroit, and it's still bothering him as the Jets begin preparing for Week 5. Barring an unexpected development, he's trending towards missing Sunday's contest versus the Browns.",
+          "longComment": "Parham sat out Sunday's game at Chicago with the knee injury he picked up in Week 3 at Detroit, and it's still bothering him as the Jets begin preparing for Week 5. Barring an unexpected development, he's trending toward missing Sunday's contest versus the Browns.",
           "shortComment": "Coach Aaron Glenn said Wednesday that Parham is still week-to-week as he nurses a knee injury, Zack Rosenblatt of The Athletic reports.",
           "status": "Doubtful",
           "date": "2026-10-08T00:29Z",
@@ -366360,7 +366360,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -366725,7 +366725,7 @@
                   "type": "news",
                   "date": "2026-10-08T00:29Z",
                   "headline": "Coach Aaron Glenn said Wednesday that Parham is still week-to-week as he nurses a knee injury, Zack Rosenblatt of The Athletic reports.",
-                  "text": "Parham sat out Sunday's game at Chicago with the knee injury he picked up in Week 3 at Detroit, and it's still bothering him as the Jets begin preparing for Week 5. Barring an unexpected development, he's trending towards missing Sunday's contest versus the Browns.",
+                  "text": "Parham sat out Sunday's game at Chicago with the knee injury he picked up in Week 3 at Detroit, and it's still bothering him as the Jets begin preparing for Week 5. Barring an unexpected development, he's trending toward missing Sunday's contest versus the Browns.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4243375/injuries/641321?lang=en&region=us"
@@ -366976,7 +366976,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -367367,8 +367367,8 @@
         },
         {
           "id": "641273",
-          "longComment": "Enagbare didn't suit up for the Week 4 loss to Chicago. His presence at practice Wednesday, even in a limited capacity, is a positive step in the right direction. However, if Enagbare doesn't play in Week 5 against the Browns, Joseph Ossai may be more involved once again.",
-          "shortComment": "Enagbare (knee) was limited in practice Wednesday.",
+          "longComment": "Enagbare didn't suit up for the Week 4 loss to Chicago. His being listed on the estimation even in a limited capacity, is a positive step in the right direction. However, if Enagbare doesn't play in Week 5 against the Browns, Joseph Ossai may be more involved once again.",
+          "shortComment": "Enagbare (knee) was limited in Wednesday's estimated practice report.",
           "status": "Questionable",
           "date": "2026-10-07T23:07Z",
           "athlete": {
@@ -367578,7 +367578,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -367942,8 +367942,8 @@
                   "id": "641273",
                   "type": "news",
                   "date": "2026-10-07T23:07Z",
-                  "headline": "Enagbare (knee) was limited in practice Wednesday.",
-                  "text": "Enagbare didn't suit up for the Week 4 loss to Chicago. His presence at practice Wednesday, even in a limited capacity, is a positive step in the right direction. However, if Enagbare doesn't play in Week 5 against the Browns, Joseph Ossai may be more involved once again.",
+                  "headline": "Enagbare (knee) was limited in Wednesday's estimated practice report.",
+                  "text": "Enagbare didn't suit up for the Week 4 loss to Chicago. His being listed on the estimation even in a limited capacity, is a positive step in the right direction. However, if Enagbare doesn't play in Week 5 against the Browns, Joseph Ossai may be more involved once again.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4362840/injuries/641273?lang=en&region=us"
@@ -368194,7 +368194,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -368810,7 +368810,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -369412,7 +369412,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -370028,7 +370028,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -370644,7 +370644,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -371260,7 +371260,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -371876,7 +371876,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -372478,7 +372478,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -373094,7 +373094,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -373696,7 +373696,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -374298,7 +374298,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -374900,7 +374900,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -375502,7 +375502,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -376104,7 +376104,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -376706,7 +376706,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -377308,7 +377308,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -377910,7 +377910,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -378512,7 +378512,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -379114,7 +379114,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:29Z"
+                  "lastUpdated": "2024-06-25T18:59Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -440799,7 +440799,7 @@
         },
         {
           "id": "641254",
-          "longComment": "Per Jenna Laine of ESPN.com, Winfield is expected to miss 2-to-4 weeks due to a \"slight rib fracture\" that he sustained during the Buccaneers' loss to the Packers this past Sunday. It's unclear whether he needs a stint on IR, but for as long as he's sidelined, Ifeatu Melifonwu figures to start alongside Tykee Smith at safety.",
+          "longComment": "Per Jenna Laine of ESPN.com, Winfield is expected to miss two to four weeks due to a \"slight rib fracture\" that he sustained during the Buccaneers' loss to the Packers this past Sunday. It's unclear whether he needs a stint on IR, but as long as he's sidelined, Ifeatu Melifonwu figures to start alongside Tykee Smith at safety.",
           "shortComment": "The Buccaneers have ruled out Winfield (ribs) for Thursday's game against the Cowboys.",
           "status": "Out",
           "date": "2026-10-07T22:26Z",
@@ -441375,7 +441375,7 @@
                   "type": "news",
                   "date": "2026-10-07T22:26Z",
                   "headline": "The Buccaneers have ruled out Winfield (ribs) for Thursday's game against the Cowboys.",
-                  "text": "Per Jenna Laine of ESPN.com, Winfield is expected to miss 2-to-4 weeks due to a \"slight rib fracture\" that he sustained during the Buccaneers' loss to the Packers this past Sunday. It's unclear whether he needs a stint on IR, but for as long as he's sidelined, Ifeatu Melifonwu figures to start alongside Tykee Smith at safety.",
+                  "text": "Per Jenna Laine of ESPN.com, Winfield is expected to miss two to four weeks due to a \"slight rib fracture\" that he sustained during the Buccaneers' loss to the Packers this past Sunday. It's unclear whether he needs a stint on IR, but as long as he's sidelined, Ifeatu Melifonwu figures to start alongside Tykee Smith at safety.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4034790/injuries/641254?lang=en&region=us"
@@ -472913,7 +472913,7 @@
         },
         {
           "id": "641246",
-          "longComment": "McNichols injured his quad during training camp in mid-August, and the injury was severe enough for the veteran running back to open the regular season on injured reserve. He's progressed enough in his recovery to return to practice, though he'll likely need to log multiple full sessions before being the green light to be activated from IR. The Commanders currently have four running backs on the 53-man roster, which consists of Jacory Croskey-Merritt (groin), Rachaad White (shoulder), Austin Ekeler and rookie sixth-rounder Kaytron Allen.",
+          "longComment": "McNichols injured his quad during training camp in mid-August, and the injury was severe enough for the veteran running back to open the regular season on injured reserve. He's progressed enough in his recovery to return to practice, though he'll likely need to log multiple full sessions before being the green light to be activated from IR. The Commanders currently have four running backs on the 53-man roster: Jacory Croskey-Merritt (groin), Rachaad White (shoulder), Austin Ekeler and rookie sixth-rounder Kaytron Allen.",
           "shortComment": "McNichols (quadriceps) had his 21-day practice window opened prior to Wednesday's session, during which he was a limited participant.",
           "status": "Injured Reserve",
           "date": "2026-10-07T22:05Z",
@@ -473489,7 +473489,7 @@
                   "type": "news",
                   "date": "2026-10-07T22:05Z",
                   "headline": "McNichols (quadriceps) had his 21-day practice window opened prior to Wednesday's session, during which he was a limited participant.",
-                  "text": "McNichols injured his quad during training camp in mid-August, and the injury was severe enough for the veteran running back to open the regular season on injured reserve. He's progressed enough in his recovery to return to practice, though he'll likely need to log multiple full sessions before being the green light to be activated from IR. The Commanders currently have four running backs on the 53-man roster, which consists of Jacory Croskey-Merritt (groin), Rachaad White (shoulder), Austin Ekeler and rookie sixth-rounder Kaytron Allen.",
+                  "text": "McNichols injured his quad during training camp in mid-August, and the injury was severe enough for the veteran running back to open the regular season on injured reserve. He's progressed enough in his recovery to return to practice, though he'll likely need to log multiple full sessions before being the green light to be activated from IR. The Commanders currently have four running backs on the 53-man roster: Jacory Croskey-Merritt (groin), Rachaad White (shoulder), Austin Ekeler and rookie sixth-rounder Kaytron Allen.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3127586/injuries/641246?lang=en&region=us"
