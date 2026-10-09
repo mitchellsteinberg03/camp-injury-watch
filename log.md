@@ -7446,3 +7446,29 @@ All severity low except Adebo and Ingram (mid, per above).
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 7, 12:10 PM ET ages off). 0 aged off this run. 5 new NEW badges added (list above). Net badge count: 10 → 15. Tile counts updated and verified against current table rows: 155 high / 160 mid / 113 low / 428 all / 15 new.
 
 **Addendum to the 12:10 PM ET sweep:** The Eric Murray / Kenneth Murray Jr. WebSearch check flagged as pending above has returned. Both remain in the concussion protocol as of Wednesday's (Oct 7) practice — Eric Murray (Jaguars S) was again a non-participant, availability for Sunday vs. the Eagles in London in limbo; Kenneth Murray Jr. (Texans LB) still in the protocol, status for Sunday vs. the Titans unresolved. Both rows reworded to reflect this; no severity change.
+
+## Oct 8, 2026, 9:10 PM ET
+
+~9h window since the 12:10 PM ET sweep, covering Thursday practice reports and Thursday Night Football (Cowboys at Buccaneers). As with recent sweeps, the snapshot's new-entry pool was large (69 candidates) and dominated by bare "questionable"/"out" tags or stat recaps with no injury description — only entries naming an actual injury were added.
+
+**New injuries:**
+- Mike Hall Jr. (DT, Browns) — ankle, did not practice Wednesday or Thursday. Severity: low.
+- Joey Porter Jr. (CB, Cowboys) — illness, just days after being traded from the Steelers; ruled out for Thursday night's game against the Buccaneers. Severity: low.
+- Ashton Jeanty (RB, Raiders) — ankle and foot, limited participant Thursday after a full session Wednesday; availability for Sunday vs. the Patriots not yet in peril but worth watching Friday. Severity: low.
+- Jaylen Wright (RB, Dolphins) — foot, limited participant Thursday. Severity: low.
+- Reggie Gilliam (FB, Patriots) — ankle, did not participate Thursday (a new, separate issue from the in-game scare that resolved two weeks ago). Severity: low.
+- Carlton Davis III (CB, Patriots) — neck, did not participate Thursday. Severity: low.
+- Julian Blackmon (S, Saints) — shoulder, limited practice participant Thursday (a new injury, distinct from the calf issue that resolved earlier this week). Severity: low.
+
+**Removals (5) — confirmed cleared via snapshot comment text:**
+- Tyler Smith (G, Cowboys) — removed from injured reserve Thursday (the Sept 7 thumb-surgery placement); played in Thursday night's game despite a questionable tag.
+- Akeem Davis-Gaither (LB, Colts) — the knee issue doesn't look serious; back on track to suit up in Week 5.
+- Sonny Styles (LB, Commanders) — the groin issue wasn't anything severe; figures to play a big role Sunday.
+- Kaelon Black (RB, 49ers) — limited Wednesday but appears fine ahead of Sunday's game.
+- Tony Pollard (RB, Titans) — has been handling full game workloads despite missing some practice time; set to continue leading Tennessee's backfield Sunday.
+
+**Reconciliation:** Ran against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-09T00:25:57Z, under 1h old at run start — current). Filtered to the six tracked positions (479 entries across 32 teams) and diffed by player+team against all 428 pre-run dashboard rows. 17 rows matched a snapshot entry reading "Active" for all matches — 5 confirmed genuinely cleared via comment text and removed above; the other 12 — Ty Okada, Cam Lewis, Jeremy Reaves, Rueben Bain Jr., Josiah Trotter (all trending positive, not yet confirmed clear), D.J. Reed (playing through it), Dondrea Tillman, T.J. Sanders, Davon Godchaux, Ronnie Stanley, Jackson Powers-Johnson, DJ Giddens (bare/blank comments) — kept unchanged per the standing policy. 272 had no matching snapshot entry (150 high-severity, exempt; 118 mid / 4 low unmatched — Tyler Owens, Kenneth Murray Jr., Jacob Monk, British Brooks, all already checked in recent sweeps with no new information, kept unchanged). Circuit breaker: not applicable — 5 verified removals on 428 pre-run rows (1.2%), well under the 25% threshold.
+
+**Breaking-news sweep:** No additional breaking developments surfaced beyond the seven additions above. Excluded as bare/uninformative (game-day status word only, no injury description) or pure stat-recap comments with no injury mentioned: Walter Nolen III, Karson Sharar, Divine Deablo, Samson Ebukam, Yasir Abdullah, John Simpson, Landon Jackson, Joe Thuney, Darnell Wright, Keyshaun Elliott, Jonah Jackson, Dalton Risner, Dexter Lawrence II, Mekhi Blackmon, Derek Barnett, James Houston, Ajani Cornelius, Tyleik Williams, DJ Wonnum, Devonte Wyatt, Anthony Belton, Aireontae Ersery, Ed Ingram, Blake Fisher, Will Anderson Jr., Jamal Hill, Charvarius Ward, Jaylon Carlies, Cole Van Lanen, Jarrian Jones, Josh Hines-Allen, DaVon Hamilton, Anton Harrison, Jourdan Lewis, Spencer Burford, Deane Leonard, Cam Hart, Alec Ingold, Grant Stuard, Josaiah Stewart, Quentin Lake, Austin Jackson, JuJu Brents, Brian O'Neill, Craig Woodson, Morgan Moses, Dre'Mont Jones, Christian Elliss, Karon Prunty, Jeremiah Wright, Andrew Thomas, Julian Neal, Nehemiah Pritchett, Billy Schrauth, Luke Haggard, DeMonte Capehart, Jeffery Simmons, Marcus Harris, Kevin Winston Jr., John Franklin-Myers, Nick Allegretti, Percy Butler. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 7, 9:10 PM ET ages off). 1 aged off this run (added Oct 7 at 12:10 PM ET: Drew Shelton). 7 new NEW badges added (list above). Net badge count: 15 → 17. Tile counts updated and verified against current table rows: 155 high / 159 mid / 116 low / 430 all / 17 new.
