@@ -7536,3 +7536,46 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** No breaking developments surfaced. Excluded as bare/uninformative (game-day status word only, no injury description): Walter Nolen III, Karson Sharar, Yasir Abdullah, Divine Deablo, Samson Ebukam, Landon Jackson, Keyshaun Elliott, James Houston, Ajani Cornelius, Tyleik Williams, Javon Hargrave, Aireontae Ersery, Ed Ingram, Blake Fisher, Jaylon Carlies, Charvarius Ward, Rodney Shelley, Grant Stuard, Josaiah Stewart, Karon Prunty, Craig Woodson, Morgan Moses, Dre'Mont Jones, Christian Elliss, Jeremiah Wright, Will McDonald IV, Uar Bernard, Billy Schrauth, Luke Haggard, DeMonte Capehart, Percy Butler. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 8, 9:10 PM ET ages off). 0 aged off this run. 0 new NEW badges added. Net badge count unchanged: 15. Tile counts updated and verified against current table rows: 155 high / 159 mid / 118 low / 432 all / 15 new.
+
+## Oct 10, 2026, 12:10 PM ET
+
+~15h window since the 9:10 PM ET sweep, covering Saturday's final Week 5 injury reports ahead of Sunday's games — a wave of both new designations and confirmed clearances as official reports locked in.
+
+**New injuries:**
+- Walter Nolen III (DT, Cardinals) — calf, questionable vs. the Lions. Severity: low.
+- Yasir Abdullah (LB, Falcons) — hamstring, ruled out vs. the Ravens. Severity: low.
+- Divine Deablo (LB, Falcons) — hamstring, questionable vs. the Ravens. Severity: low.
+- Keyshaun Elliott (LB, Bears) — quadriceps, ruled out vs. the Packers. Severity: low.
+- Javon Hargrave (DT, Packers) — toe, questionable vs. the Bears. Severity: low.
+- Jaylon Carlies (LB, Colts) — ribs, ruled out vs. the Steelers. Severity: low.
+- Charvarius Ward (CB, Colts) — groin, questionable vs. the Steelers. Severity: low.
+- Karon Prunty (CB, Patriots) — hamstring, ruled out vs. the Raiders. Severity: low.
+- Craig Woodson (S, Patriots) — shoulder, questionable vs. the Raiders. Severity: low.
+- Dre'Mont Jones (DE, Patriots) — shoulder, questionable vs. the Raiders. Severity: low.
+- Christian Elliss (LB, Patriots) — chest, questionable vs. the Raiders. Severity: low.
+- Jeremiah Wright (G, Saints) — concussion, ruled out vs. the Vikings. Severity: low.
+- Will McDonald IV (DE, Jets) — calf, questionable vs. the Browns. Severity: low.
+- Percy Butler (S, Commanders) — hamstring, ruled out vs. the Giants. Severity: low.
+
+**Removals (15) — confirmed cleared via snapshot comment text (the "fade/shed an injury tag," "cleared the protocol," or "all set to suit up" wave from Friday's final practice reports):**
+- Dadrion Taylor-Demerson (S, Cardinals) — faded an injury tag after a full Friday practice.
+- Montaric Brown (CB, Jaguars) — cleared to return, back to a starting role.
+- Dante Trader Jr. (S, Dolphins) — avoided an injury tag after a full Friday session.
+- Jarvis Brownlee Jr. (CB, Jets) — cleared the concussion protocol, all set to suit up.
+- Azeez Al-Shaair (LB, Texans) — avoided an injury tag, returns to a starting role.
+- Zack Baun (LB, Eagles) — passed an independent neurologist evaluation, exits the concussion protocol.
+- Lukas Van Ness (DE, Packers) — shed the injury tag for Week 5.
+- Jihaad Campbell (LB, Eagles) — faded an injury tag after a full Friday practice.
+- Frankie Luvu (LB, Commanders) — all set to suit up after upgrading to full Friday.
+- Dalvin Tomlinson (DT, Chargers) — avoided an injury tag after a full Friday practice.
+- Leonard Williams (DT, Seahawks) — faded an injury tag after working through the ankle issue.
+- Fred Johnson (OT, Eagles) — all set for Sunday's contest after a full Friday practice.
+- Anthony Belton (OT, Packers) — cleared to play in Sunday's game (resolved positively after Thursday's "trending toward concern" note).
+- Andrew Thomas (OT, Giants) — avoided any injury designation, all set to suit up.
+- Sam Cosmi (G, Commanders) — cleared the concussion protocol, returns from a one-game absence.
+
+**Reconciliation:** Ran against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-10T12:39:19Z, under 1h old at run start — current). Filtered to the six tracked positions (483 entries across 32 teams) and diffed by player+team against all 432 pre-run dashboard rows. 30 rows matched a snapshot entry reading "Active" for all matches — 15 confirmed genuinely cleared via comment text and removed above; the other 15 — Ty Okada, Cam Lewis, D.J. Reed, Quinyon Mitchell, Jeremy Reaves, Rueben Bain Jr., Dondrea Tillman, Josiah Trotter, T.J. Sanders, Aaron Donald, Jackson Powers-Johnson (all hedged — "likely," "hopeful," "barring a setback" — not a definitive clearance), plus B.J. Hill, Davon Godchaux, Ronnie Stanley, DJ Giddens (blank comments) — kept unchanged per the standing policy. 271 had no matching snapshot entry (150 high-severity, exempt; 117 mid / 4 low unmatched, all previously checked in recent sweeps with no new information). Circuit breaker: not applicable — 15 verified removals on 432 pre-run rows (3.5%), well under the 25% threshold.
+
+**Breaking-news sweep:** No additional breaking developments surfaced beyond the fourteen additions above. Excluded as bare/uninformative (game-day status word only, no injury description): Karson Sharar, Samson Ebukam, Landon Jackson, James Houston, Ajani Cornelius, Tyleik Williams, Aireontae Ersery, Ed Ingram, Blake Fisher, Rodney Shelley, Grant Stuard, Josaiah Stewart, Morgan Moses, Christen Miller, Billy Schrauth, Luke Haggard, DeMonte Capehart. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 9, 12:10 PM ET ages off). 7 aged off this run (all added Oct 8 at 9:10 PM ET: Joey Porter Jr., Carlton Davis III, Julian Blackmon, Mike Hall Jr., Ashton Jeanty, Jaylen Wright, Reggie Gilliam). 14 new NEW badges added (list above). Net badge count: 15 → 20. Tile counts updated and verified against current table rows: 155 high / 158 mid / 118 low / 431 all / 20 new.
