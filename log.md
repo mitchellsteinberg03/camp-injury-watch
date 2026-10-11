@@ -7579,3 +7579,20 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** No additional breaking developments surfaced beyond the fourteen additions above. Excluded as bare/uninformative (game-day status word only, no injury description): Karson Sharar, Samson Ebukam, Landon Jackson, James Houston, Ajani Cornelius, Tyleik Williams, Aireontae Ersery, Ed Ingram, Blake Fisher, Rodney Shelley, Grant Stuard, Josaiah Stewart, Morgan Moses, Christen Miller, Billy Schrauth, Luke Haggard, DeMonte Capehart. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 9, 12:10 PM ET ages off). 7 aged off this run (all added Oct 8 at 9:10 PM ET: Joey Porter Jr., Carlton Davis III, Julian Blackmon, Mike Hall Jr., Ashton Jeanty, Jaylen Wright, Reggie Gilliam). 14 new NEW badges added (list above). Net badge count: 15 → 20. Tile counts updated and verified against current table rows: 155 high / 158 mid / 118 low / 431 all / 20 new.
+
+## Oct 10, 2026, 9:10 PM ET
+
+~9h window since the 12:10 PM ET sweep. No new informative additions surfaced — the snapshot's new-entry pool (17 candidates) was entirely bare "questionable"/"out" tags with no injury description.
+
+**Status and designation changes:**
+- Mykel Williams (EDGE, 49ers) — reworded: practice window opened Oct 1, full practice participant by Friday, expected to be activated off PUP ahead of Sunday's (Oct 11) game vs. the Seahawks (replaced a stale "eligible to return Week 5" framing now that activation is imminent, per HC Kyle Shanahan). Stays mid; not yet removed since activation isn't literally confirmed.
+
+**Removals (2) — confirmed cleared via snapshot comment text:**
+- Christian Benford (CB, Bills) — given the green light to return from the toe injury, resumes his starting outside-cornerback spot.
+- Davon Godchaux (DT, Saints) — faded his injury tag with a full Friday practice on the groin issue.
+
+**Reconciliation:** Ran against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-10T23:36:36Z, under 2h old at run start — current). Filtered to the six tracked positions (487 entries across 32 teams) and diffed by player+team against all 431 pre-run dashboard rows. 22 rows matched a snapshot entry reading "Active" for all matches — 2 confirmed genuinely cleared via comment text and removed above; the other 20 — Ty Okada, Cam Lewis, D.J. Reed, Quinyon Mitchell, Jeremy Reaves, Rueben Bain Jr., Dondrea Tillman, Josiah Trotter, Nate Landman, T.J. Sanders, Aaron Donald, Jackson Powers-Johnson (all hedged, not a definitive clearance), plus Brenden Schooler, Jaylen Watson, Deatrich Wise Jr., Kenneth Murray Jr., B.J. Hill, Ronnie Stanley, DJ Giddens (blank comments) — kept unchanged. 267 had no matching snapshot entry (148 high-severity, exempt; 115 mid / 4 low unmatched, all previously checked in recent sweeps with no new information). Circuit breaker: not applicable — 2 verified removals on 431 pre-run rows (0.5%), well under the 25% threshold.
+
+**Breaking-news sweep:** No breaking developments surfaced. Excluded as bare/uninformative (game-day status word only, no injury description): Karson Sharar, Samson Ebukam, Landon Jackson, James Houston, Ajani Cornelius, Tyleik Williams, Aireontae Ersery, Ed Ingram, Blake Fisher, Rodney Shelley, Morgan Moses, Vernon Broughton, Nathan Shepherd, Christen Miller, Billy Schrauth, Luke Haggard, DeMonte Capehart. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 9, 9:10 PM ET ages off). 6 aged off this run (all added Oct 9 at 12:10 PM ET: Alijah Clark, Quentin Lake, Julian Neal, Nate Landman, Tyler Guyton, Brian O'Neill). 0 new NEW badges added. Net badge count: 20 → 14. Tile counts updated and verified against current table rows: 155 high / 158 mid / 116 low / 429 all / 14 new.
