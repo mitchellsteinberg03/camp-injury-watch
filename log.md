@@ -7618,3 +7618,34 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** No additional breaking developments surfaced beyond the two additions above. Excluded as bare/uninformative (game-day status word only, no injury description): Karson Sharar, Samson Ebukam, James Houston, Ajani Cornelius, Tyleik Williams, Aireontae Ersery, Ed Ingram, Blake Fisher, Wesley Williams, Albert Regis, Daniel Faalele, Alijah Huzzie, Rodney Shelley, Morgan Moses, Vernon Broughton, Christen Miller, Chance Campbell, Billy Schrauth, Luke Haggard, DeMonte Capehart. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 10, 12:10 PM ET ages off). 0 aged off this run. 2 new NEW badges added (list above). Net badge count: 14 → 16. Tile counts updated and verified against current table rows: 155 high / 153 mid / 117 low / 425 all / 16 new.
+
+## Oct 11, 2026, 5:05 PM ET
+
+~5h window since the 12:10 PM ET sweep, covering inactives and in-game injuries from the 1 PM ET slate.
+
+**New injuries (13):**
+- Kevin Winston Jr. (S, Titans) — quad, exited in the first quarter vs. the Texans; questionable to return.
+- JuJu Brents (CB, Dolphins) — being evaluated for a possible concussion after a head injury late in the first half vs. the Bengals; questionable to return.
+- Jalyx Hunt (LB, Eagles) — ankle/knee, sustained on the last play of the first half vs. the Jaguars in London; seen in a walking boot postgame, uncertain for Week 6 vs. the Panthers.
+- Joseph Ossai (DE, Jets) — ankle, needed help off the field vs. the Browns; questionable to return.
+- Patrick Johnson (DE, Raiders) — stinger/neck, exited the second quarter vs. the Patriots; questionable to return, unlikely.
+- T.J. Edwards (LB, Bears) — hamstring, ruled out for the remainder of the game vs. the Packers.
+- Jordyn Brooks (LB, Dolphins) — foot, exited the first half vs. the Bengals; questionable to return.
+- Tonka Hemingway (DT, Raiders) — neck, ruled out for the remainder of the game vs. the Patriots.
+- Anton Harrison (OT, Jaguars) — knee, departed in the third quarter vs. the Eagles in London; downgraded to out, uncertain for Week 6 vs. the Texans.
+- Will Campbell (OT, Patriots) — knee, questionable to return vs. the Raiders; severity still being evaluated.
+- Jonah Savaiinaea (G, Dolphins) — ankle, exited the second quarter vs. the Bengals; questionable to return.
+- TreVeyon Henderson (RB, Patriots) — right ankle, hurt on an awkward tackle vs. the Raiders; questionable to return.
+- David Montgomery (RB, Texans) — groin, exited in the second quarter at Tennessee; questionable to return.
+
+**Status/designation changes:**
+- Nathan Shepherd (DT, Saints) — upgraded from "questionable" to officially ruled inactive for Sunday's game vs. the Vikings (illness).
+- Isaiah Adams (G, Cardinals) — placed on injured reserve Oct 10 (ankle), missed by the prior sweep; out at least four games, eligible to return as early as Week 9 (Nov 8) vs. the Seahawks. Severity raised low → mid.
+
+**Removals:** none this run.
+
+**Reconciliation:** Ran against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-11T18:58:06Z, ~2h old at run start — current). Filtered to the six tracked positions (500 entries across 32 teams) and diffed by player+team against all 425 pre-run dashboard rows. Matches on existing rows reading "Active" (Jalen Ramsey, Javon Hargrave, Anthony Campbell, Aaron Banks, Noah Sewell, Julian Blackmon, Bryan Cook, Swayze Bozeman, Jackson Woodard, Jaylan Ford, Lorenzo Styles Jr., Pat Surtain II, Riley Moss) were all hedged or bare confirmations of game-day availability, not explicit clearance language — kept unchanged per standing policy. Specifically checked Noah Sewell (Bears, high/PUP), Jaylan Ford (Saints, mid/IR) and Lorenzo Styles Jr. (Saints, mid/IR) against web search for an explicit activation given their "Active" snapshot entries contradicted their IR/PUP designations; no confirming report found, so all three were left unchanged this run. Circuit breaker: not applicable — 0 removals.
+
+**Breaking-news sweep:** WebSearch confirmed additional detail on all 13 additions above (ESPN beat-reporter game updates). Excluded as bare/uninformative (game-day status word only, no injury description) or out of scope (coach's-decision inactives): Morgan Moses, Dayo Odeyingbo, Eli Heidenreich, Kaytron Allen, Nicholas Singleton, Pat Surtain II, Riley Moss, Tyler Onyedim, Jordan Jackson, Kage Casey, Vernon Broughton (recurring bare "illness/inactive" entry, excluded again per standing precedent), Christen Miller. Also excluded two in-game injuries that resolved by return to the same game with no residual designation: Tyler Steen (G, Eagles, shoulder) and Cor'Dale Flott (CB, Titans, chest); Aaron Jones Sr. (RB, Vikings, knee) similarly returned to the game. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 10, 5:05 PM ET ages off). 14 aged off this run (all added Oct 10 at 12:10 PM ET: Charvarius Ward, Karon Prunty, Craig Woodson, Percy Butler, Yasir Abdullah, Divine Deablo, Keyshaun Elliott, Jaylon Carlies, Dre'Mont Jones, Christian Elliss, Will McDonald IV, Walter Nolen III, Javon Hargrave, Jeremiah Wright). 14 new NEW badges added (13 new injuries + Isaiah Adams's missed IR update). Net badge count: 16 → 16. Tile counts updated and verified against current table rows: 155 high / 154 mid / 129 low / 438 all / 16 new.
