@@ -7596,3 +7596,25 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** No breaking developments surfaced. Excluded as bare/uninformative (game-day status word only, no injury description): Karson Sharar, Samson Ebukam, Landon Jackson, James Houston, Ajani Cornelius, Tyleik Williams, Aireontae Ersery, Ed Ingram, Blake Fisher, Rodney Shelley, Morgan Moses, Vernon Broughton, Nathan Shepherd, Christen Miller, Billy Schrauth, Luke Haggard, DeMonte Capehart. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 9, 9:10 PM ET ages off). 6 aged off this run (all added Oct 9 at 12:10 PM ET: Alijah Clark, Quentin Lake, Julian Neal, Nate Landman, Tyler Guyton, Brian O'Neill). 0 new NEW badges added. Net badge count: 20 → 14. Tile counts updated and verified against current table rows: 155 high / 158 mid / 116 low / 429 all / 14 new.
+
+## Oct 11, 2026, 12:10 PM ET
+
+~15h window since the 9:10 PM ET sweep, covering Sunday morning inactive-list and activation news ahead of the early games.
+
+**New injuries:**
+- Landon Jackson (DE, Bills) — knee, questionable for Monday's game. Severity: low.
+- Nathan Shepherd (DT, Saints) — illness, now questionable for Sunday's game vs. the Vikings. Severity: low.
+
+**Removals (6) — confirmed cleared/activated via snapshot comment text:**
+- Brenden Schooler (S, Patriots) — cleared to make his regular-season debut Sunday after recovering from a back injury.
+- Jaylen Watson (CB, Rams) — returns to his starting outside-cornerback role after missing only one game with the dislocated shoulder.
+- Mykel Williams (EDGE, 49ers) — set to play his first game since tearing his ACL in November 2025, activated off PUP.
+- Deatrich Wise Jr. (DE, Commanders) — fully recovered from the quadriceps injury that opened him on PUP; active in a rotational role.
+- Nate Landman (LB, Rams) — avoided an injury tag for Monday night's game after a full Saturday practice.
+- Kenneth Grant (DT, Dolphins) — no injury designation for Sunday's game; activated off IR for his 2026 regular-season debut.
+
+**Reconciliation:** Ran against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-11T12:58:52Z, under 4h old at run start — current). Filtered to the six tracked positions (486 entries across 32 teams) and diffed by player+team against all 429 pre-run dashboard rows. 21 rows matched a snapshot entry reading "Active" for all matches — 6 confirmed genuinely cleared/activated via comment text and removed above; the other 15 — Ty Okada, Cam Lewis, D.J. Reed, Quinyon Mitchell, Jeremy Reaves, Rueben Bain Jr., Dondrea Tillman, Josiah Trotter, T.J. Sanders, Aaron Donald, Jackson Powers-Johnson (hedged, not definitively cleared), plus Kenneth Murray Jr., B.J. Hill, Ronnie Stanley, DJ Giddens (blank comments) — kept unchanged. 268 had no matching snapshot entry (149 high-severity, exempt; 115 mid / 4 low unmatched, all previously checked in recent sweeps with no new information). Circuit breaker: not applicable — 6 verified removals on 429 pre-run rows (1.4%), well under the 25% threshold.
+
+**Breaking-news sweep:** No additional breaking developments surfaced beyond the two additions above. Excluded as bare/uninformative (game-day status word only, no injury description): Karson Sharar, Samson Ebukam, James Houston, Ajani Cornelius, Tyleik Williams, Aireontae Ersery, Ed Ingram, Blake Fisher, Wesley Williams, Albert Regis, Daniel Faalele, Alijah Huzzie, Rodney Shelley, Morgan Moses, Vernon Broughton, Christen Miller, Chance Campbell, Billy Schrauth, Luke Haggard, DeMonte Capehart. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 10, 12:10 PM ET ages off). 0 aged off this run. 2 new NEW badges added (list above). Net badge count: 14 → 16. Tile counts updated and verified against current table rows: 155 high / 153 mid / 117 low / 425 all / 16 new.
