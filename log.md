@@ -7649,3 +7649,67 @@ All severity low except Adebo and Ingram (mid, per above).
 **Breaking-news sweep:** WebSearch confirmed additional detail on all 13 additions above (ESPN beat-reporter game updates). Excluded as bare/uninformative (game-day status word only, no injury description) or out of scope (coach's-decision inactives): Morgan Moses, Dayo Odeyingbo, Eli Heidenreich, Kaytron Allen, Nicholas Singleton, Pat Surtain II, Riley Moss, Tyler Onyedim, Jordan Jackson, Kage Casey, Vernon Broughton (recurring bare "illness/inactive" entry, excluded again per standing precedent), Christen Miller. Also excluded two in-game injuries that resolved by return to the same game with no residual designation: Tyler Steen (G, Eagles, shoulder) and Cor'Dale Flott (CB, Titans, chest); Aaron Jones Sr. (RB, Vikings, knee) similarly returned to the game. Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
 
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 10, 5:05 PM ET ages off). 14 aged off this run (all added Oct 10 at 12:10 PM ET: Charvarius Ward, Karon Prunty, Craig Woodson, Percy Butler, Yasir Abdullah, Divine Deablo, Keyshaun Elliott, Jaylon Carlies, Dre'Mont Jones, Christian Elliss, Will McDonald IV, Walter Nolen III, Javon Hargrave, Jeremiah Wright). 14 new NEW badges added (13 new injuries + Isaiah Adams's missed IR update). Net badge count: 16 → 16. Tile counts updated and verified against current table rows: 155 high / 154 mid / 129 low / 438 all / 16 new.
+
+## Oct 11, 2026, 9:10 PM ET
+
+~4h window since the 5:05 PM ET sweep, covering the bulk of the Sunday 1 PM/4 PM slate's in-game injuries and a wave of IR/PUP activations that cleared out of the tracker once games kicked off.
+
+**New injuries:**
+- Wydett Williams Jr. (S, Cardinals) — concussion, suffered Sunday vs. the Lions. Severity: low.
+- Dayo Odeyingbo (DE, Bears) — quadriceps, doubtful to return vs. the Packers. Severity: low.
+- Tyrique Stevenson Sr. (CB, Bears) — hamstring, doubtful to return vs. the Packers. Severity: low.
+- Carson Schwesinger (LB, Browns) — lower leg, seen in a walking boot after the 17-12 loss to the Jets. Severity: low.
+- Quinshon Judkins (RB, Browns) — right foot, seen in a walking boot after the loss to the Jets. Severity: low.
+- Raheim Sanders (RB, Browns) — hip, questionable to return vs. the Jets. Severity: low.
+- Tytus Howard (OT, Browns) — knee, questionable to return vs. the Jets. Severity: low.
+- Talanoa Hufanga (S, Broncos) — ankle, ruled out for the rest of the game vs. the Chargers. Severity: low.
+- Devin White (LB, Lions) — forearm, ruled out for the remainder vs. the Cardinals. Severity: low.
+- Benjamin St-Juste (CB, Packers) — hamstring, questionable to return vs. the Bears. Severity: low.
+- Jalen Pitre (S, Texans) — shoulder, departed and never returned during the 26-3 win over the Titans. Severity: low.
+- Montaric Brown (CB, Jaguars) — hamstring, questionable to return vs. the Eagles (a fresh recurrence after clearing a different hamstring issue last week). Severity: low.
+- Bud Dupree (LB, Chargers) — neck, ruled out for the remainder vs. the Broncos. Severity: low.
+- Rodney Shelley (CB, Chargers) — hamstring, inactive vs. the Broncos. Severity: low.
+- Michael Taaffe (S, Dolphins) — chest, questionable to return vs. the Bengals. Severity: low.
+- Vernon Broughton (DT, Saints) — illness, inactive vs. the Vikings. Severity: low.
+- Colton Hood (CB, Giants) — concussion, ruled out for the remainder vs. the Commanders. Severity: low.
+- Tyler Nubin (S, Giants) — neck, questionable to return vs. the Commanders. Severity: low.
+- Michael Carter II (CB, Eagles) — abdomen, ruled out for the remainder vs. the Jaguars in London. Severity: low.
+- Will Shipley (RB, Eagles) — foot, ruled out for the remainder vs. the Jaguars in London. Severity: low.
+- Drake Thomas (LB, Seahawks) — ankle, questionable to return vs. the 49ers. Severity: low.
+- Cor'Dale Flott (CB, Titans) — chest, ruled out for the remainder vs. the Texans. Severity: low.
+
+**Status and designation changes:**
+- George Holani (RB, Seahawks) — reworded to reflect he's playing through both a rib injury and a knee issue that surfaced Friday, serving as a complementary back to Emanuel Wilson (replaced a stale "limited participant in Wednesday's practice" reference from Sept 30). Stays low.
+
+**Removals (25) — confirmed cleared, returned, or activated via snapshot comment text (a wave of IR/PUP activations and practice-week clearances as Sunday's games got underway):**
+- M.J. Stewart (S, Texans) — activated from reserve/PUP, recovered from quadriceps and knee injuries.
+- Lorenzo Styles Jr. (S, Saints) — activated from injured reserve, makes his season debut.
+- Bryan Cook (S, Bengals) — returns Sunday after missing Week 4.
+- Marlon Humphrey (CB, Ravens) — good to go, starting cornerback despite calf/hamstring issues.
+- Upton Stout (CB, 49ers) — recovered enough from the AC joint sprain to suit up.
+- Julian Blackmon (S, Saints) — all set to suit up after three limited practices on the new shoulder issue.
+- Charvarius Ward (CB, Colts) — cleared to play, starting opposite Sauce Gardner.
+- Craig Woodson (S, Patriots) — suits up for a second consecutive week.
+- Noah Sewell (LB, Bears) — activated from reserve/PUP, cleared to return.
+- Jaylan Ford (LB, Saints) — activated from injured reserve, all set to suit up.
+- Kingsley Enagbare (LB, Jets) — all set to suit up as a starting pass rusher.
+- Divine Deablo (LB, Falcons) — overcame the hamstring issue in time to suit up.
+- Christian Elliss (LB, Patriots) — played through a limited practice week.
+- Will McDonald IV (DE, Jets) — recovered in time for Sunday's contest.
+- Jordyn Brooks (LB, Dolphins) — given the green light to check back into the game after treatment.
+- Kayden McDonald (DT, Texans) — activated from injured reserve, makes his NFL regular-season debut.
+- Christian Barmore (DT, Patriots) — makes his return, resumes his regular rotation role.
+- Walter Nolen III (DT, Cardinals) — recovered enough from the calf injury to suit up.
+- Jake Matthews (OT, Falcons) — recovered enough from the groin injury to suit up.
+- Brian O'Neill (OT, Vikings) — recovered enough from the knee injury to suit up.
+- Branson Taylor (G, Chargers) — activated from injured reserve, suits up for Week 5.
+- Scott Matlock (FB, Chargers) — activated off injured reserve, back on the field.
+- Rhamondre Stevenson (RB, Patriots) — cleared to play, Option 1A in the Patriots backfield.
+- Ashton Jeanty (RB, Raiders) — showed enough in pregame workout to get clearance.
+- Jaylen Wright (RB, Dolphins) — looks healthy enough to contribute out of the Miami backfield.
+
+**Reconciliation:** Ran against `data/espn-injuries.json` (`data/espn-injuries-fetched-at.txt` = 2026-10-11T23:42:56Z, under 2h old at run start — current). Filtered to the six tracked positions (502 entries across 32 teams) and diffed by player+team against all 438 pre-run dashboard rows. 44 rows matched a snapshot entry reading "Active" for all matches — 25 confirmed genuinely cleared/returned/activated via comment text and removed above; the other 19 — Ty Okada, Cam Lewis, Jalen Ramsey (playing through it), D.J. Reed (playing through it), Quinyon Mitchell, Jeremy Reaves, Rueben Bain Jr., Dondrea Tillman, Josiah Trotter, Jackson Woodard, T.J. Sanders, Aaron Donald, Jackson Powers-Johnson (hedged, not definitively cleared), Alvin Kamara (playing through a back issue), George Holani (reworded above, playing through it), plus Ronnie Stanley, Kenneth Murray Jr., B.J. Hill, DJ Giddens (blank comments) — kept unchanged. 270 had no matching snapshot entry (149 high-severity, exempt; 116 mid / 5 low unmatched). Spot-checked 2 of the stale low-severity unmatched rows via WebSearch this run: Thomas Harper (Lions S) and Jonah Coleman (Broncos RB) were both confirmed to have been placed on injured reserve Sept 26 (previously only logged as day-to-day practice-report entries) — both upgraded from low to mid with IR placement details. Circuit breaker: not applicable — 25 verified removals on 438 pre-run rows (5.7%), well under the 25% threshold.
+
+**Breaking-news sweep:** No additional breaking developments surfaced beyond the twenty-two additions above. Excluded as bare/uninformative (game-day status word only, no injury description) or non-injury designations (coach's-decision inactives, a practice-squad elevation): a large batch of Sunday's 1 PM-slate inactive lists across the Cardinals, Falcons, Ravens, Bears, Bengals, Cowboys, Broncos, Lions, Packers, Texans, Colts, Jaguars, Raiders, Dolphins, Vikings, Patriots, Saints, Giants, Jets, Eagles, Steelers, 49ers, Seahawks, Buccaneers, Titans, and Commanders, including Lane Johnson (Eagles OT, reconfirmed personal matter, expected to stay on the 53-man roster), Kaytron Allen and Eli Heidenreich and Nicholas Singleton (coach's-decision inactives), and Roman Hemby (Raiders RB, practice-squad elevation, non-injury). Direct fetches of espn.com and all other outlets continued to return 403 from the sandbox's egress proxy as expected.
+
+**Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 10, 9:10 PM ET ages off). 0 aged off this run. 22 new NEW badges added (list above). Net badge count: 16 → 37. Tile counts updated and verified against current table rows: 154 high / 150 mid / 131 low / 435 all / 37 new.
