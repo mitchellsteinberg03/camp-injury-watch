@@ -7745,3 +7745,15 @@ All severity low except Adebo and Ingram (mid, per above).
 - Christian Braswell (CB, Jaguars) — removed: no longer on the league-wide injury report; no corroborating story found of a continued knee injury.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-12T23:01:56Z (current, <6h old). Checked all unmatched low/mid-severity rows and active-status matches for clearance language; no other removals met the explicit-confirmation bar (hedged or blank ESPN comments only — e.g., Kenneth Murray Jr., Ty Okada, Jalen Ramsey, T.J. Sanders — rows kept unchanged). Excluded from new-injury consideration as non-injury or uninformative: Lane Johnson (personal/reserve-retired), Dre Greenlaw (one-game suspension), and several bare "questionable"/"inactive" snapshot entries with no injury description (Sai'vion Jones, Larrell Murchison, Bill Murray, Jermaine Eluemunor, Chance Campbell, Leonard Williams, Beau Stephens).
+
+## Oct 13, 2026, 12:10 PM ET
+
+**New injuries:**
+- Spencer Brown (OT, Bills) — back injury, sustained early in Monday night's (Oct 12) game vs. the Rams; ruled out for the remainder of the game.
+
+**Status changes:** None.
+
+**Removals:**
+- Rueben Bain Jr. (LB, Buccaneers) — removed: cleared groin/shoulder injury, returned to the field and was not on the inactive list for the Week 5 game vs. the Cowboys.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-13T16:04:11Z (current, <6h old). Spot-checked remaining unmatched/active-status rows; no other removals met the explicit-confirmation bar (hedged, blank, or stat-recap-only ESPN comments — e.g., Kenneth Murray Jr., Quentin Lake, George Holani, T.J. Sanders — rows kept unchanged). Excluded from new-injury consideration as non-injury or uninformative: Lane Johnson (personal/reserve-retired), Dre Greenlaw (suspension), and several bare "questionable"/"inactive" snapshot entries with no injury description (Ar'maj Reed-Adams, Jude Bowry, Sai'vion Jones, Larrell Murchison, Bill Murray, Jermaine Eluemunor, Chance Campbell, Leonard Williams, Beau Stephens).
