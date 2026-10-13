@@ -7729,3 +7729,19 @@ All severity low except Adebo and Ingram (mid, per above).
 **Badges:** Checked against data-added timestamps (cutoff: anything added before Oct 11, 12:10 PM ET ages off). 0 aged off this run. 2 new NEW badges added (list above). Net badge count: 37 → 39. Tile counts updated and verified against current table rows: 154 high / 150 mid / 133 low / 437 all / 39 new.
 
 **Addendum to the 12:10 PM ET sweep:** The Quinyon Mitchell (CB, Eagles) WebSearch check flagged as pending above has returned. He played the full game in the Eagles' 19-17 loss to the Jaguars in London (Oct 11), recording his first career interception and two passes defensed, with no knee limitation reported. Removed — no longer carries an injury designation.
+
+## Oct 12, 2026, 9:10 PM ET
+
+**New injuries:**
+- Garret Wallow (LB, 49ers) — hamstring strain; ruled out through the Week 8 bye (expected to miss Week 6 vs. the Commanders and Week 7 at Atlanta).
+
+**Status changes:**
+- Jalen Davis (CB, Bengals) — placed on injured reserve (hamstring, suffered Week 3 vs. the Steelers); out at least four games. Upgraded low → mid.
+- British Brooks (RB, Texans) — placed on injured reserve Oct 9 (hamstring); out at least four games, earliest eligible return Week 9 (Nov 1) vs. the Chargers. Upgraded low → mid.
+- Reggie Gilliam (FB, Patriots) — placed on injured reserve Oct 10 (ankle/knee, alongside WR Mack Hollins); out at least four games, earliest eligible return Week 9. Upgraded low → mid.
+
+**Removals:**
+- Cam Lewis (CB, Bears) — removed: no longer on the league-wide injury report; no corroborating story found of a continued hip injury.
+- Christian Braswell (CB, Jaguars) — removed: no longer on the league-wide injury report; no corroborating story found of a continued knee injury.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-12T23:01:56Z (current, <6h old). Checked all unmatched low/mid-severity rows and active-status matches for clearance language; no other removals met the explicit-confirmation bar (hedged or blank ESPN comments only — e.g., Kenneth Murray Jr., Ty Okada, Jalen Ramsey, T.J. Sanders — rows kept unchanged). Excluded from new-injury consideration as non-injury or uninformative: Lane Johnson (personal/reserve-retired), Dre Greenlaw (one-game suspension), and several bare "questionable"/"inactive" snapshot entries with no injury description (Sai'vion Jones, Larrell Murchison, Bill Murray, Jermaine Eluemunor, Chance Campbell, Leonard Williams, Beau Stephens).
