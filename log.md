@@ -7761,3 +7761,14 @@ All severity low except Adebo and Ingram (mid, per above).
 ## Oct 13, 2026, 9:10 PM ET
 
 No new injuries, status changes, or removals at the six tracked positions this window. Reconciliation ran against the snapshot fetched 2026-10-13T21:18:53Z (current, <6h old); no rows met the explicit-confirmation bar for removal (hedged, blank, or stat-recap-only comments — e.g., Kenneth Murray Jr., Quentin Lake, George Holani, Shemar Turner — kept unchanged). Excluded as non-injury: Montez Sweat and Alaric Jackson (suspensions), Lane Johnson (personal/reserve-retired), Dre Greenlaw (suspension); excluded as uninformative bare-status snapshot entries: Sai'vion Jones, Jermaine Eluemunor, Chance Campbell, Leonard Williams, Beau Stephens.
+
+## Oct 14, 2026, 12:10 PM ET
+
+**New injuries:** None.
+
+**Status changes:** None.
+
+**Removals:**
+- Shemar Turner (DT, Bears) — removed: activated off the PUP list, added to the 53-man roster (filling the spot vacated by Montez Sweat's two-game suspension) and set to play a rotational role at interior defensive line starting Week 6 at Atlanta.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-14T13:47:07Z (current, <6h old). No other rows met the explicit-confirmation bar for removal (hedged, blank, or stat-recap-only comments — e.g., Kenneth Murray Jr., Quentin Lake, George Holani, T.J. Sanders — kept unchanged). Excluded as non-injury: Montez Sweat and Alaric Jackson (suspensions, Sweat's appeal also denied), Lane Johnson (personal/reserve-retired); excluded as uninformative bare-status snapshot entries: Jermaine Eluemunor, Chance Campbell, Leonard Williams.
