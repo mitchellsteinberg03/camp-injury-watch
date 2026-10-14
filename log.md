@@ -7772,3 +7772,37 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Shemar Turner (DT, Bears) — removed: activated off the PUP list, added to the 53-man roster (filling the spot vacated by Montez Sweat's two-game suspension) and set to play a rotational role at interior defensive line starting Week 6 at Atlanta.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-14T13:47:07Z (current, <6h old). No other rows met the explicit-confirmation bar for removal (hedged, blank, or stat-recap-only comments — e.g., Kenneth Murray Jr., Quentin Lake, George Holani, T.J. Sanders — kept unchanged). Excluded as non-injury: Montez Sweat and Alaric Jackson (suspensions, Sweat's appeal also denied), Lane Johnson (personal/reserve-retired); excluded as uninformative bare-status snapshot entries: Jermaine Eluemunor, Chance Campbell, Leonard Williams.
+
+## Oct 14, 2026, 6:08 PM ET
+
+~6h window since the 12:10 PM ET sweep, covering Wednesday's official practice participation and injury designations ahead of Week 6.
+
+**New injuries:**
+- Tony Pollard (RB, Titans) — foot/ankle, questionable; did not practice Wednesday, which beat reporting described as a planned veteran rest day rather than a new injury. Severity: low.
+
+**Status changes:**
+- Talanoa Hufanga (S, Broncos) — non-participant on the Broncos' first two Week 6 practice reports; now set to miss Thursday's game at the Seahawks and estimated out roughly 2-3 weeks. Upgraded low → mid.
+- TreVeyon Henderson (RB, Patriots) — diagnosed via Oct 13 MRI with a right high-ankle sprain (suffered Week 5 vs. the Raiders); doubtful, expected to miss multiple weeks, though surgery isn't required so a trip to IR isn't a given. This update had been sitting in the snapshot since Oct 13 and was missed by the prior two sweeps — corrected now. Upgraded low → mid.
+- David Montgomery (RB, Texans) — doubtful; did not practice Wednesday and remains week-to-week per HC DeMeco Ryans for the Week 5 groin injury. Stays low.
+- Breece Hall (RB, Jets) — doubtful; hasn't practiced since the Week 3 quad injury and is trending toward missing a third straight game in Week 6. Stays low.
+- Quinshon Judkins (RB, Browns) — questionable; spotted Wednesday moving around the locker room without the walking boot on his injured right ankle. Stays low.
+- Dylan Sampson (RB, Browns) — designated to return from injured reserve Oct 14; now eligible to practice, with a 21-day window for the Browns to activate him to the 53-man roster. Stays mid.
+
+**Backlog correction (reconciliation turned these up — each had been placed on IR in the days prior to this sweep per the snapshot, but the dashboard still carried the stale game-day status; none were caught by the intervening sweeps):**
+- Yasir Abdullah (LB, Falcons) — placed on IR Oct 10 (hamstring); out at least four games, eligible to return Week 9 (Nov 8). Upgraded low → mid.
+- Cam Jackson (DT, Panthers) — placed on IR Oct 13 after shoulder surgery; out for the remainder of the season. Upgraded low → high.
+- Swayze Bozeman (LB, Bengals) — placed on IR Oct 12 (fractured forearm, suffered Oct 11 vs. the Dolphins); out at least four weeks. Upgraded low → mid.
+- Raheim Sanders (RB, Browns) — placed on IR Oct 13 (hip, suffered Week 5 vs. the Jets); out at least four games. Upgraded low → mid.
+- Chris Brooks (RB, Packers) — placed on IR Oct 10 (ankle, suffered Oct 4 at Tampa Bay); out at least four games. Upgraded low → mid.
+- Arden Key (DE, Colts) — placed on IR Oct 10 (hamstring); out at least four games, eligible to return Week 9 (Nov 8). Upgraded low → mid.
+- Anton Harrison (OT, Jaguars) — placed on IR (knee, departed during the Oct 11 win over the Eagles); set for arthroscopic surgery with a recovery window of roughly 3-to-5 weeks up to 3-to-4 months depending on findings. Upgraded low → mid.
+- Trevor Penning (G, Chargers) — placed on IR Oct 10 (concussion protocol, entered after the Oct 4 loss to the Seahawks); out at least four games, eligible to return Week 10 (Nov 16). Upgraded low → mid.
+- Rashawn Slater (OT, Chargers) — placed on IR Oct 9 (high-ankle sprain, surgery Oct 9, suffered Oct 4 vs. the Seahawks); out at least four games. Upgraded low → mid.
+- Chauncey Golston (DE, Giants) — placed on IR Oct 10 (neck, suffered Oct 4 vs. the Cardinals); out at least four games, possibly longer. Upgraded low → mid.
+- Julian Neal (CB, Seahawks) — placed on IR Oct 10 (hamstring); out at least four games, eligible to return Week 9 (Nov 8). Upgraded low → mid.
+
+**Removals:** None this run.
+
+**Badges:** 1 new NEW badge added (Tony Pollard). 1 aged off (Spencer Brown, added Oct 13 12:10 PM ET, now past the 24h cutoff). Net badge count: 1 → 1.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-14T18:40:50Z (current, <1h old at run start). Beyond the 11 backlog IR corrections above, cross-checked all remaining low/mid-severity rows against "Active" snapshot matches; the same hedged/blank-comment group kept unchanged across prior sweeps (Jalen Ramsey, D.J. Reed, George Holani, Alvin Kamara, Ty Okada, Jeremy Reaves, Dondrea Tillman, Jackson Woodard, Aaron Donald, Jackson Powers-Johnson, Kenneth Murray Jr., B.J. Hill, Ronnie Stanley, DJ Giddens, T.J. Sanders, Josiah Trotter, Braden Smith) still lacks explicit clearance language and was kept unchanged again. Excluded as uninformative bare-status Wednesday practice-report entries with no injury description: Anthony Johnson Jr. (S, Bears), Jermaine Eluemunor (OT, Giants), T.J. Edwards (LB, Bears), Dayo Odeyingbo (DE, Bears), Dylan Parham (G, Jets), Joseph Ossai (DE, Jets), Kevin Winston Jr. (S, Titans). Excluded as non-injury: none new this run. Tile counts recounted directly against current table rows and corrected to match exactly: 155 high / 165 mid / 115 low / 435 all / 1 new.
