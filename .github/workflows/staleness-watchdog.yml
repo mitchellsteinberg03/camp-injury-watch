@@ -32,9 +32,9 @@ jobs:
           else
             age=$(( $(date -u +%s) - $(date -u -d "$ts" +%s) ))
             hours=$(( age / 3600 ))
-            if [ "$age" -gt 46800 ]; then   # 13h; largest normal gap is 11h (9pm -> 8am ET)
+            if [ "$age" -gt 61200 ]; then   # 17h; largest normal gap is 15h (9pm ET sweep -> next day's noon ET sweep)
               stale=1
-              reason="Last sweep was ${ts} — ${hours} hours ago (threshold: 13h). Sweeps run every 2 hours 9am-9pm ET (hourly during cut week), so multiple runs have been missed."
+              reason="Last sweep was ${ts} — ${hours} hours ago (threshold: 17h). Sweeps run at noon and 9pm ET daily, plus Wed-Fri 6pm ET and Sun 5pm ET, so a run has likely been missed."
             else
               stale=0
               echo "Fresh: last sweep ${ts} (${hours}h ago)."
@@ -49,11 +49,19 @@ jobs:
             else
               gh issue create --repo "$GITHUB_REPOSITORY" \
                 --title "Dashboard stale — injury sweeps appear to have stopped" \
-                --body "$(printf '%s\n\n%s\n\n%s\n\n%s' \
+                --body "$(printf '%s\n\n%s\n\n%s' \
                   "$reason" \
                   "Viewers currently see the red staleness banner, so nobody is misreading old data as current — but sweeps need to be restarted." \
-                  "Check the cloud routine's run history: https://claude.ai/code/routines/trig_017kjgTRJvZXLH6TYKmkBD2Y (it can be re-run or re-enabled from that page)." \
-                  "Note: if today is on or after Sept 21, 2026, the routine's built-in backstop has likely halted sweeps intentionally — the Week 1 decision (due Sept 14) needs to be acted on rather than treating this as a breakage.")"
+                  "Check the cloud routine's run history: https://claude.ai/code/routines/trig_014aYUcz41D45wGHhTogRU4C (it can be re-run or re-enabled from that page).")"
+            fi
+          else
+            existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+              --search 'Dashboard stale in:title' --json number --jq '.[0].number' || true)
+            if [ -n "$existing" ]; then
+              gh issue comment "$existing" --repo "$GITHUB_REPOSITORY" \
+                --body "Auto-resolved: dashboard is fresh again (last sweep ${ts}, ${hours}h ago). Closing."
+              gh issue close "$existing" --repo "$GITHUB_REPOSITORY"
+              echo "Closed resolved staleness issue #$existing."
             fi
           fi
 
@@ -89,5 +97,13 @@ jobs:
               fi
             else
               echo "Structure OK: tiles ${t_high}/${t_mid}/${t_low}/${t_all}/${t_new} match rows ${r_high}/${r_mid}/${r_low}/${r_all}/${r_new}."
+              existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+                --search 'structure anomaly in:title' --json number --jq '.[0].number' || true)
+              if [ -n "$existing" ]; then
+                gh issue comment "$existing" --repo "$GITHUB_REPOSITORY" \
+                  --body "Auto-resolved: tile counts now match table rows (${r_high}/${r_mid}/${r_low}/${r_all}/${r_new}). Closing."
+                gh issue close "$existing" --repo "$GITHUB_REPOSITORY"
+                echo "Closed resolved structure issue #$existing."
+              fi
             fi
           fi
