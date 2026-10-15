@@ -7806,3 +7806,29 @@ No new injuries, status changes, or removals at the six tracked positions this w
 **Badges:** 1 new NEW badge added (Tony Pollard). 1 aged off (Spencer Brown, added Oct 13 12:10 PM ET, now past the 24h cutoff). Net badge count: 1 → 1.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-14T18:40:50Z (current, <1h old at run start). Beyond the 11 backlog IR corrections above, cross-checked all remaining low/mid-severity rows against "Active" snapshot matches; the same hedged/blank-comment group kept unchanged across prior sweeps (Jalen Ramsey, D.J. Reed, George Holani, Alvin Kamara, Ty Okada, Jeremy Reaves, Dondrea Tillman, Jackson Woodard, Aaron Donald, Jackson Powers-Johnson, Kenneth Murray Jr., B.J. Hill, Ronnie Stanley, DJ Giddens, T.J. Sanders, Josiah Trotter, Braden Smith) still lacks explicit clearance language and was kept unchanged again. Excluded as uninformative bare-status Wednesday practice-report entries with no injury description: Anthony Johnson Jr. (S, Bears), Jermaine Eluemunor (OT, Giants), T.J. Edwards (LB, Bears), Dayo Odeyingbo (DE, Bears), Dylan Parham (G, Jets), Joseph Ossai (DE, Jets), Kevin Winston Jr. (S, Titans). Excluded as non-injury: none new this run. Tile counts recounted directly against current table rows and corrected to match exactly: 155 high / 165 mid / 115 low / 435 all / 1 new.
+
+## Oct 15, 2026, 11:45 AM ET
+
+**New injuries:**
+- Jeremiyah Love (RB, Cardinals) — ankle, played through it in the Week 5 win over the Lions; held out of Wednesday's practice to manage it, status for Sunday at the Rams to be monitored.
+- Divine Deablo (LB, Falcons) — hamstring, played through it in the Week 5 win over the Ravens; limited participant Wednesday, on track to play Sunday vs. the Bears barring a setback.
+- Ty Johnson (RB, Bills) — hamstring, picked up in Monday night's overtime win over the Rams; limited at Wednesday's walkthrough.
+- AJ Dillon (RB, Panthers) — ankle; did not participate at Wednesday's practice, availability for Sunday at Philadelphia in doubt.
+- Keisean Nixon (CB, Packers) — groin; did not participate at Wednesday's practice.
+- Evan Williams (S, Packers) — illness; limited participant at Wednesday's practice.
+- Nate Landman (LB, Rams) — wrist, picked up in Monday night's overtime loss to the Bills; limited participant on the Rams' estimated Wednesday injury report.
+- Abdul Carter (LB, Giants) — calf, likely injured in the Week 5 tie with the Commanders; did not participate on Wednesday's injury report.
+- Sean Tucker (RB, Buccaneers) — quadriceps, likely picked up in the Week 5 win over the Cowboys; did not participate in Wednesday's practice.
+- Tyjae Spears (RB, Titans) — knee; limited participant at Wednesday's practice.
+
+**Status changes:** None.
+
+**Removals:**
+- Tyler Guyton (OT, Cowboys) — removed: X-rays confirmed his back was fine; returned to practicing at full capacity.
+- Tony Pollard (RB, Titans) — removed: his Wednesday absence confirmed as planned veteran rest rather than any health concern; set to handle the lead role Sunday at Indianapolis.
+- Cor'Dale Flott (CB, Titans) — removed: cleared his chest injury, fully back in action within days of the Week 5 game.
+- Kenneth Murray Jr. (LB, Texans) — removed: no longer appears on the league-wide injury report; no corroborating story found of a continued concussion issue (status had been unresolved and stale since Week 5).
+- Bud Dupree (LB, Chargers) — removed: no longer on the league-wide injury report; no corroborating story found of a continued neck injury.
+- DJ Giddens (RB, Colts) — removed: no longer on the league-wide injury report; no corroborating story found of a continued knee injury.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-15T11:37:27Z (current, <6h old). Note: this sweep corresponds to the routine's Oct 14, 9 PM ET firing, but the session resumed and completed the work later than usual, so the stamp above reflects actual completion time, not the firing time. No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged language only — e.g., Alijah Clark "seemingly recovered," Trey Hendrickson "on pace to return," Landon Jackson "appears to have recovered," Braden Smith "in line to return" — all kept unchanged). Excluded as non-injury: Montez Sweat and Alaric Jackson (suspensions), Dre Greenlaw (suspension appeal denied); excluded as uninformative bare-status snapshot entries: dozens of bare "questionable" Wednesday-practice-report entries with no injury description.
