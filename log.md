@@ -7836,3 +7836,30 @@ No new injuries, status changes, or removals at the six tracked positions this w
 ## Oct 15, 2026, 12:10 PM ET
 
 No new injuries, status changes, or removals at the six tracked positions — the snapshot is unchanged since the last sweep (still 2026-10-15T11:37:27Z) and a breaking-news search turned up nothing current.
+
+## Oct 15, 2026, 6:10 PM ET
+
+ANOMALY: A full row-by-row reconciliation against the snapshot flagged ~120 of 439 existing low/mid rows (27%, over the 25% circuit-breaker threshold) as absent from the current snapshot. Investigating, every one of the 32 teams' injury lists in data/espn-injuries.json contains exactly 25 entries, and the oldest entry per team is only about a week old — confirming the feed is a rolling log of each team's ~25 most recent injury-report updates, not a current full-roster injury list. Players with no recent update (e.g., Rashawn Slater and Trevor Penning, both placed on IR within the last week) scroll off this window even though they remain out. Per the circuit breaker, no rows were deleted this run; all 120 flagged rows were kept unchanged. Future sweeps should not treat snapshot-absence as a removal signal on its own — only an explicit "activated/returned/cleared" story (from the snapshot's comment text or a search hit) should trigger a removal.
+
+**New injuries:**
+- Alec Ingold (FB, Chargers) — placed on injured reserve Oct 15 (shoulder); out at least four games, eligible to return Week 11 vs. the Jets (Nov 22).
+- Jacory Croskey-Merritt (RB, Commanders) — wasn't present for the media-access portion of Thursday's practice; undisclosed reason, has had a recurring groin issue this season. Severity: low.
+
+**Status changes (Thursday's official practice reports, Week 6):**
+- Breece Hall (RB, Jets) — still a non-participant Thursday but worked out on a side field with trainers; HC Aaron Glenn has labeled him week-to-week for Sunday vs. the Patriots.
+- Quinshon Judkins (RB, Browns) — present for Thursday's practice but sat out drills again; stays questionable.
+- Saquon Barkley (RB, Eagles) — a non-participant on Thursday's report for a fourth straight practice; in danger of a fifth designation ahead of Sunday vs. the Panthers.
+- Jonathon Brooks (RB, Panthers) — seen jogging at Thursday's practice, a sign of progress, though still not cleared for drills; remains on IR, eligible to return as early as Week 7.
+- Kyle Monangai (RB, Bears) — a non-participant on Thursday's report for a second straight session; questionable for Sunday vs. the Falcons.
+- Kyle Juszczyk (FB, 49ers) — a limited participant at Thursday's practice; too early to say if he's available Monday vs. the Commanders.
+- Rico Dowdle (RB, Steelers) — upgraded to a full participant Thursday after being limited Wednesday; on track to return Sunday vs. the Buccaneers after a three-game absence.
+- Tyjae Spears (RB, Titans) — trending the wrong way, unable to practice at all Thursday after being limited Wednesday.
+- TreVeyon Henderson (RB, Patriots) — remained limited for a second straight Thursday practice; stays doubtful.
+- Jeremiyah Love (RB, Cardinals) — held out of practice for a second straight day; in danger of missing his first career game Sunday at the Rams.
+- Alvin Kamara (RB, Saints) — a limited participant for a second straight session; needs a full Friday practice to avoid a designation for Sunday at the Giants.
+- Sean Tucker (RB, Buccaneers) — upgraded to a limited participant Thursday after sitting out Wednesday.
+- Dylan Sampson (RB, Browns) — a limited participant Thursday after taking no reps Wednesday; may need a full Friday session to be activated for Sunday vs. the Ravens.
+
+**Removals:** None this run (circuit breaker triggered — see ANOMALY note above).
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-15T21:28:12Z (current, <1h old at run start). Full reconciliation attempted; see ANOMALY note — the snapshot's rolling-25-per-team-update structure made a blanket absence-based reconciliation unreliable, so no removals were applied. Excluded as uninformative bare-status entries with no injury description: Nick Cross (S, Commanders), Jaylahn Tuimoloau (DE, Colts), Matt Goncalves (G, Colts), Marlon Humphrey (CB, Ravens), Roger Rosengarten (OT, Ravens), Kendal Daniels (LB, Falcons), Cameron Thomas (DE, Falcons), Cory Durden (DT, Patriots), Mike Green (LB, Ravens), Peter Woods (DT, Chiefs), Jermaine Eluemunor (OT, Giants). Excluded as non-injury: Josh Jacobs (RB, Packers) — civil suit over records tied to a commissioner's exempt-list matter, not an injury.
