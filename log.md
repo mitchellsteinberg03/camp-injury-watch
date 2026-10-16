@@ -7880,3 +7880,15 @@ ANOMALY: A full row-by-row reconciliation against the snapshot flagged ~120 of 4
 - Michael Carter II (CB, Eagles) — removed: no longer on the league-wide injury report; no corroborating story found of a continued abdomen injury.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-16T00:27:11Z (current, <6h old). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged language only — e.g., Marcus Epps "two more opportunities to log a full practice," Divine Deablo "appears... back up to full speed," Braden Smith "in line to return" — all kept unchanged, consistent with past sweeps). Excluded as non-injury: Josh Jacobs (civil suit/commissioner's exempt list matter, not an injury designation), Montez Sweat, Alaric Jackson, and Dre Greenlaw (suspensions); excluded as uninformative bare-status snapshot entries: dozens of bare "questionable"/"inactive" entries with no injury description.
+
+## Oct 16, 2026, 12:10 PM ET
+
+**New injuries:**
+- Kam Curl (S, Rams) — ankle, showed up on the injury report midweek; limited participant Thursday, status for Sunday vs. the Cardinals to be monitored.
+- Tyler Badie (RB, Broncos) — thumb, suffered in the first half of Thursday night's game vs. the Seahawks; ruled out for the remainder of the game.
+
+**Status changes:** None.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-16T13:18:05Z (current, <6h old). No active-status or unmatched rows met the explicit-confirmation bar for removal this run (hedged language only — e.g., Marcus Epps "poised to regain his standing," Evan Williams "it looks like he's now over it," George Holani's comment shifted to a pure usage/stat recap with no injury language either way — all kept unchanged per the established stat-recap and hedged-language precedents). Excluded as non-injury: Josh Jacobs (commissioner's exempt list/civil suit matter), Montez Sweat, Alaric Jackson, and Dre Greenlaw (suspensions); excluded as uninformative bare-status snapshot entries: dozens of bare "questionable"/"inactive" entries with no injury description.
