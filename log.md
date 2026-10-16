@@ -7892,3 +7892,34 @@ ANOMALY: A full row-by-row reconciliation against the snapshot flagged ~120 of 4
 **Removals:** None.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-16T13:18:05Z (current, <6h old). No active-status or unmatched rows met the explicit-confirmation bar for removal this run (hedged language only — e.g., Marcus Epps "poised to regain his standing," Evan Williams "it looks like he's now over it," George Holani's comment shifted to a pure usage/stat recap with no injury language either way — all kept unchanged per the established stat-recap and hedged-language precedents). Excluded as non-injury: Josh Jacobs (commissioner's exempt list/civil suit matter), Montez Sweat, Alaric Jackson, and Dre Greenlaw (suspensions); excluded as uninformative bare-status snapshot entries: dozens of bare "questionable"/"inactive" entries with no injury description.
+
+## Oct 16, 2026, 6:10 PM ET
+
+Friday's official practice participation and game-status reports for Week 7 (Sunday, Oct 18).
+
+**New injuries:**
+- Michael Carter II (CB, Eagles) — abdomen, a recurrence of the injury that had him cleared and removed from this dashboard on Oct 15; ruled out for Sunday vs. the Panthers, with an estimated Oct 26 return date per the team's official injury report (ESPN snapshot structured data, not prose commentary).
+
+**Status changes (official Friday designations and IR moves):**
+- Jeremiyah Love (RB, Cardinals) — ruled out for Sunday at the Rams (ankle), ending his streak of never missing a game as a rookie.
+- Kyle Monangai (RB, Bears) — ruled out for Sunday at Atlanta (thumb/toe).
+- AJ Dillon (RB, Panthers) — ruled out for Sunday vs. the Eagles (ankle).
+- Saquon Barkley (RB, Eagles) — ruled out for Sunday vs. the Panthers (hamstring), a non-participant for a fifth straight practice.
+- TreVeyon Henderson (RB, Patriots) — officially questionable for Sunday vs. the Jets; said Friday he's hoping to play on the Oct 13 MRI-confirmed high-ankle sprain.
+- Alvin Kamara (RB, Saints) — questionable for Sunday at the Giants after a limited practice Friday (back).
+- Sean Tucker (RB, Buccaneers) — questionable, a game-time decision for Sunday vs. Pittsburgh (quadriceps).
+- Quinshon Judkins (RB, Browns) — officially questionable for Sunday vs. Baltimore (right ankle).
+- Tyjae Spears (RB, Titans) — officially questionable for Sunday vs. the Colts (knee).
+- Rico Dowdle (RB, Steelers) — questionable for Sunday vs. the Buccaneers after a full practice Thursday and Friday (toe).
+- Dylan Sampson (RB, Browns) — won't be activated off injured reserve in time for Sunday vs. the Ravens (knee).
+- Trevor Etienne (RB, Panthers) — questionable for Sunday against the Eagles after opening a 21-day practice window off IR; head coach says he won't need the full window.
+- Keagen Trost (OT, Rams) — designated to return to practice from injured reserve Oct 15, opening a 21-day window (hamstring).
+- Jadarian Price (RB, Seahawks) — head coach said Friday he "should be looking at a sooner rather than later return" after the Week 7 game (chest, on IR).
+- Will Shipley (RB, Eagles) — placed on injured reserve Oct 16; reporting confirms a partial tear of the plantar fascia in his right foot, out at least four games. Upgraded low → mid.
+- Devin White (LB, Lions) — placed on injured reserve Oct 16 after surgery to repair a broken right forearm suffered in the Oct 11 win over the Cardinals, out at least four games. Upgraded low → mid.
+
+**Removals:** None this run.
+
+**Badges:** 1 new NEW badge added (Michael Carter II). None aged off this run (all 5 pre-existing NEW badges — Kam Curl, Tyler Badie, Alec Ingold, Jacory Croskey-Merritt, Austin Ekeler — remain inside the 24h window). Net badge count: 5 → 6.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-16T21:16:57Z (current, <1h old at run start). Row-by-row reconciliation against the snapshot flagged 290 of 438 rows (66%) as absent by name, and 141 of the 297 non-high-severity rows (32%) — both well over the 25% circuit-breaker threshold and consistent with the established finding (see Oct 15, 6:10 PM ET entry) that data/espn-injuries.json is a rolling log of each team's ~25 most recent injury-report updates, not a full current-roster injury list; long-settled IR/mid/low rows routinely scroll off this window without having recovered. Per the circuit breaker and prior precedent, no rows were removed on absence alone this run. Checked all snapshot entries matched to existing rows for explicit clearance/activation language; the dozen "full participant" hits found (Kyler Gordon, Amani Hooker, Alijah Clark, Evan Williams, Henry To'oTo'o, Kiko Mauigoa, Dondrea Tillman, Trey Hendrickson, Divine Deablo, Taylor Moton, Rico Dowdle) reflect a single good practice day, not a confirmed return, and were kept unchanged per the established hedged-language precedent. Also checked: Michael Carter II (Eagles CB, removed as cleared on Oct 15) reappeared in today's snapshot with a bare "out" comment, but the entry's structured details field specified an abdomen injury and an Oct 26 return date, which counts as reading ESPN's data — added back per the new-injury section above rather than excluded as uninformative. Excluded as non-injury: Josh Jacobs (commissioner's exempt list/civil suit matter). Excluded as uninformative bare-status Friday snapshot entries with no injury description: dozens, including Jordan Elliott (DT, Titans), Jonathan Ford (DT, Packers), Brandon Cisse (CB, Packers), Jermaine Eluemunor (OT, Giants), Kendal Daniels (LB, Falcons), Trent McDuffie (CB), and Jonathon Cooper (LB, Broncos).
