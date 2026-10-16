@@ -7863,3 +7863,20 @@ ANOMALY: A full row-by-row reconciliation against the snapshot flagged ~120 of 4
 **Removals:** None this run (circuit breaker triggered — see ANOMALY note above).
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-15T21:28:12Z (current, <1h old at run start). Full reconciliation attempted; see ANOMALY note — the snapshot's rolling-25-per-team-update structure made a blanket absence-based reconciliation unreliable, so no removals were applied. Excluded as uninformative bare-status entries with no injury description: Nick Cross (S, Commanders), Jaylahn Tuimoloau (DE, Colts), Matt Goncalves (G, Colts), Marlon Humphrey (CB, Ravens), Roger Rosengarten (OT, Ravens), Kendal Daniels (LB, Falcons), Cameron Thomas (DE, Falcons), Cory Durden (DT, Patriots), Mike Green (LB, Ravens), Peter Woods (DT, Chiefs), Jermaine Eluemunor (OT, Giants). Excluded as non-injury: Josh Jacobs (RB, Packers) — civil suit over records tied to a commissioner's exempt-list matter, not an injury.
+
+## Oct 15, 2026, 9:10 PM ET
+
+**New injuries:**
+- Austin Ekeler (RB, Commanders) — chest; limited participant at Thursday's practice, availability for Monday night at San Francisco to be determined.
+
+**Status changes:** None.
+
+**Removals:**
+- Nick Cross (S, Commanders) — removed: cleared his illness, "good to go" for Week 6 vs. San Francisco after missing the last three games.
+- Christian Gonzalez (CB, Patriots) — removed: upgraded to full practice participation and has the green light to suit up after missing the last two games.
+- Riley Moss (CB, Broncos) — removed: will shed his injury designation and suit up vs. the Seahawks.
+- Joey Porter Jr. (CB, Cowboys) — removed: cleared to return to on-field activities after missing a game with illness.
+- Ty Okada (S, Seahawks) — removed: confirmed returning to action this week after a four-week hamstring absence.
+- Michael Carter II (CB, Eagles) — removed: no longer on the league-wide injury report; no corroborating story found of a continued abdomen injury.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-16T00:27:11Z (current, <6h old). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged language only — e.g., Marcus Epps "two more opportunities to log a full practice," Divine Deablo "appears... back up to full speed," Braden Smith "in line to return" — all kept unchanged, consistent with past sweeps). Excluded as non-injury: Josh Jacobs (civil suit/commissioner's exempt list matter, not an injury designation), Montez Sweat, Alaric Jackson, and Dre Greenlaw (suspensions); excluded as uninformative bare-status snapshot entries: dozens of bare "questionable"/"inactive" entries with no injury description.
