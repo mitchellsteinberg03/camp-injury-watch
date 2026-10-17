@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-17T07:00:30Z",
+  "timestamp": "2026-10-17T12:13:57Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -75765,11 +75765,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2044200",
+          "id": "-2044270",
           "longComment": "ir",
           "shortComment": "ir",
           "status": "Injured Reserve",
-          "date": "2026-10-17T06:01Z",
+          "date": "2026-10-17T12:00Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76338,14 +76338,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2044200",
+                  "id": "-2044270",
                   "type": "news",
-                  "date": "2026-10-17T06:01Z",
+                  "date": "2026-10-17T12:00Z",
                   "headline": "ir",
                   "text": "ir",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2044200?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2044270?lang=en&region=us"
                   }
                 }
               ]
@@ -140006,7 +140006,7 @@
         },
         {
           "id": "642792",
-          "longComment": "Engram started and played 31 of 60 offensive snaps, but the Denver passing offense has been stuck in neutral all season to this point. Through six games. Engram has just 12 catches for 134 yards and a touchdown on 19 targets. Bo Nix has to this point refused to throw the ball down the field, and all Denver pass catchers are suffering from it in the box score.",
+          "longComment": "Engram started and played 31 of 60 offensive snaps, but the Denver passing offense has been stuck in neutral all season to this point. Through six games. Engram has just 12 catches for 134 yards and a touchdown on 19 targets. Bo Nix has to this point mostly refused to throw the ball down the field, and all Denver pass catchers are suffering from it in the box score.",
           "shortComment": "Engram caught both targets for 13 yards in Denver's 17-14 overtime win over the Seahawks on Thursday night.",
           "status": "Active",
           "date": "2026-10-17T00:43Z",
@@ -140582,7 +140582,7 @@
                   "type": "news",
                   "date": "2026-10-17T00:43Z",
                   "headline": "Engram caught both targets for 13 yards in Denver's 17-14 overtime win over the Seahawks on Thursday night.",
-                  "text": "Engram started and played 31 of 60 offensive snaps, but the Denver passing offense has been stuck in neutral all season to this point. Through six games. Engram has just 12 catches for 134 yards and a touchdown on 19 targets. Bo Nix has to this point refused to throw the ball down the field, and all Denver pass catchers are suffering from it in the box score.",
+                  "text": "Engram started and played 31 of 60 offensive snaps, but the Denver passing offense has been stuck in neutral all season to this point. Through six games. Engram has just 12 catches for 134 yards and a touchdown on 19 targets. Bo Nix has to this point mostly refused to throw the ball down the field, and all Denver pass catchers are suffering from it in the box score.",
                   "source": "RotoWire"
                 }
               ]
@@ -348574,11 +348574,11 @@
       "displayName": "New York Giants",
       "injuries": [
         {
-          "id": "-2044198",
+          "id": "-2044268",
           "longComment": "questionable",
           "shortComment": "questionable",
           "status": "Questionable",
-          "date": "2026-10-17T06:01Z",
+          "date": "2026-10-17T12:00Z",
           "athlete": {
             "firstName": "Jermaine",
             "lastName": "Eluemunor",
@@ -349147,14 +349147,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2044198",
+                  "id": "-2044268",
                   "type": "news",
-                  "date": "2026-10-17T06:01Z",
+                  "date": "2026-10-17T12:00Z",
                   "headline": "questionable",
                   "text": "questionable",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3115303/injuries/-2044198?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3115303/injuries/-2044268?lang=en&region=us"
                   }
                 }
               ]
@@ -426399,7 +426399,7 @@
         },
         {
           "id": "642791",
-          "longComment": "Kupp accumulated 15 targets through the first five games of the regular season, but the veteran wide receiver was peppered Thursday by Sam Darnold on Thursday, who attempted a season-high 51 passes. It was the first time since Week 12 of the 2024 season (with the Rams) that Kupp saw double-digit targets, and he finished second in that category Thursday behind Jaxon Smith-Njigba (16). Kupp's best days are behind him, but he's a valuable safety blanket for Darnold in the passing game. Kupp will bring a 16-179-1 receiving line (25 targets) into Seattle's Week 7 bout against the Chiefs on Sunday, Oct. 25.",
+          "longComment": "Kupp accumulated 15 targets through the first five games of the regular season, but the veteran wide receiver was peppered Thursday by Sam Darnold, who attempted a season-high 51 passes. It was the first time since Week 12 of the 2024 season (with the Rams) that Kupp saw double-digit targets, and he finished second in that category Thursday behind Jaxon Smith-Njigba (16). Kupp's best days are behind him, but he's a valuable safety blanket for Darnold in the passing game. Kupp will bring a 16-179-1 receiving line (25 targets) into Seattle's Week 7 bout against the Chiefs on Sunday, Oct. 25.",
           "shortComment": "Kupp caught five of 10 targets for 50 yards during the Seahawks' 17-14 overtime loss to the Broncos on Thursday.",
           "status": "Active",
           "date": "2026-10-17T00:41Z",
@@ -426975,7 +426975,7 @@
                   "type": "news",
                   "date": "2026-10-17T00:41Z",
                   "headline": "Kupp caught five of 10 targets for 50 yards during the Seahawks' 17-14 overtime loss to the Broncos on Thursday.",
-                  "text": "Kupp accumulated 15 targets through the first five games of the regular season, but the veteran wide receiver was peppered Thursday by Sam Darnold on Thursday, who attempted a season-high 51 passes. It was the first time since Week 12 of the 2024 season (with the Rams) that Kupp saw double-digit targets, and he finished second in that category Thursday behind Jaxon Smith-Njigba (16). Kupp's best days are behind him, but he's a valuable safety blanket for Darnold in the passing game. Kupp will bring a 16-179-1 receiving line (25 targets) into Seattle's Week 7 bout against the Chiefs on Sunday, Oct. 25.",
+                  "text": "Kupp accumulated 15 targets through the first five games of the regular season, but the veteran wide receiver was peppered Thursday by Sam Darnold, who attempted a season-high 51 passes. It was the first time since Week 12 of the 2024 season (with the Rams) that Kupp saw double-digit targets, and he finished second in that category Thursday behind Jaxon Smith-Njigba (16). Kupp's best days are behind him, but he's a valuable safety blanket for Darnold in the passing game. Kupp will bring a 16-179-1 receiving line (25 targets) into Seattle's Week 7 bout against the Chiefs on Sunday, Oct. 25.",
                   "source": "RotoWire"
                 }
               ]
@@ -470278,7 +470278,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -470894,7 +470894,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -471510,7 +471510,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -472126,7 +472126,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -472742,7 +472742,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -473358,7 +473358,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -473972,7 +473972,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -474586,7 +474586,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -475188,7 +475188,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -475804,7 +475804,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -476420,7 +476420,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -477036,7 +477036,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -477652,7 +477652,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -478268,7 +478268,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -478884,7 +478884,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -479486,7 +479486,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -480102,7 +480102,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -480704,7 +480704,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -481320,7 +481320,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -481936,7 +481936,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -482552,7 +482552,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -483154,7 +483154,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -483756,7 +483756,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -484358,7 +484358,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
@@ -484960,7 +484960,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:58Z"
+                  "lastUpdated": "2022-11-17T18:02Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
