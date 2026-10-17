@@ -7936,3 +7936,32 @@ Friday's official practice participation and game-status reports for Week 7 (Sun
 - Aaron Donald (DT, Rams) — removed: no longer on the league-wide injury report; no corroborating story found of a continued back issue beyond stale Week 4 reporting.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-17T00:32:11Z (current, <6h old). Confirmed Joey Porter Jr.'s removal in the previous sweep was correct — new snapshot entry shows him a full practice participant and set to suit up Week 6. No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged or blank comments only — e.g., Amani Hooker still awaiting independent neurologist clearance, Ty Johnson's practice recap with no explicit clearance language — all kept unchanged). Excluded as non-injury: Josh Jacobs (commissioner's exempt list matter, return date set but not an injury recovery), Montez Sweat, Alaric Jackson, and Dre Greenlaw (suspensions); excluded as uninformative bare-status snapshot entries: dozens of bare "questionable"/"inactive"/"out" entries with no injury description.
+
+## Oct 17, 2026, 12:10 PM ET
+
+**New injuries (final Week 6 injury-report designations):**
+- Budda Baker (S, Cardinals) — groin, questionable vs. the Rams.
+- Zaven Collins (LB, Cardinals) — hip, questionable vs. the Rams.
+- L'Jarius Sneed (CB, Chiefs) — knee, questionable vs. the Chargers.
+- Daiyan Henley (LB, Chargers) — knee, questionable vs. the Chiefs.
+- Trent McDuffie (CB, Rams) — groin, questionable vs. the Cardinals.
+- Joey Porter Jr. (CB, Cowboys) — ankle (new, separate injury from the illness cleared Oct 16), questionable vs. the Packers.
+- Jonathan Ford (DT, Packers) — calf, ruled out vs. the Cowboys.
+- Brandon Cisse (CB, Packers) — hip, questionable vs. the Cowboys.
+- AJ Epenesa (DE, Eagles) — back, doubtful vs. the Panthers.
+- Andrew Thomas (OT, Giants) — groin, questionable vs. the Saints.
+
+**Status changes:** None.
+
+**Removals (explicit clearance/designation-avoided language in the final Week 6 report):**
+- Eric Murray (S, Jaguars) — removed: cleared the concussion protocol, cleared for full contact, all set to suit up.
+- Charles Woods (CB, Patriots) — removed: cleared to play Sunday after a full practice Friday.
+- Amani Hooker (S, Titans) — removed: cleared the concussion protocol, set to suit up.
+- Keisean Nixon (CB, Packers) — removed: avoided an injury tag for Sunday's game.
+- Jonathan Greenard (LB, Eagles) — removed: cleared to return from a one-game absence.
+- Dre'Mont Jones (DE, Patriots) — removed: played through the shoulder injury in Week 5, expected to continue at a similar snap share.
+- Nate Landman (LB, Rams) — removed: full practice Friday was enough to avoid an injury designation.
+- Vernon Broughton (DT, Saints) — removed: full practice participant Friday, shed his injury tag.
+- Tytus Howard (OT, Browns) — removed: avoided an injury tag, will continue to start.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-17T15:42:36Z (current, <6h old). This window captured the final Week 6 injury report, which resolved many of the hedged practice-participation entries tracked earlier in the week into explicit designations or clearances. No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged comments only — e.g., Marcus Epps "poised to regain his standing," Braden Smith "in line to return," George Holani's usage-only recap — all kept unchanged). Excluded as non-injury: Jordan Elliott (personal), Josh Jacobs (commissioner's exempt list), Montez Sweat, Alaric Jackson, and Dre Greenlaw (suspensions); excluded as uninformative bare-status snapshot entries without a body part: dozens of bare "questionable"/"out"/"inactive" entries.
