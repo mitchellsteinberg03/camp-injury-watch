@@ -7998,3 +7998,39 @@ Friday's official practice participation and game-status reports for Week 7 (Sun
 - Ronnie Stanley (OT, Ravens) — removed: no longer on the league-wide injury report; no corroborating story found of a continued toe issue beyond stale Week 4/5 reporting.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-18T15:56:03Z (current, <6h old). This window captured Sunday morning inactives lists, most of which were bare "out"/"inactive" entries with no injury description (excluded) or explicit "coach's decision" designations (Nicholas Singleton, Alontae Taylor — excluded as non-injury). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged or blank comments only — e.g., Marcus Epps, Alijah Clark, Alvin Kamara, TreVeyon Henderson — all kept unchanged). Excluded as non-injury: Josh Jacobs (commissioner's exempt list), Montez Sweat, Alaric Jackson, and Dre Greenlaw (suspensions).
+
+## Oct 18, 2026, 5:10 PM ET
+
+**New injuries (1 PM ET slate — inactives and in-game injuries):**
+- Antonio Johnson (S, Jaguars) — ankle, did not return to the second half of the 34-31 loss to the Texans.
+- Grant Delpit (S, Browns) — concussion, ruled out for the remainder of the game vs. the Ravens.
+- Tony Adams (S, Titans) — ankle, questionable to return to the game vs. the Colts.
+- Cam Lewis (CB, Bears) — being evaluated for a concussion, questionable to return to the game vs. the Falcons.
+- Thomas Incoom (LB, Panthers) — calf, questionable to return to the game vs. the Eagles.
+- Nolan Smith Jr. (LB, Eagles) — concussion, won't return to the game vs. the Panthers.
+- Morgan Moses (OT, Patriots) — ankle, questionable to return to the game vs. the Jets.
+- Alijah Vera-Tucker (G, Patriots) — hamstring, questionable to return to the game vs. the Jets.
+- Carson Steele (RB, Eagles) — shoulder, questionable to return to the game vs. the Panthers.
+
+**Status/designation changes:**
+- Jaelan Phillips (LB, Panthers) — returned from his Oct 4 back/concussion injury, then suffered a new hamstring injury in today's game vs. the Eagles; questionable to return.
+- Divine Deablo (LB, Falcons) — new arm injury in today's game vs. the Bears; ruled out for the remainder.
+- Kiko Mauigoa (LB, Jets) — new thigh injury (separate from the September quadriceps issue), questionable to return to today's game vs. the Patriots.
+- Mason Graham (DT, Browns) — officially inactive for today's game vs. the Ravens (MCL/ankle sprain still not resolved).
+- Monroe Freeling (OT, Panthers) — did not return as hoped after the Week 5 bye; inactive for today's game vs. the Eagles.
+- Andrew Vorhees (G, Ravens) — still out two weeks after his original Oct 4 foot injury; inactive for today's game vs. the Browns.
+- Benjamin Morrison (CB, Buccaneers) — still out since early October; inactive for today's game vs. the Steelers.
+- Sean Tucker (RB, Buccaneers) — Sunday's game-time decision resolved to out; inactive vs. the Steelers.
+- Jonathan Ford (DT, Packers) — placed on injured reserve Oct 17 (calf); upgraded from day-to-day to multi-week.
+- AJ Epenesa (DE, Eagles) — downgraded from doubtful to inactive for today's game vs. the Panthers.
+- Andrew Thomas (OT, Giants) — played through his groin injury in today's game vs. the Saints.
+- Will Campbell (OT, Patriots) — remains on the injury report (knee) but active and playing vs. the Jets.
+- Tyjae Spears (RB, Titans) — was questionable but active and playing vs. the Colts.
+
+**Removals:**
+- Jeremiah Wright (G, Saints) — removed: cleared the concussion protocol, active and playing vs. the Giants (previously tagged out for a different game vs. the Vikings).
+- Jason Pinnock (S, Giants) — removed: no longer carries an injury designation for today's game vs. the Saints; cleared the concussion protocol.
+- James Thompson Jr. (DT, 49ers) — removed: no longer carries an injury designation heading into Monday night's game vs. the Commanders.
+- Ty Johnson (RB, Bills) — removed: no longer carries an injury designation for Sunday's game at Las Vegas.
+
+**Reconciliation / snapshot health:** Reconciliation ran against the snapshot fetched 2026-10-18T18:39:56Z (current, <6h old) for the window since the 12:10 PM ET sweep, cross-checked against WebSearch for the 1 PM ET slate (coverage of 2026-week-7-dated articles was thin; most new/updated entries above are sourced to the ESPN snapshot itself rather than a corroborating beat article). Excluded as uninformative: bare "inactive"/"questionable" snapshot entries with no injury description (e.g., Jermaine Eluemunor, Cesar Ruiz) and routine in-game "active" confirmations for players not already tracked. 10 rows aged off their NEW badge (>24h since being added). Total removals this run (4 of 434 existing rows) were well under the 25% circuit-breaker threshold.
