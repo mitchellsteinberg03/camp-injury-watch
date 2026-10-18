@@ -7965,3 +7965,16 @@ Friday's official practice participation and game-status reports for Week 7 (Sun
 - Tytus Howard (OT, Browns) — removed: avoided an injury tag, will continue to start.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-17T15:42:36Z (current, <6h old). This window captured the final Week 6 injury report, which resolved many of the hedged practice-participation entries tracked earlier in the week into explicit designations or clearances. No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged comments only — e.g., Marcus Epps "poised to regain his standing," Braden Smith "in line to return," George Holani's usage-only recap — all kept unchanged). Excluded as non-injury: Jordan Elliott (personal), Josh Jacobs (commissioner's exempt list), Montez Sweat, Alaric Jackson, and Dre Greenlaw (suspensions); excluded as uninformative bare-status snapshot entries without a body part: dozens of bare "questionable"/"out"/"inactive" entries.
+
+## Oct 17, 2026, 9:10 PM ET
+
+**New injuries:** None.
+
+**Status changes:** None.
+
+**Removals:**
+- Austin Ekeler (RB, Commanders) — removed: done enough to fade an injury tag for Monday Night Football.
+- Rachaad White (RB, Commanders) — removed: confirmed available for the Commanders' backfield Monday alongside Ekeler.
+- Dondrea Tillman (LB, Broncos) — removed: no longer on the league-wide injury report; no corroborating story found of a continued hamstring issue beyond stale Week 5 reporting.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-17T22:24:16Z (current, <6h old). No new-injury candidates met the inclusion bar this window — all unmatched snapshot entries were bare "questionable"/"out"/"inactive" words with no injury description, or non-injury designations (Josh Jacobs/commissioner's exempt list, Jordan Elliott/personal, Montez Sweat/Alaric Jackson/Dre Greenlaw suspensions). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged or blank comments only — e.g., Marcus Epps, Alijah Clark, Braden Smith, George Holani's usage recap — all kept unchanged).
