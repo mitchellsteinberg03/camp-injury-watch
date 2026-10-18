@@ -7978,3 +7978,23 @@ Friday's official practice participation and game-status reports for Week 7 (Sun
 - Dondrea Tillman (LB, Broncos) — removed: no longer on the league-wide injury report; no corroborating story found of a continued hamstring issue beyond stale Week 5 reporting.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-17T22:24:16Z (current, <6h old). No new-injury candidates met the inclusion bar this window — all unmatched snapshot entries were bare "questionable"/"out"/"inactive" words with no injury description, or non-injury designations (Josh Jacobs/commissioner's exempt list, Jordan Elliott/personal, Montez Sweat/Alaric Jackson/Dre Greenlaw suspensions). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged or blank comments only — e.g., Marcus Epps, Alijah Clark, Braden Smith, George Holani's usage recap — all kept unchanged).
+
+## Oct 18, 2026, 12:10 PM ET
+
+**New injuries:**
+- Reed Blankenship (S, Texans) — concussion, entered the five-step protocol; ruled out for the remainder of Sunday's game vs. the Jaguars in London.
+- Upton Stout (CB, 49ers) — shoulder, initially injured in Week 4; questionable for Monday night's game vs. the Commanders.
+- Mykel Williams (DE, 49ers) — knee, still building back from last season's torn ACL; questionable for Monday night's game vs. the Commanders.
+- Javontae Jean-Baptiste (LB, Commanders) — pectoral, did not practice at all this week; will be sidelined for Monday night's game vs. the 49ers.
+
+**Status changes:** None.
+
+**Removals:**
+- Ja'Marcus Ingram (CB, Texans) — removed: officially reinstated from injured reserve Saturday, expected to suit up.
+- Joshua Williams (CB, Titans) — removed: cleared to play Sunday, questionable tag removed.
+- Jeremy Reaves (S, Commanders) — removed: good to go versus San Francisco.
+- Henry To'oTo'o (LB, Texans) — removed: activated from injured reserve Saturday, suiting up for the first time since Week 1.
+- Keagen Trost (OT, Rams) — removed: has no injury designation, set for his regular-season debut.
+- Ronnie Stanley (OT, Ravens) — removed: no longer on the league-wide injury report; no corroborating story found of a continued toe issue beyond stale Week 4/5 reporting.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-18T15:56:03Z (current, <6h old). This window captured Sunday morning inactives lists, most of which were bare "out"/"inactive" entries with no injury description (excluded) or explicit "coach's decision" designations (Nicholas Singleton, Alontae Taylor — excluded as non-injury). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged or blank comments only — e.g., Marcus Epps, Alijah Clark, Alvin Kamara, TreVeyon Henderson — all kept unchanged). Excluded as non-injury: Josh Jacobs (commissioner's exempt list), Montez Sweat, Alaric Jackson, and Dre Greenlaw (suspensions).
