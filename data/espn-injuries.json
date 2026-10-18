@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T04:41:02Z",
+  "timestamp": "2026-10-18T11:16:06Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -631,7 +631,7 @@
         {
           "id": "642948",
           "longComment": "With Jeremiyah Love (ankle) ruled out, Hull will provide depth behind Tyler Allgeier and Bam Knight in the backfield. Hull has 20 career regular-season carries for 49 yards.",
-          "shortComment": "The Cardinals elevated Hull from the practice squad ahead of Sunday's game against the Rams.",
+          "shortComment": "The Cardinals elevated Hull from the practice squad Saturday ahead of Sunday's game against the Rams.",
           "status": "Active",
           "date": "2026-10-18T02:13Z",
           "athlete": {
@@ -1205,7 +1205,7 @@
                   "id": "642948",
                   "type": "news",
                   "date": "2026-10-18T02:13Z",
-                  "headline": "The Cardinals elevated Hull from the practice squad ahead of Sunday's game against the Rams.",
+                  "headline": "The Cardinals elevated Hull from the practice squad Saturday ahead of Sunday's game against the Rams.",
                   "text": "With Jeremiyah Love (ankle) ruled out, Hull will provide depth behind Tyler Allgeier and Bam Knight in the backfield. Hull has 20 career regular-season carries for 49 yards.",
                   "source": "RotoWire"
                 }
@@ -75765,11 +75765,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2044998",
-          "longComment": "ir",
-          "shortComment": "ir",
-          "status": "Injured Reserve",
-          "date": "2026-10-18T04:00Z",
+          "id": "-2045079",
+          "longComment": "out",
+          "shortComment": "out",
+          "status": "Out",
+          "date": "2026-10-18T11:01Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76338,14 +76338,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2044998",
+                  "id": "-2045068",
                   "type": "news",
-                  "date": "2026-10-18T04:00Z",
+                  "date": "2026-10-18T10:01Z",
                   "headline": "ir",
                   "text": "ir",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2044998?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2045068?lang=en&region=us"
                   }
                 }
               ]
@@ -76363,18 +76363,20 @@
             "state": "basic"
           },
           "type": {
-            "id": "5",
-            "name": "INJURY_STATUS_IR",
-            "description": "Injured Reserve",
-            "abbreviation": "IR"
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
           },
           "details": {
             "fantasyStatus": {
-              "description": "IR",
-              "abbreviation": "IR"
+              "description": "OUT",
+              "abbreviation": "OUT"
             },
             "type": "Undisclosed",
             "location": "Other",
+            "detail": "Not Specified",
+            "side": "Not Specified",
             "returnDate": "2026-10-18"
           }
         },
@@ -76997,7 +76999,7 @@
         {
           "id": "642925",
           "longComment": "With Kyle Monangai (toe) still sidelined for Chicago, Scott will join the 53-man roster for the second straight week. He logged just nine snaps on special teams last Sunday against the Packers.",
-          "shortComment": "The Bears elevated Scott from the practice squad ahead of Sunday's game against the Falcons.",
+          "shortComment": "The Bears have elevated Scott from the practice squad ahead of Sunday's game against the Falcons.",
           "status": "Active",
           "date": "2026-10-17T23:21Z",
           "athlete": {
@@ -77571,7 +77573,7 @@
                   "id": "642925",
                   "type": "news",
                   "date": "2026-10-17T23:21Z",
-                  "headline": "The Bears elevated Scott from the practice squad ahead of Sunday's game against the Falcons.",
+                  "headline": "The Bears have elevated Scott from the practice squad ahead of Sunday's game against the Falcons.",
                   "text": "With Kyle Monangai (toe) still sidelined for Chicago, Scott will join the 53-man roster for the second straight week. He logged just nine snaps on special teams last Sunday against the Packers.",
                   "source": "RotoWire"
                 }
@@ -166927,7 +166929,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -167333,7 +167335,7 @@
         {
           "id": "642941",
           "longComment": "With Skyy Moore (ankle) sent to injured reserve in a corresponding move and Savion Williams (ankle) still questionable for his potential season debut, Owen will bring up the rear of the Packers' wideout depth chart. Owen appeared in two games with Green Bay last regular season, logging one snap on offense and 19 on special teams.",
-          "shortComment": "The Packers elevated Owen from the practice squad ahead of Sunday's game against the Cowboys.",
+          "shortComment": "The Packers elevated Owen from the practice squad Saturday ahead of Sunday's game against the Cowboys.",
           "status": "Active",
           "date": "2026-10-18T02:00Z",
           "athlete": {
@@ -167543,7 +167545,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -167907,7 +167909,7 @@
                   "id": "642941",
                   "type": "news",
                   "date": "2026-10-18T02:00Z",
-                  "headline": "The Packers elevated Owen from the practice squad ahead of Sunday's game against the Cowboys.",
+                  "headline": "The Packers elevated Owen from the practice squad Saturday ahead of Sunday's game against the Cowboys.",
                   "text": "With Skyy Moore (ankle) sent to injured reserve in a corresponding move and Savion Williams (ankle) still questionable for his potential season debut, Owen will bring up the rear of the Packers' wideout depth chart. Owen appeared in two games with Green Bay last regular season, logging one snap on offense and 19 on special teams.",
                   "source": "RotoWire"
                 }
@@ -168145,7 +168147,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -168761,7 +168763,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -169377,7 +169379,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -169993,7 +169995,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -170609,7 +170611,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -171225,7 +171227,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -171841,7 +171843,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -172457,7 +172459,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -173059,7 +173061,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -173661,7 +173663,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -174277,7 +174279,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -174879,7 +174881,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -175495,7 +175497,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -176111,7 +176113,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -176713,7 +176715,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -177329,7 +177331,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -177931,7 +177933,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -178533,7 +178535,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -179135,7 +179137,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -179737,7 +179739,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -180339,7 +180341,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -180941,7 +180943,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -181543,7 +181545,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-10-30T17:26Z"
+                  "lastUpdated": "2024-06-25T18:49Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
@@ -182557,7 +182559,7 @@
         {
           "id": "642931",
           "longComment": "With David Montgomery (groin) out for Week 6, Jordan will provide depth behind Woody Marks out of Houston's backfield. Jordan was productive as a rookie last season, rushing 43 times for 193 yards (4.5 YPC) while catching all seven of his targets for 34 yards.",
-          "shortComment": "The Texans elevated Jordan from the practice squad ahead of Sunday's game against the Jaguars, Aaron Wilson of KPRC 2 Houston reports.",
+          "shortComment": "The Texans have elevated Jordan from the practice squad ahead of Sunday's game against the Jaguars, Aaron Wilson of KPRC 2 Houston reports.",
           "status": "Active",
           "date": "2026-10-17T23:47Z",
           "athlete": {
@@ -183131,7 +183133,7 @@
                   "id": "642931",
                   "type": "news",
                   "date": "2026-10-17T23:47Z",
-                  "headline": "The Texans elevated Jordan from the practice squad ahead of Sunday's game against the Jaguars, Aaron Wilson of KPRC 2 Houston reports.",
+                  "headline": "The Texans have elevated Jordan from the practice squad ahead of Sunday's game against the Jaguars, Aaron Wilson of KPRC 2 Houston reports.",
                   "text": "With David Montgomery (groin) out for Week 6, Jordan will provide depth behind Woody Marks out of Houston's backfield. Jordan was productive as a rookie last season, rushing 43 times for 193 yards (4.5 YPC) while catching all seven of his targets for 34 yards.",
                   "source": "RotoWire"
                 }
@@ -227289,7 +227291,7 @@
         {
           "id": "642946",
           "longComment": "Watson signed with Kansas City earlier this week and will provide the team with experience at wide receiver after Rashee Rice (hamstring) was ruled out for Week 6. Tyquan Thornton (ankle) was also lost to injured reserve two weeks ago.",
-          "shortComment": "The Chiefs elevated Watson from the practice squad ahead of Sunday's game against the Chargers, Matt Derrick of ChiefsDigest.com reports.",
+          "shortComment": "The Chiefs elevated Watson from the practice squad Saturday ahead of Sunday's game against the Chargers, Matt Derrick of ChiefsDigest.com reports.",
           "status": "Active",
           "date": "2026-10-18T02:11Z",
           "athlete": {
@@ -227863,7 +227865,7 @@
                   "id": "642946",
                   "type": "news",
                   "date": "2026-10-18T02:11Z",
-                  "headline": "The Chiefs elevated Watson from the practice squad ahead of Sunday's game against the Chargers, Matt Derrick of ChiefsDigest.com reports.",
+                  "headline": "The Chiefs elevated Watson from the practice squad Saturday ahead of Sunday's game against the Chargers, Matt Derrick of ChiefsDigest.com reports.",
                   "text": "Watson signed with Kansas City earlier this week and will provide the team with experience at wide receiver after Rashee Rice (hamstring) was ruled out for Week 6. Tyquan Thornton (ankle) was also lost to injured reserve two weeks ago.",
                   "source": "RotoWire"
                 }
@@ -227891,7 +227893,7 @@
         {
           "id": "642945",
           "longComment": "With Rashee Rice (hamstring) out and Tyquan Thornton (ankle) on injured reserve, Armstrong and Justin Watson were both elevated from the practice squad Saturday. The Chiefs are extremely thin on experienced wide receivers headed into Week 6. Armstrong has never appeared in a regular-season NFL game.",
-          "shortComment": "The Chiefs elevated Armstrong from the practice squad ahead of Sunday's game against the Chargers, Matt Derrick of ChiefsDigest.com reports.",
+          "shortComment": "The Chiefs have elevated Armstrong from the practice squad ahead of Sunday's game against the Chargers, Matt Derrick of ChiefsDigest.com reports.",
           "status": "Active",
           "date": "2026-10-18T02:09Z",
           "athlete": {
@@ -228465,7 +228467,7 @@
                   "id": "642945",
                   "type": "news",
                   "date": "2026-10-18T02:09Z",
-                  "headline": "The Chiefs elevated Armstrong from the practice squad ahead of Sunday's game against the Chargers, Matt Derrick of ChiefsDigest.com reports.",
+                  "headline": "The Chiefs have elevated Armstrong from the practice squad ahead of Sunday's game against the Chargers, Matt Derrick of ChiefsDigest.com reports.",
                   "text": "With Rashee Rice (hamstring) out and Tyquan Thornton (ankle) on injured reserve, Armstrong and Justin Watson were both elevated from the practice squad Saturday. The Chiefs are extremely thin on experienced wide receivers headed into Week 6. Armstrong has never appeared in a regular-season NFL game.",
                   "source": "RotoWire"
                 }
@@ -348546,11 +348548,11 @@
       "displayName": "New York Giants",
       "injuries": [
         {
-          "id": "-2044997",
+          "id": "-2045078",
           "longComment": "questionable",
           "shortComment": "questionable",
           "status": "Questionable",
-          "date": "2026-10-18T04:00Z",
+          "date": "2026-10-18T11:01Z",
           "athlete": {
             "firstName": "Jermaine",
             "lastName": "Eluemunor",
@@ -349119,14 +349121,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2044997",
+                  "id": "-2045078",
                   "type": "news",
-                  "date": "2026-10-18T04:00Z",
+                  "date": "2026-10-18T11:01Z",
                   "headline": "questionable",
                   "text": "questionable",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3115303/injuries/-2044997?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3115303/injuries/-2045078?lang=en&region=us"
                   }
                 }
               ]
@@ -363926,7 +363928,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -364542,7 +364544,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -365158,7 +365160,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -365760,7 +365762,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -366362,7 +366364,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -366964,7 +366966,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -367580,7 +367582,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -368196,7 +368198,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -368812,7 +368814,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -369428,7 +369430,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -370030,7 +370032,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -370646,7 +370648,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -371248,7 +371250,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -371850,7 +371852,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -372452,7 +372454,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -373054,7 +373056,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -373656,7 +373658,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -374258,7 +374260,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -374860,7 +374862,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -375462,7 +375464,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -376064,7 +376066,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -376666,7 +376668,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -377268,7 +377270,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -377870,7 +377872,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -378472,7 +378474,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -380116,7 +380118,7 @@
         {
           "id": "642953",
           "longComment": "Stowers will have to wait at least another week before making his regular-season NFL debut after he had his 21-day practice window opened earlier this week. Stowers should see snaps as a catch-first tight end behind Dallas Goedert once he's ready to return to game action.",
-          "shortComment": "The Eagles downgraded Stowers (quadriceps) to out for Sunday's game against the Panthers.",
+          "shortComment": "The Eagles have downgraded Stowers (quadriceps) to out for Sunday's game against the Panthers.",
           "status": "Injured Reserve",
           "date": "2026-10-18T02:36Z",
           "athlete": {
@@ -380690,7 +380692,7 @@
                   "id": "642953",
                   "type": "news",
                   "date": "2026-10-18T02:36Z",
-                  "headline": "The Eagles downgraded Stowers (quadriceps) to out for Sunday's game against the Panthers.",
+                  "headline": "The Eagles have downgraded Stowers (quadriceps) to out for Sunday's game against the Panthers.",
                   "text": "Stowers will have to wait at least another week before making his regular-season NFL debut after he had his 21-day practice window opened earlier this week. Stowers should see snaps as a catch-first tight end behind Dallas Goedert once he's ready to return to game action.",
                   "source": "RotoWire",
                   "injury": {
@@ -380732,7 +380734,7 @@
         {
           "id": "642952",
           "longComment": "Calcaterra remains on injured reserve, though his 21-day practice window was opened earlier in the week. He's nearing a return, though his role is unclear behind Dallas Goedert and potentially even block-first TE Johnny Mundt.",
-          "shortComment": "The Eagles downgraded Calcaterra (back) to out for Sunday's game against the Panthers.",
+          "shortComment": "The Eagles downgraded Calcaterra (back) to out Saturday for Sunday's game against the Panthers.",
           "status": "Injured Reserve",
           "date": "2026-10-18T02:34Z",
           "athlete": {
@@ -381306,7 +381308,7 @@
                   "id": "642952",
                   "type": "news",
                   "date": "2026-10-18T02:34Z",
-                  "headline": "The Eagles downgraded Calcaterra (back) to out for Sunday's game against the Panthers.",
+                  "headline": "The Eagles downgraded Calcaterra (back) to out Saturday for Sunday's game against the Panthers.",
                   "text": "Calcaterra remains on injured reserve, though his 21-day practice window was opened earlier in the week. He's nearing a return, though his role is unclear behind Dallas Goedert and potentially even block-first TE Johnny Mundt.",
                   "source": "RotoWire",
                   "injury": {
@@ -394108,7 +394110,7 @@
         {
           "id": "642956",
           "longComment": "With Michael Pittman (foot), Roman Wilson (finger) and Ben Skowronek (calf) all injured and out for Week 6, Smith will bring up the rear of the Steelers' wideout depth chart behind DK Metcalf and rookie Germie Bernard.",
-          "shortComment": "The Steelers elevated Smith from the practice squad ahead of Sunday's game against the Bucs.",
+          "shortComment": "The Steelers elevated Smith from the practice squad Saturday ahead of Sunday's game against the Bucs.",
           "status": "Active",
           "date": "2026-10-18T02:41Z",
           "athlete": {
@@ -394682,7 +394684,7 @@
                   "id": "642956",
                   "type": "news",
                   "date": "2026-10-18T02:41Z",
-                  "headline": "The Steelers elevated Smith from the practice squad ahead of Sunday's game against the Bucs.",
+                  "headline": "The Steelers elevated Smith from the practice squad Saturday ahead of Sunday's game against the Bucs.",
                   "text": "With Michael Pittman (foot), Roman Wilson (finger) and Ben Skowronek (calf) all injured and out for Week 6, Smith will bring up the rear of the Steelers' wideout depth chart behind DK Metcalf and rookie Germie Bernard.",
                   "source": "RotoWire"
                 }
@@ -394710,7 +394712,7 @@
         {
           "id": "642937",
           "longComment": "Johnson hasn't appeared in a regular-season NFL game since 2024, when he caught one pass for nine yards across three appearances with Pittsburgh. With Michael Pittman (foot) and Roman Wilson (finger) placed on injured reserve and Ben Skowronek (calf) ruled out, Johnson figures to be active against Tampa Bay.",
-          "shortComment": "The Steelers elevated Johnson from the practice squad ahead of Sunday's game against the Bucs.",
+          "shortComment": "The Steelers have elevated Johnson from the practice squad ahead of Sunday's game against the Bucs.",
           "status": "Active",
           "date": "2026-10-18T01:50Z",
           "athlete": {
@@ -395284,7 +395286,7 @@
                   "id": "642937",
                   "type": "news",
                   "date": "2026-10-18T01:50Z",
-                  "headline": "The Steelers elevated Johnson from the practice squad ahead of Sunday's game against the Bucs.",
+                  "headline": "The Steelers have elevated Johnson from the practice squad ahead of Sunday's game against the Bucs.",
                   "text": "Johnson hasn't appeared in a regular-season NFL game since 2024, when he caught one pass for nine yards across three appearances with Pittsburgh. With Michael Pittman (foot) and Roman Wilson (finger) placed on injured reserve and Ben Skowronek (calf) ruled out, Johnson figures to be active against Tampa Bay.",
                   "source": "RotoWire"
                 }
@@ -400804,6 +400806,8 @@
             },
             "type": "Toe",
             "location": "Leg",
+            "detail": "Dislocated",
+            "side": "Right",
             "returnDate": "2026-10-18"
           }
         },
@@ -409285,7 +409289,7 @@
       "injuries": [
         {
           "id": "642965",
-          "longComment": "Thompson hasn't played since Week 2 against the Dolphins after playing 35 percent of the defensive snaps across the first two weeks of the season. He'll slide back into his depth role along the defensive line before Osa Odighizuwa and Naquan Jones.",
+          "longComment": "Thompson hasn't played since Week 2 against the Dolphins after playing 35 percent of the defensive snaps across the first two weeks of the season. He'll slide back into his depth role along the defensive line behind Osa Odighizuwa and Naquan Jones.",
           "shortComment": "Thompson (ankle) doesn't carry an injury designation into Monday night's game against the Commanders.",
           "status": "Active",
           "date": "2026-10-18T02:56Z",
@@ -409861,7 +409865,7 @@
                   "type": "news",
                   "date": "2026-10-18T02:56Z",
                   "headline": "Thompson (ankle) doesn't carry an injury designation into Monday night's game against the Commanders.",
-                  "text": "Thompson hasn't played since Week 2 against the Dolphins after playing 35 percent of the defensive snaps across the first two weeks of the season. He'll slide back into his depth role along the defensive line before Osa Odighizuwa and Naquan Jones.",
+                  "text": "Thompson hasn't played since Week 2 against the Dolphins after playing 35 percent of the defensive snaps across the first two weeks of the season. He'll slide back into his depth role along the defensive line behind Osa Odighizuwa and Naquan Jones.",
                   "source": "RotoWire"
                 }
               ]
@@ -410503,7 +410507,7 @@
         },
         {
           "id": "642954",
-          "longComment": "Stout was limited in practice all week after he initially injured the shoulder in Week 4 against the Broncos. He's yet to miss a game this season and should be fine to face Washington. Across five appearances, the cornerback has 16 tackles (nine solo), including 0.5 sacks, and one pass breakup.",
+          "longComment": "Stout was limited in practice all week after he initially injured the shoulder in Week 4 against the Broncos. He's yet to miss a game this season. Across five appearances, the cornerback has 16 tackles (nine solo), including 0.5 sacks, and one pass breakup.",
           "shortComment": "Stout (shoulder) is questionable for Monday night's game against the Commanders.",
           "status": "Questionable",
           "date": "2026-10-18T02:38Z",
@@ -411079,7 +411083,7 @@
                   "type": "news",
                   "date": "2026-10-18T02:38Z",
                   "headline": "Stout (shoulder) is questionable for Monday night's game against the Commanders.",
-                  "text": "Stout was limited in practice all week after he initially injured the shoulder in Week 4 against the Broncos. He's yet to miss a game this season and should be fine to face Washington. Across five appearances, the cornerback has 16 tackles (nine solo), including 0.5 sacks, and one pass breakup.",
+                  "text": "Stout was limited in practice all week after he initially injured the shoulder in Week 4 against the Broncos. He's yet to miss a game this season. Across five appearances, the cornerback has 16 tackles (nine solo), including 0.5 sacks, and one pass breakup.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4565200/injuries/642954?lang=en&region=us"
@@ -411735,7 +411739,7 @@
         },
         {
           "id": "642949",
-          "longComment": "Though the decision was made not to put Bosa on IR, he's now set to miss his fourth straight game. Head coach Kyle Shanahan said early this week that the veteran edge rusher could have a chance to play against Washington, but Bosa didn't end up practicing at all. While it's not out of the question that he could return Week 7 in Atlanta, it wouldn't be surprising if San Francisco opts to hold Bosa out for that contest as well given that the 49ers have a bye Week 8.",
+          "longComment": "Though the decision was made not to put Bosa on IR, he's now set to miss his fourth straight game. Head coach Kyle Shanahan said early this week that the veteran edge rusher had a chance to play against Washington, but Bosa didn't end up practicing at all. While it's not out of the question that he could return Week 7 in Atlanta, it wouldn't be surprising if San Francisco opts to hold Bosa out for that contest as well given that the 49ers have a bye Week 8.",
           "shortComment": "Bosa (knee/calf) has been ruled out for Monday's Week 6 matchup against the Commanders, Cam Inman of The San Jose Mercury News reports.",
           "status": "Out",
           "date": "2026-10-18T02:19Z",
@@ -412311,7 +412315,7 @@
                   "type": "news",
                   "date": "2026-10-18T02:19Z",
                   "headline": "Bosa (knee/calf) has been ruled out for Monday's Week 6 matchup against the Commanders, Cam Inman of The San Jose Mercury News reports.",
-                  "text": "Though the decision was made not to put Bosa on IR, he's now set to miss his fourth straight game. Head coach Kyle Shanahan said early this week that the veteran edge rusher could have a chance to play against Washington, but Bosa didn't end up practicing at all. While it's not out of the question that he could return Week 7 in Atlanta, it wouldn't be surprising if San Francisco opts to hold Bosa out for that contest as well given that the 49ers have a bye Week 8.",
+                  "text": "Though the decision was made not to put Bosa on IR, he's now set to miss his fourth straight game. Head coach Kyle Shanahan said early this week that the veteran edge rusher had a chance to play against Washington, but Bosa didn't end up practicing at all. While it's not out of the question that he could return Week 7 in Atlanta, it wouldn't be surprising if San Francisco opts to hold Bosa out for that contest as well given that the 49ers have a bye Week 8.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4040605/injuries/642949?lang=en&region=us"
@@ -439719,8 +439723,8 @@
       "injuries": [
         {
           "id": "642943",
-          "longComment": "With Sean Tucker (quadriceps) questionable, Williams will provide a depth option behind Bucky Irving and Kenny Gainwell if Tucker is unable to go. He's also an option to handle returner duties for Tampa Bay.",
-          "shortComment": "The Bucs elevated Williams from the practice squad ahead of Sunday's game against the Steelers.",
+          "longComment": "With Sean Tucker (quadriceps) questionable, Williams will provide a depth option behind Bucky Irving and Kenny Gainwell if Tucker is unable to go. Williams is also an option to handle returner duties for Tampa Bay.",
+          "shortComment": "The Bucs elevated Williams from the practice squad Saturday ahead of Sunday's game against the Steelers.",
           "status": "Active",
           "date": "2026-10-18T02:04Z",
           "athlete": {
@@ -440294,8 +440298,8 @@
                   "id": "642943",
                   "type": "news",
                   "date": "2026-10-18T02:04Z",
-                  "headline": "The Bucs elevated Williams from the practice squad ahead of Sunday's game against the Steelers.",
-                  "text": "With Sean Tucker (quadriceps) questionable, Williams will provide a depth option behind Bucky Irving and Kenny Gainwell if Tucker is unable to go. He's also an option to handle returner duties for Tampa Bay.",
+                  "headline": "The Bucs elevated Williams from the practice squad Saturday ahead of Sunday's game against the Steelers.",
+                  "text": "With Sean Tucker (quadriceps) questionable, Williams will provide a depth option behind Bucky Irving and Kenny Gainwell if Tucker is unable to go. Williams is also an option to handle returner duties for Tampa Bay.",
                   "source": "RotoWire"
                 }
               ]
@@ -440321,8 +440325,8 @@
         },
         {
           "id": "642942",
-          "longComment": "With Baker Mayfield (thumb) missing another game, Stick will again handle QB2 duties behind starter Jalon Daniels. Stick hasn't attempted a regular-season pass since the 2023 season with the Chargers.",
-          "shortComment": "The Bucs elevated Stick from the practice squad ahead of Sunday's game against the Steelers.",
+          "longComment": "With Baker Mayfield (thumb) missing another game, Stick will again handle QB2 duties behind starter Jalon Daniels. Stick hasn't attempted a regular-season pass since the 2023 season while with the Chargers.",
+          "shortComment": "The Bucs have elevated Stick from the practice squad ahead of Sunday's game against the Steelers.",
           "status": "Active",
           "date": "2026-10-18T02:02Z",
           "athlete": {
@@ -440896,8 +440900,8 @@
                   "id": "642942",
                   "type": "news",
                   "date": "2026-10-18T02:02Z",
-                  "headline": "The Bucs elevated Stick from the practice squad ahead of Sunday's game against the Steelers.",
-                  "text": "With Baker Mayfield (thumb) missing another game, Stick will again handle QB2 duties behind starter Jalon Daniels. Stick hasn't attempted a regular-season pass since the 2023 season with the Chargers.",
+                  "headline": "The Bucs have elevated Stick from the practice squad ahead of Sunday's game against the Steelers.",
+                  "text": "With Baker Mayfield (thumb) missing another game, Stick will again handle QB2 duties behind starter Jalon Daniels. Stick hasn't attempted a regular-season pass since the 2023 season while with the Chargers.",
                   "source": "RotoWire"
                 }
               ]
@@ -469983,7 +469987,7 @@
       "injuries": [
         {
           "id": "642962",
-          "longComment": "Jean-Baptiste didn't practice at all this week, so it's not a surprise that he won't play Monday. Per Reed, head coach Dan Quinn expects rookie Joshua Josephs to see more playing time Week 6 with both Jean-Baptiste and Charles Omenihu (groin/ankle)",
+          "longComment": "Jean-Baptiste didn't practice at all this week, so it's not a surprise that he won't play Monday. Per Reed, head coach Dan Quinn expects rookie Joshua Josephs to see more playing time Week 6, with both Jean-Baptiste and Charles Omenihu (groin/ankle) sidelined.",
           "shortComment": "Jean-Baptiste (pectoral) will be sidelined for Monday's clash against the 49ers, Tashan Reed of The Washington Post reports.",
           "status": "Out",
           "date": "2026-10-18T02:51Z",
@@ -470559,7 +470563,7 @@
                   "type": "news",
                   "date": "2026-10-18T02:51Z",
                   "headline": "Jean-Baptiste (pectoral) will be sidelined for Monday's clash against the 49ers, Tashan Reed of The Washington Post reports.",
-                  "text": "Jean-Baptiste didn't practice at all this week, so it's not a surprise that he won't play Monday. Per Reed, head coach Dan Quinn expects rookie Joshua Josephs to see more playing time Week 6 with both Jean-Baptiste and Charles Omenihu (groin/ankle)",
+                  "text": "Jean-Baptiste didn't practice at all this week, so it's not a surprise that he won't play Monday. Per Reed, head coach Dan Quinn expects rookie Joshua Josephs to see more playing time Week 6, with both Jean-Baptiste and Charles Omenihu (groin/ankle) sidelined.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361357/injuries/642962?lang=en&region=us"
