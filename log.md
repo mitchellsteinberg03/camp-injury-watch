@@ -8083,3 +8083,17 @@ Friday's official practice participation and game-status reports for Week 7 (Sun
 - Marcus Epps (S, Eagles) — removed: no longer on the league-wide injury report; no corroborating story found.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-18T22:27:01Z (current, <6h old). A large batch of hedged Wednesday-Friday practice-report entries resolved into explicit clearances once Saturday roster moves (IR/PUP/NFI activations) and Sunday pregame/in-game reports came in — this produced an unusually high removal count in a single run (26 of 439 rows, ~6%, well under the 25% circuit-breaker threshold). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged comments only — e.g., D.J. Reed, Alijah Clark, Quentin Lake, Trey Hendrickson, Landon Jackson, Patrick Johnson, Budda Baker, Alvin Kamara, Will Campbell — all playing-through or hedged language, kept unchanged). Excluded as non-injury: Josh Jacobs (exempt list), Montez Sweat/Alaric Jackson/Dre Greenlaw (suspensions), Nicholas Singleton/Alontae Taylor/Eli Heidenreich (coach's decision); excluded as uninformative bare-status snapshot entries: dozens of bare "out"/"inactive" gameday entries with no injury description.
+
+## Oct 19, 2026, 12:10 PM ET
+
+**New injuries:**
+- Dee Winters (LB, Cowboys) — ankle; questionable to return to Sunday night's game vs. the Packers.
+
+**Status changes:** None.
+
+**Removals:**
+- Joey Porter Jr. (CB, Cowboys) — removed: confirmed to return to action after missing Week 5 with the ankle injury.
+- Anthony Campbell (DT, Packers) — removed: good to go for Week 6 after missing three games.
+- Alvin Kamara (RB, Saints) — removed: cleared to return in-game and connected for a touchdown; played through it.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-19T13:28:26Z (current, <6h old). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged or blank comments only — e.g., D.J. Reed, Quentin Lake, Budda Baker, Trey Hendrickson, Patrick Johnson, George Holani — all kept unchanged). Excluded as non-injury: Emari Demercado, Nicholas Singleton, Alontae Taylor, and Eli Heidenreich (coach's decision), Josh Jacobs (exempt list), Montez Sweat, Alaric Jackson, and Dre Greenlaw (suspensions); excluded as uninformative bare-status snapshot entries: dozens of bare "out"/"inactive" gameday entries with no injury description.
