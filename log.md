@@ -8034,3 +8034,52 @@ Friday's official practice participation and game-status reports for Week 7 (Sun
 - Ty Johnson (RB, Bills) — removed: no longer carries an injury designation for Sunday's game at Las Vegas.
 
 **Reconciliation / snapshot health:** Reconciliation ran against the snapshot fetched 2026-10-18T18:39:56Z (current, <6h old) for the window since the 12:10 PM ET sweep, cross-checked against WebSearch for the 1 PM ET slate (coverage of 2026-week-7-dated articles was thin; most new/updated entries above are sourced to the ESPN snapshot itself rather than a corroborating beat article). Excluded as uninformative: bare "inactive"/"questionable" snapshot entries with no injury description (e.g., Jermaine Eluemunor, Cesar Ruiz) and routine in-game "active" confirmations for players not already tracked. 10 rows aged off their NEW badge (>24h since being added). Total removals this run (4 of 434 existing rows) were well under the 25% circuit-breaker threshold.
+
+## Oct 18, 2026, 9:10 PM ET
+
+**New injuries (in-game, Sunday Week 6 slate):**
+- Kendal Daniels (LB, Falcons) — neck, carted off and hospitalized for evaluation in the third quarter vs. the Bears; alert with movement in all extremities, status beyond Sunday unclear.
+- Billy Bowman Jr. (CB, Falcons) — hamstring, doubtful to return vs. the Bears.
+- Jonah Jackson (G, Bears) — hip, doubtful to return vs. the Falcons.
+- Justin Jefferson (LB, Browns) — hip, questionable to return vs. the Ravens.
+- Sauce Gardner (CB, Colts) — calf, questionable to return vs. the Titans.
+- Jaylon Moore (OT, Chiefs) — head, questionable to return vs. the Chargers (possible concussion).
+- Bud Dupree (LB, Chargers) — neck (suffered Week 5), ruled out vs. the Chiefs.
+- Kool-Aid McKinstry (CB, Saints) — illness/migraine, exited the win over the Giants; status for Week 7 to be determined.
+- Quincy Riley (CB, Saints) — neck, sustained late vs. the Giants; status to be clarified during Week 7 prep.
+- Cesar Ruiz (G, Saints) — knee, ruled out vs. the Giants.
+- Tremaine Edmunds (LB, Giants) — shoulder, suffered on the final defensive play vs. the Saints; severity unclear.
+- Greg Newsome II (CB, Giants) — concussion, ruled out for the remainder vs. the Saints, entered the protocol.
+- Brandin Echols (CB, Steelers) — hamstring, ruled out vs. the Buccaneers.
+
+**Status changes:** None.
+
+**Removals (explicit activations/clearances from Saturday roster moves and Sunday injury reports):**
+- Kyler Gordon (CB, Bears) — activated from reserve/PUP, given the green light to suit up.
+- Kitan Crawford (S, Cardinals) — activated off IR, all set to suit up.
+- Jamel Dean (CB, Steelers) — all set to suit up.
+- Dee Alford (CB, Bills) — back in action, ready to play.
+- Te'Cory Couch (CB, Bills) — removed: no longer on the league-wide injury report; no corroborating story found.
+- Kam Curl (S, Rams) — recovered enough to suit up as the starting strong safety.
+- L'Jarius Sneed (CB, Chiefs) — recovered enough to suit up as a starter.
+- Cam Lewis (CB, Bears) — cleared of concussion symptoms by an independent neurologist.
+- SirVocea Dennis (LB, Buccaneers) — given the green light to return.
+- Jaelan Phillips (LB, Panthers) — returned to the game after exiting with a hamstring issue.
+- Za'Darius Smith (DE, Falcons) — recovered in time, all set to suit up.
+- Josiah Trotter (LB, Buccaneers) — cleared to play after pregame warmups.
+- Carson Schwesinger (LB, Browns) — cleared to suit up after a pregame workout.
+- Abdul Carter (LB, Giants) — recovered in time to suit up.
+- Zaven Collins (LB, Cardinals) — all set to suit up.
+- Daiyan Henley (LB, Chargers) — recovered enough to suit up.
+- Tershawn Wharton (DT, Panthers) — activated from PUP, cleared for his 2026 debut.
+- Taylor Moton (OT, Panthers) — activated from reserve/NFI, cleared for his 2026 debut after fully recovering from blood clots.
+- Andrew Thomas (OT, Giants) — cleared of a same-game concussion scare, finished the contest.
+- Damien Lewis (G, Panthers) — cleared to return, reclaiming his starting role.
+- Jackson Powers-Johnson (G, Raiders) — removed: no longer on the league-wide injury report; no corroborating story found.
+- Trevor Etienne (RB, Panthers) — activated from IR, cleared for his 2026 debut.
+- Rico Dowdle (RB, Steelers) — confirmed active after finishing the week with full practices.
+- TreVeyon Henderson (RB, Patriots) — confirmed active and playing.
+- Tyjae Spears (RB, Titans) — confirmed active and playing.
+- Marcus Epps (S, Eagles) — removed: no longer on the league-wide injury report; no corroborating story found.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-18T22:27:01Z (current, <6h old). A large batch of hedged Wednesday-Friday practice-report entries resolved into explicit clearances once Saturday roster moves (IR/PUP/NFI activations) and Sunday pregame/in-game reports came in — this produced an unusually high removal count in a single run (26 of 439 rows, ~6%, well under the 25% circuit-breaker threshold). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged comments only — e.g., D.J. Reed, Alijah Clark, Quentin Lake, Trey Hendrickson, Landon Jackson, Patrick Johnson, Budda Baker, Alvin Kamara, Will Campbell — all playing-through or hedged language, kept unchanged). Excluded as non-injury: Josh Jacobs (exempt list), Montez Sweat/Alaric Jackson/Dre Greenlaw (suspensions), Nicholas Singleton/Alontae Taylor/Eli Heidenreich (coach's decision); excluded as uninformative bare-status snapshot entries: dozens of bare "out"/"inactive" gameday entries with no injury description.
