@@ -8097,3 +8097,20 @@ Friday's official practice participation and game-status reports for Week 7 (Sun
 - Alvin Kamara (RB, Saints) — removed: cleared to return in-game and connected for a touchdown; played through it.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-19T13:28:26Z (current, <6h old). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged or blank comments only — e.g., D.J. Reed, Quentin Lake, Budda Baker, Trey Hendrickson, Patrick Johnson, George Holani — all kept unchanged). Excluded as non-injury: Emari Demercado, Nicholas Singleton, Alontae Taylor, and Eli Heidenreich (coach's decision), Josh Jacobs (exempt list), Montez Sweat, Alaric Jackson, and Dre Greenlaw (suspensions); excluded as uninformative bare-status snapshot entries: dozens of bare "out"/"inactive" gameday entries with no injury description.
+
+## Oct 19, 2026, 9:10 PM ET
+
+**New injuries:**
+- Kobie Turner (DT, Rams) — groin strain, suffered in the Oct 19 loss to the Cardinals; expected to go on injured reserve, projected 4-6 week recovery, eligible to return Week 12 vs. the Packers.
+
+**Status changes:** None.
+
+**Removals:**
+- Trey Amos (CB, Commanders) — removed: activated off IR, active for Monday night after missing the first five games.
+- Percy Butler (S, Commanders) — removed: returns to the lineup after missing Week 5 with the hamstring injury.
+- Upton Stout (CB, 49ers) — removed: recovered enough to suit up for Monday Night Football.
+- Jordan Magee (LB, Commanders) — removed: cleared to return from a four-game absence.
+- Mykel Williams (DE, 49ers) — removed: will suit up for Monday night's game.
+- Jeremy McNichols (RB, Commanders) — removed: officially active for Monday night, back to full health after missing the first five games.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-19T23:45:26Z (current, <6h old). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged or blank comments only — e.g., D.J. Reed, Alijah Clark, Quentin Lake, Braden Smith, Trey Hendrickson, George Holani — all kept unchanged). Excluded as non-injury: C.J. Gardner-Johnson, Montez Sweat, Alaric Jackson, and Dre Greenlaw (suspensions); excluded as uninformative bare-status snapshot entries: several bare "out"/"inactive" entries with no injury description.
