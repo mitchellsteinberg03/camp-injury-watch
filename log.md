@@ -8114,3 +8114,16 @@ Friday's official practice participation and game-status reports for Week 7 (Sun
 - Jeremy McNichols (RB, Commanders) — removed: officially active for Monday night, back to full health after missing the first five games.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-19T23:45:26Z (current, <6h old). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged or blank comments only — e.g., D.J. Reed, Alijah Clark, Quentin Lake, Braden Smith, Trey Hendrickson, George Holani — all kept unchanged). Excluded as non-injury: C.J. Gardner-Johnson, Montez Sweat, Alaric Jackson, and Dre Greenlaw (suspensions); excluded as uninformative bare-status snapshot entries: several bare "out"/"inactive" entries with no injury description.
+
+## Oct 20, 2026, 12:10 PM ET
+
+**New injuries:**
+- Poona Ford (DT, Rams) — triceps, suffered in the Week 6 loss to the Cardinals; out for the remainder of the 2026 season.
+- Luke Gifford (LB, 49ers) — groin, picked up in the first half of Monday's game vs. the Commanders; questionable to return.
+- Javon Kinlaw (DT, Commanders) — knee, suffered in the first half of Monday's game vs. the 49ers; will not return.
+
+**Status changes:** None.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-20T11:46:05Z (current, <6h old). No active-status or unmatched rows met the explicit-confirmation bar for removal this run (hedged or blank comments only — e.g., D.J. Reed, Alijah Clark, Tyrique Stevenson Sr., Keyshaun Elliott, Braden Smith, George Holani — all kept unchanged). Excluded as non-injury: C.J. Gardner-Johnson, Montez Sweat, and Alaric Jackson (suspensions); excluded as uninformative bare-status snapshot entries: several bare "out"/"inactive" entries with no injury description.
