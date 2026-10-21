@@ -8140,3 +8140,15 @@ Friday's official practice participation and game-status reports for Week 7 (Sun
 - Carson Steele (RB, Eagles) — removed: no longer on the league-wide injury report; no corroborating story found of a continued shoulder issue.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-21T00:39:33Z (current, <6h old). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged or blank comments only — e.g., D.J. Reed, Tyrique Stevenson Sr., Brandon Cisse, Trey Hendrickson, Braden Smith, George Holani — all kept unchanged). Excluded as non-injury: C.J. Gardner-Johnson and Montez Sweat (suspensions); excluded as uninformative bare-status snapshot entries: Jack Sanborn, Jermaine Eluemunor, Lane Johnson.
+
+## Oct 21, 2026, 12:10 PM ET
+
+**New injuries:**
+- Jack Sanborn (LB, Bears) — concussion; estimated nonparticipant on Tuesday's report, availability for Thursday's game vs. the Patriots in doubt.
+
+**Status changes:** None.
+
+**Removals:**
+- Trey Hendrickson (EDGE, Ravens) — removed: no longer on the league-wide injury report; no corroborating story found of a continued finger issue beyond stale hopeful-for-Week-6 reporting.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-21T13:52:24Z (current, <6h old). Note: Jacory Croskey-Merritt's (RB, Commanders) absence from this snapshot reflects Washington's Week 7 bye, not recovery — confirmed via WebSearch he remains without a return date; row kept unchanged. No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged, blank, or pure stat-recap comments only — e.g., Jalen Ramsey and Evan Williams now read as pure performance recaps with no injury language either way — all kept unchanged). Excluded as non-injury: C.J. Gardner-Johnson and Montez Sweat (suspensions); excluded as uninformative bare-status snapshot entries: Jermaine Eluemunor, Lane Johnson.
