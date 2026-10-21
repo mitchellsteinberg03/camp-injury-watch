@@ -8152,3 +8152,27 @@ Friday's official practice participation and game-status reports for Week 7 (Sun
 - Trey Hendrickson (EDGE, Ravens) — removed: no longer on the league-wide injury report; no corroborating story found of a continued finger issue beyond stale hopeful-for-Week-6 reporting.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-21T13:52:24Z (current, <6h old). Note: Jacory Croskey-Merritt's (RB, Commanders) absence from this snapshot reflects Washington's Week 7 bye, not recovery — confirmed via WebSearch he remains without a return date; row kept unchanged. No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged, blank, or pure stat-recap comments only — e.g., Jalen Ramsey and Evan Williams now read as pure performance recaps with no injury language either way — all kept unchanged). Excluded as non-injury: C.J. Gardner-Johnson and Montez Sweat (suspensions); excluded as uninformative bare-status snapshot entries: Jermaine Eluemunor, Lane Johnson.
+
+## Oct 21, 2026, 6:11 PM ET
+
+ANOMALY: a full absence-based audit of all 422 dashboard rows against the current league-wide snapshot found 116 non-high-severity rows (≈27%) with no matching player anywhere in the snapshot — above the 25% circuit-breaker threshold. No rows were removed on this signal. The pattern looks structural rather than a mass-recovery event: nearly all of the absent rows are mid-severity players placed on IR/PUP back in August–September whose long-term placements appear to fall off ESPN's weekly injury report well before they're eligible to return, not evidence they've recovered. Flagging for owner review — the reconciliation heuristic may need an age-based exemption for long-tenured "mid" IR/PUP rows (similar to the existing "high" exemption) so this doesn't trip the breaker every run. Only window-based reconciliation (explicit new designations/status changes from the current snapshot and WebSearch) was applied this run; see below.
+
+**New injuries:**
+- Tyjae Spears (RB, Titans) — questionable; HC Robert Saleh said Spears won't practice Wednesday with lingering ankle/knee issues; specific designation to be clarified on Tennessee's Week 7 report.
+
+**Status changes:**
+- Kobie Turner (DT, Rams) — confirmed placed on injured reserve (previously reported as "expected" Oct 19) for the groin strain; eligible to return Week 12 vs. the Packers.
+- Jordan Mason (RB, Vikings) — designated to return from injured reserve Oct 19; HC Kevin O'Connell expects him to practice Oct 21 as his 21-day activation window opens.
+- Dylan Sampson (RB, Browns) — HC Todd Monken now optimistic Sampson will be activated off IR in time for the Oct 25 game vs. the Titans.
+- Quinshon Judkins (RB, Browns) — questionable; HC Todd Monken is optimistic Judkins will be available for the Oct 25 game vs. the Titans.
+- David Montgomery (RB, Texans) — upgraded from doubtful to questionable; didn't practice Oct 21 but trending toward playing Oct 25 vs. the Giants.
+- Breece Hall (RB, Jets) — questionable; didn't practice Oct 21 but not ruled out for Oct 25 vs. the Dolphins — notably, HC Aaron Glenn did not repeat the "week-to-week" label he'd used in each of the three prior weeks.
+- Kiko Mauigoa (LB, Jets) — doubtful for the Oct 25 game vs. the Dolphins, per New York's Week 7 injury report.
+- Joseph Ossai (EDGE, Jets) — doubtful for the Oct 25 game vs. the Dolphins, per New York's Week 7 injury report.
+- Channing Canada (CB, Patriots) — out for the Oct 22 game at the Bears, per New England's Week 7 injury report.
+- Carlton Davis III (CB, Patriots) — out for the Oct 22 game at the Bears, per New England's Week 7 injury report.
+- Karon Prunty (CB, Patriots) — out for the Oct 22 game at the Bears, per New England's Week 7 injury report.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-21T18:42:07Z (current, <6h old relative to this sweep). Window-based reconciliation (new/updated entries since the Oct 21 12:10 PM ET sweep) ran against this snapshot and WebSearch; see ANOMALY note above for why a full dashboard-wide absence audit was not acted on this run. Excluded as non-injury: C.J. Gardner-Johnson (suspension, Bills). Excluded as uninformative bare-status snapshot entries: Anthony Johnson Jr. (bare "IR" with no detail, Bears) and Jermaine Eluemunor (bare "questionable," Giants) — both consistent with prior sweeps' treatment.
