@@ -8127,3 +8127,16 @@ Friday's official practice participation and game-status reports for Week 7 (Sun
 **Removals:** None.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-20T11:46:05Z (current, <6h old). No active-status or unmatched rows met the explicit-confirmation bar for removal this run (hedged or blank comments only — e.g., D.J. Reed, Alijah Clark, Tyrique Stevenson Sr., Keyshaun Elliott, Braden Smith, George Holani — all kept unchanged). Excluded as non-injury: C.J. Gardner-Johnson, Montez Sweat, and Alaric Jackson (suspensions); excluded as uninformative bare-status snapshot entries: several bare "out"/"inactive" entries with no injury description.
+
+## Oct 20, 2026, 9:10 PM ET
+
+**New injuries:**
+- Upton Stout (CB, 49ers) — AC sprain in the shoulder, aggravated during Monday's win over the Commanders; was cleared to play but hampered by the injury, practice participation to determine Week 7 status vs. the Falcons.
+
+**Status changes:** None.
+
+**Removals:**
+- Quentin Lake (S, Rams) — removed: no longer on the league-wide injury report; no corroborating story found of a continued hip issue.
+- Carson Steele (RB, Eagles) — removed: no longer on the league-wide injury report; no corroborating story found of a continued shoulder issue.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-21T00:39:33Z (current, <6h old). No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged or blank comments only — e.g., D.J. Reed, Tyrique Stevenson Sr., Brandon Cisse, Trey Hendrickson, Braden Smith, George Holani — all kept unchanged). Excluded as non-injury: C.J. Gardner-Johnson and Montez Sweat (suspensions); excluded as uninformative bare-status snapshot entries: Jack Sanborn, Jermaine Eluemunor, Lane Johnson.
