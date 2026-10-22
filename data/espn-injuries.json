@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T04:56:49Z",
+  "timestamp": "2026-10-22T11:59:57Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -15,7 +15,7 @@
         {
           "id": "643733",
           "longComment": "The veteran strong safety did it all in Sunday's contest while playing all 57 of the Cardinals' defensive snaps. Baker sacked Rams quarterback Matthew Stafford for a loss of eight yards on first down in the second quarter, leading to a Rams punt. The defensive back regularly blitzes the quarterback and has accumulated 3.5 sacks through six regular-season games in 2026.",
-          "shortComment": "Baker logged six tackles (four solo), including 1.0 sacks, and a pass defensed in the Cardinals' 18-16 win over the Rams on Sunday.",
+          "shortComment": "Baker, who sat out Wednesday's practice due to a groin injury as well as an illness, logged six tackles (four solo), including 1.0 sacks, and a pass defensed in the Cardinals' 18-16 win over the Rams on Sunday.",
           "status": "Questionable",
           "date": "2026-10-22T02:06Z",
           "athlete": {
@@ -589,7 +589,7 @@
                   "id": "643733",
                   "type": "news",
                   "date": "2026-10-22T02:06Z",
-                  "headline": "Baker logged six tackles (four solo), including 1.0 sacks, and a pass defensed in the Cardinals' 18-16 win over the Rams on Sunday.",
+                  "headline": "Baker, who sat out Wednesday's practice due to a groin injury as well as an illness, logged six tackles (four solo), including 1.0 sacks, and a pass defensed in the Cardinals' 18-16 win over the Rams on Sunday.",
                   "text": "The veteran strong safety did it all in Sunday's contest while playing all 57 of the Cardinals' defensive snaps. Baker sacked Rams quarterback Matthew Stafford for a loss of eight yards on first down in the second quarter, leading to a Rams punt. The defensive back regularly blitzes the quarterback and has accumulated 3.5 sacks through six regular-season games in 2026.",
                   "source": "RotoWire",
                   "injury": {
@@ -30379,7 +30379,7 @@
       "injuries": [
         {
           "id": "643727",
-          "longComment": "There is no official confirmation that the new Ravens center has cleared the NFL's five-step concussion protocol. Jurgens did take contact in Wednesday's session, meaning he is most likely all set to make his Ravens debut in Week 7 against the Bengals.",
+          "longComment": "There is no official confirmation that the new Ravens center has cleared the NFL's five-step concussion protocol. Jurgens did take contact in Wednesday's session, meaning he is most likely on track to make his Ravens debut in Week 7 against the Bengals.",
           "shortComment": "Jurgens (concussion) was a full participant in Wednesday's practice.",
           "status": "Questionable",
           "date": "2026-10-22T01:47Z",
@@ -30955,7 +30955,7 @@
                   "type": "news",
                   "date": "2026-10-22T01:47Z",
                   "headline": "Jurgens (concussion) was a full participant in Wednesday's practice.",
-                  "text": "There is no official confirmation that the new Ravens center has cleared the NFL's five-step concussion protocol. Jurgens did take contact in Wednesday's session, meaning he is most likely all set to make his Ravens debut in Week 7 against the Bengals.",
+                  "text": "There is no official confirmation that the new Ravens center has cleared the NFL's five-step concussion protocol. Jurgens did take contact in Wednesday's session, meaning he is most likely on track to make his Ravens debut in Week 7 against the Bengals.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361178/injuries/643727?lang=en&region=us"
@@ -45588,11 +45588,11 @@
       "displayName": "Buffalo Bills",
       "injuries": [
         {
-          "id": "-2052570",
+          "id": "-2052666",
           "longComment": "reserve-sus",
           "shortComment": "reserve-sus",
           "status": "Suspension",
-          "date": "2026-10-22T04:00Z",
+          "date": "2026-10-22T11:00Z",
           "athlete": {
             "firstName": "C.J.",
             "lastName": "Gardner-Johnson",
@@ -46161,14 +46161,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2052570",
+                  "id": "-2052666",
                   "type": "news",
-                  "date": "2026-10-22T04:00Z",
+                  "date": "2026-10-22T11:00Z",
                   "headline": "reserve-sus",
                   "text": "reserve-sus",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4034953/injuries/-2052570?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4034953/injuries/-2052666?lang=en&region=us"
                   }
                 }
               ]
@@ -46205,7 +46205,7 @@
         },
         {
           "id": "643730",
-          "longComment": "Despite a relatively poor showing from a struggling Bills defense, Williams picked off Raiders quarterback Kirk Cousins in the third quarter of Sunday's contest. The linebacker's stolen possession led to the Bills extending the lead from 16-13 to 23-13 with 6:22 remaining in the third quarter.",
+          "longComment": "Despite a relatively poor showing from a struggling Bills defense, Williams picked off Raiders quarterback Kirk Cousins in the third quarter of Sunday's contest. The linebacker's stolen possession, the first interception of his NFL career, led to the Bills extending the lead from 16-13 to 23-13 with 6:22 remaining in the third quarter.",
           "shortComment": "Williams logged five tackles (three solo) and one pass defensed for an interception in the Bills' 33-30 win over the Raiders on Sunday.",
           "status": "Active",
           "date": "2026-10-22T01:58Z",
@@ -46781,7 +46781,7 @@
                   "type": "news",
                   "date": "2026-10-22T01:58Z",
                   "headline": "Williams logged five tackles (three solo) and one pass defensed for an interception in the Bills' 33-30 win over the Raiders on Sunday.",
-                  "text": "Despite a relatively poor showing from a struggling Bills defense, Williams picked off Raiders quarterback Kirk Cousins in the third quarter of Sunday's contest. The linebacker's stolen possession led to the Bills extending the lead from 16-13 to 23-13 with 6:22 remaining in the third quarter.",
+                  "text": "Despite a relatively poor showing from a struggling Bills defense, Williams picked off Raiders quarterback Kirk Cousins in the third quarter of Sunday's contest. The linebacker's stolen possession, the first interception of his NFL career, led to the Bills extending the lead from 16-13 to 23-13 with 6:22 remaining in the third quarter.",
                   "source": "RotoWire"
                 }
               ]
@@ -75826,11 +75826,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2052571",
-          "longComment": "out",
-          "shortComment": "out",
-          "status": "Out",
-          "date": "2026-10-22T04:00Z",
+          "id": "-2052668",
+          "longComment": "ir",
+          "shortComment": "ir",
+          "status": "Injured Reserve",
+          "date": "2026-10-22T11:00Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76399,14 +76399,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2052571",
+                  "id": "-2052668",
                   "type": "news",
-                  "date": "2026-10-22T04:00Z",
-                  "headline": "out",
-                  "text": "out",
+                  "date": "2026-10-22T11:00Z",
+                  "headline": "ir",
+                  "text": "ir",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2052571?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2052668?lang=en&region=us"
                   }
                 }
               ]
@@ -76424,20 +76424,18 @@
             "state": "basic"
           },
           "type": {
-            "id": "4",
-            "name": "INJURY_STATUS_OUT",
-            "description": "out",
-            "abbreviation": "O"
+            "id": "5",
+            "name": "INJURY_STATUS_IR",
+            "description": "Injured Reserve",
+            "abbreviation": "IR"
           },
           "details": {
             "fantasyStatus": {
-              "description": "OUT",
-              "abbreviation": "OUT"
+              "description": "IR",
+              "abbreviation": "IR"
             },
             "type": "Undisclosed",
             "location": "Other",
-            "detail": "Not Specified",
-            "side": "Not Specified",
             "returnDate": "2026-10-18"
           }
         },
@@ -212443,7 +212441,7 @@
       "injuries": [
         {
           "id": "643734",
-          "longComment": "Oluokun did not have an outstanding game by any metrics but did put up a solid stat line in a close divisional loss. The linebacker played 94 percent of the Jaguars' defensive snaps in the contest while logging an additional 24 percent of the team's snaps on special teams.",
+          "longComment": "Oluokun did not have an outstanding game by any metrics but did put up a solid stat line in a close divisional loss. The linebacker played 94 percent of the Jaguars' defensive snaps in the contest while logging an additional 24 percent of the team's snaps on special teams. Oluokun leads the Jaguars with 42 tackles on the season.",
           "shortComment": "Oluokun logged eight tackles (four solo) in the Jaguars' 34-31 loss to the Texans in London on Sunday.",
           "status": "Active",
           "date": "2026-10-22T02:09Z",
@@ -213019,7 +213017,7 @@
                   "type": "news",
                   "date": "2026-10-22T02:09Z",
                   "headline": "Oluokun logged eight tackles (four solo) in the Jaguars' 34-31 loss to the Texans in London on Sunday.",
-                  "text": "Oluokun did not have an outstanding game by any metrics but did put up a solid stat line in a close divisional loss. The linebacker played 94 percent of the Jaguars' defensive snaps in the contest while logging an additional 24 percent of the team's snaps on special teams.",
+                  "text": "Oluokun did not have an outstanding game by any metrics but did put up a solid stat line in a close divisional loss. The linebacker played 94 percent of the Jaguars' defensive snaps in the contest while logging an additional 24 percent of the team's snaps on special teams. Oluokun leads the Jaguars with 42 tackles on the season.",
                   "source": "RotoWire"
                 }
               ]
@@ -227541,7 +227539,7 @@
       "injuries": [
         {
           "id": "643634",
-          "longComment": "After a quick start to the season with a 14-231-2 line on 18 targets through the first three games, Kelce has taken a step back over the last two appearances (6-68-0 on nine targets). With an ankle injury now in tow, his status will be watched as the week goes on to get a sense of his availability for Sonday's contest at Seattle.",
+          "longComment": "After a quick start to the season with a 14-231-2 line on 18 targets through the first three games, Kelce has taken a step back over the last two appearances (6-68-0 on nine targets). With an ankle injury now in tow, his status will be watched as the week goes on to get a sense of his availability for Sunday's contest at Seattle.",
           "shortComment": "Kelce (ankle) was a limited practice participant Wednesday, Matt Derrick of ChiefsDigest.com reports.",
           "status": "Questionable",
           "date": "2026-10-21T23:08Z",
@@ -228117,7 +228115,7 @@
                   "type": "news",
                   "date": "2026-10-21T23:08Z",
                   "headline": "Kelce (ankle) was a limited practice participant Wednesday, Matt Derrick of ChiefsDigest.com reports.",
-                  "text": "After a quick start to the season with a 14-231-2 line on 18 targets through the first three games, Kelce has taken a step back over the last two appearances (6-68-0 on nine targets). With an ankle injury now in tow, his status will be watched as the week goes on to get a sense of his availability for Sonday's contest at Seattle.",
+                  "text": "After a quick start to the season with a 14-231-2 line on 18 targets through the first three games, Kelce has taken a step back over the last two appearances (6-68-0 on nine targets). With an ankle injury now in tow, his status will be watched as the week goes on to get a sense of his availability for Sunday's contest at Seattle.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/15847/injuries/643634?lang=en&region=us"
@@ -245771,7 +245769,7 @@
         },
         {
           "id": "643647",
-          "longComment": "Bowers previously dealt with a knee injury this season, costing him the first two games of the campaign, but this is the first time he's been listed with hamstring and calf issues. It's certainly something to monitor with his injury history, but he can likely alleviate any concerns with a full, or even limited, practice Thursday. Bowers logged a season-high 98.5 percent of the offensive snaps in the Raiders' Week 6 loss to the Bills. Michael Mayer and Tre Tucker would get significant boosts should Bowers ever need to miss time.",
+          "longComment": "Bowers previously dealt with a knee injury this season, costing him the first two games of the campaign, but this is the first time he's been listed with hamstring and calf issues. It's certainly something to monitor with his injury history, but he can likely alleviate any concerns with a full, or even limited, practice Thursday. Bowers logged a season-high 98.5 percent of the offensive snaps in the Raiders' Week 6 loss to the Bills. Michael Mayer and Tre Tucker would get significant boosts in the passing game should Bowers ever need to miss time.",
           "shortComment": "Bowers (hamstring/calf) was a limited participant in Wednesday's practice, Around The NFL reports.",
           "status": "Questionable",
           "date": "2026-10-21T23:28Z",
@@ -246347,7 +246345,7 @@
                   "type": "news",
                   "date": "2026-10-21T23:28Z",
                   "headline": "Bowers (hamstring/calf) was a limited participant in Wednesday's practice, Around The NFL reports.",
-                  "text": "Bowers previously dealt with a knee injury this season, costing him the first two games of the campaign, but this is the first time he's been listed with hamstring and calf issues. It's certainly something to monitor with his injury history, but he can likely alleviate any concerns with a full, or even limited, practice Thursday. Bowers logged a season-high 98.5 percent of the offensive snaps in the Raiders' Week 6 loss to the Bills. Michael Mayer and Tre Tucker would get significant boosts should Bowers ever need to miss time.",
+                  "text": "Bowers previously dealt with a knee injury this season, costing him the first two games of the campaign, but this is the first time he's been listed with hamstring and calf issues. It's certainly something to monitor with his injury history, but he can likely alleviate any concerns with a full, or even limited, practice Thursday. Bowers logged a season-high 98.5 percent of the offensive snaps in the Raiders' Week 6 loss to the Bills. Michael Mayer and Tre Tucker would get significant boosts in the passing game should Bowers ever need to miss time.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4432665/injuries/643647?lang=en&region=us"
@@ -288221,7 +288219,7 @@
         {
           "id": "643726",
           "longComment": "Savaiinaea injured his ankle during the Dolphins' Week 5 loss to the Bengals. The second-year offensive lineman had extra time to recover thanks to the Week 6 bye, and given his ability to practice in full Wednesday, Savaiinaea should start at right guard against the Jets on Sunday.",
-          "shortComment": "Savaiinaea (ankle) was a full participant in Wednesday's practice, David reports.David Furones of the South Florida Sun Sentinel",
+          "shortComment": "Savaiinaea (ankle) was a full participant in Wednesday's practice, David Furones of the South Florida Sun Sentinel reports.",
           "status": "Active",
           "date": "2026-10-22T01:45Z",
           "athlete": {
@@ -288795,7 +288793,7 @@
                   "id": "643726",
                   "type": "news",
                   "date": "2026-10-22T01:45Z",
-                  "headline": "Savaiinaea (ankle) was a full participant in Wednesday's practice, David reports.David Furones of the South Florida Sun Sentinel",
+                  "headline": "Savaiinaea (ankle) was a full participant in Wednesday's practice, David Furones of the South Florida Sun Sentinel reports.",
                   "text": "Savaiinaea injured his ankle during the Dolphins' Week 5 loss to the Bengals. The second-year offensive lineman had extra time to recover thanks to the Week 6 bye, and given his ability to practice in full Wednesday, Savaiinaea should start at right guard against the Jets on Sunday.",
                   "source": "RotoWire"
                 }
@@ -318538,7 +318536,7 @@
       "injuries": [
         {
           "id": "643723",
-          "longComment": "Moses was remained limited all week as he nurses a foot injury that he suffered in Week 6 against the Jets, and his status for Week 7 is uncertain as a result. If he is ultimately unable to go, Caleb Lomu would stand to draw the start at right tackle against Chicago on Thursday Night Football.",
+          "longComment": "Moses has remained limited all week as he nurses a foot injury that he suffered in Week 6 against the Jets, and his status for Week 7 is uncertain as a result. If he is ultimately unable to go, Caleb Lomu would stand to draw the start at right tackle against Chicago on Thursday Night Football.",
           "shortComment": "Moses (foot) is questionable to play Thursday versus the Bears.",
           "status": "Questionable",
           "date": "2026-10-22T01:41Z",
@@ -319114,7 +319112,7 @@
                   "type": "news",
                   "date": "2026-10-22T01:41Z",
                   "headline": "Moses (foot) is questionable to play Thursday versus the Bears.",
-                  "text": "Moses was remained limited all week as he nurses a foot injury that he suffered in Week 6 against the Jets, and his status for Week 7 is uncertain as a result. If he is ultimately unable to go, Caleb Lomu would stand to draw the start at right tackle against Chicago on Thursday Night Football.",
+                  "text": "Moses has remained limited all week as he nurses a foot injury that he suffered in Week 6 against the Jets, and his status for Week 7 is uncertain as a result. If he is ultimately unable to go, Caleb Lomu would stand to draw the start at right tackle against Chicago on Thursday Night Football.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/16771/injuries/643723?lang=en&region=us"
@@ -348897,11 +348895,11 @@
       "displayName": "New York Giants",
       "injuries": [
         {
-          "id": "-2052569",
+          "id": "-2052665",
           "longComment": "questionable",
           "shortComment": "questionable",
           "status": "Questionable",
-          "date": "2026-10-22T04:00Z",
+          "date": "2026-10-22T11:00Z",
           "athlete": {
             "firstName": "Jermaine",
             "lastName": "Eluemunor",
@@ -349470,14 +349468,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2052569",
+                  "id": "-2052665",
                   "type": "news",
-                  "date": "2026-10-22T04:00Z",
+                  "date": "2026-10-22T11:00Z",
                   "headline": "questionable",
                   "text": "questionable",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3115303/injuries/-2052569?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3115303/injuries/-2052665?lang=en&region=us"
                   }
                 }
               ]
@@ -364341,7 +364339,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -364957,7 +364955,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -365573,7 +365571,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -366189,7 +366187,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -366805,7 +366803,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -367421,7 +367419,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -368037,7 +368035,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -368653,7 +368651,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -369269,7 +369267,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -369871,7 +369869,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -370473,7 +370471,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -371075,7 +371073,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -371677,7 +371675,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -372279,7 +372277,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -372881,7 +372879,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -373483,7 +373481,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -374085,7 +374083,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -374687,7 +374685,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -375289,7 +375287,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -375891,7 +375889,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -376493,7 +376491,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -377095,7 +377093,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -377697,7 +377695,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -378299,7 +378297,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -378901,7 +378899,7 @@
                     "full",
                     "dark"
                   ],
-                  "lastUpdated": "2024-06-25T18:59Z"
+                  "lastUpdated": "2024-10-30T17:29Z"
                 },
                 {
                   "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
@@ -379298,7 +379296,7 @@
       "injuries": [
         {
           "id": "643735",
-          "longComment": "DeJean has logged at least five tackles in each of the first six games of the regular season and has played every defensive snap in four of those contests. He's up to 39 tackles (23 solo) and five pass defenses (including one interception) on the season, and he's fourth on the Eagles in combined takcles behind Jihaad Campbell (47) and Zack Baun (42).",
+          "longComment": "DeJean has logged at least five tackles in each of the first six games of the regular season and has played every defensive snap in four of those contests. He's up to 39 tackles (23 solo) and five pass defenses (including one interception) on the season, and he's third on the Eagles in combined takcles behind Jihaad Campbell (47) and Zack Baun (42).",
           "shortComment": "DeJean posted five solo tackles and a pass defense in the Eagles' 25-14 loss to the Panthers in Week 6.",
           "status": "Active",
           "date": "2026-10-22T02:11Z",
@@ -379874,7 +379872,7 @@
                   "type": "news",
                   "date": "2026-10-22T02:11Z",
                   "headline": "DeJean posted five solo tackles and a pass defense in the Eagles' 25-14 loss to the Panthers in Week 6.",
-                  "text": "DeJean has logged at least five tackles in each of the first six games of the regular season and has played every defensive snap in four of those contests. He's up to 39 tackles (23 solo) and five pass defenses (including one interception) on the season, and he's fourth on the Eagles in combined takcles behind Jihaad Campbell (47) and Zack Baun (42).",
+                  "text": "DeJean has logged at least five tackles in each of the first six games of the regular season and has played every defensive snap in four of those contests. He's up to 39 tackles (23 solo) and five pass defenses (including one interception) on the season, and he's third on the Eagles in combined takcles behind Jihaad Campbell (47) and Zack Baun (42).",
                   "source": "RotoWire"
                 }
               ]
@@ -413972,7 +413970,7 @@
         },
         {
           "id": "643648",
-          "longComment": "As expected, Evans didn't mix into drills just two days removed from exiting Monday's game against the Commanders early due to an Achilles injury. Afterward, coach Kyle Shanahan termed the issue right Achilles soreness, per Nick Wagoner of ESPN.com, which isn't believed to be a long-term concern. Shanahan also expressed hope that Evans will be able to play Sunday in Atlanta, but in the end the 49ers likely will exercise caution with the top wide receiver on the roster.",
+          "longComment": "As expected, Evans didn't mix into drills just two days removed from exiting Monday's game against the Commanders early due to an Achilles injury. Afterward, coach Kyle Shanahan termed the issue right Achilles soreness, per Nick Wagoner of ESPN.com, which isn't believed to be a long-term concern. Shanahan also expressed hope that Evans will be able to play Sunday in Atlanta, but the 49ers likely will exercise caution with the top wide receiver on the roster.",
           "shortComment": "Evans (ribs/Achilles) officially didn't practice Wednesday, Harrison Rich of the San Francisco Chronicle reports.",
           "status": "Questionable",
           "date": "2026-10-21T23:30Z",
@@ -414548,7 +414546,7 @@
                   "type": "news",
                   "date": "2026-10-21T23:30Z",
                   "headline": "Evans (ribs/Achilles) officially didn't practice Wednesday, Harrison Rich of the San Francisco Chronicle reports.",
-                  "text": "As expected, Evans didn't mix into drills just two days removed from exiting Monday's game against the Commanders early due to an Achilles injury. Afterward, coach Kyle Shanahan termed the issue right Achilles soreness, per Nick Wagoner of ESPN.com, which isn't believed to be a long-term concern. Shanahan also expressed hope that Evans will be able to play Sunday in Atlanta, but in the end the 49ers likely will exercise caution with the top wide receiver on the roster.",
+                  "text": "As expected, Evans didn't mix into drills just two days removed from exiting Monday's game against the Commanders early due to an Achilles injury. Afterward, coach Kyle Shanahan termed the issue right Achilles soreness, per Nick Wagoner of ESPN.com, which isn't believed to be a long-term concern. Shanahan also expressed hope that Evans will be able to play Sunday in Atlanta, but the 49ers likely will exercise caution with the top wide receiver on the roster.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/16737/injuries/643648?lang=en&region=us"
@@ -428574,7 +428572,7 @@
         },
         {
           "id": "643632",
-          "longComment": "Charbonnet finally achieved the ever elusive full listing on the Seahawks' injury report since the team opened his practice window Oct. 1. Head coach Mike Macdonald told Gregg Bell of The Tacoma News Tribune on Monday that Charbonnet was in line for a \"full week of work\" and has a \"good chance\" to make his season debut Sunday versus the Chiefs. Wednesday's activity generally is a good sign on that direction, but Seattle likely wants Charbonnet to string together multiple uncapped sessions before giving him the all-clear for his first game action since Jan. 17, when he tore the ACL in his left knee.",
+          "longComment": "Charbonnet finally achieved the elusive full listing on the Seahawks' injury report for the first time since the team opened his practice window Oct. 1. Head coach Mike Macdonald told Gregg Bell of The Tacoma News Tribune on Monday that Charbonnet was in line for a \"full week of work\" and has a \"good chance\" to make his season debut Sunday versus the Chiefs. Wednesday's activity generally is a good sign, but Seattle likely wants Charbonnet to string together multiple uncapped sessions before giving him the all-clear for his first game action since Jan. 17, when he tore the ACL in his left knee.",
           "shortComment": "Charbonnet (knee) was a full participant at Wednesday's practice, Corbin K. Smith of EmeraldCitySpectrum.com reports.",
           "status": "Out",
           "date": "2026-10-21T23:01Z",
@@ -429150,7 +429148,7 @@
                   "type": "news",
                   "date": "2026-10-21T23:01Z",
                   "headline": "Charbonnet (knee) was a full participant at Wednesday's practice, Corbin K. Smith of EmeraldCitySpectrum.com reports.",
-                  "text": "Charbonnet finally achieved the ever elusive full listing on the Seahawks' injury report since the team opened his practice window Oct. 1. Head coach Mike Macdonald told Gregg Bell of The Tacoma News Tribune on Monday that Charbonnet was in line for a \"full week of work\" and has a \"good chance\" to make his season debut Sunday versus the Chiefs. Wednesday's activity generally is a good sign on that direction, but Seattle likely wants Charbonnet to string together multiple uncapped sessions before giving him the all-clear for his first game action since Jan. 17, when he tore the ACL in his left knee.",
+                  "text": "Charbonnet finally achieved the elusive full listing on the Seahawks' injury report for the first time since the team opened his practice window Oct. 1. Head coach Mike Macdonald told Gregg Bell of The Tacoma News Tribune on Monday that Charbonnet was in line for a \"full week of work\" and has a \"good chance\" to make his season debut Sunday versus the Chiefs. Wednesday's activity generally is a good sign, but Seattle likely wants Charbonnet to string together multiple uncapped sessions before giving him the all-clear for his first game action since Jan. 17, when he tore the ACL in his left knee.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4426385/injuries/643632?lang=en&region=us"
