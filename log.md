@@ -8226,3 +8226,30 @@ ANOMALY: a full absence-based audit of all 422 dashboard rows against the curren
 - Jonah Jackson (G, Bears) — removed: all set to suit up for Thursday night's game.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-22T12:00:08Z (current, <6h old). Jacob Monk (Packers) and Jacory Croskey-Merritt (Commanders, still on bye) kept unchanged per established precedent. No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged or blank comments only — e.g., D.J. Reed, Justin Jefferson, Nathan Shepherd, Monroe Freeling, Jonah Savaiinaea, AJ Dillon, Sean Tucker — all kept unchanged). Excluded as non-injury: C.J. Gardner-Johnson and Sam Franklin Jr. (suspensions), Montez Sweat (suspension); excluded as uninformative bare-status snapshot entries: dozens of bare "questionable"/"out" entries with no injury description.
+
+## Oct 22, 2026, 6:20 PM ET
+
+**New injuries (Thursday Week 7 practice/injury reports):**
+- Christian Rozeboom (LB, Buccaneers) — finger; placed on injured reserve Thursday, eligible to return as soon as Nov 30.
+- T.J. Watt (LB, Steelers) — calf; questionable for Sunday's (Oct 25) game in Paris vs. the Saints.
+- Quincy Williams (LB, Browns) — neck; questionable for Sunday's (Oct 25) game vs. the Titans.
+- Willie Gay Jr. (LB, Dolphins) — illness; questionable for Sunday's (Oct 25) game vs. the Jets.
+- Zaire Franklin (LB, Packers) — shin; questionable per Thursday's injury report.
+- Lukas Van Ness (DE, Packers) — illness; questionable per Thursday's injury report.
+- CJ Allen (LB, Colts) — ankle; questionable per Thursday's injury report.
+- Tyler Guyton (OT, Cowboys) — calf; questionable for Monday night's (Oct 26) game vs. the Eagles.
+- Jermaine Eluemunor (OT, Giants) — calf; questionable per Thursday's injury report (upgraded from a prior bare "questionable" snapshot entry now that ESPN's structured data specifies the body part).
+- Max Mitchell (OT, Jets) — concussion; questionable for Sunday's (Oct 25) game vs. the Dolphins.
+
+**Status/designation changes:**
+- Josh Simmons (OT, Chiefs) — placed on injured reserve Thursday after plateauing in the rehab process for a lower-back disc issue; out until at least Week 11 vs. the Cardinals.
+- Brandin Echols (CB, Steelers) — officially out, targeting a return around Nov 1; upgraded from low to mid severity.
+- Jack Sanborn (LB, Bears) — officially ruled out for Thursday night's game vs. the Patriots (concussion), his first missed game of the season; NEW badge aged off (>24h).
+- David Montgomery (RB, Texans) — upgraded to doubtful for Sunday's (Oct 25) game vs. the Giants.
+- Jeremiyah Love (RB, Cardinals) — doubtful for Sunday's (Oct 25) game, continuing to battle the same ankle injury.
+- Zach Charbonnet (RB, Seahawks) — activated off Reserve/PUP after his first full practice since last season's ACL tear; downgraded from mid to low severity now that he's off PUP and simply a game-time decision.
+- Dylan Sampson (RB, Browns), Quinshon Judkins (RB, Browns), Jonah Coleman (RB, Broncos), Mike Washington Jr. (RB, Raiders), Jaylen Wright (RB, Dolphins), Alvin Kamara (RB, Saints), Breece Hall (RB, Jets), Saquon Barkley (RB, Eagles), Rico Dowdle (RB, Steelers), Bucky Irving (RB, Buccaneers), Quincy Riley (CB, Saints) — practice-report text refreshed with Thursday's participation/status detail; severities and badges unchanged.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-22T21:41:29Z (current, <1h old at run start). Per the standing finding that this feed is a rolling log of each team's most recent injury-report updates rather than a full current-roster list (see Oct 15 and Oct 21 ANOMALY entries), a blanket absence-based audit was not run; window-based reconciliation covered new/updated entries dated between the Oct 22 12:10 PM ET sweep and this run (46 snapshot entries in that window at the six tracked positions) plus WebSearch for breaking news, which turned up nothing beyond what the snapshot already captured. Excluded as non-injury: C.J. Gardner-Johnson (suspension appeal denied, Bills), Josh Jacobs (removed from commissioner's exempt list, Packers — not an injury). Excluded as uninformative bare-status/blank snapshot entries with no injury description: Calijah Kancey (DT, Buccaneers), Zavier Scott (RB, Bears), Logan Hall/Jadeveon Clowney/Trent Brown (Texans), Maliek Collins (DT, Browns), Olaivavega Ioane/John Simpson/Andrew Vorhees (Ravens G — Vorhees already tracked, kept unchanged), Austin Ajiake/Jalen Travis/Bryce Boettcher/Matt Goncalves/Jaylon Carlies (Colts), Kayvon Thibodeaux (LB, Giants), DeMarvion Overshown (LB, Cowboys, already tracked — kept unchanged, blank comment). Anthony Johnson Jr. (S, Bears) snapshot entry carried an internally inconsistent return date (Oct 18, in the past relative to its Oct 22 timestamp) suggesting recycled data — kept unchanged per existing IR row. CJ Donaldson (RB, Saints) upgraded to full practice Thursday per the snapshot but without explicit clearance language — kept unchanged per the standing hedged-language policy.
