@@ -8176,3 +8176,21 @@ ANOMALY: a full absence-based audit of all 422 dashboard rows against the curren
 **Removals:** None.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-21T18:42:07Z (current, <6h old relative to this sweep). Window-based reconciliation (new/updated entries since the Oct 21 12:10 PM ET sweep) ran against this snapshot and WebSearch; see ANOMALY note above for why a full dashboard-wide absence audit was not acted on this run. Excluded as non-injury: C.J. Gardner-Johnson (suspension, Bills). Excluded as uninformative bare-status snapshot entries: Anthony Johnson Jr. (bare "IR" with no detail, Bears) and Jermaine Eluemunor (bare "questionable," Giants) — both consistent with prior sweeps' treatment.
+
+## Oct 21, 2026, 9:10 PM ET
+
+**New injuries (Wednesday Week 7 practice reports):**
+- Carson Schwesinger (LB, Browns) — ankle; did not participate at Wednesday's practice.
+- Jaylen Wright (RB, Dolphins) — foot; limited participant at Wednesday's practice.
+- CJ Donaldson (RB, Saints) — shoulder; limited participant at Wednesday's practice.
+- Alvin Kamara (RB, Saints) — back; limited participant at Wednesday's practice (recurring issue).
+- Rico Dowdle (RB, Steelers) — knee; limited participant at Wednesday's practice.
+- Bucky Irving (RB, Buccaneers) — illness; did not participate at Wednesday's practice.
+
+**Status changes:** None.
+
+**Removals:**
+- Tyjae Spears (RB, Titans) — removed: Wednesday absence confirmed as a planned maintenance day, not a health concern.
+- Reed Blankenship (S, Texans) — removed: no longer on the league-wide injury report; no corroborating story found of a continued concussion-protocol issue.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-21T23:24:32Z (current, <6h old). Jacory Croskey-Merritt (RB, Commanders) remains unmatched due to Washington's Week 7 bye, not recovery — kept unchanged. No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged, blank, or pure stat-recap comments only — e.g., Evan Williams, Keyshaun Elliott, Braden Smith, George Holani — all kept unchanged). Excluded as non-injury: C.J. Gardner-Johnson and Sam Franklin Jr. (suspensions), Montez Sweat (suspension); excluded as uninformative bare-status snapshot entries and pure stat recaps with no injury language (Nate Landman, Zyon McCollum): dozens of bare "questionable"/"out" entries with no injury description.
