@@ -8194,3 +8194,35 @@ ANOMALY: a full absence-based audit of all 422 dashboard rows against the curren
 - Reed Blankenship (S, Texans) — removed: no longer on the league-wide injury report; no corroborating story found of a continued concussion-protocol issue.
 
 **Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-21T23:24:32Z (current, <6h old). Jacory Croskey-Merritt (RB, Commanders) remains unmatched due to Washington's Week 7 bye, not recovery — kept unchanged. No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged, blank, or pure stat-recap comments only — e.g., Evan Williams, Keyshaun Elliott, Braden Smith, George Holani — all kept unchanged). Excluded as non-injury: C.J. Gardner-Johnson and Sam Franklin Jr. (suspensions), Montez Sweat (suspension); excluded as uninformative bare-status snapshot entries and pure stat recaps with no injury language (Nate Landman, Zyon McCollum): dozens of bare "questionable"/"out" entries with no injury description.
+
+## Oct 22, 2026, 12:10 PM ET
+
+**New injuries (Thursday Night Football prep + Wednesday Week 7 practice reports):**
+- Jonah Elliss (LB, Broncos) — lower leg, suffered late in the Week 6 win over the Rams, in a walking boot/on crutches; doubtful, will likely be placed on injured reserve (avoided a season-ending injury per reports).
+- Jaelan Phillips (LB, Panthers) — hamstring, picked up in the Week 6 game at Philadelphia; estimated nonparticipant Wednesday, HC says fair to expect he won't play Week 7.
+- Brian Robinson Jr. (RB, Falcons) — hamstring, limited Wednesday.
+- Azeez Al-Shaair (LB, Texans) — knee, DNP Wednesday.
+- Quay Walker (LB, Raiders) — chest, limited Wednesday.
+- Mike Washington Jr. (RB, Raiders) — foot/back, limited Wednesday.
+- Nate Landman (LB, Rams) — concussion, DNP Wednesday.
+- Christian Elliss (LB, Patriots) — chest, questionable for Thursday night vs. the Bears; expected to play through it.
+- Kevin Byard (S, Patriots) — chest, questionable for Thursday night vs. the Bears; expected to play through it.
+- Craig Woodson (S, Patriots) — shoulder (persistent since Week 4), questionable for Thursday night vs. the Bears; expected to play through it again.
+- Jevon Holland (S, Giants) — concussion, DNP Wednesday.
+- Kene Nwangwu (RB, Jets) — knee, DNP Wednesday.
+- Jaden Dugger (LB, 49ers) — knee, limited Wednesday.
+- Mykel Williams (DE, 49ers) — knee (recurring, still building back from ACL surgery), DNP Wednesday.
+- Zyon McCollum (CB, Buccaneers) — illness, DNP Wednesday.
+
+**Status changes:** None.
+
+**Removals:**
+- Charles Demmings (CB, Vikings) — removed: fully healthy, available for Sunday's game.
+- Benjamin Morrison (CB, Buccaneers) — removed: full practice session indicates he'll be available, reclaiming his starting job.
+- JuJu Brents (CB, Dolphins) — removed: back to 100 percent, back in his starting role.
+- Michael Taaffe (S, Dolphins) — removed: back to full health, all set to operate in his role.
+- Kool-Aid McKinstry (CB, Saints) — removed: back to full health ahead of Week 7.
+- Kendal Daniels (LB, Falcons) — removed: already back to full practice participation after the Week 6 hospitalization, should have no problem suiting up.
+- Jonah Jackson (G, Bears) — removed: all set to suit up for Thursday night's game.
+
+**Reconciliation / snapshot health:** Full reconciliation ran against the snapshot fetched 2026-10-22T12:00:08Z (current, <6h old). Jacob Monk (Packers) and Jacory Croskey-Merritt (Commanders, still on bye) kept unchanged per established precedent. No other active-status or unmatched rows met the explicit-confirmation bar for removal (hedged or blank comments only — e.g., D.J. Reed, Justin Jefferson, Nathan Shepherd, Monroe Freeling, Jonah Savaiinaea, AJ Dillon, Sean Tucker — all kept unchanged). Excluded as non-injury: C.J. Gardner-Johnson and Sam Franklin Jr. (suspensions), Montez Sweat (suspension); excluded as uninformative bare-status snapshot entries: dozens of bare "questionable"/"out" entries with no injury description.
