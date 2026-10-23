@@ -8274,3 +8274,18 @@ ANOMALY: a full absence-based audit of all 422 dashboard rows against the curren
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-23T00:42:24Z (current, <1h old at run start). Reviewed all 31 active-status candidate rows plus the 44 new snapshot candidates at the six tracked positions; most new candidates were bare "questionable"/"inactive" entries with no injury description and were excluded. Jacob Monk (G, Packers) and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent; George Holani (RB, Seahawks) kept unchanged — playing through his ribs/knee issues, no new snapshot entry. Excluded as non-injury: C.J. Gardner-Johnson and Sam Franklin Jr. (suspensions, Bills).
 
+## Oct 23, 2026, 12:10 PM ET
+
+**New injuries:**
+- Max Melton (CB, Cardinals) — knee; did not practice Thursday.
+- Malik Muhammad II (CB, Bears) — toe; doubtful to return to Thursday night's game vs. the Patriots.
+- Andrew Thomas (OT, Giants) — groin; limited participant at Thursday's practice.
+- Luke Goedeke (OT, Buccaneers) — calf; did not practice Thursday.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Dayo Odeyingbo (DE, Bears) — removed: added Oct 11 for a quad injury ("doubtful to return to Sunday's game vs. the Packers"); no snapshot entry in 12 days and no WebSearch evidence of a continuing injury for Week 7.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-23T13:31:12Z (current, <3h old at run start). Reviewed 30 active-status candidate rows and 39 new snapshot candidates at the six tracked positions; none of the active-status rows met the explicit-confirmation bar for removal — all carried only blank comments, stat recaps, or bare "full participant"/"active for [game]" language, which the standing policy treats as insufficient to confirm clearance (recurring playing-through-it cases: Jalen Ramsey, D.J. Reed, Craig Woodson, Will Campbell, Alvin Kamara, DeMarvion Overshown, among others — all kept unchanged). Most new candidates were bare "questionable"/"inactive"/suspension entries with no injury description and were excluded (including C.J. Gardner-Johnson and Sam Franklin Jr., suspensions, Bills). Jacob Monk (G, Packers), George Holani (RB, Seahawks), and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
+
