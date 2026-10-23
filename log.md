@@ -8253,3 +8253,24 @@ ANOMALY: a full absence-based audit of all 422 dashboard rows against the curren
 **Removals:** None.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-22T21:41:29Z (current, <1h old at run start). Per the standing finding that this feed is a rolling log of each team's most recent injury-report updates rather than a full current-roster list (see Oct 15 and Oct 21 ANOMALY entries), a blanket absence-based audit was not run; window-based reconciliation covered new/updated entries dated between the Oct 22 12:10 PM ET sweep and this run (46 snapshot entries in that window at the six tracked positions) plus WebSearch for breaking news, which turned up nothing beyond what the snapshot already captured. Excluded as non-injury: C.J. Gardner-Johnson (suspension appeal denied, Bills), Josh Jacobs (removed from commissioner's exempt list, Packers — not an injury). Excluded as uninformative bare-status/blank snapshot entries with no injury description: Calijah Kancey (DT, Buccaneers), Zavier Scott (RB, Bears), Logan Hall/Jadeveon Clowney/Trent Brown (Texans), Maliek Collins (DT, Browns), Olaivavega Ioane/John Simpson/Andrew Vorhees (Ravens G — Vorhees already tracked, kept unchanged), Austin Ajiake/Jalen Travis/Bryce Boettcher/Matt Goncalves/Jaylon Carlies (Colts), Kayvon Thibodeaux (LB, Giants), DeMarvion Overshown (LB, Cowboys, already tracked — kept unchanged, blank comment). Anthony Johnson Jr. (S, Bears) snapshot entry carried an internally inconsistent return date (Oct 18, in the past relative to its Oct 22 timestamp) suggesting recycled data — kept unchanged per existing IR row. CJ Donaldson (RB, Saints) upgraded to full practice Thursday per the snapshot but without explicit clearance language — kept unchanged per the standing hedged-language policy.
+
+## Oct 22, 2026, 9:10 PM ET
+
+**New injuries:**
+- Jaylinn Hawkins (S, Ravens) — knee; did not practice Thursday, trending the wrong direction for Sunday's game vs. the Bengals.
+- Tavius Robinson (LB, Ravens) — pectoral; did not practice Thursday, second straight missed day.
+- Reed Blankenship (S, Texans) — concussion, plus a hand injury tagged on afterward; did not practice Wed/Thu, must clear the five-step protocol to play Sunday vs. the Giants.
+- Sebastian Joseph-Day (DT, Steelers) — triceps; placed on injured reserve Thursday, out at least four games.
+
+**Status/designation changes:**
+- Dee Winters (LB, Cowboys) — escalated from a questionable ankle issue to a sprained Achilles suffered in Sunday night's game vs. the Packers; now doubtful for Week 7 vs. the Eagles and expected to miss at least one game. Upgraded from low to mid severity.
+
+**Removals:**
+- Tyrique Stevenson Sr. (CB, Bears) — removed: set to make his return, back in his starting role.
+- Quincy Riley (CB, Saints) — removed: full practice participant, unrestricted availability.
+- Kevin Byard (S, Patriots) — removed: as expected, he'll be available.
+- Christian Elliss (LB, Patriots) — removed: practicing at full speed, won't be held out.
+- Billy Bowman Jr. (CB, Falcons) — removed: added Oct 18 for a since-concluded game ("doubtful to return to the game"); no snapshot entry or corroborating news of a continuing injury found on WebSearch.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-23T00:42:24Z (current, <1h old at run start). Reviewed all 31 active-status candidate rows plus the 44 new snapshot candidates at the six tracked positions; most new candidates were bare "questionable"/"inactive" entries with no injury description and were excluded. Jacob Monk (G, Packers) and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent; George Holani (RB, Seahawks) kept unchanged — playing through his ribs/knee issues, no new snapshot entry. Excluded as non-injury: C.J. Gardner-Johnson and Sam Franklin Jr. (suspensions, Bills).
+
