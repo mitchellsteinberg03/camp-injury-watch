@@ -8289,3 +8289,34 @@ ANOMALY: a full absence-based audit of all 422 dashboard rows against the curren
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-23T13:31:12Z (current, <3h old at run start). Reviewed 30 active-status candidate rows and 39 new snapshot candidates at the six tracked positions; none of the active-status rows met the explicit-confirmation bar for removal — all carried only blank comments, stat recaps, or bare "full participant"/"active for [game]" language, which the standing policy treats as insufficient to confirm clearance (recurring playing-through-it cases: Jalen Ramsey, D.J. Reed, Craig Woodson, Will Campbell, Alvin Kamara, DeMarvion Overshown, among others — all kept unchanged). Most new candidates were bare "questionable"/"inactive"/suspension entries with no injury description and were excluded (including C.J. Gardner-Johnson and Sam Franklin Jr., suspensions, Bills). Jacob Monk (G, Packers), George Holani (RB, Seahawks), and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
 
+## Oct 23, 2026, 6:10 PM ET
+
+**New injuries (Friday Week 7 official injury reports, for Sunday Oct 25):**
+- Billy Bowman Jr. (S, Falcons) — hamstring; out for Sunday's game vs. the 49ers.
+- Denzel Ward (CB, Browns) — hand; questionable for Sunday's game vs. the Titans.
+- Antoine Winfield Jr. (S, Buccaneers) — fractured rib; out for Sunday's game vs. the Panthers.
+- Walter Nolen III (DT, Cardinals) — ankle; out for Sunday's game vs. the Broncos.
+- Michael Jerrell (OT, Falcons) — biceps; out for Sunday's game vs. the 49ers.
+- Jon Gaines II (G, Cardinals) — knee; out for Sunday's game vs. the Broncos.
+- Brashard Smith (RB, Chiefs) — hamstring; questionable for Sunday's game.
+
+**Status/designation changes:**
+- Jeremiyah Love (RB, Cardinals) — escalated from doubtful to officially out for Sunday's (Oct 25) game vs. the Broncos; will miss a second straight game, next chance to play is Nov 1 at Dallas.
+- Brian Robinson Jr. (RB, Falcons) — officially out for Sunday's game vs. the 49ers after back-to-back DNPs; his first missed game of the season. NEW badge aged off (>24h).
+- Mike Washington Jr. (RB, Raiders) — not spotted at Friday's practice either, after Thursday's non-participation; more doubt cast on his Sunday availability vs. the Rams. NEW badge aged off (>24h).
+- Luke Goedeke (OT, Buccaneers) — officially out for Sunday's game vs. the Panthers (escalated from Thursday DNP).
+- Mike Hall Jr. (DT, Browns) — officially out for Sunday's game vs. the Titans.
+- Teven Jenkins (G, Browns) — back on the injury report and officially out for Sunday's game vs. the Titans; stale Oct 1 reference in the row text corrected.
+- Divine Deablo (LB, Falcons) — continuing forearm injury from the Oct 18 game; out for Sunday's game vs. the 49ers; stale Oct 18 text corrected.
+- Thomas Incoom (LB, Panthers) — continuing calf injury; out for Sunday's game vs. the Buccaneers; stale Oct 18 text corrected.
+- Monroe Freeling (OT, Panthers) — questionable for Sunday's game vs. the Buccaneers; stale Oct 18 text corrected.
+- Dylan Sampson (RB, Browns) — still on injured reserve; Browns must activate him by Saturday evening to have him available Sunday vs. the Titans, where Quinshon Judkins (cleared to return from a one-game absence) would be ahead of him.
+- Rico Dowdle (RB, Steelers) — officially listed as questionable for Sunday's game vs. the Saints in Paris (resolved from Thursday's "will have a chance to ramp up" language, caught during reconciliation).
+
+**Removals:**
+- Zyon McCollum (CB, Buccaneers) — removed: snapshot shows him Active with no designation, recovered from illness.
+- Bucky Irving (RB, Buccaneers) — removed: snapshot shows him Active with no injury designation for Sunday's game, fully recovered from illness.
+- Alvin Kamara (RB, Saints) — removed: snapshot shows him Active with no injury designation for Week 7, despite being limited in practice; resolved the "Friday's report will reveal a designation" placeholder text found during reconciliation.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-23T18:24:53Z (current, <1h old at run start). Window since the 12:10 PM ET sweep covered 27 snapshot entries at the six tracked positions; most were bare "out"/"questionable"/"active" entries with no prose comment but carrying a specific body-part and return-date in the structured injury-detail data, which were treated as informative enough to add/update (per this run's judgment call, since they convey more than a bare status word). Fully bare entries with no body-part detail were excluded: C.J. Gardner-Johnson (suspension, Bills), Khalil Herbert (practice-squad elevation, not an injury, Falcons), Anthony Johnson Jr. (S, Bears, kept unchanged per existing IR row/established recycled-date finding), Tytus Howard, Derek Barnett, Mason Graham (Browns, all bare "Active" with zero detail). While reviewing nearby rows for the newly-touched players, three additional stale/resolved-prediction rows were caught and corrected (Divine Deablo, Thomas Incoom, Monroe Freeling, Rico Dowdle) and one additional recovered player was removed (Alvin Kamara) — all outside the strict post-12:10-PM window but representing resolved Friday-report predictions already present in the dashboard text. WebSearch for Antoine Winfield Jr., Walter Nolen III, and general Oct 23 injury news returned no dated, corroborating 2026 Week 7 results (search kept surfacing recycled articles from prior seasons); these two entries were added on the strength of the snapshot's structured injury-detail fields only. NEW badges aged off (>24h) for: Craig Woodson, Jevon Holland, Jaelan Phillips, Jonah Elliss, Azeez Al-Shaair, Quay Walker, Nate Landman, Jaden Dugger, Mykel Williams, Kene Nwangwu, Brian Robinson Jr., Mike Washington Jr.
+
