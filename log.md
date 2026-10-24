@@ -8320,3 +8320,18 @@ ANOMALY: a full absence-based audit of all 422 dashboard rows against the curren
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-23T18:24:53Z (current, <1h old at run start). Window since the 12:10 PM ET sweep covered 27 snapshot entries at the six tracked positions; most were bare "out"/"questionable"/"active" entries with no prose comment but carrying a specific body-part and return-date in the structured injury-detail data, which were treated as informative enough to add/update (per this run's judgment call, since they convey more than a bare status word). Fully bare entries with no body-part detail were excluded: C.J. Gardner-Johnson (suspension, Bills), Khalil Herbert (practice-squad elevation, not an injury, Falcons), Anthony Johnson Jr. (S, Bears, kept unchanged per existing IR row/established recycled-date finding), Tytus Howard, Derek Barnett, Mason Graham (Browns, all bare "Active" with zero detail). While reviewing nearby rows for the newly-touched players, three additional stale/resolved-prediction rows were caught and corrected (Divine Deablo, Thomas Incoom, Monroe Freeling, Rico Dowdle) and one additional recovered player was removed (Alvin Kamara) — all outside the strict post-12:10-PM window but representing resolved Friday-report predictions already present in the dashboard text. WebSearch for Antoine Winfield Jr., Walter Nolen III, and general Oct 23 injury news returned no dated, corroborating 2026 Week 7 results (search kept surfacing recycled articles from prior seasons); these two entries were added on the strength of the snapshot's structured injury-detail fields only. NEW badges aged off (>24h) for: Craig Woodson, Jevon Holland, Jaelan Phillips, Jonah Elliss, Azeez Al-Shaair, Quay Walker, Nate Landman, Jaden Dugger, Mykel Williams, Kene Nwangwu, Brian Robinson Jr., Mike Washington Jr.
 
+## Oct 23, 2026, 9:10 PM ET
+
+**New injuries:**
+- Tyjae Spears (RB, Titans) — knee; questionable for Sunday's game against the Browns.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- T.J. Watt (LB, Steelers) — removed: practiced fully Friday and doesn't carry an injury designation into Sunday's game vs. the Saints.
+- Kaden Elliss (LB, Saints) — removed: doesn't carry an injury designation into Sunday's game against the Steelers.
+- Quinshon Judkins (RB, Browns) — removed: doesn't have an injury designation and said he's "good to go" for Sunday's game against the Titans.
+- Jaylen Wright (RB, Dolphins) — removed: doesn't have an injury designation for Sunday's game at the Jets.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-23T23:11:54Z (current, <2h old at run start). Reviewed 46 active-status candidate rows and 27 new snapshot candidates at the six tracked positions; four rows carried explicit unhedged clearance language ("doesn't carry an injury designation," "good to go") and were removed, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active for [game]" language — insufficient under the standing policy (recurring playing-through-it cases: Jalen Ramsey, D.J. Reed, Craig Woodson, Will Campbell, DeMarvion Overshown, among others — all kept unchanged). Most new candidates were bare "questionable"/"inactive"/"out"/suspension entries with no injury description and were excluded (including C.J. Gardner-Johnson, suspension, Bills). Nolan Smith Jr. (LB, Eagles) — absent from the snapshot since his Oct 18 concussion, but WebSearch found no clearance and a headline suggesting a lingering "Week 7 impact," so kept unchanged pending clearer news. Jacob Monk (G, Packers), George Holani (RB, Seahawks), and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
+
