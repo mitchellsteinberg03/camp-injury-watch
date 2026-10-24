@@ -8335,3 +8335,21 @@ ANOMALY: a full absence-based audit of all 422 dashboard rows against the curren
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-23T23:11:54Z (current, <2h old at run start). Reviewed 46 active-status candidate rows and 27 new snapshot candidates at the six tracked positions; four rows carried explicit unhedged clearance language ("doesn't carry an injury designation," "good to go") and were removed, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active for [game]" language — insufficient under the standing policy (recurring playing-through-it cases: Jalen Ramsey, D.J. Reed, Craig Woodson, Will Campbell, DeMarvion Overshown, among others — all kept unchanged). Most new candidates were bare "questionable"/"inactive"/"out"/suspension entries with no injury description and were excluded (including C.J. Gardner-Johnson, suspension, Bills). Nolan Smith Jr. (LB, Eagles) — absent from the snapshot since his Oct 18 concussion, but WebSearch found no clearance and a headline suggesting a lingering "Week 7 impact," so kept unchanged pending clearer news. Jacob Monk (G, Packers), George Holani (RB, Seahawks), and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
 
+
+
+## Oct 24, 2026, 12:10 PM ET
+
+**New injuries (Week 7 Sunday prep):**
+- Nick Emmanwori (S, Seahawks) — hip; questionable for Sunday's game against the Chiefs.
+- L'Jarius Sneed (CB, Chiefs) — knee; questionable for Sunday's game against the Seahawks.
+- Za'Darius Smith (DE, Falcons) — neck; questionable for Sunday's game against the 49ers.
+- Kendal Daniels (LB, Falcons) — neck; questionable for Sunday's game against the 49ers.
+- Blake Fisher (OT, Texans) — thumb; ruled out for Sunday's game against the Giants.
+- Tyler Steen (G, Eagles) — shoulder; limited participant at Friday's practice.
+
+**Status/designation changes:** None.
+
+**Removals (explicit "no injury designation" / cleared language):**
+- Kyle Dugger (S, Bengals), Rock Ya-Sin (CB, Lions), Wydett Williams Jr. (S, Cardinals), Brandon Cisse (CB, Packers), Lukas Van Ness (DE, Packers), Anfernee Jennings (LB, Saints), Azeez Al-Shaair (LB, Texans), Quay Walker (LB, Raiders), Jaden Dugger (LB, 49ers), Mykel Williams (DE, 49ers), Mason Graham (DT, Browns), Tonka Hemingway (DT, Raiders), Christian Darrisaw (OT, Vikings), Andrew Thomas (OT, Giants) — all removed: each carried an explicit "does not have an injury designation" (or equivalent unhedged clearance) comment for Sunday's game in the snapshot.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-24T16:01:32Z (current, <10 min old at run start). Reviewed 43 active-status candidate rows and 26 new snapshot candidates at the six tracked positions. The 14 removals above all cleared the explicit-confirmation bar; the rest of the active-status rows carried only blank comments, stat recaps, or bare "full participant"/"active for [game]" language — insufficient under the standing policy (recurring playing-through-it cases: Jalen Ramsey, D.J. Reed, Craig Woodson, DeMarvion Overshown, Will Campbell, among others — all kept unchanged). Most new candidates were bare "questionable"/"inactive"/"out"/suspension entries with no injury description and were excluded (including C.J. Gardner-Johnson, suspension, Bills). Will Campbell (OT, Patriots) dropped out of this run's snapshot entirely; WebSearch found nothing beyond the original MCL-sprain reporting, so kept unchanged per the long-running playing-through-it precedent. Nolan Smith Jr. (LB, Eagles) — WebSearch again found no clearance or fresh Week 7 update, kept unchanged. Jacob Monk (G, Packers) and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
