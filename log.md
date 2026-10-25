@@ -8353,3 +8353,24 @@ ANOMALY: a full absence-based audit of all 422 dashboard rows against the curren
 - Kyle Dugger (S, Bengals), Rock Ya-Sin (CB, Lions), Wydett Williams Jr. (S, Cardinals), Brandon Cisse (CB, Packers), Lukas Van Ness (DE, Packers), Anfernee Jennings (LB, Saints), Azeez Al-Shaair (LB, Texans), Quay Walker (LB, Raiders), Jaden Dugger (LB, 49ers), Mykel Williams (DE, 49ers), Mason Graham (DT, Browns), Tonka Hemingway (DT, Raiders), Christian Darrisaw (OT, Vikings), Andrew Thomas (OT, Giants) — all removed: each carried an explicit "does not have an injury designation" (or equivalent unhedged clearance) comment for Sunday's game in the snapshot.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-24T16:01:32Z (current, <10 min old at run start). Reviewed 43 active-status candidate rows and 26 new snapshot candidates at the six tracked positions. The 14 removals above all cleared the explicit-confirmation bar; the rest of the active-status rows carried only blank comments, stat recaps, or bare "full participant"/"active for [game]" language — insufficient under the standing policy (recurring playing-through-it cases: Jalen Ramsey, D.J. Reed, Craig Woodson, DeMarvion Overshown, Will Campbell, among others — all kept unchanged). Most new candidates were bare "questionable"/"inactive"/"out"/suspension entries with no injury description and were excluded (including C.J. Gardner-Johnson, suspension, Bills). Will Campbell (OT, Patriots) dropped out of this run's snapshot entirely; WebSearch found nothing beyond the original MCL-sprain reporting, so kept unchanged per the long-running playing-through-it precedent. Nolan Smith Jr. (LB, Eagles) — WebSearch again found no clearance or fresh Week 7 update, kept unchanged. Jacob Monk (G, Packers) and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
+
+
+## Oct 24, 2026, 9:10 PM ET
+
+**New injuries:**
+- Quay Walker (LB, Raiders) — chest; questionable for Sunday's game against the Rams (re-added — was cleared earlier today, now back on the report).
+- Jonathan Greenard (LB, Eagles) — ankle; questionable for Monday night's game against the Cowboys.
+
+**Status/designation changes:**
+- Javon Hargrave (DT, Packers) — originally added Oct 10 for a questionable toe injury; WebSearch found he suffered a season-ending torn Achilles late in that same Oct 9 game and was placed on injured reserve. Upgraded from low to high severity, injury and status text corrected accordingly.
+
+**Removals (IR activations / explicit clearances):**
+- Brian Branch (S, Lions) — removed: activated from injured reserve Saturday.
+- A.J. Terrell Jr. (CB, Falcons) — removed: activated from injured reserve Saturday.
+- Kyle Louis (LB, Dolphins) — removed: activated from injured reserve Saturday.
+- Cooper McDonald (LB, Chiefs) — removed: activated from injured reserve Saturday.
+- Dylan Sampson (RB, Browns) — removed: activated from injured reserve Saturday.
+- Jordan Mason (RB, Vikings) — removed: activated from injured reserve Saturday; does not carry an injury designation into Sunday's game.
+- Grant Delpit (S, Browns) — removed: does not have any injury designation ahead of Sunday's game against the Titans.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-24T22:31:51Z (current, <3h old at run start). Reviewed 40 active-status candidate rows and 18 new snapshot candidates at the six tracked positions; the 7 removals above all carried explicit IR-activation or no-designation language, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active for [game]" language — insufficient under the standing policy (recurring playing-through-it cases: Jalen Ramsey, D.J. Reed, Craig Woodson, DeMarvion Overshown, among others — all kept unchanged). Most new candidates were bare "questionable"/"inactive"/suspension entries with no injury description and were excluded (including C.J. Gardner-Johnson, suspension, Bills). Javon Hargrave (DT, Packers) dropped out of the snapshot as an unmatched dashboard row with a stale two-week-old "questionable" entry; WebSearch surfaced the season-ending Achilles tear, so the row was updated rather than removed. Will Campbell (OT, Patriots) remained unmatched again; no new evidence either way, kept unchanged per the established playing-through-it precedent. Jacob Monk (G, Packers) and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
