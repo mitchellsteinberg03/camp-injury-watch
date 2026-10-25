@@ -8374,3 +8374,21 @@ ANOMALY: a full absence-based audit of all 422 dashboard rows against the curren
 - Grant Delpit (S, Browns) — removed: does not have any injury designation ahead of Sunday's game against the Titans.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-24T22:31:51Z (current, <3h old at run start). Reviewed 40 active-status candidate rows and 18 new snapshot candidates at the six tracked positions; the 7 removals above all carried explicit IR-activation or no-designation language, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active for [game]" language — insufficient under the standing policy (recurring playing-through-it cases: Jalen Ramsey, D.J. Reed, Craig Woodson, DeMarvion Overshown, among others — all kept unchanged). Most new candidates were bare "questionable"/"inactive"/suspension entries with no injury description and were excluded (including C.J. Gardner-Johnson, suspension, Bills). Javon Hargrave (DT, Packers) dropped out of the snapshot as an unmatched dashboard row with a stale two-week-old "questionable" entry; WebSearch surfaced the season-ending Achilles tear, so the row was updated rather than removed. Will Campbell (OT, Patriots) remained unmatched again; no new evidence either way, kept unchanged per the established playing-through-it precedent. Jacob Monk (G, Packers) and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
+
+
+## Oct 25, 2026, 12:10 PM ET
+
+**New injuries:**
+- Avieon Terrell (CB, Falcons) — illness; recovering ahead of Sunday's game against the 49ers.
+
+**Status/designation changes:** None.
+
+**Removals (IR activations / explicit clearances):**
+- Cobie Durant (CB, Cowboys) — removed: does not have an injury designation for Monday's game against the Eagles.
+- Bam Martin-Scott (LB, Panthers) — removed: activated from injured reserve Saturday, no longer carries an injury designation into Sunday's game.
+- AJ Epenesa (DE, Eagles) — removed: does not carry an injury designation into Monday's game against the Cowboys.
+- Anthony Bradford (G, Seahawks) — removed: activated from injured reserve Saturday, does not carry an injury designation into Sunday's game.
+- Tyler Steen (G, Eagles) — removed: does not have an injury designation for Monday's game against the Cowboys.
+- Keyshaun Elliott (LB, Bears) — removed: added Oct 10 for a since-concluded game; no snapshot entry in over two weeks and no WebSearch evidence of a continuing quad injury.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-25T11:40:07Z (current, <5h old at run start). Reviewed 32 active-status candidate rows and 16 new snapshot candidates at the six tracked positions; the 5 active-status removals above carried explicit IR-activation or no-designation language, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active for [game]" language — insufficient under the standing policy (recurring playing-through-it cases: Jalen Ramsey, D.J. Reed, Craig Woodson, DeMarvion Overshown, George Holani, among others — all kept unchanged). Most new candidates were bare "questionable"/"inactive"/suspension entries with no injury description and were excluded (including C.J. Gardner-Johnson, suspension, Bills). Will Campbell (OT, Patriots) remained unmatched again with no new evidence; kept unchanged per the established playing-through-it precedent. Jacob Monk (G, Packers) and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
