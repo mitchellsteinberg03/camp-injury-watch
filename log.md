@@ -8435,3 +8435,16 @@ ANOMALY: a full absence-based audit of all 422 dashboard rows against the curren
 **Removals:** None.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-26T00:26:03Z (current, <1h old at run start). Reviewed 39 active-status candidate rows and 69 new snapshot candidates (mostly gameday inactives lists) at the six tracked positions; every active-status row carried only "active for [game]" language, which the standing policy treats as insufficient to confirm clearance (recurring playing-through-it cases: Jalen Ramsey, Craig Woodson, DeMarvion Overshown, George Holani, among dozens of others on Sunday's slate — all kept unchanged), so no removals this run. Most new candidates were bare "inactive" entries with no injury description, including several explicit coach's-decision inactives (Shemar Stewart, Audric Estime, Kaleb Johnson, Demond Claiborne, Nicholas Singleton) — all excluded as out of scope. C.J. Gardner-Johnson (suspension, Bills) also excluded. D.J. Reed (CB, Lions), Jackson Woodard (LB, Dolphins), and Carson Schwesinger (LB, Browns) dropped out of this run's snapshot as unmatched rows; given the established finding that this feed is a rolling log rather than a full current roster, and each has a long-running "playing through it" history, all three were kept unchanged without an individual WebSearch. Will Campbell (OT, Patriots), Jacob Monk (G, Packers), and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
+
+
+## Oct 26, 2026, 12:10 PM ET
+
+**New injuries:**
+- Charles Cross (OT, Seahawks) — ankle; exited Sunday night's game against the Chiefs, did not return.
+- Velus Jones Jr. (RB, Seahawks) — hamstring; ruled out for the remainder of Sunday night's game against the Chiefs.
+
+**Status/designation changes:** None.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-26T15:14:38Z (current, <1h old at run start). Reviewed 38 active-status candidate rows and 66 new snapshot candidates (mostly leftover gameday-inactives entries) at the six tracked positions; every active-status row carried only "active for [game]" language or a pure stat recap, insufficient under the standing policy (recurring playing-through-it cases: Jalen Ramsey, Craig Woodson, DeMarvion Overshown, George Holani, among others — all kept unchanged), so no removals this run. Most new candidates were bare "inactive" entries with no injury description, including coach's-decision inactives (Shemar Stewart, Audric Estime, Kaleb Johnson, Demond Claiborne, Nicholas Singleton) — excluded as out of scope, along with C.J. Gardner-Johnson (suspension, Bills). D.J. Reed (CB, Lions), Jackson Woodard (LB, Dolphins), Carson Schwesinger (LB, Browns), and now Evan Williams (S, Packers) remained unmatched again with the same rolling-log feed limitation noted last sweep; all kept unchanged. Will Campbell (OT, Patriots), Jacob Monk (G, Packers), and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
