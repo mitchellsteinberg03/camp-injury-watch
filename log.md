@@ -8453,3 +8453,22 @@ ANOMALY: a full absence-based audit of all 422 dashboard rows against the curren
 ## Oct 26, 2026, 9:10 PM ET
 
 No new injuries, status changes, or removals at the six tracked positions this window. Snapshot fetched 2026-10-26T21:02:54Z (current, <10 min old at run start) carried only 2 new entries at the tracked positions, both bare/non-injury (C.J. Gardner-Johnson suspension, Marcus Mbow bare "out"), and all 42 active-status candidate rows carried only "active for [game]"/blank/stat-recap language, insufficient under the standing policy. D.J. Reed (CB, Lions), Evan Williams (S, Packers), Jackson Woodard (LB, Dolphins), Carson Schwesinger (LB, Browns), Will Campbell (OT, Patriots), Jacob Monk (G, Packers), and Jacory Croskey-Merritt (RB, Commanders, still on bye) remained unmatched again and were kept unchanged per established precedent. NEW badges aged off (>24h) for 13 rows added in the Oct 25, 2026 9:10 PM and 12:10 PM sweeps.
+
+
+## Oct 27, 2026, 12:10 PM ET
+
+**New injuries:**
+- Akayleb Evans (CB, Panthers) — triceps/knee; non-participant on Monday's practice estimate.
+- Devonte Wyatt (DT, Packers) — ankle; non-participant on Monday's practice estimate.
+- Christian McCaffrey (RB, 49ers) — hamstring strain (not a quad injury, per correction); team expects him ready following the Week 8 bye.
+
+**Status/designation changes:**
+- Thomas Incoom (LB, Panthers) — originally added Oct 18 as "out" for the Oct 25 game vs. the Buccaneers; WebSearch found he suffered the calf injury early in that game and was placed on injured reserve, out at least four games. Upgraded from low to mid severity.
+
+**Removals:**
+- Landon Dickerson (G, Eagles) — removed: activated from injured reserve ahead of Monday night's game against the Cowboys.
+- Jalyx Hunt (LB, Eagles) — removed: available for Monday's game against the Cowboys.
+- Jonathan Greenard (LB, Eagles) — removed: available for Monday's game against the Cowboys.
+- Elijah Mitchell (RB, Eagles) — removed: elevated from the practice squad for Monday night's game, contradicting the prior "out for the season" IR designation.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-27T14:35:22Z (current, <2h old at run start). Reviewed 44 active-status candidate rows and 11 new snapshot candidates at the six tracked positions; the 4 removals above carried explicit activation/availability/elevation language, while the rest carried only blank comments, stat recaps, or bare "active for [game]" language — insufficient under the standing policy (recurring playing-through-it cases: Jalen Ramsey, Craig Woodson, DeMarvion Overshown, George Holani, among others — all kept unchanged). Most new candidates were bare/suspension entries excluded as out of scope (C.J. Gardner-Johnson, Bills). D.J. Reed (CB, Lions), Evan Williams (S, Packers), Jackson Woodard (LB, Dolphins), and Carson Schwesinger (LB, Browns) remained unmatched again per the established rolling-log feed limitation; kept unchanged. Will Campbell (OT, Patriots), Jacob Monk (G, Packers), and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
