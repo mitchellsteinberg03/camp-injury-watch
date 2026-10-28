@@ -8485,3 +8485,15 @@ No new injuries, status changes, or removals at the six tracked positions this w
 **Removals:** None.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-27T20:44:37Z (current, <5h old at run start). Reviewed 40 active-status candidate rows and 10 new snapshot candidates at the six tracked positions; all active-status rows carried only blank comments, stat recaps, or bare "active for [game]" language, insufficient under the standing policy (recurring playing-through-it cases: Jalen Ramsey, Craig Woodson, DeMarvion Overshown, George Holani, among others — all kept unchanged), so no removals this run. Cam Taylor-Britt's snapshot entry carried no narrative comment beyond the "Injured Reserve" status itself; WebSearch found no corroborating Colts-specific report, but the IR designation itself is treated as an in-scope injury fact per the standing rule, so he was added as undisclosed. Most other new candidates were bare "questionable"/suspension entries excluded as out of scope (C.J. Gardner-Johnson, Bills). D.J. Reed (CB, Lions), Evan Williams (S, Packers), Jackson Woodard (LB, Dolphins), and Carson Schwesinger (LB, Browns) remained unmatched again per the established rolling-log feed limitation; kept unchanged. Will Campbell (OT, Patriots), Jacob Monk (G, Packers), and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
+
+
+## Oct 28, 2026, 12:10 PM ET
+
+**New injuries:** None.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Monroe Freeling (OT, Panthers) — removed: a separately-tracked Panthers row (Taylor Moton, fractured fibula) added Oct 25 states Freeling is starting at right tackle in Moton's place, confirming he's healthy.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-28T08:39:22Z (6–24h old at run start, ~7.5h — usable for reconciliation per the standing freshness rule, noted here). Reviewed 38 active-status candidate rows and 8 new snapshot candidates at the six tracked positions; all active-status rows carried only blank comments, stat recaps, or bare "active for [game]" language, insufficient under the standing policy, so the one removal above came from cross-referencing another dashboard row rather than the snapshot. New candidates were all bare/suspension entries excluded as out of scope (C.J. Gardner-Johnson, Bills). Colton Hood (CB, Giants), Jaylon Carlies (LB, Colts), Michael Jerrell (OT, Falcons), and Teven Jenkins (G, Browns) newly dropped out of the snapshot with stale references to the already-concluded Oct 25 games; WebSearch for each came back inconclusive (no clearance confirmed, no clear current-week confirmation either, one result appearing to conflate Carlies with an unrelated ankle/IR situation) — all four kept unchanged pending clearer evidence. D.J. Reed (CB, Lions), Jackson Woodard (LB, Dolphins), Will Campbell (OT, Patriots), Jacob Monk (G, Packers), and Jacory Croskey-Merritt (RB, Commanders, still on bye) also remained unmatched and were kept unchanged per established precedent.
