@@ -8472,3 +8472,16 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Elijah Mitchell (RB, Eagles) — removed: elevated from the practice squad for Monday night's game, contradicting the prior "out for the season" IR designation.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-27T14:35:22Z (current, <2h old at run start). Reviewed 44 active-status candidate rows and 11 new snapshot candidates at the six tracked positions; the 4 removals above carried explicit activation/availability/elevation language, while the rest carried only blank comments, stat recaps, or bare "active for [game]" language — insufficient under the standing policy (recurring playing-through-it cases: Jalen Ramsey, Craig Woodson, DeMarvion Overshown, George Holani, among others — all kept unchanged). Most new candidates were bare/suspension entries excluded as out of scope (C.J. Gardner-Johnson, Bills). D.J. Reed (CB, Lions), Evan Williams (S, Packers), Jackson Woodard (LB, Dolphins), and Carson Schwesinger (LB, Browns) remained unmatched again per the established rolling-log feed limitation; kept unchanged. Will Campbell (OT, Patriots), Jacob Monk (G, Packers), and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
+
+
+## Oct 27, 2026, 9:10 PM ET
+
+**New injuries:**
+- Cam Taylor-Britt (CB, Colts) — undisclosed; placed on injured reserve.
+- Dameon Pierce (RB, Eagles) — undisclosed; did not return for the final two possessions of Monday's loss to the Cowboys.
+
+**Status/designation changes:** None.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-27T20:44:37Z (current, <5h old at run start). Reviewed 40 active-status candidate rows and 10 new snapshot candidates at the six tracked positions; all active-status rows carried only blank comments, stat recaps, or bare "active for [game]" language, insufficient under the standing policy (recurring playing-through-it cases: Jalen Ramsey, Craig Woodson, DeMarvion Overshown, George Holani, among others — all kept unchanged), so no removals this run. Cam Taylor-Britt's snapshot entry carried no narrative comment beyond the "Injured Reserve" status itself; WebSearch found no corroborating Colts-specific report, but the IR designation itself is treated as an in-scope injury fact per the standing rule, so he was added as undisclosed. Most other new candidates were bare "questionable"/suspension entries excluded as out of scope (C.J. Gardner-Johnson, Bills). D.J. Reed (CB, Lions), Evan Williams (S, Packers), Jackson Woodard (LB, Dolphins), and Carson Schwesinger (LB, Browns) remained unmatched again per the established rolling-log feed limitation; kept unchanged. Will Campbell (OT, Patriots), Jacob Monk (G, Packers), and Jacory Croskey-Merritt (RB, Commanders, still on bye) kept unchanged per established precedent.
