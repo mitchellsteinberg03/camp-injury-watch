@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T05:54:58Z",
+  "timestamp": "2026-10-29T13:11:13Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -32294,7 +32294,7 @@
         },
         {
           "id": "644808",
-          "longComment": "Jackson, who hasn't played since Week 4, was able to practice in a limited fashion last week, so his upgrade to full participation Wednesday is a significant development ahead of Sunday's game against the Bills. Assuming he's able to maintain that level activity Thursday and Friday, Jackson has a chance to approach Week 8 action minus an injury designation.",
+          "longComment": "Jackson, who hasn't played since Week 4, was able to practice in a limited fashion last week, so his upgrade to full participation Wednesday is a significant development ahead of Sunday's game against the Bills. Assuming he's able to maintain that level of activity Thursday and Friday, Jackson has a chance to approach Week 8 action minus an injury designation.",
           "shortComment": "Jackson (ankle) was listed as a full participant in Wednesday's practice.",
           "status": "Questionable",
           "date": "2026-10-28T21:40Z",
@@ -32870,7 +32870,7 @@
                   "type": "news",
                   "date": "2026-10-28T21:40Z",
                   "headline": "Jackson (ankle) was listed as a full participant in Wednesday's practice.",
-                  "text": "Jackson, who hasn't played since Week 4, was able to practice in a limited fashion last week, so his upgrade to full participation Wednesday is a significant development ahead of Sunday's game against the Bills. Assuming he's able to maintain that level activity Thursday and Friday, Jackson has a chance to approach Week 8 action minus an injury designation.",
+                  "text": "Jackson, who hasn't played since Week 4, was able to practice in a limited fashion last week, so his upgrade to full participation Wednesday is a significant development ahead of Sunday's game against the Bills. Assuming he's able to maintain that level of activity Thursday and Friday, Jackson has a chance to approach Week 8 action minus an injury designation.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/3916387/injuries/644808?lang=en&region=us"
@@ -45669,11 +45669,11 @@
       "displayName": "Buffalo Bills",
       "injuries": [
         {
-          "id": "-2062902",
+          "id": "-2062968",
           "longComment": "reserve-sus",
           "shortComment": "reserve-sus",
           "status": "Suspension",
-          "date": "2026-10-29T05:01Z",
+          "date": "2026-10-29T12:00Z",
           "athlete": {
             "firstName": "C.J.",
             "lastName": "Gardner-Johnson",
@@ -46242,14 +46242,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2062902",
+                  "id": "-2062968",
                   "type": "news",
-                  "date": "2026-10-29T05:01Z",
+                  "date": "2026-10-29T12:00Z",
                   "headline": "reserve-sus",
                   "text": "reserve-sus",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4034953/injuries/-2062902?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4034953/injuries/-2062968?lang=en&region=us"
                   }
                 }
               ]
@@ -75991,11 +75991,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2062903",
+          "id": "-2062979",
           "longComment": "ir",
           "shortComment": "ir",
           "status": "Injured Reserve",
-          "date": "2026-10-29T05:01Z",
+          "date": "2026-10-29T13:00Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76564,14 +76564,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2062903",
+                  "id": "-2062979",
                   "type": "news",
-                  "date": "2026-10-29T05:01Z",
+                  "date": "2026-10-29T13:00Z",
                   "headline": "ir",
                   "text": "ir",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2062903?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2062979?lang=en&region=us"
                   }
                 }
               ]
@@ -108748,7 +108748,7 @@
         },
         {
           "id": "644820",
-          "longComment": "The rookie wide receiver duo of Denzel Boston and KC Concepcion, along with second-year tight end Harold Fannin, have dominated most of the targets from quarterback Deshaun Watson. Jeudy has been less involved offensively, although he's slight uptick in work as of late, accumulating 14 catches (on 18 targets) for 145 yards over his last four games. The 2020 first-rounder brings a veteran presence to the Browns' pass-catching group, but given his lower workload compared to his younger teammates in Cleveland, Jeudy could garner interest from a team who is in more need of depth at wide receiver.",
+          "longComment": "The rookie wide receiver duo of Denzel Boston and KC Concepcion, along with second-year tight end Harold Fannin, have dominated most of the targets from quarterback Deshaun Watson. Jeudy has been less involved offensively, although he's had a slight uptick in work of late, accumulating 14 catches (on 18 targets) for 145 yards over his last four games. The 2020 first-rounder brings a veteran presence to the Browns' pass-catching group, but given his lower workload compared to his younger teammates in Cleveland, Jeudy could garner interest from a team who is in more need of depth at wide receiver.",
           "shortComment": "NFL reporter Jordan Schultz reports that the Browns are currently \"less likely\" to trade Jeudy before the Nov. 10 deadline.",
           "status": "Active",
           "date": "2026-10-28T23:08Z",
@@ -109324,7 +109324,7 @@
                   "type": "news",
                   "date": "2026-10-28T23:08Z",
                   "headline": "NFL reporter Jordan Schultz reports that the Browns are currently \"less likely\" to trade Jeudy before the Nov. 10 deadline.",
-                  "text": "The rookie wide receiver duo of Denzel Boston and KC Concepcion, along with second-year tight end Harold Fannin, have dominated most of the targets from quarterback Deshaun Watson. Jeudy has been less involved offensively, although he's slight uptick in work as of late, accumulating 14 catches (on 18 targets) for 145 yards over his last four games. The 2020 first-rounder brings a veteran presence to the Browns' pass-catching group, but given his lower workload compared to his younger teammates in Cleveland, Jeudy could garner interest from a team who is in more need of depth at wide receiver.",
+                  "text": "The rookie wide receiver duo of Denzel Boston and KC Concepcion, along with second-year tight end Harold Fannin, have dominated most of the targets from quarterback Deshaun Watson. Jeudy has been less involved offensively, although he's had a slight uptick in work of late, accumulating 14 catches (on 18 targets) for 145 yards over his last four games. The 2020 first-rounder brings a veteran presence to the Browns' pass-catching group, but given his lower workload compared to his younger teammates in Cleveland, Jeudy could garner interest from a team who is in more need of depth at wide receiver.",
                   "source": "RotoWire"
                 }
               ]
@@ -228867,7 +228867,7 @@
         {
           "id": "644802",
           "longComment": "Wednesday marked Rice's first practice since suffering a hamstring injury in the Week 4 win against the Raiders. He was limited this time, so it's unclear if he'll be able to ramp up to full practices by the end of the week. Rice's progress through the remainder of the week will be an indicator of his status going into Week 8 against the Broncos. Even if he's not quite ready Sunday, a return to action looks to be on the horizon.",
-          "shortComment": "Rice (hamstring) was a limited participant Wednesday",
+          "shortComment": "Rice (hamstring) was a limited participant in practice Wednesday",
           "status": "Questionable",
           "date": "2026-10-28T21:13Z",
           "athlete": {
@@ -229441,7 +229441,7 @@
                   "id": "644802",
                   "type": "news",
                   "date": "2026-10-28T21:13Z",
-                  "headline": "Rice (hamstring) was a limited participant Wednesday",
+                  "headline": "Rice (hamstring) was a limited participant in practice Wednesday",
                   "text": "Wednesday marked Rice's first practice since suffering a hamstring injury in the Week 4 win against the Raiders. He was limited this time, so it's unclear if he'll be able to ramp up to full practices by the end of the week. Rice's progress through the remainder of the week will be an indicator of his status going into Week 8 against the Broncos. Even if he's not quite ready Sunday, a return to action looks to be on the horizon.",
                   "source": "RotoWire",
                   "injury": {
@@ -261610,7 +261610,7 @@
         },
         {
           "id": "644825",
-          "longComment": "Wednesday was Harris' first practice since he sustained a hamstring injury during the Chargers' Week 5 loss to the Broncos. He was unable to play in Week 6 against the Chiefs, but the second-year wide receiver had additional time to rest courtesy of the Chargers' Week 7 bye. It's possible he only misses one game, and he'll have two more chances to increase his practice participation and avoid an injury designation ahead of Sunday's contest against the Rams.",
+          "longComment": "Wednesday was Harris' first practice since he sustained a hamstring injury during the Chargers' Week 5 loss to the Broncos. He was unable to play in Week 6 against the Chiefs, but the second-year wide receiver had additional time to rest courtesy of the Chargers' Week 7 bye. It's possible he misses only one game, and he'll have two more chances to increase his practice participation and avoid an injury designation ahead of Sunday's contest against the Rams.",
           "shortComment": "Harris (hamstring) was a limited participant in Wednesday's practice.",
           "status": "Questionable",
           "date": "2026-10-28T23:13Z",
@@ -262186,7 +262186,7 @@
                   "type": "news",
                   "date": "2026-10-28T23:13Z",
                   "headline": "Harris (hamstring) was a limited participant in Wednesday's practice.",
-                  "text": "Wednesday was Harris' first practice since he sustained a hamstring injury during the Chargers' Week 5 loss to the Broncos. He was unable to play in Week 6 against the Chiefs, but the second-year wide receiver had additional time to rest courtesy of the Chargers' Week 7 bye. It's possible he only misses one game, and he'll have two more chances to increase his practice participation and avoid an injury designation ahead of Sunday's contest against the Rams.",
+                  "text": "Wednesday was Harris' first practice since he sustained a hamstring injury during the Chargers' Week 5 loss to the Broncos. He was unable to play in Week 6 against the Chiefs, but the second-year wide receiver had additional time to rest courtesy of the Chargers' Week 7 bye. It's possible he misses only one game, and he'll have two more chances to increase his practice participation and avoid an injury designation ahead of Sunday's contest against the Rams.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4686612/injuries/644825?lang=en&region=us"
@@ -262226,7 +262226,7 @@
         },
         {
           "id": "644815",
-          "longComment": "McConkey was dealing with a foot injury for multiple weeks before suffering a concussion in the Chargers' last game on Oct. 18. With the benefit of the team's Week 7 bye, he didn't endure any practice restrictions Wednesday and also ditched his previous foot issue. McConkey thus appears as if he only needs clearance from an independent neurologist in order to play Sunday against the Rams.",
+          "longComment": "McConkey was dealing with a foot injury for multiple weeks before suffering a concussion in the Chargers' last game Oct. 18. With the benefit of the team's Week 7 bye, he didn't endure any practice restrictions Wednesday and also ditched his previous foot issue. McConkey thus appears as if he only needs clearance from an independent neurologist in order to play Sunday against the Rams.",
           "shortComment": "McConkey (concussion) was a full participant in Wednesday's practice.",
           "status": "Questionable",
           "date": "2026-10-28T22:36Z",
@@ -262802,7 +262802,7 @@
                   "type": "news",
                   "date": "2026-10-28T22:36Z",
                   "headline": "McConkey (concussion) was a full participant in Wednesday's practice.",
-                  "text": "McConkey was dealing with a foot injury for multiple weeks before suffering a concussion in the Chargers' last game on Oct. 18. With the benefit of the team's Week 7 bye, he didn't endure any practice restrictions Wednesday and also ditched his previous foot issue. McConkey thus appears as if he only needs clearance from an independent neurologist in order to play Sunday against the Rams.",
+                  "text": "McConkey was dealing with a foot injury for multiple weeks before suffering a concussion in the Chargers' last game Oct. 18. With the benefit of the team's Week 7 bye, he didn't endure any practice restrictions Wednesday and also ditched his previous foot issue. McConkey thus appears as if he only needs clearance from an independent neurologist in order to play Sunday against the Rams.",
                   "source": "RotoWire",
                   "injury": {
                     "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4612826/injuries/644815?lang=en&region=us"
@@ -348836,7 +348836,7 @@
       "injuries": [
         {
           "id": "644824",
-          "longComment": "The Giants have their bye in Week 8, but Tracy will be required to miss at least four games with his injury, so it appears as if Singletary and Cam Skattebo (hamstring) will form the backfield duo with Tracy sidelined and Najee Harris recently released. Singletary scored the game-winning touchdown in overtime last Sunday against the Texans, finishing with 55 total yards and the touchdown on eight touches. If Skattebo is healthy, he figures to operate as the lead back, but Singletary showed enough to warrant 6-10 touches with upside for more. He's worth picking up in most fantasy leagues.",
+          "longComment": "The Giants have their bye in Week 8, but Tracy will be required to miss at least four games with his injury, so it appears Singletary and Cam Skattebo (hamstring) will form the backfield duo with Tracy sidelined and Najee Harris recently released. Singletary scored the game-winning touchdown in overtime last Sunday against the Texans, finishing with 55 total yards and the touchdown on eight touches. If Skattebo is healthy, he figures to operate as the lead back, but Singletary showed enough to warrant 6-to-10 touches with upside for more. He's worth picking up in most fantasy leagues.",
           "shortComment": "Singletary is expected to handle a bigger role out of the Giants' backfield after Tyrone Tracy (hamstring) was placed on injured reserve Tuesday, Jordan Raanan of ESPN.com reports.",
           "status": "Active",
           "date": "2026-10-28T23:13Z",
@@ -349412,7 +349412,7 @@
                   "type": "news",
                   "date": "2026-10-28T23:13Z",
                   "headline": "Singletary is expected to handle a bigger role out of the Giants' backfield after Tyrone Tracy (hamstring) was placed on injured reserve Tuesday, Jordan Raanan of ESPN.com reports.",
-                  "text": "The Giants have their bye in Week 8, but Tracy will be required to miss at least four games with his injury, so it appears as if Singletary and Cam Skattebo (hamstring) will form the backfield duo with Tracy sidelined and Najee Harris recently released. Singletary scored the game-winning touchdown in overtime last Sunday against the Texans, finishing with 55 total yards and the touchdown on eight touches. If Skattebo is healthy, he figures to operate as the lead back, but Singletary showed enough to warrant 6-10 touches with upside for more. He's worth picking up in most fantasy leagues.",
+                  "text": "The Giants have their bye in Week 8, but Tracy will be required to miss at least four games with his injury, so it appears Singletary and Cam Skattebo (hamstring) will form the backfield duo with Tracy sidelined and Najee Harris recently released. Singletary scored the game-winning touchdown in overtime last Sunday against the Texans, finishing with 55 total yards and the touchdown on eight touches. If Skattebo is healthy, he figures to operate as the lead back, but Singletary showed enough to warrant 6-to-10 touches with upside for more. He's worth picking up in most fantasy leagues.",
                   "source": "RotoWire"
                 }
               ]
