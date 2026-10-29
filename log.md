@@ -8514,3 +8514,18 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Jordon Riley (DT/NT, Packers) — removed: snapshot shows he was active and played in the Oct 25 game vs. the Lions, off Reserve/PUP.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-28T16:41:23Z (current, ~1.5h old at run start). This was the Wed 6 PM ET official practice/game-status report sweep; reviewed all target-position Questionable/Doubtful/Out/IR snapshot entries dated today plus an "Active"-status keyword scan (activated/returned/cleared language) across the full league-wide snapshot. Two bare "Questionable" entries tied to today's trade news — Jared Verse (DE, now Browns, acquired in the Myles Garrett deal) and David Bailey (LB, Jets) — carried no injury description beyond the status word itself and are not currently tracked rows, so both were excluded as out of scope per the uninformative-snapshot-entry rule; the Verse trade itself is roster news, not an injury fact, and was not logged. Anthony Johnson Jr. (S, Bears) reappeared in the snapshot as "Injured Reserve," matching his existing high-severity row exactly — no change. D.J. Reed (CB, Lions), Jackson Woodard (LB, Dolphins), Will Campbell (OT, Patriots), Jacory Croskey-Merritt (RB, Commanders, still on bye), Colton Hood (CB, Giants), Jaylon Carlies (LB, Colts), Michael Jerrell (OT, Falcons), and Teven Jenkins (G, Browns) remained unmatched in this snapshot and were kept unchanged per established precedent. NEW badges aged off (>24h) for Akayleb Evans (CB, Panthers), Devonte Wyatt (DT, Packers), and Christian McCaffrey (RB, 49ers), added in the Oct 27 12:10 PM sweep.
+
+
+## Oct 28, 2026, 9:10 PM ET
+
+**New injuries (Week 9 Wednesday practice reports):**
+- Jahmyr Gibbs (RB, Lions) — shoulder; did not practice Wednesday.
+- Dylan Sampson (RB, Browns) — knee; limited participant in Wednesday's practice.
+- Braelon Allen (RB, Jets) — ankle; limited participant in Wednesday's practice.
+- Kenny Gainwell (RB, Buccaneers) — hip, sustained in the Oct 25 game vs. the Panthers; held out of Wednesday's practice.
+
+**Status/designation changes:** None.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-28T22:39:26Z (current, <3h old at run start). Reviewed 40 active-status candidate rows and 56 new snapshot candidates at the six tracked positions; all active-status rows carried only blank comments, stat recaps, or bare "active for [game]" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, Craig Woodson, George Holani, Jaylen Wright, among dozens of others — all kept unchanged), so no removals this run. Most new candidates were bare "questionable"/"out"/suspension entries with no injury description, or pure stat recaps (Kyle Hamilton, Roquan Smith, Caleb Downs, Yaya Diaby, Josiah Trotter), and were excluded. C.J. Henderson (CB, Falcons), Denzel Ward (CB, Browns), Myles Harden (CB, Browns), Za'Darius Smith (DE, Falcons), Michael Jerrell (OT, Falcons), Tytus Howard (OT, Browns), Teven Jenkins (G, Browns), and Jonah Savaiinaea (G, Dolphins) are newly or still unmatched with stale references to the already-concluded Oct 25 games; kept unchanged per the established rolling-log feed limitation. D.J. Reed (CB, Lions), Colton Hood (CB, Giants), Jackson Woodard (LB, Dolphins), Jaylon Carlies (LB, Colts), Will Campbell (OT, Patriots), and Jacory Croskey-Merritt (RB, Commanders, still on bye) also remained unmatched and were kept unchanged per established precedent.
