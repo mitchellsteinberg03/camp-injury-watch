@@ -8529,3 +8529,32 @@ No new injuries, status changes, or removals at the six tracked positions this w
 **Removals:** None.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-28T22:39:26Z (current, <3h old at run start). Reviewed 40 active-status candidate rows and 56 new snapshot candidates at the six tracked positions; all active-status rows carried only blank comments, stat recaps, or bare "active for [game]" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, Craig Woodson, George Holani, Jaylen Wright, among dozens of others — all kept unchanged), so no removals this run. Most new candidates were bare "questionable"/"out"/suspension entries with no injury description, or pure stat recaps (Kyle Hamilton, Roquan Smith, Caleb Downs, Yaya Diaby, Josiah Trotter), and were excluded. C.J. Henderson (CB, Falcons), Denzel Ward (CB, Browns), Myles Harden (CB, Browns), Za'Darius Smith (DE, Falcons), Michael Jerrell (OT, Falcons), Tytus Howard (OT, Browns), Teven Jenkins (G, Browns), and Jonah Savaiinaea (G, Dolphins) are newly or still unmatched with stale references to the already-concluded Oct 25 games; kept unchanged per the established rolling-log feed limitation. D.J. Reed (CB, Lions), Colton Hood (CB, Giants), Jackson Woodard (LB, Dolphins), Jaylon Carlies (LB, Colts), Will Campbell (OT, Patriots), and Jacory Croskey-Merritt (RB, Commanders, still on bye) also remained unmatched and were kept unchanged per established precedent.
+
+
+## Oct 29, 2026, 12:30 PM ET
+
+**New injuries (Week 9 Wednesday practice/injury reports):**
+- Mack Wilson Sr. (LB, Cardinals) — knee; did not participate at practice Wednesday.
+- Tyler Allgeier (RB, Cardinals) — toe; did not practice Wednesday.
+- Roquan Smith (LB, Ravens) — knee; did not practice Wednesday.
+- Kyle Hamilton (S, Ravens) — knee; did not practice Wednesday.
+- Torricelli Simpkins III (G, Panthers) — ankle; ruled out for Thursday's game against the Packers.
+- Damien Lewis (G, Panthers) — knee; ruled out for Thursday's game against the Packers.
+- Jared Verse (DE, Browns) — knee; did not participate at practice Wednesday.
+- Quinnen Williams (DT, Cowboys) — hamstring; limited participant in Wednesday's practice.
+- Caleb Downs (S, Cowboys) — ankle; limited participant in Wednesday's practice.
+- Travis Glover (OT, Packers) — knee; won't play in Thursday's game vs. the Panthers.
+- Deane Leonard (CB, Chargers) — concussion; did not participate in Wednesday's practice.
+- Kadyn Proctor (OT, Dolphins) — concussion, sustained in Sunday's game against the Jets.
+- JuJu Brents (CB, Dolphins) — neck/concussion; did not practice Wednesday.
+- David Bailey (LB, Jets) — groin; did not practice Wednesday.
+- Jihaad Campbell (LB, Eagles) — hamstring/quadriceps; did not participate in Wednesday's walkthrough.
+- Josiah Trotter (LB, Buccaneers) — illness; did not practice Wednesday.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Bud Dupree (LB, Chargers) — removed: off the Chargers' injury report ahead of Sunday's game vs. the Rams.
+- Joe Alt (OT, Chargers) — removed: was not listed on the Chargers' official injury report Wednesday.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-29T13:11:19Z (current, <3h old at run start). Reviewed 40 active-status candidate rows and 62 new snapshot candidates at the six tracked positions; the 2 removals above carried explicit "off/not listed on the injury report" language, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, Craig Woodson, George Holani, Jaylen Wright, among dozens of others — all kept unchanged). Most other new candidates were bare "questionable"/suspension entries excluded as out of scope (C.J. Gardner-Johnson, Bills). D.J. Reed (CB, Lions), Colton Hood (CB, Giants), C.J. Henderson (CB, Falcons), Denzel Ward (CB, Browns), Jackson Woodard (LB, Dolphins), Jaylon Carlies (LB, Colts), Landon Jackson (DE, Bills), Javontae Jean-Baptiste (LB, Commanders), Za'Darius Smith (DE, Falcons), Will Campbell (OT, Patriots), Michael Jerrell (OT, Falcons), Teven Jenkins (G, Browns), Jonah Savaiinaea (G, Dolphins), and Jacory Croskey-Merritt (RB, Commanders, still on bye) remained unmatched again, consistent with the established rolling-log feed limitation; all kept unchanged.
