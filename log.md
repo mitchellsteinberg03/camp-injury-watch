@@ -8594,3 +8594,18 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Braelon Allen (RB, Jets) — removed: shed all limitations at Thursday's practice; should be good to go for Sunday's game.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-29T23:58:06Z (current, <1h old at run start). Reviewed 47 active-status candidate rows and 50 new snapshot candidates at the six tracked positions; the 2 removals above carried explicit unhedged clearance language in their full comment text ("in the clear," "shed all limitations"), while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, Craig Woodson, George Holani, Jaylen Wright, among dozens of others — all kept unchanged). Most other new candidates were bare "questionable"/"inactive"/suspension entries excluded as out of scope (C.J. Gardner-Johnson, Bills; Kaleb Johnson, coach's decision, Packers). D.J. Reed (CB, Lions), Tyler Owens (S, Commanders), Colton Hood (CB, Giants), Denzel Ward (CB, Browns), Jackson Woodard (LB, Dolphins), Jaylon Carlies (LB, Colts), Landon Jackson (DE, Bills), Javontae Jean-Baptiste (LB, Commanders), Za'Darius Smith (DE, Falcons), Will Campbell (OT, Patriots), Michael Jerrell (OT, Falcons), Teven Jenkins (G, Browns), Jonah Savaiinaea (G, Dolphins), Velus Jones Jr. (RB, Seahawks), and Jacory Croskey-Merritt (RB, Commanders, still on bye) remained unmatched again, consistent with the established rolling-log feed limitation; all kept unchanged.
+
+
+## Oct 30, 2026, 12:25 PM ET
+
+**New injuries:**
+- Will Lee III (CB, Panthers) — hamstring; doubtful to return to Thursday's game against the Packers.
+- Tyrice Knight (LB, Seahawks) — hip; limited participant at Thursday's practice.
+- Leonard Williams (DT, Seahawks) — Achilles; limited participant at Thursday's practice.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Jahmyr Gibbs (RB, Lions) — removed: returned to all practice activity Thursday, issue "isn't a significant one," expected to handle his typical workload Sunday.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-30T13:03:27Z (current, <4h old at run start). Reviewed 44 active-status candidate rows and 46 new snapshot candidates at the six tracked positions; the removal above carried explicit unhedged language in its full comment text ("returned to all activity," "isn't a significant one"), while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, Craig Woodson, George Holani, Jaylen Wright, among dozens of others — all kept unchanged). Most new candidates were bare "questionable"/"out"/suspension entries excluded as out of scope (C.J. Gardner-Johnson, Bills; Kaleb Johnson, coach's decision, Packers). D.J. Reed (CB, Lions), Tyler Owens (S, Commanders), Alijah Clark (S, Cowboys), Colton Hood (CB, Giants), Denzel Ward (CB, Browns), Jackson Woodard (LB, Dolphins), Jaylon Carlies (LB, Colts), Landon Jackson (DE, Bills), Javontae Jean-Baptiste (LB, Commanders), Za'Darius Smith (DE, Falcons), Will Campbell (OT, Patriots), Michael Jerrell (OT, Falcons), Teven Jenkins (G, Browns), Jonah Savaiinaea (G, Dolphins), and Jacory Croskey-Merritt (RB, Commanders, still on bye) remained unmatched again, consistent with the established rolling-log feed limitation; all kept unchanged.
