@@ -8609,3 +8609,25 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Jahmyr Gibbs (RB, Lions) — removed: returned to all practice activity Thursday, issue "isn't a significant one," expected to handle his typical workload Sunday.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-30T13:03:27Z (current, <4h old at run start). Reviewed 44 active-status candidate rows and 46 new snapshot candidates at the six tracked positions; the removal above carried explicit unhedged language in its full comment text ("returned to all activity," "isn't a significant one"), while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, Craig Woodson, George Holani, Jaylen Wright, among dozens of others — all kept unchanged). Most new candidates were bare "questionable"/"out"/suspension entries excluded as out of scope (C.J. Gardner-Johnson, Bills; Kaleb Johnson, coach's decision, Packers). D.J. Reed (CB, Lions), Tyler Owens (S, Commanders), Alijah Clark (S, Cowboys), Colton Hood (CB, Giants), Denzel Ward (CB, Browns), Jackson Woodard (LB, Dolphins), Jaylon Carlies (LB, Colts), Landon Jackson (DE, Bills), Javontae Jean-Baptiste (LB, Commanders), Za'Darius Smith (DE, Falcons), Will Campbell (OT, Patriots), Michael Jerrell (OT, Falcons), Teven Jenkins (G, Browns), Jonah Savaiinaea (G, Dolphins), and Jacory Croskey-Merritt (RB, Commanders, still on bye) remained unmatched again, consistent with the established rolling-log feed limitation; all kept unchanged.
+
+
+## Oct 30, 2026, 6:10 PM ET
+
+**New injuries:** None at the six tracked positions this window.
+
+**Status/designation changes:**
+- Brian Robinson Jr. (RB, Falcons) — hamstring; out for a second straight game (Nov 1 vs. Buccaneers) after five consecutive non-participant injury reports.
+- Jeremiyah Love (RB, Cardinals) — ankle; back at practice this week on a limited basis after a two-game absence; Friday designation pending for the Nov 1 game at Dallas.
+- Saquon Barkley (RB, Eagles) — hamstring/back; returned to practice Friday, has a chance to play Sunday night, expected to carry a questionable designation.
+- Kenny Gainwell (RB, Buccaneers) — hip; progressed to a full practice Friday but will still carry a questionable designation for Sunday at Atlanta.
+- Walter Nolen III (DT, Cardinals) — ankle; out for Sunday's Nov 1 game at Dallas (stale Oct 25 reference updated).
+- Jon Gaines II (G, Cardinals) — knee; out for Sunday's Nov 1 game at Dallas (stale Oct 25 reference updated).
+- Max Mitchell (OT, Jets) — concussion; upgraded from questionable to out for Sunday's Nov 1 game vs. the Raiders.
+- T'Vondre Sweat (DT, Jets) — knee; upgraded from doubtful to out for Sunday's Nov 1 game vs. the Raiders.
+- Joseph Ossai (LB/DE, Jets) — ankle; upgraded from doubtful to out for Sunday's Nov 1 game vs. the Raiders.
+- David Bailey (LB, Jets) — groin; now doubtful for Sunday's Nov 1 game vs. the Raiders.
+
+**Removals:**
+- Aaron Jones Sr. (RB, Vikings) — removed: snapshot comment says he's "good to go" for Sunday's game and will handle his normal role splitting carries with Jordan Mason — unhedged clearance language.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-30T19:26:37Z (current, <3h old at run start). Reviewed 36 snapshot candidates dated since the 12:25 PM ET sweep (16:25–19:26 UTC window) at the six tracked positions: 1 removal and 9 rows updated as above; the rest excluded as bare "active"/"questionable"/"out" status words with no injury description (LaCale London, C.J. Henderson, Kendal Daniels, Jawaan Taylor, Cameron Thomas — Falcons; Jared Verse, Mike Hall Jr., Grant Delpit, Mason Graham, Carson Schwesinger — Browns; Ray Davis, Bradley Chubb, Joe Andreessen — Bills; Jaylon Moore — Chiefs; John Simpson — Ravens; Alex Highsmith — Steelers; Jay Ward — Vikings; Doneiko Slaughter — Steelers; R Mason Thomas — Chiefs; Greg Gaines — Bills) or non-injury (C.J. Gardner-Johnson, Bills, suspension). Javon Kinlaw (DT, Commanders), Isiah Pacheco (RB, Lions), Brandin Echols (CB, Steelers), and Anthony Johnson Jr. (S, Bears) appeared in the window with bare or matching comments that added no new detail beyond their existing rows; kept unchanged. WebSearch for breaking news in the window returned no current-week results (index lag), surfacing nothing beyond the snapshot.
