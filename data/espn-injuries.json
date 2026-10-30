@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T05:55:57Z",
+  "timestamp": "2026-10-30T13:03:18Z",
   "status": "success",
   "season": {
     "year": 2026,
@@ -45665,11 +45665,11 @@
       "displayName": "Buffalo Bills",
       "injuries": [
         {
-          "id": "-2064068",
+          "id": "-2064143",
           "longComment": "reserve-sus",
           "shortComment": "reserve-sus",
           "status": "Suspension",
-          "date": "2026-10-30T05:00Z",
+          "date": "2026-10-30T13:00Z",
           "athlete": {
             "firstName": "C.J.",
             "lastName": "Gardner-Johnson",
@@ -46238,14 +46238,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2064068",
+                  "id": "-2064143",
                   "type": "news",
-                  "date": "2026-10-30T05:00Z",
+                  "date": "2026-10-30T13:00Z",
                   "headline": "reserve-sus",
                   "text": "reserve-sus",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4034953/injuries/-2064068?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4034953/injuries/-2064143?lang=en&region=us"
                   }
                 }
               ]
@@ -76069,11 +76069,11 @@
       "displayName": "Chicago Bears",
       "injuries": [
         {
-          "id": "-2064069",
+          "id": "-2064135",
           "longComment": "ir",
           "shortComment": "ir",
           "status": "Injured Reserve",
-          "date": "2026-10-30T05:00Z",
+          "date": "2026-10-30T12:00Z",
           "athlete": {
             "firstName": "Anthony",
             "lastName": "Johnson Jr.",
@@ -76642,14 +76642,14 @@
             "notes": {
               "items": [
                 {
-                  "id": "-2064069",
+                  "id": "-2064135",
                   "type": "news",
-                  "date": "2026-10-30T05:00Z",
+                  "date": "2026-10-30T12:00Z",
                   "headline": "ir",
                   "text": "ir",
                   "source": "RotoWire",
                   "injury": {
-                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2064069?lang=en&region=us"
+                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/football/leagues/nfl/seasons/2026/athletes/4361748/injuries/-2064135?lang=en&region=us"
                   }
                 }
               ]
@@ -76674,8 +76674,8 @@
           },
           "details": {
             "fantasyStatus": {
-              "description": "IR",
-              "abbreviation": "IR"
+              "description": "OUT",
+              "abbreviation": "OUT"
             },
             "type": "Undisclosed",
             "location": "Other",
@@ -167636,7 +167636,7 @@
         },
         {
           "id": "645056",
-          "longComment": "Smack's evening began poorly, as he clanged the extra-point attempt off the right upright following Green Bay's first touchdown of the game midway through the first quarter. However, the rookie kicker recovered to make his other three PATs. Still, the missed kick may have put Smack on even thinner ice, and his struggles likely contributed to Green Bay's decision to punt on a fourth-down play from the Panthers' 37-yard line while up eight points late in the fourth period rather than letting him attempt a 54-yard field goal that would have essentially iced the game. On the season, Smack has made 11 of 16 FGAs and 16 of 19 extra points.",
+          "longComment": "Smack's evening began poorly, as he clanged the extra-point attempt off the left upright following Green Bay's first touchdown of the game midway through the first quarter. However, the rookie kicker recovered to make his other three PATs. Still, the missed kick may have put Smack on even thinner ice, and his struggles likely contributed to Green Bay's decision to punt on a fourth-down play from the Panthers' 37-yard line while up eight points late in the fourth period rather than letting him attempt a 54-yard field goal that would have essentially iced the game. On the season, Smack has made 11 of 16 FGAs and 16 of 19 extra points.",
           "shortComment": "Smack converted three of four extra-point tries and didn't attempt a field goal Thursday in a 27-19 win over Carolina.",
           "status": "Active",
           "date": "2026-10-30T04:34Z",
@@ -168212,7 +168212,7 @@
                   "type": "news",
                   "date": "2026-10-30T04:34Z",
                   "headline": "Smack converted three of four extra-point tries and didn't attempt a field goal Thursday in a 27-19 win over Carolina.",
-                  "text": "Smack's evening began poorly, as he clanged the extra-point attempt off the right upright following Green Bay's first touchdown of the game midway through the first quarter. However, the rookie kicker recovered to make his other three PATs. Still, the missed kick may have put Smack on even thinner ice, and his struggles likely contributed to Green Bay's decision to punt on a fourth-down play from the Panthers' 37-yard line while up eight points late in the fourth period rather than letting him attempt a 54-yard field goal that would have essentially iced the game. On the season, Smack has made 11 of 16 FGAs and 16 of 19 extra points.",
+                  "text": "Smack's evening began poorly, as he clanged the extra-point attempt off the left upright following Green Bay's first touchdown of the game midway through the first quarter. However, the rookie kicker recovered to make his other three PATs. Still, the missed kick may have put Smack on even thinner ice, and his struggles likely contributed to Green Bay's decision to punt on a fourth-down play from the Panthers' 37-yard line while up eight points late in the fourth period rather than letting him attempt a 54-yard field goal that would have essentially iced the game. On the season, Smack has made 11 of 16 FGAs and 16 of 19 extra points.",
                   "source": "RotoWire"
                 }
               ]
