@@ -8644,3 +8644,24 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - C.J. Henderson (CB, Falcons), Kyle Hamilton (S, Ravens), A.J. Terrell Jr. (CB, Falcons), Kendal Daniels (LB, Falcons), Jared Verse (DE, Browns), Saquon Barkley (RB, Eagles), Jeremiyah Love (RB, Cardinals), Tyler Allgeier (RB, Cardinals), Ray Davis (RB, Bills), LeQuint Allen Jr. (RB, Jaguars) — all removed: each carried an explicit "does not have/carry an injury designation" (or equivalent) comment for Sunday's game in the snapshot.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-30T23:52:07Z (current, <1h old at run start). Reviewed 69 active-status candidate rows and 30 new snapshot candidates at the six tracked positions; the 10 removals above all cleared the explicit-confirmation bar, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active"/"limited" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, Craig Woodson, George Holani, Jaylen Wright, among dozens of others — all kept unchanged). Most new candidates were bare "questionable"/"out"/suspension entries excluded as out of scope (C.J. Gardner-Johnson, Bills; Kaleb Johnson, coach's decision, Packers). D.J. Reed (CB, Lions), Tyler Owens (S, Commanders), Alijah Clark (S, Cowboys), Colton Hood (CB, Giants), Denzel Ward (CB, Browns), Jackson Woodard (LB, Dolphins), Jaylon Carlies (LB, Colts), Landon Jackson (DE, Bills), Javontae Jean-Baptiste (LB, Commanders), Za'Darius Smith (DE, Falcons), Will Campbell (OT, Patriots), Michael Jerrell (OT, Falcons), Teven Jenkins (G, Browns), Jonah Savaiinaea (G, Dolphins), and Jacory Croskey-Merritt (RB, Commanders, still on bye) remained unmatched again, consistent with the established rolling-log feed limitation; all kept unchanged.
+
+
+## Oct 31, 2026, 12:10 PM ET
+
+**New injuries (Week 8 Sunday prep):**
+- Daniel Thomas (S, Browns) — ankle; questionable for Sunday's game against the Steelers.
+- Brandon Jones (S, Broncos) — hamstring; questionable for Sunday's game against the Chiefs.
+- Roger McCreary (CB, Lions) — foot; questionable for Sunday's game against the Vikings.
+- Doneiko Slaughter (CB, Steelers) — hamstring; ruled out for Sunday's game against the Browns.
+- Christian Elliss (LB, Patriots) — chest; questionable for Sunday's game against the Dolphins (re-added after an earlier clearance).
+- John Franklin-Myers (DE, Titans) — groin; questionable for Sunday's game against the Bengals.
+- Kenny Clark (DT, Cowboys) — back; questionable for Sunday's game against the Cardinals.
+- Byron Murphy II (DT, Seahawks) — back; limited participant in Friday's practice.
+- Daron Payne (DT, Commanders) — foot; ruled out for Sunday's game against the Eagles.
+
+**Status/designation changes:** None.
+
+**Removals (explicit "no designation" language):**
+- Michael Carter II (CB, Eagles), Ennis Rakestraw Jr. (CB, Lions), Caleb Downs (S, Cowboys), Nolan Smith Jr. (LB, Eagles), Nate Landman (LB, Rams), Mack Wilson Sr. (LB, Cardinals), Mike Hall Jr. (DT, Browns), Jaylon Moore (OT, Chiefs), Quinnen Williams (DT, Cowboys) — all removed: each carried an explicit "does not have/carry a(n) (game/injury) designation" comment (or, for Williams, "is set to play") for Sunday's game in the snapshot.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-10-31T12:42:06Z (current, <1h old at run start). Reviewed 58 active-status candidate rows and 29 new snapshot candidates at the six tracked positions; the 9 removals above all cleared the explicit-confirmation bar, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, Craig Woodson, George Holani, Jaylen Wright, among dozens of others — all kept unchanged). Most new candidates were bare "questionable"/suspension/coach's-decision entries excluded as out of scope (C.J. Gardner-Johnson, Bills; Kaleb Johnson, coach's decision, Packers). D.J. Reed (CB, Lions), Tyler Owens (S, Commanders), Alijah Clark (S, Cowboys), Colton Hood (CB, Giants), Denzel Ward (CB, Browns), Robert Beal Jr. (DE, Dolphins), Jackson Woodard (LB, Dolphins), Jaylon Carlies (LB, Colts), Landon Jackson (DE, Bills), Javontae Jean-Baptiste (LB, Commanders), Za'Darius Smith (DE, Falcons), Will Campbell (OT, Patriots), Michael Jerrell (OT, Falcons), Teven Jenkins (G, Browns), Jonah Savaiinaea (G, Dolphins), and Jacory Croskey-Merritt (RB, Commanders, still on bye) remained unmatched again, consistent with the established rolling-log feed limitation; all kept unchanged.
