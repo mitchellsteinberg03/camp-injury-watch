@@ -8679,3 +8679,20 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Zach Charbonnet (RB, Seahawks) — removed: does not carry an injury designation into Monday's game against the Bears (activated off Reserve/PUP earlier in the week).
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-10-31T23:25:43Z (current, <2h old at run start). Reviewed 54 active-status candidate rows and 19 new snapshot candidates at the six tracked positions; the 2 removals above carried explicit "no injury designation" language, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, Craig Woodson, George Holani, Jaylen Wright, among dozens of others — all kept unchanged). Most new candidates were bare "questionable"/suspension/coach's-decision entries excluded as out of scope (C.J. Gardner-Johnson, Bills; Kaleb Johnson, coach's decision, Packers). D.J. Reed (CB, Lions), Tyler Owens (S, Commanders), Alijah Clark (S, Cowboys), Colton Hood (CB, Giants), Denzel Ward (CB, Browns), Robert Beal Jr. (DE, Dolphins), Jackson Woodard (LB, Dolphins), Jaylon Carlies (LB, Colts), Landon Jackson (DE, Bills), Javontae Jean-Baptiste (LB, Commanders), Za'Darius Smith (DE, Falcons), Will Campbell (OT, Patriots), Michael Jerrell (OT, Falcons), Teven Jenkins (G, Browns), Jonah Savaiinaea (G, Dolphins), and Jacory Croskey-Merritt (RB, Commanders, still on bye) remained unmatched again, consistent with the established rolling-log feed limitation; all kept unchanged.
+
+
+## Nov 1, 2026, 11:10 AM ET
+
+**New injuries:** None.
+
+**Status/designation changes:** None.
+
+**Removals (explicit "no injury designation" language):**
+- Jack Sanborn (LB, Bears) — removed: does not carry an injury designation into Monday's game against the Seahawks.
+- Tyrice Knight (LB, Seahawks) — removed: doesn't have an injury designation for Monday's game against the Bears.
+- Byron Murphy II (DT, Seahawks) — removed: does not have an injury designation for Monday's game against the Bears.
+- Tytus Howard (OT, Browns) — removed: cleared the concussion protocol, doesn't carry an injury designation into Sunday's game against the Steelers.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-01T13:37:37Z (current, <3h old at run start). Reviewed 51 active-status candidate rows and 18 new snapshot candidates at the six tracked positions; the 4 removals above all cleared the explicit-confirmation bar, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, George Holani, Jaylen Wright, among dozens of others — all kept unchanged). All new candidates were bare "questionable"/suspension/coach's-decision entries excluded as out of scope (C.J. Gardner-Johnson, Bills; Kaleb Johnson, coach's decision, Packers). D.J. Reed (CB, Lions), Tyler Owens (S, Commanders), Alijah Clark (S, Cowboys), Colton Hood (CB, Giants), Craig Woodson (S, Patriots), Denzel Ward (CB, Browns), Robert Beal Jr. (DE, Dolphins), Jackson Woodard (LB, Dolphins), Jaylon Carlies (LB, Colts), Landon Jackson (DE, Bills), Javontae Jean-Baptiste (LB, Commanders), Za'Darius Smith (DE, Falcons), Will Campbell (OT, Patriots), Michael Jerrell (OT, Falcons), Teven Jenkins (G, Browns), Jonah Savaiinaea (G, Dolphins), and Jacory Croskey-Merritt (RB, Commanders, still on bye) remained unmatched again, consistent with the established rolling-log feed limitation; all kept unchanged.
+
+**Note:** Daylight saving time ended today (Nov 1, 2026) — Eastern Time has switched from EDT (UTC-4) to EST (UTC-5). All timestamps from this sweep onward use the -05:00 offset until DST resumes in March 2027. The 24h NEW-badge aging check was computed by converting each row's stored offset to its true UTC instant before comparing, so badges added under the old -04:00 offset still age off correctly relative to the new -05:00 "now."
