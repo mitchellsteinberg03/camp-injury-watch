@@ -8712,3 +8712,41 @@ No new injuries, status changes, or removals at the six tracked positions this w
 **NEW badges aged off (>24h):** Daniel Thomas, Brandon Jones, Roger McCreary, Doneiko Slaughter, Christian Elliss, John Franklin-Myers, Kenny Clark, Daron Payne — all added at the Oct 31, 12:10 PM sweep, now past the 24h window.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-01T18:58:04Z (current, ~2h old at run start). Diffed snapshot entries dated since the 11:10 AM sweep (91 entries at the six tracked positions, mostly bare 1 PM ET game-day "inactive" designations for players already tracked or excluded as non-injury coach's decisions) against all 458 pre-run dashboard rows. Only 3 untracked players carried a real injury description (the 3 additions above); C.J. Gardner-Johnson (Bills S) also appeared but was excluded as a suspension, not an injury. WebSearch for breaking in-game injury news this window surfaced two unverifiable leads — a reported Cade Mays (Lions) ankle injury and a reported Jeremiyah Love (Cardinals RB) ankle re-injury against the Cowboys — but follow-up searches returned only recycled articles from other seasons/teams (Mays conflated with a Panthers center of the same name; Love conflated with his August/September ankle history) with no independent corroboration, and neither appears in the ESPN snapshot taken after the alleged incidents. Per the standing anti-fabrication policy, both were treated as unreliable and not added; worth rechecking next sweep if corroborating reports surface. Circuit breaker: not applicable — 0 removals this run.
+
+
+## Nov 1, 2026, 9:10 PM ET
+
+**New injuries (Week 8 Sunday in-game injuries):**
+- Jeremiyah Love (RB, Cardinals) — ankle; ruled out for the rest of Sunday's game against the Cowboys.
+- Jayden Williams (OT, Cardinals) — knee; ruled out for the rest of Sunday's game against the Cowboys.
+- Bam Knight (RB, Cardinals) — concussion; ruled out for the rest of Sunday's game against the Cowboys.
+- Samson Ebukam (DE, Falcons) — hamstring; doubtful to return to Sunday's game against the Buccaneers.
+- Nate Wiggins (CB, Ravens) — stinger, being evaluated for a possible concussion; questionable to return to Sunday's game against the Bills.
+- Cashius Howell (DE, Bengals) — wrist; ruled out for the rest of Sunday's game against the Titans.
+- Cedric Johnson (DE, Bengals) — ankle; ruled out for the rest of Sunday's game against the Falcons.
+- DJ Turner II (CB, Bengals) — ankle; ruled out for the rest of Sunday's game against the Titans.
+- Caleb Downs (S, Cowboys) — concussion, being evaluated; ruled out for the rest of Sunday's game against the Cardinals.
+- Kris Abrams-Draine (CB, Broncos) — ankle; questionable to return to Sunday's game against the Chiefs.
+- Jimmy Rolder (LB, Lions) — hamstring, sustained in the third quarter; did not return to Sunday's game against the Vikings.
+- Jack Campbell (LB, Lions) — neck; taken to a local Detroit hospital for evaluation after Sunday's game against the Vikings.
+- Jacob Saylors (RB, Lions) — neck; ruled out for the rest of Sunday's game against the Vikings.
+- Brian Branch (S, Lions) — concussion; ruled out for the rest of Sunday's game against the Vikings.
+- DJ Wonnum (LB, Lions) — concussion; ruled out for the rest of Sunday's game against the Vikings.
+- Travon Walker (DE, Jaguars) — ribs; questionable to return to Sunday's game against the Colts.
+- DaVon Hamilton (DT, Jaguars) — knee; won't return to Sunday's game against the Colts.
+- Peter Woods (DT, Chiefs) — neck; questionable to return to Sunday's game against the Broncos.
+- Jaylen Watson (CB, Rams) — shoulder; ruled out for the rest of Sunday's game against the Chargers.
+- Malik Herring (DE, Dolphins) — neck; questionable to return to Sunday's game against the Patriots.
+- Theo Jackson (S, Vikings) — quadriceps; ruled out for the rest of Sunday's game against the Lions.
+- Yaya Diaby (LB, Buccaneers) — knee; won't return to Sunday's game against the Falcons.
+- Peter Skoronski (G, Titans) — hamstring; questionable to return to Sunday's game against the Bengals.
+- JC Latham (OT, Titans) — finger; questionable to return to Sunday's game against the Bengals.
+- James Williams Sr. (LB, Titans) — groin; ruled out for the rest of Sunday's game against the Bengals.
+- Marcus Harris (CB, Titans) — ankle; ruled out for the rest of Sunday's game against the Bengals.
+- Jaylon Jones (CB, Titans) — knee; inactive for Sunday's game against the Bengals.
+
+**Status/designation changes:** None.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-01T23:39:34Z (current, <2h old at run start). This was an unusually heavy Sunday in-game injury window (98 new snapshot candidates at the six tracked positions) across early and late slates; the 27 additions above all carried real injury descriptions, while dozens of bare "inactive"/"out" gameday-roster entries and coach's-decision inactives (Kaleb Johnson, Packers) were excluded as out of scope, along with C.J. Gardner-Johnson (suspension, Bills). Reviewed 59 active-status candidate rows; all carried only "active for [game]"/full-participant/blank/stat-recap language, insufficient under the standing policy, so no removals this run. Kenny Gainwell (RB, Buccaneers) is confirmed active but the snapshot explicitly notes he "may not be at 100 percent" — kept unchanged as playing through it, not cleared. The remaining established recurring unmatched set (Tyler Owens, Alijah Clark, Colton Hood, Tony Adams, Craig Woodson, Denzel Ward, Kiko Mauigoa, Robert Beal Jr., Jackson Woodard, Jaylon Carlies, Landon Jackson, Javontae Jean-Baptiste, Tavius Robinson, Za'Darius Smith, Tyler Guyton, Will Campbell, Michael Jerrell, Teven Jenkins, Ben Bartch, Jonah Savaiinaea, Alijah Vera-Tucker, Brashard Smith, and Jacory Croskey-Merritt, still on bye) remained unmatched again, consistent with the rolling-log feed limitation; all kept unchanged.
