@@ -8770,3 +8770,24 @@ No new injuries, status changes, or removals at the six tracked positions this w
 ## Nov 2, 2026, 8:10 PM ET
 
 No new injuries, status changes, or removals at the six tracked positions this window. Snapshot fetched 2026-11-02T18:28:12Z (6–24h old at run start, ~6.6h — usable for reconciliation per the standing freshness rule, noted here) carried only bare "inactive"/suspension/coach's-decision entries at the tracked positions and all 57 active-status candidate rows carried only "active for [game]"/full-participant/blank/stat-recap language, insufficient under the standing policy. The established recurring unmatched set (Tyler Owens, Alijah Clark, Colton Hood, Tony Adams, Craig Woodson, Denzel Ward, Kiko Mauigoa, Robert Beal Jr., Jackson Woodard, Jaylon Carlies, Landon Jackson, Javontae Jean-Baptiste, Tavius Robinson, Za'Darius Smith, Tyler Guyton, Will Campbell, Michael Jerrell, Teven Jenkins, Ben Bartch, Andrew Vorhees, Jonah Savaiinaea, Alijah Vera-Tucker, Brashard Smith, and Jacory Croskey-Merritt, still on bye) remained unmatched again and were kept unchanged per established precedent. NEW badges aged off (>24h) for 3 rows.
+
+
+## Nov 3, 2026, 11:10 AM ET
+
+**New injuries:**
+- Justice Hill (RB, Ravens) — groin; limited participant on Monday's practice report.
+- Kentavius Street (DT, Bears) — knee; will not return to Monday night's game against the Seahawks.
+- Grady Jarrett (DE, Bears) — groin; doubtful to return to Monday night's game against the Seahawks.
+- Malachi Lawrence (LB, Cowboys) — ankle, suffered in Sunday's overtime loss to the Cardinals.
+- Chris Rodriguez Jr. (RB, Jaguars) — hand; limited participant on Monday's practice estimate.
+- Bhayshul Tuten (RB, Jaguars) — ankle/foot; non-participant at Monday's walkthrough.
+- Dean Connors (RB, Rams) — broken hand, suffered in Sunday's win.
+- Grant Stuard (LB, Rams) — hamstring.
+- Brandon Pili (DT, Seahawks) — back; inactive for Monday night's game against the Bears.
+- Uchenna Nwosu (LB, Seahawks) — ankle; inactive for Monday's game against the Bears.
+
+**Status/designation changes:** None.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-03T11:59:17Z (current, <10 min old at run start). Reviewed 57 active-status candidate rows and 26 new snapshot candidates at the six tracked positions; all active-status rows carried only "active for [game]"/full-participant/blank/stat-recap language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, D'Marco Jackson, George Holani, among others — all kept unchanged), so no removals this run. Kaleb Johnson (coach's decision, Packers) excluded as out of scope. Tyler Owens (S, Commanders), Alijah Clark (S, Cowboys), Montaric Brown (CB, Jaguars), Colton Hood (CB, Giants), Tony Adams (S, Titans), Craig Woodson (S, Patriots), Denzel Ward (CB, Browns), Kiko Mauigoa (LB, Jets), Robert Beal Jr. (DE, Dolphins), Jackson Woodard (LB, Dolphins), Jaylon Carlies (LB, Colts), Landon Jackson (DE, Bills), Javontae Jean-Baptiste (LB, Commanders), Tavius Robinson (LB, Ravens), Za'Darius Smith (DE, Falcons), Quay Walker (LB, Raiders), Broderick Washington Jr. (DT, Ravens), Tyler Guyton (OT, Cowboys), Will Campbell (OT, Patriots), Michael Jerrell (OT, Falcons), Teven Jenkins (G, Browns), Ben Bartch (G, Lions), Andrew Vorhees (G, Ravens), Jonah Savaiinaea (G, Dolphins), Alijah Vera-Tucker (G, Patriots), George Holani (RB, Seahawks), Brashard Smith (RB, Chiefs), and Jacory Croskey-Merritt (RB, Commanders, still on bye) remained unmatched again, consistent with the established rolling-log feed limitation; all kept unchanged. NEW badges aged off (>24h) for 27 rows (the large Nov 1 9:10 PM batch).
