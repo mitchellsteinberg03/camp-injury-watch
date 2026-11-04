@@ -8803,3 +8803,16 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Justice Hill (RB, Ravens) — removed: took every rep at Tuesday's practice, clearing up any concern about his availability for Thursday's game against the Jaguars.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-04T00:38:19Z (current, <1h old at run start). Reviewed 61 active-status candidate rows and 9 new snapshot candidates (all bare "questionable") at the six tracked positions; the removal above carried explicit unhedged clearance language, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, D'Marco Jackson, George Holani, among others — all kept unchanged). The established recurring unmatched set (Tyler Owens, Alijah Clark, Montaric Brown, Colton Hood, Budda Baker, Tony Adams, Craig Woodson, Denzel Ward, Nick Emmanwori, Kiko Mauigoa, Robert Beal Jr., Jackson Woodard, Jaylon Carlies, Landon Jackson, Drake Thomas, Javontae Jean-Baptiste, Tavius Robinson, Za'Darius Smith, Quay Walker, Broderick Washington Jr., Tyler Guyton, Will Campbell, Michael Jerrell, Teven Jenkins, Ben Bartch, Andrew Vorhees, Jonah Savaiinaea, Alijah Vera-Tucker, Brashard Smith, and Jacory Croskey-Merritt, still on bye) remained unmatched again and were kept unchanged per established precedent.
+
+
+## Nov 4, 2026, 11:10 AM ET
+
+**New injuries:**
+- Christian Darrisaw (OT, Vikings) — shoulder; nursing the issue, per head coach Kevin O'Connell.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Marcus Bryant (OT, Patriots) — removed: activated from injured reserve by the Patriots on Tuesday.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-04T09:23:40Z (6–24h old at run start, ~6.8h — usable for reconciliation per the standing freshness rule, noted here). Reviewed 58 active-status candidate rows and 9 new snapshot candidates at the six tracked positions; the removal above carried explicit activation language, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, D'Marco Jackson, George Holani, among others — all kept unchanged). The established recurring unmatched set (Tyler Owens, Alijah Clark, Benjamin St-Juste, Montaric Brown, Colton Hood, Budda Baker, Tony Adams, Craig Woodson, Denzel Ward, Nick Emmanwori, Kiko Mauigoa, Robert Beal Jr., Jackson Woodard, Jaylon Carlies, Landon Jackson, Drake Thomas, Javontae Jean-Baptiste, Tavius Robinson, Za'Darius Smith, Quay Walker, Broderick Washington Jr., Tyler Guyton, Will Campbell, Michael Jerrell, Teven Jenkins, Ben Bartch, Andrew Vorhees, Jonah Savaiinaea, Alijah Vera-Tucker, Brashard Smith, Dameon Pierce, and Jacory Croskey-Merritt, still on bye) remained unmatched again and were kept unchanged per established precedent.
