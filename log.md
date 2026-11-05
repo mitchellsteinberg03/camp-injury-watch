@@ -8832,3 +8832,18 @@ No new injuries, status changes, or removals at the six tracked positions this w
 **Removals:** None.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-04T18:01:39Z (current, ~4h old at run start). Window covered since the prior snapshot (fetched 09:23 UTC) through this run; reviewed the resulting 8 new/changed snapshot candidates at the six tracked positions — Quincy Williams (LB, Browns) and Jordan Battle (S, Bengals) carried only bare "questionable" status with no injury description, excluded as uninformative; Billy Bowman Jr. (S, Falcons) showed "Active" with a blank comment, insufficient under the standing policy to treat as a clearance, kept unchanged. WebSearch corroboration for the five items above returned mostly stale/wrong-season recycled articles (flagged per the standing caution) and could not independently confirm beyond the snapshot's own named-reporter attribution, so the dated, attributed snapshot comments were used as the primary source for each. On the broader vanished-row check: 149 of the dashboard's low/mid-severity rows (30% of all 496 tracked rows) have no matching entry in this snapshot; this is the same established rolling-log feed limitation noted in prior entries (the ESPN feed is a recent-news/recap log, not a full official injury report, and leaves out most longer-tenured low/mid injury notes) — well above the 25% circuit-breaker threshold, so per that safeguard no vanished-row removals were made this run; all were kept unchanged. NEW badges aged off (>24h) for 9 rows (the large Nov 3 11:10 AM batch): Malachi Lawrence, Grant Stuard, Uchenna Nwosu, Grady Jarrett, Kentavius Street, Brandon Pili, Chris Rodriguez Jr., Bhayshul Tuten, Dean Connors.
+
+
+## Nov 4, 2026, 8:10 PM ET
+
+**New injuries:**
+- Quincy Williams (LB, Browns) — hamstring; did not participate in Wednesday's practice.
+- Alvin Kamara (RB, Saints) — rest/back; did not practice Wednesday.
+- Saquon Barkley (RB, Eagles) — hamstring/back; officially did not practice Wednesday.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Chris Rodriguez Jr. (RB, Jaguars) — removed: doesn't carry an injury designation for Thursday night's game against the Ravens.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-04T23:44:08Z (current, <2h old at run start). Reviewed 50 active-status candidate rows and 33 new snapshot candidates at the six tracked positions; the removal above carried explicit unhedged clearance language, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, D'Marco Jackson, George Holani, among others — all kept unchanged). The established recurring unmatched set continues to grow (Tyler Owens, Pat Surtain II, Alijah Clark, Benjamin St-Juste, Montaric Brown, Tyler Nubin, Budda Baker, Tony Adams, Craig Woodson, Denzel Ward, Nick Emmanwori, Daniel Thomas, Willie Gay Jr., Kiko Mauigoa, Robert Beal Jr., Jackson Woodard, Jaylon Carlies, Landon Jackson, Drake Thomas, Javontae Jean-Baptiste, Tremaine Edmunds, Tavius Robinson, Za'Darius Smith, Quay Walker, Broderick Washington Jr., Tyler Guyton, Will Campbell, Michael Jerrell, Teven Jenkins, Ben Bartch, Andrew Vorhees, Jonah Savaiinaea, Alijah Vera-Tucker, CJ Donaldson, Brashard Smith, Dameon Pierce, and Jacory Croskey-Merritt, still on bye); all kept unchanged per established precedent.
