@@ -8847,3 +8847,23 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Chris Rodriguez Jr. (RB, Jaguars) — removed: doesn't carry an injury designation for Thursday night's game against the Ravens.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-04T23:44:08Z (current, <2h old at run start). Reviewed 50 active-status candidate rows and 33 new snapshot candidates at the six tracked positions; the removal above carried explicit unhedged clearance language, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, D'Marco Jackson, George Holani, among others — all kept unchanged). The established recurring unmatched set continues to grow (Tyler Owens, Pat Surtain II, Alijah Clark, Benjamin St-Juste, Montaric Brown, Tyler Nubin, Budda Baker, Tony Adams, Craig Woodson, Denzel Ward, Nick Emmanwori, Daniel Thomas, Willie Gay Jr., Kiko Mauigoa, Robert Beal Jr., Jackson Woodard, Jaylon Carlies, Landon Jackson, Drake Thomas, Javontae Jean-Baptiste, Tremaine Edmunds, Tavius Robinson, Za'Darius Smith, Quay Walker, Broderick Washington Jr., Tyler Guyton, Will Campbell, Michael Jerrell, Teven Jenkins, Ben Bartch, Andrew Vorhees, Jonah Savaiinaea, Alijah Vera-Tucker, CJ Donaldson, Brashard Smith, Dameon Pierce, and Jacory Croskey-Merritt, still on bye); all kept unchanged per established precedent.
+
+
+## Nov 5, 2026, 11:10 AM ET
+
+**New injuries (Week 10 Wednesday practice reports):**
+- Bobby Okereke (LB, Panthers) — foot; did not participate in Carolina's practice Wednesday.
+- Azeez Al-Shaair (LB, Texans) — groin; limited participant at Wednesday's practice.
+- Kam Curl (S, Rams) — foot; did not participate at Wednesday's practice.
+- Kaytron Allen (RB, Dolphins) — quadriceps; limited participant at Wednesday's practice.
+- Tykee Smith (S, Buccaneers) — ankle; limited participant at Wednesday's practice.
+- Kenny Gainwell (RB, Buccaneers) — hip; limited participant on Wednesday's injury report.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Antonio Johnson (S, Jaguars) — removed: has no injury designation ahead of Thursday night's matchup against Baltimore.
+- Greg Newsome II (CB, Giants) — removed: wasn't listed on the Giants' injury report Wednesday.
+- Jevon Holland (S, Giants) — removed: was not listed on the Giants' injury report Wednesday.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-05T06:55:52Z (6–24h old at run start, ~9.3h — usable for reconciliation per the standing freshness rule, noted here). Reviewed 47 active-status candidate rows and 44 new snapshot candidates at the six tracked positions; the 3 removals above carried explicit "no injury designation"/"not listed on the injury report" language, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, D'Marco Jackson, George Holani, among others — all kept unchanged). The established recurring unmatched set continues to grow (Andrew Wingard, Tyler Owens, Pat Surtain II, Alijah Clark, Benjamin St-Juste, Montaric Brown, Tyler Nubin, Budda Baker, Tony Adams, Craig Woodson, Denzel Ward, Nick Emmanwori, JuJu Brents, Daniel Thomas, Willie Gay Jr., Kiko Mauigoa, Robert Beal Jr., Chazz Surratt, Jackson Woodard, Jaylon Carlies, Landon Jackson, Drake Thomas, Javontae Jean-Baptiste, Tremaine Edmunds, Tavius Robinson, Za'Darius Smith, Quay Walker, Broderick Washington Jr., Tyler Guyton, Will Campbell, Michael Jerrell, Teven Jenkins, Ben Bartch, Andrew Vorhees, Jonah Savaiinaea, Alijah Vera-Tucker, Brashard Smith, Dameon Pierce, and Jacory Croskey-Merritt, still on bye); all kept unchanged per established precedent.
