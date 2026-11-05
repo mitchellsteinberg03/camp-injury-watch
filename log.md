@@ -8867,3 +8867,31 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Jevon Holland (S, Giants) — removed: was not listed on the Giants' injury report Wednesday.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-05T06:55:52Z (6–24h old at run start, ~9.3h — usable for reconciliation per the standing freshness rule, noted here). Reviewed 47 active-status candidate rows and 44 new snapshot candidates at the six tracked positions; the 3 removals above carried explicit "no injury designation"/"not listed on the injury report" language, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, D'Marco Jackson, George Holani, among others — all kept unchanged). The established recurring unmatched set continues to grow (Andrew Wingard, Tyler Owens, Pat Surtain II, Alijah Clark, Benjamin St-Juste, Montaric Brown, Tyler Nubin, Budda Baker, Tony Adams, Craig Woodson, Denzel Ward, Nick Emmanwori, JuJu Brents, Daniel Thomas, Willie Gay Jr., Kiko Mauigoa, Robert Beal Jr., Chazz Surratt, Jackson Woodard, Jaylon Carlies, Landon Jackson, Drake Thomas, Javontae Jean-Baptiste, Tremaine Edmunds, Tavius Robinson, Za'Darius Smith, Quay Walker, Broderick Washington Jr., Tyler Guyton, Will Campbell, Michael Jerrell, Teven Jenkins, Ben Bartch, Andrew Vorhees, Jonah Savaiinaea, Alijah Vera-Tucker, Brashard Smith, Dameon Pierce, and Jacory Croskey-Merritt, still on bye); all kept unchanged per established precedent.
+
+
+## Nov 5, 2026, 5:15 PM ET
+
+**New injuries:**
+- Daiyan Henley (LB, Chargers) — shoulder; limited participant at Wednesday's practice, continuing to manage the issue that briefly sidelined him in the Week 8 loss to the Rams.
+
+**Status/designation changes:**
+- Daron Payne (DT, Commanders) — foot injury underwent season-ending surgery Nov 4. Severity raised to high.
+- Braxton Jones (OT, Bears) — knee injury confirmed out for the rest of the season. Severity raised to high.
+- Jaylen Watson (CB, Rams) — shoulder; now expected to undergo surgery that will end his season. Severity raised to high.
+- Kentavius Street (DT, Bears) — knee injury from the Nov 3 Seahawks game escalated: placed on injured reserve Nov 4. Severity raised to mid.
+- Isaiah Adams (G, Cardinals) — designated to return from injured reserve Nov 4; 21-day practice window opened.
+- Greg Van Roten (G, Patriots) — designated to return from injured reserve Nov 4; 21-day practice window opened.
+- Jordan Hancock (CB, Bills) — designated to return from injured reserve Nov 4; 21-day practice window opened.
+- VJ Payne (S, Jets) — designated to return from injured reserve Nov 4 after a full practice; 21-day window opened.
+- Kelvin Banks Jr. (OT, Saints) — designated to return from injured reserve Nov 4; 21-day practice window opened.
+- Jer'Zhan Newton (DT, Commanders) — practiced in full Nov 4 with his 21-day practice window open, nearing an activation decision.
+- Jaylinn Hawkins (S, Ravens) — knee; officially ruled out for tonight's game against the Jaguars, his third straight missed game.
+- Nate Wiggins (CB, Ravens) — now dealing with an illness (distinct from the prior stinger/concussion evaluation); officially questionable for tonight's game against the Jaguars.
+- Adam Randall (RB, Ravens) — still on injured reserve; officially listed questionable for tonight's game against the Jaguars.
+- Travon Walker (LB section, Jaguars) — ribs; questionable for tonight's game against the Ravens after a limited Wednesday practice.
+- Trent McDuffie (CB, Rams) — new back injury (previously tracked for a groin issue); did not participate in Wednesday's practice.
+- Keisean Nixon (CB, Packers) — new groin injury (previously tracked for a shoulder issue); limited participant at Wednesday's practice.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-05T16:30:22Z (current, ~0.7h old at run start). WebSearch for breaking news in the window returned only stale/undated or off-season recycled results (per the standing caution); no corroborating new items beyond the snapshot. Reviewed all 502 dashboard rows at the six tracked positions against the snapshot. No explicit clearance/activation language was found on any non-high-severity row this run, so no removals. On the broader vanished-row check: 148 of 340 non-high-severity rows (29.5% of all 502 tracked rows) have no matching entry in this snapshot — consistent with the established rolling-news-feed limitation noted in prior entries, and above the 25% circuit-breaker threshold, so no vanished-row removals were attempted. Numerous snapshot entries carried only a bare game-day status word with no injury description (e.g., several Seahawks/Dolphins/Giants/Patriots/Bears players tagged "Questionable") or were stat recaps/non-injury transactions (signings, waiver claims, contract extensions, a personal-conduct-policy matter) — excluded as uninformative or out of scope per the standing policy. Continuing same-injury practice-participation updates with no designation change (e.g., Reed Blankenship, Divine Deablo, Jihaad Campbell, Joseph Ossai, Malik Herring, Marques Sigle, Jalen Pitre, Nathan Shepherd, Bobby Brown III, Cesar Ruiz, Drew Shelton, Kadyn Proctor, Christian McCaffrey, Cam Skattebo, Jermaine Eluemunor) were left unchanged per established precedent. NEW badge aged off (>24h) for 1 row: Christian Darrisaw (added Nov 4 11:10 AM ET).
