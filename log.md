@@ -8931,3 +8931,34 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Breece Hall (RB, Jets) — removed: medically cleared and expected to play Sunday against the Chiefs.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-06T15:58:06Z (current, <10 min old at run start). Reviewed 51 active-status candidate rows and 49 new snapshot candidates at the six tracked positions; the removal above carried explicit "medically cleared" language, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: Travon Walker, Bhayshul Tuten, among others — all kept unchanged). The established recurring unmatched set continues to grow (Patrick Johnson joining the usual group); all kept unchanged per established precedent.
+
+
+## Nov 6, 2026, 5:10 PM ET
+
+**New injuries (Friday injury/practice reports ahead of Week 9):**
+- James Pearce Jr. (LB, Falcons) — back; questionable for Sunday's game against the Bengals in Madrid, in his first week back after serving an eight-game suspension.
+
+**Status/designation changes (Friday final/practice reports):**
+- TreVeyon Henderson (RB, Patriots) — the absence tracked as an ankle issue is now described, per a Nov 6 statement from Henderson, as an undisclosed illness involving unexplained neurological symptoms affecting his strength and coordination; cost him New England's Week 8 win over Miami and he's now ruled out for Sunday against the Packers with no clear return timeline. Severity raised to mid.
+- Micah Parsons (LB, Packers) — designated for return from injured reserve (torn ACL) Nov 4; logged three straight limited practices but was officially ruled out for Sunday's game at New England. 21-day practice window runs through Nov 25. Remains high severity (not yet activated).
+- Myles Garrett (LB, Rams) — designated to return from IR; logged consecutive limited practices and is on track to be activated ahead of Sunday's game against the Commanders, pending Saturday's activation deadline. Remains mid severity.
+- Cam Skattebo (RB, Giants) — doubtful for Sunday's game at Philadelphia after managing only one limited practice this week.
+- Akeem Davis-Gaither (LB, Colts) — ruled out for Sunday's game against the Cowboys (upgraded from Thursday's DNP).
+- Mansoor Delane (CB, Chiefs) — ruled out for Sunday's game against the Jets (upgraded from Thursday's DNP).
+- CJ Donaldson (RB, Saints) — now also dealing with a concussion in addition to the shoulder issue; ruled out for Sunday's game against the Browns.
+- David Montgomery (RB, Texans) — ruled out again for Sunday's game against the Chargers; still hasn't practiced since the Week 5 groin injury.
+- Trent McDuffie (CB, Rams) — questionable for Sunday's game against the Commanders.
+- Kam Curl (S, Rams) — questionable for Sunday's game against the Commanders.
+- Jermaine Eluemunor (OT, Giants) — questionable for Sunday's game at Philadelphia.
+- Kyle Monangai (RB, Bears) — questionable for Sunday's game against the Buccaneers.
+- Jaylen Wright (RB, Dolphins) — returned to practice Friday; questionable for Sunday's game.
+- Kaytron Allen (RB, Dolphins) — questionable for Sunday's game.
+- MarShawn Lloyd (RB, Packers) — questionable for Sunday's game against the Patriots.
+- Christian McCaffrey (RB, 49ers) — questionable for Sunday's game after taking part in the open portion of Friday's practice.
+
+**Removals:**
+- Quincy Williams (LB, Browns) — removed: has no injury designation ahead of Sunday's game against the Saints after back-to-back limited practices.
+- Alvin Kamara (RB, Saints) — removed: no designation for Sunday's game versus the Browns after progressing to a full practice Friday.
+- Saquon Barkley (RB, Eagles) — removed: no designation for Sunday's game against the Giants after back-to-back limited practices; played a 32% snap share last week.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-06T21:33:21Z (current, <40 min old at run start). Reconciliation ran against this snapshot. WebSearch for breaking news in the window returned only stale/mismatched results per the standing caution (old Maliek Collins season-ending-injury coverage from 2025, a Trevin Wallace entry whose snapshot bio text conflicted with its own team field, James Pearce Jr. coverage that lagged the current week) — none corroborated anything beyond the snapshot, and two candidates were set aside rather than added: Maliek Collins (DT, Browns), whose snapshot comment was a bare "out" with no injury description; and a Trevin Wallace (LB, Jets per the snapshot's team field, but Browns per its own bio text) entry, held back as an internally inconsistent snapshot record pending clearer confirmation. Reviewed roughly 55 snapshot candidates dated since the prior sweep at the six tracked positions; most carried only bare game-day status words or "no designation" stat-recap language on players not otherwise flagged, insufficient to add or remove under the standing policy, and were left alone. NEW badge aged off (>24h) for 5 rows: Kam Curl, Tykee Smith, Bobby Okereke, Azeez Al-Shaair, Kaytron Allen.
