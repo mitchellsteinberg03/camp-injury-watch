@@ -8895,3 +8895,19 @@ No new injuries, status changes, or removals at the six tracked positions this w
 **Removals:** None.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-05T16:30:22Z (current, ~0.7h old at run start). WebSearch for breaking news in the window returned only stale/undated or off-season recycled results (per the standing caution); no corroborating new items beyond the snapshot. Reviewed all 502 dashboard rows at the six tracked positions against the snapshot. No explicit clearance/activation language was found on any non-high-severity row this run, so no removals. On the broader vanished-row check: 148 of 340 non-high-severity rows (29.5% of all 502 tracked rows) have no matching entry in this snapshot — consistent with the established rolling-news-feed limitation noted in prior entries, and above the 25% circuit-breaker threshold, so no vanished-row removals were attempted. Numerous snapshot entries carried only a bare game-day status word with no injury description (e.g., several Seahawks/Dolphins/Giants/Patriots/Bears players tagged "Questionable") or were stat recaps/non-injury transactions (signings, waiver claims, contract extensions, a personal-conduct-policy matter) — excluded as uninformative or out of scope per the standing policy. Continuing same-injury practice-participation updates with no designation change (e.g., Reed Blankenship, Divine Deablo, Jihaad Campbell, Joseph Ossai, Malik Herring, Marques Sigle, Jalen Pitre, Nathan Shepherd, Bobby Brown III, Cesar Ruiz, Drew Shelton, Kadyn Proctor, Christian McCaffrey, Cam Skattebo, Jermaine Eluemunor) were left unchanged per established precedent. NEW badge aged off (>24h) for 1 row: Christian Darrisaw (added Nov 4 11:10 AM ET).
+
+
+## Nov 5, 2026, 8:10 PM ET
+
+**New injuries:**
+- Ty Johnson (RB, Bills) — illness; did not practice Thursday.
+- MarShawn Lloyd (RB, Packers) — knee; limited participant at Thursday's practice.
+- Akeem Davis-Gaither (LB, Colts) — knee; did not practice Thursday.
+- Zavier Scott (RB, Bears) — wrist; placed on injured reserve Thursday.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Kenny Gainwell (RB, Buccaneers) — removed: good to go for Sunday's road game at the Bears after an uncapped practice Thursday.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-05T23:40:46Z (current, <2h old at run start). Reviewed 51 active-status candidate rows and 45 new snapshot candidates at the six tracked positions; the removal above carried explicit unhedged clearance language in its full comment text ("good to go"), while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, George Holani, Breece Hall, among others — all kept unchanged). Most new candidates were bare "questionable" entries excluded as out of scope. The established recurring unmatched set continues to grow (Drake Thomas, Javontae Jean-Baptiste, Tremaine Edmunds, Tavius Robinson, Za'Darius Smith, Quay Walker, Christian Elliss, Ed Oliver, Broderick Washington Jr., Tyler Guyton, Will Campbell, Michael Jerrell, Teven Jenkins, Ben Bartch, Andrew Vorhees, Jonah Savaiinaea, Alijah Vera-Tucker, Brashard Smith, Dameon Pierce, and Jacory Croskey-Merritt, still on bye, among others); all kept unchanged per established precedent.
