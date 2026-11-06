@@ -8911,3 +8911,23 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Kenny Gainwell (RB, Buccaneers) — removed: good to go for Sunday's road game at the Bears after an uncapped practice Thursday.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-05T23:40:46Z (current, <2h old at run start). Reviewed 51 active-status candidate rows and 45 new snapshot candidates at the six tracked positions; the removal above carried explicit unhedged clearance language in its full comment text ("good to go"), while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: DeMarvion Overshown, George Holani, Breece Hall, among others — all kept unchanged). Most new candidates were bare "questionable" entries excluded as out of scope. The established recurring unmatched set continues to grow (Drake Thomas, Javontae Jean-Baptiste, Tremaine Edmunds, Tavius Robinson, Za'Darius Smith, Quay Walker, Christian Elliss, Ed Oliver, Broderick Washington Jr., Tyler Guyton, Will Campbell, Michael Jerrell, Teven Jenkins, Ben Bartch, Andrew Vorhees, Jonah Savaiinaea, Alijah Vera-Tucker, Brashard Smith, Dameon Pierce, and Jacory Croskey-Merritt, still on bye, among others); all kept unchanged per established precedent.
+
+
+## Nov 6, 2026, 11:10 AM ET
+
+**New injuries (Thursday Night Football + Week 10 Friday prep):**
+- Kyle Hamilton (S, Ravens) — hip; ruled out for the remainder of Thursday night's game against the Jaguars.
+- Adisa Isaac (LB, Ravens) — hamstring; questionable to return to Thursday night's game against the Jaguars.
+- Tyler Smith (G, Cowboys) — ankle; limited participant in Thursday's practice.
+- Andrew Van Ginkel (LB, Vikings) — chest; limited participant at Thursday's practice.
+- Andrew Thomas (OT, Giants) — groin; limited participant at Thursday's practice.
+- Quenton Nelson (G, Seahawks) — knee; did not participate at Thursday's practice.
+- Ernest Jones IV (LB, Seahawks) — ankle; limited participant at Thursday's practice.
+- Tristan Wirfs (OT, Buccaneers) — toe; did not practice Thursday.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Breece Hall (RB, Jets) — removed: medically cleared and expected to play Sunday against the Chiefs.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-06T15:58:06Z (current, <10 min old at run start). Reviewed 51 active-status candidate rows and 49 new snapshot candidates at the six tracked positions; the removal above carried explicit "medically cleared" language, while the rest carried only blank comments, stat recaps, or bare "full participant"/"active" language, insufficient under the standing policy (recurring playing-through-it cases: Travon Walker, Bhayshul Tuten, among others — all kept unchanged). The established recurring unmatched set continues to grow (Patrick Johnson joining the usual group); all kept unchanged per established precedent.
