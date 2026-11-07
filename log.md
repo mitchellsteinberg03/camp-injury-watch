@@ -8962,3 +8962,28 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Saquon Barkley (RB, Eagles) — removed: no designation for Sunday's game against the Giants after back-to-back limited practices; played a 32% snap share last week.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-06T21:33:21Z (current, <40 min old at run start). Reconciliation ran against this snapshot. WebSearch for breaking news in the window returned only stale/mismatched results per the standing caution (old Maliek Collins season-ending-injury coverage from 2025, a Trevin Wallace entry whose snapshot bio text conflicted with its own team field, James Pearce Jr. coverage that lagged the current week) — none corroborated anything beyond the snapshot, and two candidates were set aside rather than added: Maliek Collins (DT, Browns), whose snapshot comment was a bare "out" with no injury description; and a Trevin Wallace (LB, Jets per the snapshot's team field, but Browns per its own bio text) entry, held back as an internally inconsistent snapshot record pending clearer confirmation. Reviewed roughly 55 snapshot candidates dated since the prior sweep at the six tracked positions; most carried only bare game-day status words or "no designation" stat-recap language on players not otherwise flagged, insufficient to add or remove under the standing policy, and were left alone. NEW badge aged off (>24h) for 5 rows: Kam Curl, Tykee Smith, Bobby Okereke, Azeez Al-Shaair, Kaytron Allen.
+
+
+## Nov 6, 2026, 9:10 PM ET
+
+**New injuries:** None.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Jalen Pitre (S, Texans) — removed: snapshot described him as "healthy again," on track to resume his starting role Sunday vs. the Chargers.
+- Colton Hood (CB, Giants) — removed: snapshot said he "will be good to go" for Sunday's game vs. the Eagles after a full practice Thursday.
+- Avieon Terrell (CB, Falcons) — removed: snapshot said he "now has the green light to return" from a one-game absence.
+- Roger McCreary (CB, Lions) — removed: snapshot said he "has since been cleared to suit up" vs. Minnesota.
+- DJ Turner II (CB, Bengals) — removed: snapshot said he avoided serious injury and "will be ready" for Sunday's game in Spain.
+- Charles Omenihu (DE, Commanders) — removed: snapshot said he "will return to action" vs. Philadelphia.
+- Zach Allen (DE, Broncos) — removed: snapshot said he's "been given the green light to play" Sunday.
+- John Franklin-Myers (DE, Titans) — removed: snapshot said he's "been cleared by medical staff to suit up" Sunday.
+- Devonte Wyatt (DT, Packers) — removed: snapshot said he "is cleared to suit up" and has been playing since Week 8.
+- Kenny Clark (DT, Cowboys) — removed: snapshot said he was "given the green light by medical staff to play" Sunday.
+- Luke Goedeke (OT, Buccaneers) — removed: snapshot said he's "been cleared by medical staff to return" and will reclaim his starting spot.
+- Blake Fisher (OT, Texans) — removed: snapshot said "he's good to go" coming out of the Texans' bye.
+- Dylan Parham (G, Jets) — removed: snapshot said he "was cleared to play" and will reclaim the starting left guard job.
+- Jadarian Price (RB, Seahawks) — removed: snapshot confirmed his return from a four-game IR stay (chest), and he led the Seahawks' ground attack in his return game.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-06T21:33:21Z (current, <40 min old at run start). Reviewed 58 active-status candidate rows at the six tracked positions; the 14 removals above carried explicit unhedged clearance/activation language, while the remainder carried only blank comments, stat recaps, or hedged language ("appears," "should," "on track," "likely") insufficient under the standing policy — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 33 new snapshot candidates; 32 were bare game-day status words ("questionable"/"out"/"inactive") with no injury description and were excluded as uninformative. The 33rd, a "Trevin Wallace" entry tagged Jets/groin with internally conflicting bio text (referencing the Browns), was checked via WebSearch: the real Trevin Wallace is the Panthers' LB, dealing with a shoulder/stinger issue and cleared to play Week 9 — the snapshot record is a data error and was excluded again, consistent with the prior sweep's note. WebSearch for breaking injury news in the window returned only stale/off-topic results, none corroborating anything beyond the snapshot. Circuit breaker check: 14 removals against 510 prior rows (2.7%), well under the 25% threshold.
