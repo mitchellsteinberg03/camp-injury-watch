@@ -8987,3 +8987,40 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Jadarian Price (RB, Seahawks) — removed: snapshot confirmed his return from a four-game IR stay (chest), and he led the Seahawks' ground attack in his return game.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-06T21:33:21Z (current, <40 min old at run start). Reviewed 58 active-status candidate rows at the six tracked positions; the 14 removals above carried explicit unhedged clearance/activation language, while the remainder carried only blank comments, stat recaps, or hedged language ("appears," "should," "on track," "likely") insufficient under the standing policy — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 33 new snapshot candidates; 32 were bare game-day status words ("questionable"/"out"/"inactive") with no injury description and were excluded as uninformative. The 33rd, a "Trevin Wallace" entry tagged Jets/groin with internally conflicting bio text (referencing the Browns), was checked via WebSearch: the real Trevin Wallace is the Panthers' LB, dealing with a shoulder/stinger issue and cleared to play Week 9 — the snapshot record is a data error and was excluded again, consistent with the prior sweep's note. WebSearch for breaking injury news in the window returned only stale/off-topic results, none corroborating anything beyond the snapshot. Circuit breaker check: 14 removals against 510 prior rows (2.7%), well under the 25% threshold.
+
+
+## Nov 7, 2026, 11:10 AM ET
+
+**New injuries (Friday final injury reports ahead of Week 9 Sunday games):**
+- Tyrique Stevenson Sr. (CB, Bears) — thumb; questionable for Sunday's game against the Buccaneers.
+- Joey Porter Jr. (CB, Cowboys) — ankle; questionable for Sunday's game against the Colts.
+- Eyioma Uwazurike (DE, Broncos) — shoulder; ruled out for Sunday's game against the Panthers.
+- Thomas Booker IV (DT, Raiders) — ankle; ruled out for Sunday's game against the 49ers.
+- Sione Vaki (RB, Lions) — ankle; questionable for Sunday's game against the Dolphins.
+- A.J. Haulcy (S, Colts) — ankle; questionable for Sunday's game against the Cowboys.
+- Kendall Williamson (S, Chargers) — calf; ruled out for Sunday's game against the Texans.
+- Demond Claiborne (RB, Vikings) — knee; did not participate in Friday's practice, questionable for Sunday.
+- Martin Emerson Jr. (CB, Saints) — shin; questionable for Sunday's game against the Browns.
+- Jonathan Jones (CB, Eagles) — hamstring; ruled out for Sunday's game against the Giants.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- P.J. Locke (S, Cowboys) — removed: cleared the NFL's five-step concussion protocol, all set to suit up Sunday.
+- Donte Jackson (CB, Chargers) — removed: set to return to action against the Texans after a full practice Friday.
+- Marques Sigle (S, 49ers) — removed: set to get back on the field in Week 9 after missing three games.
+- Justin Reid (S, Saints) — removed: cleared the five-step concussion protocol, all set to suit up Sunday.
+- Caleb Downs (S, Cowboys) — removed: cleared the league's concussion protocol, all set to suit up Sunday.
+- Brian Branch (S, Lions) — removed: officially cleared the five-step concussion protocol, all set to suit up Sunday.
+- Tykee Smith (S, Buccaneers) — removed: will avoid any injury designation for the weekend after a full Friday practice.
+- Nick Bosa (DE, 49ers) — removed: will return to action in Week 9 after extra rest during the bye.
+- Garret Wallow (LB, 49ers) — removed: set to return to action against the Raiders.
+- Gabe Jacas (LB, Patriots) — removed: upgraded to full participation Friday, clearing him to suit up Week 9.
+- Kadyn Proctor (OT, Dolphins) — removed: cleared concussion protocol, set to reclaim his starting role.
+- Andrew Thomas (OT, Giants) — removed: logged a full practice Friday, avoiding a designation for the weekend.
+- Tristan Wirfs (OT, Buccaneers) — removed: upgraded to limited participation Friday, clearing him of any injury designation, all set to suit up Sunday.
+- Aaron Banks (G, Packers) — removed: dodged an injury designation for Sunday after a week of limited participation.
+- Tyler Smith (G, Cowboys) — removed: upgraded to a full participant Friday, all set to suit up Sunday.
+- Christian McCaffrey (RB, 49ers) — removed: limited participation Thursday and Friday was enough to gain clearance to suit up in Week 9.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-07T08:52:14Z (current, ~2h15m old at run start). Reviewed 59 active-status candidate rows at the six tracked positions; the 16 removals above carried explicit unhedged clearance/protocol/designation language, while the remainder carried only blank comments, stat recaps, or hedged language ("appears," "should," "on track," "position himself for") insufficient under the standing policy — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 28 new snapshot candidates; 18 were bare game-day status words ("questionable"/"out"/"inactive") with no injury description and excluded, including a repeat "Trevin Wallace" (Jets/groin) entry with the same internally inconsistent bio text flagged and resolved via WebSearch in the prior two sweeps (real Trevin Wallace is a Panthers LB, already cleared to play) — excluded again. The 10 additions above carried real injury descriptions. No breaking news beyond the snapshot. Circuit breaker check: 16 removals against 496 prior rows (3.2%), well under the 25% threshold.
