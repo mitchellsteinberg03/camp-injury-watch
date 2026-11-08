@@ -9024,3 +9024,16 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Christian McCaffrey (RB, 49ers) — removed: limited participation Thursday and Friday was enough to gain clearance to suit up in Week 9.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-07T08:52:14Z (current, ~2h15m old at run start). Reviewed 59 active-status candidate rows at the six tracked positions; the 16 removals above carried explicit unhedged clearance/protocol/designation language, while the remainder carried only blank comments, stat recaps, or hedged language ("appears," "should," "on track," "position himself for") insufficient under the standing policy — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 28 new snapshot candidates; 18 were bare game-day status words ("questionable"/"out"/"inactive") with no injury description and excluded, including a repeat "Trevin Wallace" (Jets/groin) entry with the same internally inconsistent bio text flagged and resolved via WebSearch in the prior two sweeps (real Trevin Wallace is a Panthers LB, already cleared to play) — excluded again. The 10 additions above carried real injury descriptions. No breaking news beyond the snapshot. Circuit breaker check: 16 removals against 496 prior rows (3.2%), well under the 25% threshold.
+
+
+## Nov 7, 2026, 9:10 PM ET
+
+**New injuries:** None.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Myles Garrett (EDGE, Rams) — removed: snapshot said he "is in the clear for his first game action since Week 1," activated off IR following knee surgery.
+- Ronnie Rivers (RB, Rams) — removed: snapshot said he "has returned" from a six-game IR stint and "has no injury designation" heading into Sunday's game.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-07T21:56:00Z (current, <15 min old at run start). Reviewed 47 active-status candidate rows at the six tracked positions; the 2 removals above carried explicit unhedged activation/no-designation language, while the remainder carried only blank comments, stat recaps, or hedged language ("appears," "should," "on track," "position himself for") insufficient under the standing policy — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 17 new snapshot candidates; 16 were bare game-day status words ("questionable"/"out"/"inactive") with no injury description and excluded, including a repeat "Trevin Wallace" (Jets/groin) entry with the same internally inconsistent bio text resolved via WebSearch in prior sweeps (real Trevin Wallace is a Panthers LB already cleared to play) — excluded again. WebSearch for breaking news in the window surfaced nothing new at the six tracked positions beyond already-stale or off-scope items (Lamar Jackson, Tyler Huntley, Jalen Hurts are all out of scope at QB; Nate Wiggins was already on the dashboard with no new information). Circuit breaker check: 2 removals against 490 prior rows (0.4%), well under the 25% threshold.
