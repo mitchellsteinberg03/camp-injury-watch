@@ -9054,3 +9054,38 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Audric Estime (RB, Saints) — removed: snapshot confirmed he has moved past the thigh injury that led to his earlier injury-settlement release and has since rejoined the Saints' roster as a healthy player.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-08T09:05:03Z (~7h old at run start, within the 6–24h usable-with-note window). Reviewed 46 active-status candidate rows at the six tracked positions; the 3 removals above carried explicit unhedged clearance/recovery language, while the remainder carried only blank comments, stat recaps, or hedged language ("appears," "should," "on track," "position himself for") insufficient under the standing policy — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 17 new snapshot candidates; 14 were bare game-day status words with no injury description and excluded, including a repeat "Trevin Wallace" (Jets/groin) entry with the same internally inconsistent bio text resolved via WebSearch in prior sweeps — excluded again. The 3 additions above carried real injury descriptions. WebSearch for breaking Sunday-morning injury news returned nothing new at the six tracked positions (only an off-scope WR injury and a note that Pittsburgh and San Francisco are on bye in Week 9). Circuit breaker check: 3 removals against 488 prior rows (0.6%), well under the 25% threshold.
+
+
+## Nov 8, 2026, 4:13 PM ET
+
+**New injuries:** None.
+
+**Status/designation changes:**
+- Marist Liufau (LB, Cowboys) — activated from injured reserve Nov 7; questionable for Sunday's game against the Colts. Severity held at mid.
+- Kelvin Banks Jr. (OT, Saints) — activated from injured reserve Nov 7; questionable for Sunday's game against the Browns. Severity held at mid.
+- Isaiah Adams (OG, Cardinals) — activated from injured reserve Nov 7; questionable for Sunday's game against the Seahawks. Severity held at mid.
+
+**Removals:**
+- Antoine Winfield Jr. (S, Buccaneers) — removed both of his duplicate rows (Oct 4 and Oct 23 entries for the same ribs injury): snapshot said he "was a full participant" in Wednesday's practice.
+- Dee Alford (CB, Bills) — removed: full practice participant Thursday.
+- Rodney Shelley (CB, Chargers) — removed: "has no designation" for Sunday's game against the Texans.
+- Sauce Gardner (CB, Colts) — removed: "practiced in full" Thursday.
+- Bobby Brown III (DT, Panthers) — removed: "practiced fully" Wednesday.
+- Jer'Zhan Newton (DT, Commanders) — removed: activated from injured reserve Saturday (pectoral), no lingering designation.
+- Nathan Shepherd (DT, Saints) — removed: "practiced in full" Wednesday (illness).
+- Azeez Al-Shaair (LB, Texans) — removed: full practice participant Thursday.
+- Bryce Boettcher (LB, Colts) — removed: full practice participant Wednesday.
+- Daiyan Henley (LB, Chargers) — removed: full practice participant Thursday.
+- David Bailey (LB, Jets) — removed: full practice participant Thursday.
+- Dee Winters (LB, Cowboys) — removed: full practice participant Thursday.
+- Ernest Jones IV (LB, Seahawks) — removed: "does not carry an official injury designation" for Sunday's game against Arizona.
+- Grady Jarrett (LB, Bears) — removed: "does not carry an official injury designation" for Sunday's game against the Buccaneers.
+- Luke Gifford (LB, 49ers) — removed: "does not have a designation" for Sunday's game against the Raiders.
+- Cesar Ruiz (OG, Saints) — removed: full practice participant Wednesday.
+- Christian Darrisaw (OT, Vikings) — removed: full practice participant Friday.
+- Drew Shelton (OT, Cowboys) — removed: full practice participant Wednesday.
+- Ty Johnson (RB, Bills) — removed: full practice participant Friday (illness).
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-08T16:42:25Z (~22 min old at run start, current). Window since last sweep: Nov 8, 11:10 AM ET–4:13 PM ET, with a focus on the 1 PM ET slate's inactives/in-game injuries. Reviewed all currently-matched dashboard rows against the snapshot for explicit unhedged clearance/activation/no-designation language; the 20 removals above (19 players, one with a duplicate row) qualified. Held unchanged, per the standing policy, rows whose only snapshot signal was a stat recap from a completed game (e.g., Evan Williams, Josiah Trotter, Roquan Smith, George Holani, Jonah Coleman, Rico Dowdle) or a bare "Active" tag with no descriptive comment (e.g., Carson Schwesinger, Cedric Johnson, D'Marco Jackson, Divine Deablo, James Pearce Jr., Justin Jefferson, Yasir Abdullah) — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed snapshot candidates not currently on the dashboard; none in the Nov 7–8 window carried a real injury description (all were "no designation"/cleared notes, practice-squad elevations, or trade/workload rumors), so no additions this run. WebSearch for the 1 PM ET slate's inactives and in-game injuries at the six tracked positions turned up nothing datable to Nov 8, 2026 — results skewed to 2025's Week 10 and earlier seasons. Two open rows came up in search with no new confirmed designation and were left unchanged: Trent McDuffie (CB, Rams, back) and Kyle Monangai (RB, Bears, toe/thumb — Sunday-night game, outside this slate anyway). Circuit breaker check: 20 removals against 488 prior rows (4.1%), well under the 25% threshold.
+
+**ANOMALY — flagged for owner review:** 310 of 488 dashboard rows (63.5%) have no name match in this run's snapshot. This did NOT trigger the circuit breaker because none of this run's removals were absence-based — all 20 came from explicit recovery language found on matched rows, per the policy above. But the mismatch rate itself is far above the 25% absence-based-removal threshold, so no vanished-check (absence ⇒ removal) was attempted on the other ~290 unmatched rows this run. Sampling suggests many are legacy Aug/Sept preseason entries that ESPN's current-week injury report has long since dropped (expected weekly churn, not necessarily recovery), but a backlog this large has likely been accumulating across several sweeps. Recommend the owner spot-check a sample of unmatched rows and consider a dedicated backlog-reconciliation pass (with individual WebSearch verification) rather than relying on the automated absence-check, which the circuit breaker is correctly refusing to run at this scale.
