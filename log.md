@@ -9037,3 +9037,20 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Ronnie Rivers (RB, Rams) — removed: snapshot said he "has returned" from a six-game IR stint and "has no injury designation" heading into Sunday's game.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-07T21:56:00Z (current, <15 min old at run start). Reviewed 47 active-status candidate rows at the six tracked positions; the 2 removals above carried explicit unhedged activation/no-designation language, while the remainder carried only blank comments, stat recaps, or hedged language ("appears," "should," "on track," "position himself for") insufficient under the standing policy — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 17 new snapshot candidates; 16 were bare game-day status words ("questionable"/"out"/"inactive") with no injury description and excluded, including a repeat "Trevin Wallace" (Jets/groin) entry with the same internally inconsistent bio text resolved via WebSearch in prior sweeps (real Trevin Wallace is a Panthers LB already cleared to play) — excluded again. WebSearch for breaking news in the window surfaced nothing new at the six tracked positions beyond already-stale or off-scope items (Lamar Jackson, Tyler Huntley, Jalen Hurts are all out of scope at QB; Nate Wiggins was already on the dashboard with no new information). Circuit breaker check: 2 removals against 490 prior rows (0.4%), well under the 25% threshold.
+
+
+## Nov 8, 2026, 11:10 AM ET
+
+**New injuries:**
+- Alec Anderson (OT, Bills) — ankle; questionable for Monday's game against the Vikings after a limited Saturday practice.
+- Dion Dawkins (OT, Bills) — ribs; questionable for Monday's game against the Vikings, injury sustained in last Sunday's win over Baltimore.
+- Nahshon Wright (CB, Jets) — back; ruled out for Sunday's game against the Chiefs.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Andrew Van Ginkel (LB, Vikings) — removed: snapshot said he upgraded to a full practice Saturday and is "clear to suit up" on Monday night.
+- Spencer Brown (OT, Bills) — removed: snapshot said "he'll be back in action Monday" after an LP/LP/FP practice progression.
+- Audric Estime (RB, Saints) — removed: snapshot confirmed he has moved past the thigh injury that led to his earlier injury-settlement release and has since rejoined the Saints' roster as a healthy player.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-08T09:05:03Z (~7h old at run start, within the 6–24h usable-with-note window). Reviewed 46 active-status candidate rows at the six tracked positions; the 3 removals above carried explicit unhedged clearance/recovery language, while the remainder carried only blank comments, stat recaps, or hedged language ("appears," "should," "on track," "position himself for") insufficient under the standing policy — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 17 new snapshot candidates; 14 were bare game-day status words with no injury description and excluded, including a repeat "Trevin Wallace" (Jets/groin) entry with the same internally inconsistent bio text resolved via WebSearch in prior sweeps — excluded again. The 3 additions above carried real injury descriptions. WebSearch for breaking Sunday-morning injury news returned nothing new at the six tracked positions (only an off-scope WR injury and a note that Pittsburgh and San Francisco are on bye in Week 9). Circuit breaker check: 3 removals against 488 prior rows (0.6%), well under the 25% threshold.
