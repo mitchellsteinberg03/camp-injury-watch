@@ -9089,3 +9089,38 @@ No new injuries, status changes, or removals at the six tracked positions this w
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-08T16:42:25Z (~22 min old at run start, current). Window since last sweep: Nov 8, 11:10 AM ET–4:13 PM ET, with a focus on the 1 PM ET slate's inactives/in-game injuries. Reviewed all currently-matched dashboard rows against the snapshot for explicit unhedged clearance/activation/no-designation language; the 20 removals above (19 players, one with a duplicate row) qualified. Held unchanged, per the standing policy, rows whose only snapshot signal was a stat recap from a completed game (e.g., Evan Williams, Josiah Trotter, Roquan Smith, George Holani, Jonah Coleman, Rico Dowdle) or a bare "Active" tag with no descriptive comment (e.g., Carson Schwesinger, Cedric Johnson, D'Marco Jackson, Divine Deablo, James Pearce Jr., Justin Jefferson, Yasir Abdullah) — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed snapshot candidates not currently on the dashboard; none in the Nov 7–8 window carried a real injury description (all were "no designation"/cleared notes, practice-squad elevations, or trade/workload rumors), so no additions this run. WebSearch for the 1 PM ET slate's inactives and in-game injuries at the six tracked positions turned up nothing datable to Nov 8, 2026 — results skewed to 2025's Week 10 and earlier seasons. Two open rows came up in search with no new confirmed designation and were left unchanged: Trent McDuffie (CB, Rams, back) and Kyle Monangai (RB, Bears, toe/thumb — Sunday-night game, outside this slate anyway). Circuit breaker check: 20 removals against 488 prior rows (4.1%), well under the 25% threshold.
 
 **ANOMALY — flagged for owner review:** 310 of 488 dashboard rows (63.5%) have no name match in this run's snapshot. This did NOT trigger the circuit breaker because none of this run's removals were absence-based — all 20 came from explicit recovery language found on matched rows, per the policy above. But the mismatch rate itself is far above the 25% absence-based-removal threshold, so no vanished-check (absence ⇒ removal) was attempted on the other ~290 unmatched rows this run. Sampling suggests many are legacy Aug/Sept preseason entries that ESPN's current-week injury report has long since dropped (expected weekly churn, not necessarily recovery), but a backlog this large has likely been accumulating across several sweeps. Recommend the owner spot-check a sample of unmatched rows and consider a dedicated backlog-reconciliation pass (with individual WebSearch verification) rather than relying on the automated absence-check, which the circuit breaker is correctly refusing to run at this scale.
+
+
+## Nov 8, 2026, 9:10 PM ET
+
+**New injuries (in-game, Sunday Week 9 slate):**
+- Donovan Ezeiruaku (LB, Cowboys) — ankle; exited Sunday's game against the Colts, questionable to return.
+- Ty'Ron Hopper (LB, Packers) — chest; hurt in the first quarter against the Patriots, questionable to return.
+- Zack Baun (LB, Eagles) — back; exited the second half against the Giants, questionable to return.
+- Riley Moss (CB, Broncos) — concussion; exited Sunday's game against the Panthers for evaluation.
+- Isas Waxter (CB, Chargers) — ankle; exited the first quarter against the Texans, questionable to return.
+- Charles Woods (CB, Patriots) — hamstring; hurt during pregame warmups, questionable for Sunday's game against the Packers.
+- Jalen Travis (OT, Colts) — knee; ruled out for the rest of Sunday's game against the Cowboys.
+- Jaylon Moore (OT, Chiefs) — ankle; exited the second half against the Jets, questionable to return.
+- Justin Eboigbe (DT, Chargers) — ankle; hurt in the first quarter against the Texans, return uncertain.
+- Steve Avila (G, Rams) — hamstring; ruled out for the remainder of Sunday's game against the Commanders.
+- Lucas Patrick (G, Commanders) — concussion; ruled out for the remainder of Sunday's game against the Rams.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Darien Porter (CB, Raiders) — removed: snapshot said he "will ultimately be able to give it a go" after being questionable.
+- Kam Curl (S, Rams) — removed: snapshot said he "is set to suit up" for Sunday's game.
+- Martin Emerson Jr. (CB, Saints) — removed: snapshot confirmed he's "not on the Saints' list of inactive players."
+- Marist Liufau (LB, Cowboys) — removed: snapshot confirmed he's "set to make his debut" Sunday after being activated from IR.
+- Yasir Abdullah (LB, Falcons) — removed: snapshot confirmed he was activated from IR Saturday for his first game action since Week 4.
+- Divine Deablo (LB, Falcons) — removed: snapshot confirmed his return to action is "confirmed" after a full practice Friday.
+- Cedric Johnson (DE, Bengals) — removed: snapshot said he's "confirmed to be active" for Sunday's game.
+- Malik Herring (DE, Dolphins) — removed: snapshot said "he's good to go" for the game against Detroit.
+- Walter Nolen III (DT, Cardinals) — removed: snapshot confirmed he's cleared "to suit up for Sunday's game."
+- Kelvin Banks Jr. (OT, Saints) — removed: snapshot said he's "all set to suit up" after being activated from IR.
+- Torricelli Simpkins III (G, Panthers) — removed: snapshot confirmed his ankle injury "won't keep him off the field" for Sunday's game.
+- Kaytron Allen (RB, Dolphins) — removed: snapshot said he's "officially active" for Sunday's game against the Lions.
+- Sione Vaki (RB, Lions) — removed: snapshot confirmed "he will be out there" against the Dolphins.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-08T22:12:41Z (current, ~3h old at run start). Window since last sweep: Nov 8, 4:13 PM ET–9:10 PM ET, covering most of the Sunday Week 9 slate. Reviewed 40 active-status candidate rows at the six tracked positions; the 13 removals above carried explicit unhedged clearance/activation/confirmation language, while the remainder carried only blank comments, stat recaps, or hedged language ("appears," "seems likely," "if he returns") insufficient under the standing policy — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 68 new snapshot candidates; 57 were bare "inactive"/"questionable" entries with no injury description (normal game-day inactive lists) and excluded, including a repeat "Trevin Wallace" (Jets) entry resolved as a data error in prior sweeps — excluded again. The 11 additions above are confirmed in-game injuries with real descriptions. Circuit breaker check: 13 removals against 468 prior rows (2.8%), well under the 25% threshold. Note: a sibling sweep's 4:13 PM ET entry flagged an ANOMALY regarding a large backlog (~310 rows, 63.5%) of dashboard rows with no current snapshot match; that condition persists and was not addressed this run, consistent with the circuit breaker correctly declining to run an absence-based vanished-check at that scale — flagged again for owner awareness.
