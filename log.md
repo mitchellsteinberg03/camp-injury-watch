@@ -9124,3 +9124,23 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Sione Vaki (RB, Lions) — removed: snapshot confirmed "he will be out there" against the Dolphins.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-08T22:12:41Z (current, ~3h old at run start). Window since last sweep: Nov 8, 4:13 PM ET–9:10 PM ET, covering most of the Sunday Week 9 slate. Reviewed 40 active-status candidate rows at the six tracked positions; the 13 removals above carried explicit unhedged clearance/activation/confirmation language, while the remainder carried only blank comments, stat recaps, or hedged language ("appears," "seems likely," "if he returns") insufficient under the standing policy — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 68 new snapshot candidates; 57 were bare "inactive"/"questionable" entries with no injury description (normal game-day inactive lists) and excluded, including a repeat "Trevin Wallace" (Jets) entry resolved as a data error in prior sweeps — excluded again. The 11 additions above are confirmed in-game injuries with real descriptions. Circuit breaker check: 13 removals against 468 prior rows (2.8%), well under the 25% threshold. Note: a sibling sweep's 4:13 PM ET entry flagged an ANOMALY regarding a large backlog (~310 rows, 63.5%) of dashboard rows with no current snapshot match; that condition persists and was not addressed this run, consistent with the circuit breaker correctly declining to run an absence-based vanished-check at that scale — flagged again for owner awareness.
+
+
+## Nov 9, 2026, 11:10 AM ET
+
+**New injuries (Sunday Week 9 slate conclusion, including Sunday Night Football):**
+- Roy Lopez (DT, Cardinals) — toe; ruled out for the remainder of Sunday's game against the Seahawks.
+- Gracen Halton (DT, 49ers) — ankle; broken ankle in the fourth quarter, expected to miss the remainder of the 2026 season.
+- P.J. Locke (S, Cowboys) — concussion; suffered during Sunday's win over the Colts.
+- Brenden Schooler (S, Patriots) — hamstring; did not return to Sunday's game against the Packers.
+- Deommodore Lenoir (CB, 49ers) — foot; sustained during Sunday's win over the Raiders.
+- Renardo Green (CB, 49ers) — back; sustained during Sunday's win over the Raiders.
+- Antoine Winfield Jr. (S, Buccaneers) — ankle; ruled out for the rest of Sunday night's game against the Bears.
+- Josh Jacobs (RB, Packers) — finger; fractured during Sunday's win over the Patriots, did not return.
+- Rhamondre Stevenson (RB, Patriots) — unspecified; headed to the locker room during Sunday's game against the Packers for evaluation.
+
+**Status/designation changes:** None.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-09T09:53:14Z (~6h15m old at run start, within the 6–24h usable-with-note window). Reviewed 24 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language this run — all were blank comments, stat recaps, or hedged/conditional language ("appears," "seems likely," "if he returns"), including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 71 new snapshot candidates; 62 were bare "inactive"/"questionable" game-day entries with no injury description and excluded, including a repeat "Trevin Wallace" (Jets) entry resolved as a data error in prior sweeps — excluded again. The 9 additions above are confirmed in-game/postgame injuries with real descriptions. WebSearch for the Buccaneers-Bears Sunday Night Football injury report turned up nothing beyond what the snapshot already captured (Antoine Winfield Jr.). Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged in the Nov 8 sweeps (rows with no current snapshot match) persists and was not addressed this run — still flagged for owner awareness, pending a manual reconciliation pass.
