@@ -9144,3 +9144,15 @@ No new injuries, status changes, or removals at the six tracked positions this w
 **Removals:** None.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-09T09:53:14Z (~6h15m old at run start, within the 6–24h usable-with-note window). Reviewed 24 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language this run — all were blank comments, stat recaps, or hedged/conditional language ("appears," "seems likely," "if he returns"), including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 71 new snapshot candidates; 62 were bare "inactive"/"questionable" game-day entries with no injury description and excluded, including a repeat "Trevin Wallace" (Jets) entry resolved as a data error in prior sweeps — excluded again. The 9 additions above are confirmed in-game/postgame injuries with real descriptions. WebSearch for the Buccaneers-Bears Sunday Night Football injury report turned up nothing beyond what the snapshot already captured (Antoine Winfield Jr.). Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged in the Nov 8 sweeps (rows with no current snapshot match) persists and was not addressed this run — still flagged for owner awareness, pending a manual reconciliation pass.
+
+
+## Nov 9, 2026, 9:10 PM ET
+
+**New injuries:**
+- Tyler Goodson (RB, Cowboys) — knee; injured Sunday against the Colts, on track to miss at least next Sunday's game against the 49ers.
+
+**Status/designation changes:** None.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-09T20:48:40Z (current, ~20 min old at run start). Reviewed 24 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language this run — all were blank comments, stat recaps, or hedged/conditional language, including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 63 new snapshot candidates; 62 were bare "inactive"/"questionable" game-day entries with no injury description and excluded, including a repeat "Trevin Wallace" (Jets) entry resolved as a data error in prior sweeps — excluded again. WebSearch for Monday Night Football (Cardinals at Cowboys) breaking injury news returned nothing — the game had not yet kicked off at run time. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged in the Nov 8 sweeps persists and was not addressed this run — still flagged for owner awareness.
