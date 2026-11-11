@@ -9163,3 +9163,16 @@ No new injuries, status changes, or removals at the six tracked positions this w
 No new injuries, status changes, or removals at the six tracked positions this window.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-10T12:43:15Z (current, ~3h25m old at run start). Reviewed 29 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language — all blank comments, stat recaps, or hedged language, including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 12 new snapshot candidates; 11 were bare "inactive"/"out"/"questionable" entries with no injury description and excluded (including the recurring "Trevin Wallace" data-error entry and the chronic "Maliek Collins" bare-"out" entry). The 12th, Kyle Van Noy (LB, Vikings, calf), was briefly sidelined during Monday night's game but the snapshot confirmed he "has now returned to action" in the same game — a resolved non-event, not added. WebSearch for the Cardinals-Cowboys Monday Night Football game surfaced only what appear to be recycled articles with mismatched dates (referencing a 2025 Week 9 matchup, per internal inconsistencies), not corroborated by the fresh snapshot — excluded per the standing caution on stale/recycled search results. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged in the Nov 8 sweeps persists and was not addressed this run — still flagged for owner awareness.
+
+
+## Nov 10, 2026, 9:10 PM ET
+
+**New injuries:**
+- Zach Sieler (DT, Dolphins) — biceps; ruptured Sunday against the Lions, season-ending surgery required.
+- Tyrion Ingram-Dawkins (DE, Vikings) — ankle; exited Monday's game against the Bills, questionable to return.
+
+**Status/designation changes:** None.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-10T20:51:55Z (current, ~20 min old at run start). Reviewed 29 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language — all blank comments, stat recaps, or hedged language, including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 8 new snapshot candidates; 6 were bare "inactive"/"questionable" entries with no injury description and excluded, including the recurring "Trevin Wallace" and "Maliek Collins" data-quality entries. The 2 additions above carried real injury descriptions. WebSearch for breaking Nov 10 injury news returned only stale 2025-dated results, correctly identified as such and excluded per the standing caution on recycled articles. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged in the Nov 8 sweeps persists and was not addressed this run — still flagged for owner awareness.
