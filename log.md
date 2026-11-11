@@ -9183,3 +9183,30 @@ No new injuries, status changes, or removals at the six tracked positions this w
 No new injuries, status changes, or removals at the six tracked positions this window.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-11T09:30:52Z (~6h40m old at run start, within the 6–24h usable-with-note window). Reviewed 28 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language — all blank comments, stat recaps, or hedged language, including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept unchanged per established precedent. Reviewed 6 new snapshot candidates; all were bare "inactive"/"questionable" entries with no injury description and excluded, including the recurring "Trevin Wallace" and "Maliek Collins" data-quality entries. WebSearch for breaking Nov 11 injury news returned only stale/off-date results from prior seasons, excluded per the standing caution on recycled articles. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged in the Nov 8 sweeps persists and was not addressed this run — still flagged for owner awareness.
+
+## Nov 11, 2026, 5:10 PM ET
+
+**New injuries / Wednesday practice-report additions (Week 10, since the 11:10 AM ET sweep):**
+- Kelvin Banks Jr. (OT, Saints) — ankle; limited participant in Wednesday's practice ahead of Sunday's game against the Panthers.
+- David Edwards (G, Saints) — knee; limited participant in Wednesday's practice ahead of Sunday's game against the Panthers.
+- Alvin Kamara (RB, Saints) — lingering back; did not practice Wednesday (rest/back management) ahead of Sunday's game against the Panthers.
+- Trevin Wallace (LB, Jets) — groin; did not practice Wednesday ahead of Sunday's game against the Bills.
+
+**Status/designation changes:**
+- Jonathon Brooks (RB, Panthers) — designated to return to practice from injured reserve Wednesday, opening a 21-day practice window; not yet activated to the 53-man roster.
+- Joseph Ossai (LB, Jets) — limited participant in Wednesday's practice (ankle); wording refreshed off a stale Nov 1 game reference.
+- CJ Donaldson (RB, Saints) — did not practice Wednesday (shoulder); wording refreshed off a stale "Sunday's game against the Browns" reference.
+- Malachi Lawrence (LB, Cowboys) — escalated low→mid: placed on injured reserve Nov 7 (ankle), out at least four games.
+- Jonathan Bullard (DT, Cowboys) — remains on injured reserve, not activated as of Nov 7; wording refreshed off a stale Sept 30 "3-4 weeks" estimate.
+- Cam Skattebo (RB, Giants) — returned to a full practice participant Tuesday after a hamstring issue; wording refreshed off a stale Oct 25 "doubtful" reference, game status for this week to be determined.
+
+**Removals (5):**
+- Dorian Mausi (LB, Titans) — removed: activated from injured reserve Monday (Nov 10).
+- James Pearce Jr. (LB, Falcons) — removed: snapshot confirmed he was listed active and played Sunday (Nov 8) against the Bengals in Madrid.
+- Rico Dowdle (RB, Steelers) — removed: snapshot confirmed a full workload (15 carries, 56 yards, a TD) in a prior Sunday's win over the Browns — clearly past the knee issue.
+- Mike Washington Jr. (RB, Raiders) — removed: snapshot confirmed he played (6 carries) in Sunday's (Nov 8) loss to the 49ers.
+- Sean Tucker (RB, Buccaneers) — removed: snapshot confirmed active game participation (4 kickoff returns) in Sunday's (Nov 8) loss to the Bears.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-11T17:55:15Z (current, ~15 min old at run start). Window since last sweep: Nov 11, 11:10 AM ET–5:10 PM ET. Cross-checked all 317 non-high-severity dashboard rows against the snapshot by name/team; 152 matched a current snapshot entry and were screened for explicit clearance/activation/designation language — the 5 removals and 3 wording/severity updates above came from that pass, while the remaining ~144 matched rows carried only blank comments, stat recaps, or hedged language and were left unchanged (including the recurring playing-through-it case Travon Walker, kept per established precedent). The other 165 non-high rows (34.5% of all 477 rows) had no matching snapshot entry at all; per the circuit-breaker policy and consistent with the backlog anomaly flagged repeatedly since Nov 8, these were NOT treated as removal candidates by absence alone and were left unchanged rather than attempting an infeasible full individual WebSearch pass on all 165 — this persistent coverage gap is flagged again for owner awareness. Reviewed the 3 snapshot entries dated inside this run's window: 2 were bare game-day status words with no injury description (excluded); the Jonathon Brooks IR-designation entry was corroborated via WebSearch and added above. WebSearch for Wednesday Week 10 practice-report news (the focus of this 6 PM sweep) corroborated official team-site Wednesday injury reports for the Saints and Jets, yielding the 4 additions above. DATA-QUALITY NOTE: prior sweeps (Nov 6–8) repeatedly excluded a "Trevin Wallace" snapshot entry as a data error, reasoning the real Trevin Wallace is a Panthers LB — but WebSearch this run confirms Wallace was waived by Carolina at the Aug 31 roster cuts and claimed off waivers by the Jets that same week; he has been a legitimate Jets LB since early September, so the Jets-tagged snapshot entries were not errors. His Wednesday groin DNP was added above as a genuine injury. Circuit breaker check: 5 removals against 482 prior rows (1.0%), well under the 25% threshold.
+
+No NEW badges aged off this run (all 6 current NEW rows — Tyrion Ingram-Dawkins, Zach Sieler, Trevin Wallace, Kelvin Banks Jr., David Edwards, Alvin Kamara — are under 24h old). Tile counts verified against current table rows: 165 high / 139 mid / 173 low / 477 all / 6 new.
