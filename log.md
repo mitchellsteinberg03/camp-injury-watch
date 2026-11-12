@@ -9237,3 +9237,20 @@ No NEW badges aged off this run (all 6 current NEW rows — Tyrion Ingram-Dawkin
 **Removals:** None.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-12T00:47:46Z (current, ~27 min old at run start). Reviewed 21 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language — all blank comments, stat recaps, or hedged language, including the recurring playing-through-it case Travon Walker (no longer matched this run but kept per established precedent). Reviewed 51 new snapshot candidates; 35 were bare "questionable"/"inactive" entries with no injury description and excluded, including a Dorian Mausi entry documenting an IR activation already reflected in the prior sweep's removal. The 16 additions above carried real injury descriptions from Wednesday's Week 10 practice reports across multiple teams. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged since Nov 8 persists and was not addressed this run — still flagged for owner awareness.
+
+
+## Nov 12, 2026, 11:10 AM ET
+
+**New injuries (Wednesday Week 10 practice reports, continued):**
+- DJ Turner II (CB, Bengals) — ankle; limited participant in Wednesday's practice.
+- Kam Curl (S, Rams) — toe; did not participate in Wednesday's walkthrough practice.
+- Quincy Williams (LB, Browns) — hamstring; limited participant in Wednesday's practice.
+- Derick Hall (LB, Seahawks) — back; did not participate at practice Wednesday.
+- Harrison Phillips (DT, Jets) — ankle; estimated as a non-participant on Wednesday's injury report.
+- Michael Burton (FB, Browns) — calf; did not practice Wednesday.
+
+**Status/designation changes:** None.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-12T09:54:33Z (~6h15m old at run start, within the 6–24h usable-with-note window). Reviewed 17 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language — all blank comments or stat recaps, including the recurring playing-through-it case Travon Walker (unmatched this run, kept per established precedent). Reviewed 35 new snapshot candidates; 28 were bare "questionable"/"inactive" entries with no injury description and excluded, including a repeat Dorian Mausi IR-activation entry already reflected in a prior sweep's removal. The 6 additions above carried real injury descriptions. WebSearch for Thursday Night Football (Giants-Commanders) injury news turned up nothing new at the six tracked positions beyond what the snapshot already captured. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged since Nov 8 persists and was not addressed this run — still flagged for owner awareness.
