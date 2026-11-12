@@ -9254,3 +9254,18 @@ No NEW badges aged off this run (all 6 current NEW rows — Tyrion Ingram-Dawkin
 **Removals:** None.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-12T09:54:33Z (~6h15m old at run start, within the 6–24h usable-with-note window). Reviewed 17 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language — all blank comments or stat recaps, including the recurring playing-through-it case Travon Walker (unmatched this run, kept per established precedent). Reviewed 35 new snapshot candidates; 28 were bare "questionable"/"inactive" entries with no injury description and excluded, including a repeat Dorian Mausi IR-activation entry already reflected in a prior sweep's removal. The 6 additions above carried real injury descriptions. WebSearch for Thursday Night Football (Giants-Commanders) injury news turned up nothing new at the six tracked positions beyond what the snapshot already captured. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged since Nov 8 persists and was not addressed this run — still flagged for owner awareness.
+
+## Nov 12, 2026, 5:05 PM ET
+
+**New injuries:** None.
+
+**Status/designation changes:**
+- Josh Jacobs (RB, Packers) — escalated low→mid: underwent surgery on the fractured right ring finger suffered in the Week 9 win over the Patriots; expected out roughly three weeks with a targeted return around Nov 25, IR possible.
+- Rhamondre Stevenson (RB, Patriots) — knee injury (initially evaluated after leaving the Week 9 win over the Packers) downgraded to doubtful this week; wording specified from "unspecified" to knee.
+- David Montgomery (RB, Texans) — improved to questionable as he works back into practice; stale "Sunday vs. Chargers" reference and ripple-effect depth-chart note removed.
+- Bhayshul Tuten (RB, Jaguars) — remains questionable (ankle); did not wear a helmet during the portion of Thursday's practice open to reporters; wording refreshed off a stale Week 9 Ravens game-time-decision reference.
+- Woody Marks (RB, Texans) — remains questionable (knee); wasn't spotted during the portion of Thursday's practice open to reporters.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-12T18:22:04Z (current, ~3h40m old at run start). Window since last sweep: Nov 12, 11:10 AM ET–5:05 PM ET. Filtered all tracked-position snapshot entries dated inside the window: only 5 hits league-wide, all at running back and all matching players already on the dashboard — no new additions. No entries in the window showed explicit clearance/return/activation language for any tracked-position player, so no removals this run. WebSearch for Thursday practice/injury news and for IR/ACL moves at the six positions turned up no results dated or verifiably tied to this window — results were either undated or clearly from other seasons (2019–2025), consistent with the recycled-article risk flagged in the task instructions; nothing from those searches was added. Two of the five status updates above (Jacobs, Stevenson) were corroborated against WebSearch articles whose dates (Nov 9 and Nov 10, 2026) are internally consistent with the ongoing storyline. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged since Nov 8 persists and was not addressed this run (same-day continuation sweep, no deep reconciliation pass) — still flagged for owner awareness.
