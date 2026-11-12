@@ -9210,3 +9210,30 @@ No new injuries, status changes, or removals at the six tracked positions this w
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-11T17:55:15Z (current, ~15 min old at run start). Window since last sweep: Nov 11, 11:10 AM ET–5:10 PM ET. Cross-checked all 317 non-high-severity dashboard rows against the snapshot by name/team; 152 matched a current snapshot entry and were screened for explicit clearance/activation/designation language — the 5 removals and 3 wording/severity updates above came from that pass, while the remaining ~144 matched rows carried only blank comments, stat recaps, or hedged language and were left unchanged (including the recurring playing-through-it case Travon Walker, kept per established precedent). The other 165 non-high rows (34.5% of all 477 rows) had no matching snapshot entry at all; per the circuit-breaker policy and consistent with the backlog anomaly flagged repeatedly since Nov 8, these were NOT treated as removal candidates by absence alone and were left unchanged rather than attempting an infeasible full individual WebSearch pass on all 165 — this persistent coverage gap is flagged again for owner awareness. Reviewed the 3 snapshot entries dated inside this run's window: 2 were bare game-day status words with no injury description (excluded); the Jonathon Brooks IR-designation entry was corroborated via WebSearch and added above. WebSearch for Wednesday Week 10 practice-report news (the focus of this 6 PM sweep) corroborated official team-site Wednesday injury reports for the Saints and Jets, yielding the 4 additions above. DATA-QUALITY NOTE: prior sweeps (Nov 6–8) repeatedly excluded a "Trevin Wallace" snapshot entry as a data error, reasoning the real Trevin Wallace is a Panthers LB — but WebSearch this run confirms Wallace was waived by Carolina at the Aug 31 roster cuts and claimed off waivers by the Jets that same week; he has been a legitimate Jets LB since early September, so the Jets-tagged snapshot entries were not errors. His Wednesday groin DNP was added above as a genuine injury. Circuit breaker check: 5 removals against 482 prior rows (1.0%), well under the 25% threshold.
 
 No NEW badges aged off this run (all 6 current NEW rows — Tyrion Ingram-Dawkins, Zach Sieler, Trevin Wallace, Kelvin Banks Jr., David Edwards, Alvin Kamara — are under 24h old). Tile counts verified against current table rows: 165 high / 139 mid / 173 low / 477 all / 6 new.
+
+
+## Nov 11, 2026, 9:10 PM ET
+
+**New injuries (Wednesday Week 10 practice reports, continued):**
+- Christian Benford (CB, Bills) — wrist; limited participant in Wednesday's walkthrough practice.
+- Ronnie Hickman (S, Browns) — concussion; in protocol, injury suffered in Week 9.
+- Brian Branch (S, Lions) — hip; limited participant at Wednesday's practice.
+- Javon Bullard (S, Packers) — ankle; held out of Wednesday's practice.
+- Kevin Byard (S, Patriots) — chest; limited participant in Wednesday's practice.
+- Colton Hood (CB, Giants) — finger; dislocated during Tuesday's practice, status for Thursday's game against the Commanders TBD.
+- DeShon Elliott (S, Steelers) — ankle; limited participant at Wednesday's practice.
+- Lukas Van Ness (DE, Packers) — back; did not practice Wednesday.
+- Azeez Al-Shaair (LB, Texans) — groin; did not practice Wednesday.
+- Myles Garrett (DE, Rams) — knee; limited at Wednesday's walkthrough.
+- Blake Cashman (LB, Vikings) — concussion; in protocol, injured during Monday night's loss to the Bills.
+- Cody Barton (LB, Titans) — concussion; did not practice Wednesday.
+- Anthony Hill Jr. (LB, Titans) — neck; did not practice Wednesday.
+- Sione Vaki (RB, Lions) — ankle; did not practice Wednesday.
+- Woody Marks (RB, Texans) — knee; limited participant in Wednesday's practice.
+- Chris Rodriguez Jr. (RB, Jaguars) — hand; limited participant in Wednesday's practice.
+
+**Status/designation changes:** None.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-12T00:47:46Z (current, ~27 min old at run start). Reviewed 21 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language — all blank comments, stat recaps, or hedged language, including the recurring playing-through-it case Travon Walker (no longer matched this run but kept per established precedent). Reviewed 51 new snapshot candidates; 35 were bare "questionable"/"inactive" entries with no injury description and excluded, including a Dorian Mausi entry documenting an IR activation already reflected in the prior sweep's removal. The 16 additions above carried real injury descriptions from Wednesday's Week 10 practice reports across multiple teams. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged since Nov 8 persists and was not addressed this run — still flagged for owner awareness.
