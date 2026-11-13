@@ -9276,3 +9276,32 @@ No NEW badges aged off this run (all 6 current NEW rows — Tyrion Ingram-Dawkin
 No new injuries, status changes, or removals at the six tracked positions this window.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-12T18:22:04Z (~6h45m old at run start, within the 6–24h usable-with-note window; no newer snapshot had landed since the prior sweep, worth watching if the gap widens). Reviewed 17 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language — all blank comments or stat recaps, including the recurring playing-through-it case Travon Walker (unmatched this run, kept per established precedent). Reviewed 29 new snapshot candidates; all were bare "questionable"/"inactive" entries with no injury description and excluded, including a repeat Dorian Mausi IR-activation entry already reflected in a prior sweep's removal. WebSearch for Thursday Night Football (Giants at Commanders, 8:15 PM ET kickoff) found nothing — the game had not yet kicked off at run time (8:07 PM ET). A "Daron Payne clock-runoff injury" article surfaced in search was identified as a recycled 2023 story (confirmed via a follow-up search showing the teams' actual 2026 history) and correctly excluded per the standing caution on stale articles. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged since Nov 8 persists and was not addressed this run — still flagged for owner awareness.
+
+
+## Nov 13, 2026, 11:10 AM ET
+
+**New injuries (Thursday Week 10 practice reports + TNF in-game injuries, Giants-Commanders):**
+- Jason Pinnock (S, Giants) — back; questionable to return to Thursday night's game against the Commanders.
+- Malik Harrison (LB, Giants) — groin; inactive for Thursday's game against the Commanders.
+- Kendal Daniels (LB, Falcons) — Achilles; limited participant at Thursday's practice.
+- Danielle Hunter (DE, Texans) — hamstring; limited participant in Thursday's practice.
+- Will Anderson Jr. (DE, Texans) — ankle; limited participant in Thursday's practice.
+- Dre Greenlaw (LB, 49ers) — knee; limited during Thursday's practice.
+- Kevin Zeitler (G, Packers) — ankle/triceps; limited participant Thursday.
+- Aaron Banks (G, Packers) — knee/hip; limited participant in Thursday's practice.
+- Taliese Fuaga (OT, Saints) — knee; limited participant at Thursday's practice.
+- Trent Williams (OT, 49ers) — shoulder; limited participant at Thursday's practice.
+- Keaton Mitchell (RB, Chargers) — hip; limited at practice Thursday.
+- Tony Pollard (RB, Titans) — finger; did not practice Thursday.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Theo Jackson (S, Vikings) — removed: snapshot said he "has since been upgraded and is ready to go" versus the Bills.
+- DeShon Elliott (S, Steelers) — removed: snapshot said he "had no injury designation in practice Thursday."
+- DeMarvion Overshown (LB, Cowboys) — removed: snapshot said "he is good to go for Sunday's meeting with the 49ers."
+- Cam Skattebo (RB, Giants) — removed: snapshot said he "didn't show any ill effects from the hamstring injury."
+- Alvin Kamara (RB, Saints) — removed: snapshot said his return to all drills "gives him the all-clear" ahead of Sunday.
+- Kyle Hamilton (S, Ravens) — removed: snapshot said "he is good to go for Monday's game" after a full practice Thursday.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-13T09:38:28Z (~6h48m old at run start, within the 6–24h usable-with-note window). Reviewed 41 active-status candidate rows at the six tracked positions; the 6 removals above carried explicit unhedged clearance language, while rows using softer "indicates that he'll be available/return" inference language (Jaylon Jones, Greg Gaines, Damien Lewis) were treated as insufficient and kept unchanged, consistent with the standing hedge-word policy, as were rows hedged with "appears"/"should"/"figures to," blank comments, and stat recaps — including the recurring playing-through-it case Roquan Smith, kept per established precedent. Reviewed 52 new snapshot candidates; 38 were bare "questionable"/"inactive" entries with no injury description and excluded, including a stale Kyle Van Noy entry (already resolved, returned to Monday's game) and the recurring "Maliek Collins" data-quality entry. The 12 additions above carried real injury descriptions, including two in-game TNF injuries (Pinnock, Harrison). WebSearch for the Giants-Commanders TNF result turned up no box score or recap, so no additional confirmation beyond the snapshot was available. Circuit breaker check: 6 removals against 499 prior rows (1.2%), well under the 25% threshold.
