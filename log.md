@@ -9341,3 +9341,34 @@ Breaking-news WebSearch across the six positions for the window turned up: the R
 - Chris Rodriguez Jr. (RB, Jaguars) — removed: snapshot said he "was also cleared for Week 10 action."
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-13T23:37:56Z (current, <40 min old at run start). Reviewed 57 active-status candidate rows at the six tracked positions; the 4 removals above carried explicit unhedged clearance/protocol-clearance language, while rows with "indicates"/"suggests" inference language or hedge words ("appears," "should," "looks like," "figures to") were kept unchanged per the standing policy — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept per established precedent. Reviewed 34 new snapshot candidates; 29 were bare "questionable"/"doubtful"/"out"/"inactive" entries with no injury description and excluded, including a stale Kyle Van Noy entry and a Jessie Bates III entry read as a bye/rest-related roster note rather than an injury. The 4 additions above carried real injury descriptions. WebSearch for breaking Nov 13 injury news surfaced nothing new at the six tracked positions beyond an out-of-scope QB item (Lamar Jackson). Circuit breaker check: 4 removals against 505 prior rows (0.8%), well under the 25% threshold.
+
+
+## Nov 14, 2026, 11:10 AM ET
+
+**New injuries (Saturday Week 10 final status reports):**
+- Spencer Brown (OT, Bills) — ankle; doubtful for Sunday's game against the Jets.
+- DaRon Bland (CB, Cowboys) — ankle; questionable for Sunday's game against the 49ers.
+- Joshua Metellus (S, Vikings) — shoulder; questionable for Sunday's game against the Packers.
+- Jarvis Brownlee Jr. (CB, Jets) — illness; questionable for Sunday's game against the Bills.
+- Keylan Rutledge (G, Texans) — neck; ruled out for Sunday's game against the Browns.
+- Jerry Tillery (DT, Colts) — calf; ruled out for Sunday's game against the Dolphins.
+- Christen Miller (DT, Saints) — knee; ruled out for Sunday's game against the Panthers.
+- Jaydn Ott (RB, Chiefs) — hamstring; questionable for Sunday's game against the Falcons.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Reed Blankenship (S, Texans) — removed: snapshot said he's "cleared to play Sunday" out of concussion protocol.
+- Denzel Ward (CB, Browns) — removed: snapshot said he "avoided an injury tag for Sunday's game."
+- Carson Schwesinger (LB, Browns) — removed: snapshot said his full session "was enough... to avoid an injury tag for Sunday's contest."
+- Uchenna Nwosu (LB, Seahawks) — removed: snapshot said "he's been cleared to play Sunday."
+- Ty'Ron Hopper (LB, Packers) — removed: snapshot said he "is all set to suit up for Sunday's divisional clash."
+- Derick Hall (LB, Seahawks) — removed: snapshot said he's "been given the green light to play in Sunday's contest."
+- Brandon Pili (DT, Seahawks) — removed: snapshot said "he's been cleared to play in Week 10."
+- Alec Anderson (OT, Bills) — removed: snapshot said he "is all set to suit up as the starting left guard."
+- Dion Dawkins (OT, Bills) — removed: snapshot said he "is all set to suit up against the Jets."
+- Kelvin Banks Jr. (OT, Saints) — removed: snapshot said he "was able to avoid an injury tag after logging a full practice Friday."
+- David Edwards (G, Saints) — removed: snapshot said "he avoided an injury tag for Week 10."
+- Aaron Banks (G, Packers) — removed: snapshot said "the sixth-year pro has been cleared to play Sunday."
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-14T15:08:59Z (current, ~1h old at run start). Reviewed 53 active-status candidate rows at the six tracked positions; the 12 removals above carried explicit unhedged clearance/"avoided an injury tag"/"green light" language, while rows with hedge words ("appears," "should," "indicates," "figures to," "likely") or recurring playing-through-it language (Travon Walker, Bhayshul Tuten, Quincy Williams) were kept unchanged per the standing policy. Reviewed 27 new snapshot candidates; 18 were bare "questionable"/"doubtful"/"out"/"inactive" entries with no injury description and excluded, including a stale Kyle Van Noy entry and the recurring Jessie Bates III bye/rest-related note (not an injury). The 8 additions above carried real injury descriptions. WebSearch for breaking Nov 14 injury news surfaced nothing new at the six tracked positions beyond already-stale or off-scope items. Circuit breaker check: 12 removals against 505 prior rows (2.4%), well under the 25% threshold.
