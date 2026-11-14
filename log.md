@@ -9322,3 +9322,22 @@ Checked 36 dashboard rows against "Active"-status snapshot entries reporting a f
 Absence check: 163 non-high-severity dashboard rows (32.3% of 505) have no name match anywhere in this run's snapshot (319 of 505, or 63%, including high-severity). This is a continuation of the dashboard-backlog anomaly first flagged Nov 8 — ESPN's current-week injury-report feed does not carry a comprehensive rolling list of every previously-tracked injury, so absence from it is not a reliable recovery signal at this volume. Per the circuit breaker, no absence-based vanished-check was attempted this run (would vastly exceed the 25% threshold); only explicit-language-based review (above) and additions were considered. High-severity (IR/season-ending) rows were not touched absent explicit activation/return news.
 
 Breaking-news WebSearch across the six positions for the window turned up: the Ravens placed QBs Lamar Jackson and Tyler Huntley on IR Nov. 12 (out of position scope, not added); a "Jets place CB Austin on IR, activate OLB Luvu from IR" story that traced back to a recycled 2020 transaction (declined per the date-consistency rule); and a "Dolphins place RT Austin Jackson on IR" story that traced back to September 2025 (also declined as recycled). No in-scope, in-window, dated breaking news at the six positions was found beyond the Jack Campbell update above. Circuit breaker check: 0 removals this run.
+
+
+## Nov 13, 2026, 9:10 PM ET
+
+**New injuries (Friday Week 10 final status reports):**
+- Divine Deablo (LB, Falcons) — forearm; doubtful for Sunday's game against the Chiefs (re-aggravation, new DNP this week).
+- Xavier McKinney (S, Packers) — foot; questionable for Sunday's game against the Vikings, late addition to the practice report.
+- Martin Emerson Jr. (CB, Saints) — shin; questionable for Sunday's game against the Panthers.
+- Kenneth Walker III (RB, Chiefs) — groin; questionable for Sunday's game against the Falcons.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- DJ Wonnum (LB, Lions) — removed: snapshot said he "has cleared protocol after passing an evaluation by an independent neurologist."
+- Kendal Daniels (LB, Falcons) — removed: snapshot said his full session Friday "was enough for him to avoid an injury tag" for Sunday.
+- Woody Marks (RB, Texans) — removed: snapshot said he "heads into the weekend without any availability concerns."
+- Chris Rodriguez Jr. (RB, Jaguars) — removed: snapshot said he "was also cleared for Week 10 action."
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-13T23:37:56Z (current, <40 min old at run start). Reviewed 57 active-status candidate rows at the six tracked positions; the 4 removals above carried explicit unhedged clearance/protocol-clearance language, while rows with "indicates"/"suggests" inference language or hedge words ("appears," "should," "looks like," "figures to") were kept unchanged per the standing policy — including the recurring playing-through-it cases Travon Walker and Bhayshul Tuten, kept per established precedent. Reviewed 34 new snapshot candidates; 29 were bare "questionable"/"doubtful"/"out"/"inactive" entries with no injury description and excluded, including a stale Kyle Van Noy entry and a Jessie Bates III entry read as a bye/rest-related roster note rather than an injury. The 4 additions above carried real injury descriptions. WebSearch for breaking Nov 13 injury news surfaced nothing new at the six tracked positions beyond an out-of-scope QB item (Lamar Jackson). Circuit breaker check: 4 removals against 505 prior rows (0.8%), well under the 25% threshold.
