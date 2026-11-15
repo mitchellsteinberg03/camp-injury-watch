@@ -9384,3 +9384,17 @@ Breaking-news WebSearch across the six positions for the window turned up: the R
 - Arden Key (DE, Colts) — removed: snapshot said he was "cleared to return to practice Wednesday" and activated from injured reserve ahead of Sunday's contest.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-14T20:45:43Z (current, ~26 min old at run start). Reviewed 41 active-status candidate rows at the six tracked positions; the 1 removal above carried explicit unhedged activation/clearance language, while the remainder carried only blank comments, stat recaps, or hedge/inference language ("appears," "should," "indicates," "figures to," "likely"), including the recurring playing-through-it cases Travon Walker, Bhayshul Tuten, and Quincy Williams, kept unchanged per established precedent. Reviewed 19 new snapshot candidates; all were bare "questionable"/"doubtful"/"out"/"inactive" entries with no injury description and excluded, including a stale Kyle Van Noy entry and the recurring Jessie Bates III bye/rest-related note. WebSearch for breaking Nov 14 evening injury news surfaced nothing new at the six tracked positions beyond stale or off-scope items. Circuit breaker check: 1 removal against 501 prior rows (0.2%), well under the 25% threshold.
+
+
+## Nov 15, 2026, 11:10 AM ET
+
+**New injuries:**
+- Branson Taylor (G, Chargers) — ankle; ruled out for Monday's game against the Ravens.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Deane Leonard (CB, Chargers) — removed: snapshot said he "has now passed through the NFL's concussion protocol and has been cleared to return to game action."
+- Keaton Mitchell (RB, Chargers) — removed: snapshot said he's "been officially cleared to play Monday."
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-15T09:32:40Z (~6h35m old at run start, within the 6–24h usable-with-note window). Reviewed 42 active-status candidate rows at the six tracked positions; the 2 removals above carried explicit unhedged clearance language, while the remainder carried only blank comments, stat recaps, or hedge/inference language ("appears," "should," "indicates," "figures to," "likely"), including the recurring playing-through-it cases Travon Walker, Bhayshul Tuten, and Quincy Williams, kept unchanged per established precedent. Reviewed 18 new snapshot candidates; 17 were bare "questionable"/"doubtful"/"out"/"inactive" entries with no injury description and excluded, including a stale Kyle Van Noy entry and the recurring Jessie Bates III bye/rest-related note. The 1 addition above carried a real injury description (Chargers play Monday night, hence a Sunday-dated designation). WebSearch for breaking Sunday-morning injury news found nothing confirmed yet — inactive lists had not been released at run time (90 minutes before kickoff per standard NFL practice), and other results traced to a stale 2025 article. Circuit breaker check: 2 removals against 500 prior rows (0.4%), well under the 25% threshold.
