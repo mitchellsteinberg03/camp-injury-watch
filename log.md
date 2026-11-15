@@ -9398,3 +9398,49 @@ Breaking-news WebSearch across the six positions for the window turned up: the R
 - Keaton Mitchell (RB, Chargers) — removed: snapshot said he's "been officially cleared to play Monday."
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-15T09:32:40Z (~6h35m old at run start, within the 6–24h usable-with-note window). Reviewed 42 active-status candidate rows at the six tracked positions; the 2 removals above carried explicit unhedged clearance language, while the remainder carried only blank comments, stat recaps, or hedge/inference language ("appears," "should," "indicates," "figures to," "likely"), including the recurring playing-through-it cases Travon Walker, Bhayshul Tuten, and Quincy Williams, kept unchanged per established precedent. Reviewed 18 new snapshot candidates; 17 were bare "questionable"/"doubtful"/"out"/"inactive" entries with no injury description and excluded, including a stale Kyle Van Noy entry and the recurring Jessie Bates III bye/rest-related note. The 1 addition above carried a real injury description (Chargers play Monday night, hence a Sunday-dated designation). WebSearch for breaking Sunday-morning injury news found nothing confirmed yet — inactive lists had not been released at run time (90 minutes before kickoff per standard NFL practice), and other results traced to a stale 2025 article. Circuit breaker check: 2 removals against 500 prior rows (0.4%), well under the 25% threshold.
+
+## Nov 15, 2026, 4:10 PM ET
+
+**New injuries:**
+- Myles Hinton (OT, Bengals) — illness; questionable for Sunday's game against the Steelers.
+- Dalton Risner (G, Bengals) — illness; questionable for Sunday's game against the Steelers.
+
+**Status/designation changes:**
+- Jordan Hancock (CB, Bills) — activated from injured reserve Nov 14 (hamstring); now questionable for Sunday's game against the Jets. Downgraded mid → low.
+- Braden Smith (OT, Texans) — has returned from his Sept 1 IR stint (plantar fascia); now questionable for Sunday's game against the Browns with an unrelated illness. Downgraded mid → low.
+- Christen Miller (DT, Saints) — placed on injured reserve Nov 14 (knee), upgraded from "ruled out this week." Upgraded low → mid.
+- Morgan Moses (OT, Patriots) — left Sunday's game against the Lions in Munich with a knee issue, has since returned; stale Oct 18 entry refreshed.
+- Jaydn Ott (RB, Chiefs) — upgraded from questionable to ruled out for Sunday's game against the Falcons (hamstring).
+- Jarvis Brownlee Jr. (CB, Jets) — upgraded from questionable to inactive for Sunday's game against the Bills (illness).
+- Kenneth Walker III (RB, Chiefs) — upgraded from questionable to ruled out for Sunday's game against the Falcons (groin).
+- DaRon Bland (CB, Cowboys) — remains questionable for Sunday's game against the 49ers; NFL Network reports he's expected to play.
+
+**Removals (confirmed active/activated for today's games or otherwise cleared):**
+- VJ Payne (S, Jets) — removed: activated from injured reserve Saturday.
+- Jake Hummel (LB, Texans) — removed: activated from injured reserve Saturday.
+- Greg Van Roten (G, Patriots) — removed: activated/active for Sunday's game against the Lions in Munich.
+- Travis Etienne Jr. (RB, Saints) — removed: activated from IR and active for Sunday's game against the Panthers.
+- Chris Brooks (RB, Packers) — removed: activated from IR and active for Sunday's game against the Vikings.
+- Reggie Gilliam (FB, Patriots) — removed: activated from IR and active for Sunday's game against the Lions in Munich.
+- Mansoor Delane (CB, Chiefs) — removed: active for Sunday's game against the Falcons.
+- Charles Woods (CB, Patriots) — removed: active for Sunday's game against the Lions in Munich.
+- Kevin Byard (S, Patriots) — removed: active for Sunday's game against the Lions in Munich.
+- Martin Emerson Jr. (CB, Saints) — removed: active for Sunday's game against the Panthers.
+- Xavier McKinney (S, Packers) — removed: active for Sunday's game (today's inactive-list batch, no longer carrying the designation).
+- Javon Bullard (S, Packers) — removed: active for Sunday's game (today's inactive-list batch).
+- Christian Benford (CB, Bills) — removed: active for Sunday's game (today's inactive-list batch).
+- Nahshon Wright (CB, Jets) — removed: active for Sunday's game (today's inactive-list batch).
+- Joseph Ossai (DE, Jets) — removed: active for Sunday's game (today's inactive-list batch).
+- Lukas Van Ness (DE, Packers) — removed: active for Sunday's game (today's inactive-list batch).
+- Will Anderson Jr. (DE, Texans) — removed: active for Sunday's game against the Browns.
+- Harrison Phillips (DT, Jets) — removed: active for Sunday's game (today's inactive-list batch).
+- Travis Glover (OT, Packers) — removed: active status in today's report; prior "won't play Thursday" entry was stale (that game already passed).
+- Spencer Brown (OT, Bills) — removed: flipped to active status in today's inactive-list batch (no longer doubtful).
+- Tyjae Spears (RB, Titans) — removed: active for Sunday's game against the Jaguars.
+- Bam Knight (RB, Cardinals) — removed: cleared to play (concussion protocol), per ESPN.
+- MarShawn Lloyd (RB, Packers) — removed: no longer listed on the Packers' injury report.
+- Rhamondre Stevenson (RB, Patriots) — removed: active for Sunday's game against the Lions in Munich.
+- Sione Vaki (RB, Lions) — removed: active for Sunday's game against the Patriots in Munich.
+- Tony Pollard (RB, Titans) — removed: full practice participant and carries no injury designation for Sunday's game.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-15T17:14:09Z (~3h50m old at run start, well within the current/fresh window; this snapshot carries the morning's inactive-list release for the 1 PM ET slate plus several Munich-game [Patriots–Lions] updates from earlier in the day). Ran a full reconciliation pass against all ~499 pre-sweep rows at the six tracked positions, focused on the window since the 11:10 AM ET sweep. The snapshot's per-team injury entries include both "Out/inactive" confirmations and "Active" (cleared-to-play) confirmations released together ~11:30 AM–12:00 PM ET, ahead of the 1 PM kickoffs; the 25 "Active"-status removals above came from that batch or from explicit IR-activation/clearance language elsewhere in the snapshot. Rows carrying only blank comments, stale "Active" flags unrelated to today's games, stat recaps, or hedge language ("appears," "should," "indicates," "figures to," "in line to") were left unchanged, including the recurring playing-through-it exemptions Travon Walker, Bhayshul Tuten, and Quincy Williams. One data snag: the snapshot's Myles Hinton entry read "questionable for Sunday's game against the Bengals" while Hinton himself is on the Bengals roster (confirmed via WebSearch — Cincinnati claimed him off waivers in late Aug); treated as a copy/paste text error in ESPN's comment and corrected to "against the Steelers" (Cincinnati's Week 10 opponent) for the dashboard entry — his Bengals team assignment was correct. WebSearch for breaking Nov 15 in-game injury news (carted off, ACL, etc.) at the six tracked positions surfaced nothing beyond what the snapshot already captured; results also confirmed this is Week 10 of the 2026 season. Circuit breaker check: 27 removals against 499 pre-sweep rows (5.4%), well under the 25% threshold.
