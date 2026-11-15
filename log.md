@@ -9372,3 +9372,15 @@ Breaking-news WebSearch across the six positions for the window turned up: the R
 - Aaron Banks (G, Packers) — removed: snapshot said "the sixth-year pro has been cleared to play Sunday."
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-14T15:08:59Z (current, ~1h old at run start). Reviewed 53 active-status candidate rows at the six tracked positions; the 12 removals above carried explicit unhedged clearance/"avoided an injury tag"/"green light" language, while rows with hedge words ("appears," "should," "indicates," "figures to," "likely") or recurring playing-through-it language (Travon Walker, Bhayshul Tuten, Quincy Williams) were kept unchanged per the standing policy. Reviewed 27 new snapshot candidates; 18 were bare "questionable"/"doubtful"/"out"/"inactive" entries with no injury description and excluded, including a stale Kyle Van Noy entry and the recurring Jessie Bates III bye/rest-related note (not an injury). The 8 additions above carried real injury descriptions. WebSearch for breaking Nov 14 injury news surfaced nothing new at the six tracked positions beyond already-stale or off-scope items. Circuit breaker check: 12 removals against 505 prior rows (2.4%), well under the 25% threshold.
+
+
+## Nov 14, 2026, 9:10 PM ET
+
+**New injuries:** None.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Arden Key (DE, Colts) — removed: snapshot said he was "cleared to return to practice Wednesday" and activated from injured reserve ahead of Sunday's contest.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-14T20:45:43Z (current, ~26 min old at run start). Reviewed 41 active-status candidate rows at the six tracked positions; the 1 removal above carried explicit unhedged activation/clearance language, while the remainder carried only blank comments, stat recaps, or hedge/inference language ("appears," "should," "indicates," "figures to," "likely"), including the recurring playing-through-it cases Travon Walker, Bhayshul Tuten, and Quincy Williams, kept unchanged per established precedent. Reviewed 19 new snapshot candidates; all were bare "questionable"/"doubtful"/"out"/"inactive" entries with no injury description and excluded, including a stale Kyle Van Noy entry and the recurring Jessie Bates III bye/rest-related note. WebSearch for breaking Nov 14 evening injury news surfaced nothing new at the six tracked positions beyond stale or off-scope items. Circuit breaker check: 1 removal against 501 prior rows (0.2%), well under the 25% threshold.
