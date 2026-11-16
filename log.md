@@ -9444,3 +9444,53 @@ Breaking-news WebSearch across the six positions for the window turned up: the R
 - Tony Pollard (RB, Titans) — removed: full practice participant and carries no injury designation for Sunday's game.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-15T17:14:09Z (~3h50m old at run start, well within the current/fresh window; this snapshot carries the morning's inactive-list release for the 1 PM ET slate plus several Munich-game [Patriots–Lions] updates from earlier in the day). Ran a full reconciliation pass against all ~499 pre-sweep rows at the six tracked positions, focused on the window since the 11:10 AM ET sweep. The snapshot's per-team injury entries include both "Out/inactive" confirmations and "Active" (cleared-to-play) confirmations released together ~11:30 AM–12:00 PM ET, ahead of the 1 PM kickoffs; the 25 "Active"-status removals above came from that batch or from explicit IR-activation/clearance language elsewhere in the snapshot. Rows carrying only blank comments, stale "Active" flags unrelated to today's games, stat recaps, or hedge language ("appears," "should," "indicates," "figures to," "in line to") were left unchanged, including the recurring playing-through-it exemptions Travon Walker, Bhayshul Tuten, and Quincy Williams. One data snag: the snapshot's Myles Hinton entry read "questionable for Sunday's game against the Bengals" while Hinton himself is on the Bengals roster (confirmed via WebSearch — Cincinnati claimed him off waivers in late Aug); treated as a copy/paste text error in ESPN's comment and corrected to "against the Steelers" (Cincinnati's Week 10 opponent) for the dashboard entry — his Bengals team assignment was correct. WebSearch for breaking Nov 15 in-game injury news (carted off, ACL, etc.) at the six tracked positions surfaced nothing beyond what the snapshot already captured; results also confirmed this is Week 10 of the 2026 season. Circuit breaker check: 27 removals against 499 pre-sweep rows (5.4%), well under the 25% threshold.
+
+
+## Nov 15, 2026, 9:10 PM ET
+
+**New injuries (Sunday Week 10 in-game injuries):**
+- Aidan Hutchinson (DE, Lions) — knee; believed to be a significant injury, out for the foreseeable future.
+- Dee Alford (CB, Bills) — concussion; ruled out for the remainder of Sunday's game against the Jets.
+- Christian Benford (CB, Bills) — groin; ruled out for the rest of Sunday's game against the Jets.
+- Dorian Williams (LB, Bills) — calf; questionable to return to Sunday's game against the Jets.
+- Jordan Burch (LB, Cardinals) — knee; questionable to return to Sunday's game against the Rams.
+- Otito Ogbonnia (DT, Cowboys) — finger; questionable to return to Sunday's game against the 49ers.
+- Brandon Cisse (CB, Packers) — ribs; questionable to return to Sunday's game against the Vikings.
+- Woody Marks (RB, Texans) — concussion; downgraded to out for the remainder of Sunday's game against the Browns.
+- Wyatt Teller (G, Texans) — illness; inactive for Sunday's game against the Browns.
+- Sauce Gardner (CB, Colts) — calf; questionable to return to Sunday's game against the Dolphins.
+- Charvarius Ward (CB, Colts) — shin; questionable to return to Sunday's game against the Dolphins.
+- Bernhard Raimann (OT, Colts) — concussion; ruled out for the rest of Sunday's game against the Dolphins.
+- Danny Striggow (DE, Jaguars) — concussion; being evaluated, questionable to return to Sunday's game against the Titans.
+- Trey Smith (G, Chiefs) — concussion; ruled out for the remainder of Sunday's game against the Falcons.
+- Zeek Biggers (DT, Dolphins) — knee; ruled out for the rest of Sunday's game against the Colts.
+- Andrew Van Ginkel (LB, Vikings) — quadriceps; questionable to return to Sunday's game against the Packers.
+- Bo Richter (LB, Vikings) — foot; ruled out for the rest of Sunday's game against the Packers.
+- Dre'Mont Jones (DE, Patriots) — cramps; questionable to return to Sunday's game against the Lions.
+- Robert Spillane (LB, Patriots) — illness; questionable to return to Sunday's game against the Lions.
+- Asim Richards (OT, Saints) — knee; questionable to return to Sunday's game against the Panthers.
+- Pete Werner (LB, Saints) — hamstring; ruled out for the rest of Sunday's game against the Panthers.
+- Dylan Parham (G, Jets) — knee; questionable to return to Sunday's game against the Bills.
+- Jarran Reed (DT, Seahawks) — toe; doubtful to return to Sunday's game against the Raiders.
+- Abraham Lucas (OT, Seahawks) — ankle; doubtful to return to Sunday's game against the Raiders.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Jordan Hancock (CB, Bills) — removed: snapshot said he was "activated from injured reserve Saturday... officially cleared to return."
+- Andrew Wingard (S, Cardinals) — removed: snapshot said "the veteran safety was cleared to play in Sunday's... tilt."
+- Trent McDuffie (CB, Rams) — removed: snapshot said he "is all set to suit up for Sunday's game."
+- Joey Porter Jr. (CB, Cowboys) — removed: snapshot said he "is all set to return to the field."
+- Deommodore Lenoir (CB, 49ers) — removed: snapshot said "he's been cleared by medical staff to play Sunday."
+- Renardo Green (CB, 49ers) — removed: snapshot said "he was given the green light to play Sunday."
+- Kam Curl (S, Rams) — removed: snapshot said his practice session "was enough to cement his availability for Sunday's contest."
+- Jaelan Phillips (LB, Panthers) — removed: snapshot said he's "been cleared by medical staff to return."
+- Myles Garrett (DE, Rams) — removed: snapshot confirmed he "is expected to play Sunday, which now has been confirmed."
+- Dre Greenlaw (LB, 49ers) — removed: snapshot said he's "been cleared by medical staff to play in Sunday's contest."
+- Jonathan Bullard (DT, Cowboys) — removed: snapshot said he was "activated from injured reserve Saturday."
+- Roy Lopez (DT, Cardinals) — removed: snapshot said "medical staff gave Lopez the green light to play."
+- Braden Smith (OT, Texans) — removed: snapshot said he "has recovered from Friday's illness enough to suit up."
+- Morgan Moses (OT, Patriots) — removed: snapshot said "he's been cleared by medical staff to return" and is back in the game.
+- Trent Williams (OT, 49ers) — removed: snapshot said he's "been given the green light to play."
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-15T22:54:33Z (current, ~2h15m old at run start). Reviewed 48 active-status candidate rows at the six tracked positions; the 15 removals above carried explicit unhedged clearance/activation/confirmation language, while the remainder carried only blank comments, stat recaps, or hedge/inference language, including the recurring playing-through-it cases Travon Walker, Bhayshul Tuten, and Quincy Williams, kept unchanged per established precedent. Reviewed 76 new snapshot candidates; 52 were bare "inactive" entries (including several explicit coach's-decision inactives, e.g. Pierre Strong Jr., Emanuel Wilson, Nicholas Singleton, correctly excluded as out of scope) with no injury description and excluded. The 24 additions above are confirmed in-game injuries from Sunday's Week 10 slate with real descriptions, most notably a season-threatening knee injury for Lions DE Aidan Hutchinson. Circuit breaker check: 15 removals against 474 prior rows (3.2%), well under the 25% threshold.
