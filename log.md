@@ -9494,3 +9494,21 @@ Breaking-news WebSearch across the six positions for the window turned up: the R
 - Trent Williams (OT, 49ers) — removed: snapshot said he's "been given the green light to play."
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-15T22:54:33Z (current, ~2h15m old at run start). Reviewed 48 active-status candidate rows at the six tracked positions; the 15 removals above carried explicit unhedged clearance/activation/confirmation language, while the remainder carried only blank comments, stat recaps, or hedge/inference language, including the recurring playing-through-it cases Travon Walker, Bhayshul Tuten, and Quincy Williams, kept unchanged per established precedent. Reviewed 76 new snapshot candidates; 52 were bare "inactive" entries (including several explicit coach's-decision inactives, e.g. Pierre Strong Jr., Emanuel Wilson, Nicholas Singleton, correctly excluded as out of scope) with no injury description and excluded. The 24 additions above are confirmed in-game injuries from Sunday's Week 10 slate with real descriptions, most notably a season-threatening knee injury for Lions DE Aidan Hutchinson. Circuit breaker check: 15 removals against 474 prior rows (3.2%), well under the 25% threshold.
+
+
+## Nov 16, 2026, 11:10 AM ET
+
+**New injuries (Sunday Night Football and Sunday afternoon in-game injuries):**
+- Oren Burks (LB, Bengals) — groin; did not return to Sunday night's game against the Steelers.
+- Mason McCormick (G, Steelers) — ankle; did not return to Sunday night's game against the Bengals.
+- DeShon Elliott (S, Steelers) — knee; ruled out for Sunday night's game against the Bengals with a pregame injury.
+- Kwity Paye (DE, Raiders) — neck; questionable to return to Sunday's game against the Seahawks.
+- Tyler Booker (G, Cowboys) — ankle; hurt during Sunday's loss to the 49ers, underwent X-rays and an MRI.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Derrick Harmon (DT, Steelers) — removed: snapshot said he was "now set to return to the field Sunday night" after being designated to return from IR.
+- Otito Ogbonnia (DT, Cowboys) — removed: snapshot confirmed he "was able to get back on the field after halftime" and continued playing.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-16T06:40:47Z (current, ~4h30m old at run start). Reviewed 34 active-status candidate rows at the six tracked positions; the 2 removals above carried explicit confirmation of return-to-play, while the remainder carried only blank comments, stat recaps, or hedge/inference language, including the recurring playing-through-it cases Travon Walker and Quincy Williams, kept unchanged per established precedent. Reviewed 60 new snapshot candidates; 55 were bare "inactive" entries (including coach's-decision inactives Pierre Strong Jr., Emanuel Wilson, and Nicholas Singleton, correctly excluded as out of scope) with no injury description and excluded. The 5 additions above carried real injury descriptions, including a new pregame knee injury for a player (DeShon Elliott) previously removed Nov 14 for an unrelated issue. WebSearch for breaking Nov 16 injury news surfaced nothing new at the six tracked positions beyond stale 2025 results. Circuit breaker check: 2 removals against 483 prior rows (0.4%), well under the 25% threshold.
