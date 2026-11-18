@@ -9537,3 +9537,10 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Kayode Awosika (G, Chargers) — removed: snapshot said he "will suit up Monday for the first time since Week 2."
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-17T13:32:38Z (current, ~2h35m old at run start). Reviewed 38 active-status candidate rows at the six tracked positions; the 2 removals above carried explicit unhedged clearance/return-to-play language, while the remainder carried only blank comments, stat recaps, or hedge language, including the recurring playing-through-it cases Travon Walker and Quincy Williams, kept unchanged per established precedent. Reviewed 7 new snapshot candidates; 2 were bare "questionable" entries with no injury description and excluded. The 5 additions above carried real injury descriptions, including the Monday night Chargers-Ravens game result. WebSearch for breaking Nov 17 injury news surfaced nothing new at the six tracked positions beyond stale 2025 results. Circuit breaker check: 2 removals against 486 prior rows (0.4%), well under the 25% threshold.
+
+
+## Nov 17, 2026, 9:10 PM ET
+
+No new injuries, status changes, or removals at the six tracked positions this window.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-17T22:27:08Z (current, ~2h40m old at run start). Reviewed 36 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language — all blank comments, stat recaps, or hedge/inference language ("appears," "should," "suggests," "likely"), including the recurring playing-through-it cases Travon Walker and Quincy Williams, kept unchanged per established precedent. Reviewed 5 new snapshot candidates; all were bare "questionable"/"ir" entries with no injury description and excluded. WebSearch for breaking Nov 17 injury news surfaced nothing new at the six tracked positions beyond stale or off-scope (QB/WR) items already resolved in prior sweeps. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged since Nov 8 persists and was not addressed this run.
