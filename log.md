@@ -9544,3 +9544,17 @@ No new injuries, status changes, or removals at the six tracked positions this w
 No new injuries, status changes, or removals at the six tracked positions this window.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-17T22:27:08Z (current, ~2h40m old at run start). Reviewed 36 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language — all blank comments, stat recaps, or hedge/inference language ("appears," "should," "suggests," "likely"), including the recurring playing-through-it cases Travon Walker and Quincy Williams, kept unchanged per established precedent. Reviewed 5 new snapshot candidates; all were bare "questionable"/"ir" entries with no injury description and excluded. WebSearch for breaking Nov 17 injury news surfaced nothing new at the six tracked positions beyond stale or off-scope (QB/WR) items already resolved in prior sweeps. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged since Nov 8 persists and was not addressed this run.
+
+
+## Nov 18, 2026, 11:10 AM ET
+
+**New injuries:**
+- Ar'maj Reed-Adams (G, Bills) — back; placed on injured reserve Tuesday, out at least four games.
+- Kyler Gordon (CB, Bears) — shoulder; day-to-day, did not practice Monday.
+- Kamari Lassiter (CB, Texans) — wrist; did not participate at Tuesday's practice ahead of Thursday's game against the Colts.
+
+**Status/designation changes:** None.
+
+**Removals:** None.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-18T07:37:45Z (~8h30m old at run start, within the 6–24h usable-with-note window). Reviewed 33 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language — all blank comments, stat recaps, or hedge/inference language, including the recurring playing-through-it cases Travon Walker and Quincy Williams, kept unchanged per established precedent. Reviewed 5 new snapshot candidates; 2 were bare "questionable" entries with no injury description and excluded. The 3 additions above carried real injury descriptions. WebSearch for Thursday Night Football (Texans-Colts) breaking injury news surfaced only stale 2025-season results, correctly excluded. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged since Nov 8 persists and was not addressed this run.
