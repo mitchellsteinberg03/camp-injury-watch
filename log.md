@@ -9582,3 +9582,34 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - David Montgomery (RB, Texans) — removed: snapshot said "he's good to go for the Week 11 matchup" after a full practice participant Monday through Wednesday.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-19T00:27:53Z (current, ~40 min old at run start). Reviewed 40 active-status candidate rows at the six tracked positions; the 1 removal above carried explicit unhedged clearance language, while the remainder carried only blank comments, stat recaps, or hedge/inference language ("appears," "should," "indicates," "may be set"), including the recurring playing-through-it case Quincy Williams, kept unchanged per established precedent. Reviewed 44 new snapshot candidates; 35 were bare "questionable"/"doubtful" entries with no injury description and excluded, including three (Nick Bolton, Harrison Phillips, Patrick Queen) whose only comment was a pure stat recap with no injury context despite carrying a "Questionable" tag. The 6 additions above carried real injury descriptions. WebSearch for breaking Nov 18 injury news surfaced nothing new at the six tracked positions beyond stale or off-scope (QB/WR) items. Circuit breaker check: 1 removal against 492 prior rows (0.2%), well under the 25% threshold.
+
+
+## Nov 19, 2026, 11:10 AM ET
+
+**New injuries (Wednesday Week 11 practice reports, continued):**
+- Walter Nolen III (DT, Cardinals) — illness; did not participate in Wednesday's practice.
+- Jeffery Simmons (DT, Bears) — knee; limited practice participant on Wednesday's estimated report.
+- Tonka Hemingway (DT, Raiders) — upper body; did not participate in Wednesday's practice.
+- Folorunso Fatukasi (DT, Raiders) — toe; limited participant at Wednesday's practice.
+- Amani Hooker (S, Bills) — knee; limited participant in Wednesday's practice.
+- Antonio Johnson (S, Jaguars) — ankle; limited participant in Wednesday's practice.
+- Dante Trader Jr. (S, Dolphins) — shoulder/groin; did not participate in Wednesday's practice.
+- Martin Emerson Jr. (CB, Saints) — concussion; did not practice Wednesday.
+- Ji'Ayir Brown (S, 49ers) — ankle; limited participant in Wednesday's practice.
+- Jake Hummel (LB, Texans) — groin; questionable for Thursday's game against the Colts.
+- Nick Bolton (LB, Chiefs) — shin; limited participant in Wednesday's practice.
+- Daiyan Henley (LB, Chargers) — knee; did not participate in Wednesday's practice.
+- Nolan Smith Jr. (LB, Eagles) — illness; limited in Wednesday's practice.
+- Nick Herbig (LB, Steelers) — hip; doubtful, did not participate in Wednesday's practice.
+- Patrick Queen (LB, Steelers) — hand; limited practice participant Wednesday.
+- John Franklin-Myers (DE, Titans) — back; limited in Wednesday's practice.
+- LeQuint Allen Jr. (RB, Jaguars) — hamstring; limited participant at Wednesday's practice.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Kerby Joseph (S, Lions) — removed: snapshot said he's "set to make his 2026 debut in Week 11" after a full practice participant.
+- Kamari Lassiter (CB, Texans) — removed: snapshot said he "has been cleared to play in Thursday night's contest."
+- Kwity Paye (DE, Raiders) — removed: snapshot said "Paye is healthy" and ready for full Week 11 practices.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-19T10:26:33Z (current, <6h old at run start). Reviewed 39 active-status candidate rows at the six tracked positions; the 3 removals above carried explicit unhedged clearance/declarative-health language, while rows with "indicates"/hedge language were kept unchanged, including the recurring playing-through-it case Quincy Williams, kept per established precedent. Reviewed 38 new snapshot candidates; 21 were bare "questionable" entries with no injury description and excluded, including a Cole Bishop entry whose comment text was a verbatim duplicate of teammate Amani Hooker's — flagged as a data error and excluded (Hooker's own correctly-matched entry was added separately). The 17 additions above carried real injury descriptions from Wednesday's Week 11 practice reports across many teams. WebSearch for Thursday Night Football (Texans-Colts) breaking news found nothing — the game had not yet kicked off at run time. Circuit breaker check: 3 removals against 497 prior rows (0.6%), well under the 25% threshold.
