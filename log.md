@@ -9564,3 +9564,21 @@ No new injuries, status changes, or removals at the six tracked positions this w
 No new injuries, status changes, or removals at the six tracked positions this window. Aged off the NEW badge on 5 rows past the 24h window (Andrew Wingard, S, Cardinals; Rodney Shelley, CB, Chargers; Renardo Green, CB, 49ers; Nnamdi Madubuike, DT, Ravens; Jordan Phillips, DT, Dolphins) — all added at the Nov 17, 11:10 AM ET sweep — and updated the "Recently added (24h)" tile from 8 to 3 accordingly.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-18T17:18:23Z (current, ~4h47m old at run start). Reviewed 31 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language this run — David Montgomery (RB, Texans) was "trending toward playing" per his team's head coach and logged a full practice, but that's hedge/conditional language short of confirmed clearance, so his row was kept unchanged per established precedent; the rest were blank comments or stat recaps. Reviewed 2 new snapshot candidates (Juanyeh Thomas, S, Cowboys; Jake Hummel, LB, Texans); both were bare "questionable" entries with no injury description and excluded. WebSearch for Wednesday practice-report and breaking injury news at the six tracked positions turned up nothing dated in this window — results were either generic archive/roundup index pages with no current content or recycled stale articles from earlier weeks/seasons, consistent with the standing caution on recycled search results. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly flagged since Nov 8 persists (332 of 492 rows, ~67.5%, have no current snapshot match) and was not addressed this run — still flagged for owner awareness.
+
+
+## Nov 18, 2026, 9:10 PM ET
+
+**New injuries (Wednesday Week 11 practice reports):**
+- Damar Hamlin (S, Bills) — toe; limited participant in Wednesday's practice.
+- Ray Davis (RB, Bills) — hamstring; limited participant in Wednesday's practice.
+- Sione Vaki (RB, Lions) — ankle; limited participant in Wednesday's walkthrough practice.
+- Chris Rodriguez Jr. (RB, Jaguars) — hand; limited participant in Wednesday's practice.
+- Tyjae Spears (RB, Titans) — knee; did not practice Wednesday.
+- Dre Greenlaw (LB, 49ers) — neck; did not participate in Wednesday's practice.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- David Montgomery (RB, Texans) — removed: snapshot said "he's good to go for the Week 11 matchup" after a full practice participant Monday through Wednesday.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-19T00:27:53Z (current, ~40 min old at run start). Reviewed 40 active-status candidate rows at the six tracked positions; the 1 removal above carried explicit unhedged clearance language, while the remainder carried only blank comments, stat recaps, or hedge/inference language ("appears," "should," "indicates," "may be set"), including the recurring playing-through-it case Quincy Williams, kept unchanged per established precedent. Reviewed 44 new snapshot candidates; 35 were bare "questionable"/"doubtful" entries with no injury description and excluded, including three (Nick Bolton, Harrison Phillips, Patrick Queen) whose only comment was a pure stat recap with no injury context despite carrying a "Questionable" tag. The 6 additions above carried real injury descriptions. WebSearch for breaking Nov 18 injury news surfaced nothing new at the six tracked positions beyond stale or off-scope (QB/WR) items. Circuit breaker check: 1 removal against 492 prior rows (0.2%), well under the 25% threshold.
