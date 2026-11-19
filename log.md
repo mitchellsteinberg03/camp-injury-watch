@@ -9613,3 +9613,42 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Kwity Paye (DE, Raiders) — removed: snapshot said "Paye is healthy" and ready for full Week 11 practices.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-19T10:26:33Z (current, <6h old at run start). Reviewed 39 active-status candidate rows at the six tracked positions; the 3 removals above carried explicit unhedged clearance/declarative-health language, while rows with "indicates"/hedge language were kept unchanged, including the recurring playing-through-it case Quincy Williams, kept per established precedent. Reviewed 38 new snapshot candidates; 21 were bare "questionable" entries with no injury description and excluded, including a Cole Bishop entry whose comment text was a verbatim duplicate of teammate Amani Hooker's — flagged as a data error and excluded (Hooker's own correctly-matched entry was added separately). The 17 additions above carried real injury descriptions from Wednesday's Week 11 practice reports across many teams. WebSearch for Thursday Night Football (Texans-Colts) breaking news found nothing — the game had not yet kicked off at run time. Circuit breaker check: 3 removals against 497 prior rows (0.6%), well under the 25% threshold.
+
+## Nov 19, 2026, 5:12 PM ET
+
+**New injuries:**
+- Cole Bishop (S, Bills) — groin/shoulder; limited participant in Wednesday's walkthrough, must upgrade to a full participant by Friday to avoid a Week 11 injury designation against the Dolphins.
+
+**Status/designation changes (Thursday Week 11 official practice and game-status reports):**
+- Sauce Gardner (CB, Colts) — calf; DNP Monday through Wednesday, questionable and not expected to play Thursday night against the Texans.
+- Charvarius Ward (CB, Colts) — knee, left the Week 10 game early; ruled out for Thursday night's game against the Texans.
+- Jalen Travis (OT, Colts) — knee, sustained Week 9 against the Cowboys; sidelined for a second straight game, ruled out for Thursday vs. the Texans, possible return Nov 29 vs. the Giants.
+- Bernhard Raimann (OT, Colts) — concussion, sustained in the Week 10 win over the Dolphins; ruled out for Thursday's game against the Texans.
+- Jerry Tillery (DT, Colts) — lingering calf injury; sidelined for a second straight contest, officially out for Thursday's game at Houston.
+- Jaylon Carlies (LB, Colts) — neck, hurt Week 9 against the Cowboys; placed on injured reserve Nov 18, out at least four games. Severity raised low → mid.
+- Akeem Davis-Gaither (LB, Colts) — knee; placed on injured reserve Nov 14, out at least four games, eligible to return Week 15 (Dec 20) against the Titans. Severity raised low → mid.
+- Nnamdi Madubuike (DT, Ravens) — hamstring, injured in the Nov 17 loss to the Chargers; back-to-back DNPs to open Week 11 prep, questionable for Sunday against the Panthers.
+- Danielle Hunter (DE, Texans) — hamstring, sustained during Week 10 prep; unable to practice all of Week 11 prep, out for Thursday against the Colts — his second straight missed game.
+- Woody Marks (RB, Texans) — concussion, sustained in the Nov 15 loss to the Browns; unable to practice at all on the short week, ruled out for Thursday against the Colts.
+- Azeez Al-Shaair (LB, Texans) — groin, dealt with since Week 3; placed on injured reserve Nov 17, out at least four games. Severity raised low → mid.
+- Jaylin Smith (CB, Texans) — hamstring; a full practice participant across the last four sessions since being designated to return from IR, but still not officially activated — availability for Thursday against the Colts remains uncertain.
+- Jonathon Brooks (RB, Panthers) — core muscle/groin; full practice participant Thursday, tracking toward activation off injured reserve for Sunday's game against Baltimore, not yet activated to the 53-man roster.
+- Jacory Croskey-Merritt (RB, Commanders) — groin; on injured reserve since Oct 19, opened a 21-day practice window and took his first practice back Thursday — team says he's fully recovered and is deciding on reinstatement. Severity raised low → mid.
+- Bhayshul Tuten (RB, Jaguars) — ankle/foot; limited participant in each of the Jaguars' last two practices, Thursday's participation level not yet confirmed.
+- Riley Moss (CB, Broncos) — concussion, suffered in the Nov 8 win over the Panthers; full practice participant Wednesday and trending toward clearing protocol ahead of Sunday against the Raiders.
+
+**Removals:**
+- Budda Baker (S, Cardinals) — removed: played a normal full game in Week 10 (6 tackles) with no injury designation.
+- Roquan Smith (LB, Ravens) — removed: played a normal full game Monday night (8 tackles) with no injury designation.
+- Justin Walley (CB, Colts) — removed: played a normal full game Sunday (5 tackles, a sack, a forced fumble, two pass breakups).
+- CJ Allen (LB, Colts) — removed: played a normal full game Sunday (9 tackles, a sack, a pass defense).
+- Quay Walker (LB, Raiders) — removed: played a normal full game Sunday (8 tackles, a fumble recovery).
+- Evan Williams (S, Packers) — removed: played a normal full game in Week 10 (8 tackles, a pass defense).
+- Christian Elliss (LB, Patriots) — removed: played a normal full game in Week 10 (10 tackles).
+- Jaylen Wright (RB, Dolphins) — removed: played a normal full game with rushing/receiving/return stats and no injury designation.
+- Jacob Saylors (RB, Lions) — removed: played a normal full game Sunday (rushing and kick-return stats, no injury designation).
+- Jonah Coleman (RB, Broncos) — removed: snapshot shows a completed full-game stat line confirming he was activated off IR and played, with no new injury since.
+- Adam Randall (RB, Ravens) — removed: snapshot said he was "reinstated... from injured reserve Wednesday."
+- Tyrique Stevenson Sr. (CB, Bears) — removed: snapshot said he "was not listed on the Bears' estimated injury report Wednesday."
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-19T20:43:46Z (current, ~1h30m old at run start). Cross-checked all 511 prior dashboard rows at the six tracked positions against the snapshot; 332 had no current match at all. Spot-checking confirmed this reflects ESPN's weekly injuries feed carrying only players currently newsworthy on that week's report — it routinely drops long-settled IR/PUP placements entirely (e.g., Nate Hobbs, on IR since Sept 1, has zero entry) rather than marking them healthy — so absence alone was NOT treated as a removal signal this run, per the circuit breaker's caution against snapshot-absence-driven mass deletion. Of the 38 rows that matched an explicit "Active" snapshot status, only the 12 removals above carried unhedged evidence (a completed-game stat line, an explicit reinstatement, or an explicit "not listed on the injury report" statement); the remaining 26 — blank comments, practice-only "full participant" notes, or a stale Week-9-dated stat line (Josiah Trotter) — were left unchanged per established precedent, including the recurring playing-through-it case Quincy Williams. Separately, dug into the Colts-at-Texans Thursday-night matchup specifically (today's only game) and found 6 Colts/Texans-area rows (Travis, Raimann, Ward, Tillery, Carlies, Davis-Gaither, plus Texans' Hunter, Marks, Al-Shaair, Jaylin Smith) carrying stale text from prior weeks' games despite newer snapshot data — updated all of them to this week's official designations, with 3 upgraded to injured-reserve/mid severity. WebSearch confirmed Marlon Humphrey's (CB, Ravens) Week 11 "Out" tag is a non-injury benching over podcast remarks, not an injury — excluded as out of scope. Charlie Heck (OT, Colts) and Wyatt Teller (G, Texans) carried bare "questionable"/no-comment status with no injury description — excluded. The 1 addition above (Cole Bishop) carried a real, distinct injury description, unlike the near-duplicate Hooker-text entry excluded for him in the prior run. Aged off the NEW badge on 2 rows past the 24h window (Kyler Gordon, CB, Bears; Ar'maj Reed-Adams, G, Bills), both from the Nov 18, 11:10 AM ET sweep. Circuit breaker check: 12 removals against 511 prior rows (2.3%), well under the 25% threshold. The standing dashboard-backlog finding (rows with no current snapshot match) persists at a similar scale (332 of 511, ~65%) and continues to reflect the feed's current-week-only scope rather than mass recovery; full verification against that structural gap is better suited to targeted manual/WebSearch review than an exhaustive per-sweep pass at this volume.
