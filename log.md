@@ -9678,3 +9678,39 @@ No new injuries, status changes, or removals at the six tracked positions this w
 - Lucas Patrick (G, Commanders) — removed: snapshot said "Patrick has cleared the protocol" per the head coach.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-20T13:01:37Z (current, ~3h10m old at run start). Reviewed 41 active-status candidate rows at the six tracked positions; the 2 removals above carried explicit unhedged activation/protocol-clearance language, while the remainder carried only blank comments, stat recaps, or hedge language ("appears," "looks like," "should," "seems," "indicates"), including the recurring playing-through-it cases Quincy Williams and Jake Hummel, kept unchanged per established precedent. Reviewed 29 new snapshot candidates; 23 were bare "questionable" entries with no injury description and excluded, including a repeat Marlon Humphrey non-injury benching. The 6 additions above carried real injury descriptions, including Thursday night's Texans-Colts in-game injuries. Circuit breaker check: 2 removals against 500 prior rows (0.4%), well under the 25% threshold.
+
+
+## Nov 20, 2026, 5:05 PM ET
+
+**New injuries (Friday's official Week 11 practice/injury reports):**
+- Rachaad White (RB, Commanders) — heel; limited participant Friday, tacked onto the injury report, questionable for Monday night's game against the Bengals.
+
+**Status/designation changes (Friday final injury reports ahead of Sunday's Week 11 games):**
+- Kenneth Walker III (RB, Chiefs) — groin; out for Sunday's game against the Cardinals, did not practice this week, targeting a return the following week against the Bills.
+- Sione Vaki (RB, Lions) — ankle; upgraded to questionable for Sunday's game against the Buccaneers.
+- Dorian Williams (LB, Bills) — calf, suffered against the Jets; ruled out for Sunday's game against the Dolphins — his first missed game since Week 5 of the 2025 season.
+- Nnamdi Madubuike (DT, Ravens) — hamstring; upgraded from questionable to ruled out for Sunday's game against the Panthers, having not practiced since the injury.
+- Mike Jackson (CB, Panthers) — groin, on injured reserve since Sept 30; logged three straight full practices and now carries a questionable tag for Sunday's game against the Ravens, pending activation.
+- Bobby Okereke (LB, Panthers) — foot; ruled out for Sunday's game against the Ravens — will miss his third straight game.
+- Jacory Croskey-Merritt (RB, Commanders) — groin, on injured reserve since Oct 19; logged full practices Thursday and Friday and is on track to be activated ahead of Monday night's game against the Bengals.
+- Christian Benford (CB, Bills) — groin; ruled out for Sunday's game against the Dolphins, his second missed game of the season.
+- Dante Trader Jr. (S, Dolphins) — groin/shoulder, suffered against the Colts; upgraded to doubtful for Sunday's game against the Bills.
+- Jaylinn Hawkins (S, Ravens) — knee; ruled out for Sunday's game against the Panthers — will miss his fifth straight game.
+- Peter Woods (DT, Chiefs) — neck; remains questionable, now for Sunday's game against the Cardinals.
+- P.J. Locke (S, Cowboys) — in concussion protocol; ruled out for Sunday's game against the Titans.
+- Antoine Winfield Jr. (S, Buccaneers) — ankle; ruled out for Sunday's game against the Lions.
+- Kyler Gordon (CB, Bears) — shoulder; ruled out for Sunday's game against the Saints — has now missed six games this season.
+- Zack Baun (LB, Eagles) — back; ruled out for Sunday's game against the Steelers.
+- Daiyan Henley (LB, Chargers) — knee; ruled out for Sunday's game against the Jets.
+- Kendall Williamson (S, Chargers) — calf; ruled out for Sunday's game against the Jets (opponent corrected from stale Texans reference).
+- Rodney Shelley (CB, Chargers) — ankle; ruled out for Sunday's game against the Jets (opponent corrected from stale Monday-Ravens reference).
+- Jeffery Simmons (DT, Bears) — knee; upgraded to a full practice participant Friday after being limited to open the week.
+
+**Removals:**
+- Kyle Monangai (RB, Bears) — removed: officially in the clear for his first game action since Week 4 after logging full practices on all three Week 11 reports.
+- Tyjae Spears (RB, Titans) — removed: practiced fully Friday and is set to play Sunday; already returned from his absence to play 16 snaps last week.
+- Chris Rodriguez Jr. (RB, Jaguars) — removed: snapshot confirmed he was "cleared to play" against the Jets.
+- LeQuint Allen Jr. (RB, Jaguars) — removed: snapshot confirmed he was "cleared to play" against the Jets.
+- Ray Davis (RB, Bills) — removed: snapshot said he's "good to go for his normal role" behind James Cook, no longer managed around an injury.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-20T21:50:58Z (current, ~15min old at run start). This run focused on the delta since the 11:10 AM ET sweep: filtered the snapshot to tracked-position entries dated after 2026-11-20T16:10Z (the last-sweep cutoff) to isolate Friday's official practice/injury-report updates, then cross-checked each against the existing 504 dashboard rows. Of ~47 dated-today snapshot entries, most matched existing rows; 18 carried genuinely new designation changes or stale opponent/day references (addressed above), 5 carried unhedged clearance/return evidence (removed above), and 1 (Rachaad White) was a new real-injury addition not previously tracked — the rest were either unchanged repeats of already-tracked statuses or bare game-day status words with no injury description (excluded, e.g. Isaiah Simmons/CAR, Jaylin Simpson/MIA, Smael Mondon Jr./PHI, Jaishawn Barham/DAL). Also aged off the NEW badge on 16 rows past the 24h window from the Nov 19, 11:10 AM ET sweep (Amani Hooker, Antonio Johnson, Dante Trader Jr., Martin Emerson Jr., Ji'Ayir Brown, Jake Hummel, Nick Bolton, Daiyan Henley, Nolan Smith Jr., Nick Herbig, Patrick Queen, John Franklin-Myers, Walter Nolen III, Jeffery Simmons, Tonka Hemingway, Folorunso Fatukasi); LeQuint Allen Jr.'s NEW badge aged off via removal instead. Did not re-run the full historical reconciliation against all ~330 rows absent from the current weekly snapshot (per the established finding that ESPN's weekly injuries feed only carries current-week-newsworthy players and routinely drops settled IR/PUP placements, so absence alone isn't a removal signal) — that backlog persists at a similar scale and continues to be addressed via targeted evidence rather than an exhaustive per-sweep pass. Circuit breaker check: 5 removals against 504 prior rows (1.0%), well under the 25% threshold.
