@@ -9659,3 +9659,22 @@ No new injuries, status changes, or removals at the six tracked positions this w
 No new injuries, status changes, or removals at the six tracked positions this window.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-19T20:43:46Z (current, ~4h25m old at run start). Reviewed 26 active-status candidate rows at the six tracked positions; none carried explicit unhedged clearance/activation language — all blank comments, stat recaps, or hedge/inference language ("appears," "looks like," "indicates," "should," "on track"), including the recurring playing-through-it case Quincy Williams, kept unchanged per established precedent. Reviewed 22 new snapshot candidates; 21 were bare "questionable" entries with no injury description and excluded, and a repeat Marlon Humphrey (Ravens CB) "Out" entry was again identified as a non-injury benching (over podcast remarks) rather than an injury, consistent with the prior sweep's finding — excluded. WebSearch for the Texans-Colts Thursday Night Football result turned up nothing — the game appears not yet indexed/completed at run time. Circuit breaker check: 0 removals this run. The dashboard-backlog anomaly (rows with no current snapshot match) persists at a similar scale and was not addressed this run.
+
+
+## Nov 20, 2026, 11:10 AM ET
+
+**New injuries (Thursday Night Football, Texans-Colts, plus other Thursday practice updates):**
+- Sheldon Rankins (DT, Texans) — ankle; questionable to return to Thursday's game against the Colts.
+- Chris Braswell (DE, Texans) — knee; ruled out for the remainder of Thursday's game against the Colts.
+- Seth McGowan (RB, Colts) — hamstring; ruled out for the rest of Thursday's game against the Texans.
+- Dax Hill (CB, Bengals) — illness; did not participate in Thursday's practice.
+- Quan Martin (S, Commanders) — shoulder; limited participant at Thursday's practice.
+- Harrison Phillips (DT, Jets) — ankle; limited participant in Thursday's practice.
+
+**Status/designation changes:** None.
+
+**Removals:**
+- Jaylin Smith (CB, Texans) — removed: snapshot confirmed he was "activated from injured reserve earlier in the day Thursday" and made his first appearance since Week 4.
+- Lucas Patrick (G, Commanders) — removed: snapshot said "Patrick has cleared the protocol" per the head coach.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-20T13:01:37Z (current, ~3h10m old at run start). Reviewed 41 active-status candidate rows at the six tracked positions; the 2 removals above carried explicit unhedged activation/protocol-clearance language, while the remainder carried only blank comments, stat recaps, or hedge language ("appears," "looks like," "should," "seems," "indicates"), including the recurring playing-through-it cases Quincy Williams and Jake Hummel, kept unchanged per established precedent. Reviewed 29 new snapshot candidates; 23 were bare "questionable" entries with no injury description and excluded, including a repeat Marlon Humphrey non-injury benching. The 6 additions above carried real injury descriptions, including Thursday night's Texans-Colts in-game injuries. Circuit breaker check: 2 removals against 500 prior rows (0.4%), well under the 25% threshold.
