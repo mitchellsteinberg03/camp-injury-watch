@@ -9724,3 +9724,32 @@ No new injuries, status changes, or removals at the six tracked positions this w
 **Removals:** None this run — of 48 active-status candidate rows reviewed, none carried unhedged confirmation language (clearance/return/activation); all had blank comments, stat recaps, or hedge language ("appears," "looks like," "should," "seems," "indicates that... should be available"), including the recurring playing-through-it cases Travon Walker, Bhayshul Tuten, Quincy Williams, and Jake Hummel, kept unchanged per established precedent.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-20T21:50:58Z (current, ~20min old at run start). Reviewed 23 new-candidate snapshot entries at the six tracked positions; 22 were bare "questionable"/"doubtful"/"out" entries with no injury description (excluded) or the recurring Marlon Humphrey non-injury benching (excluded); only Tyjae Spears carried a real injury description and was added above. WebSearch turned up no dated, current breaking news beyond what the snapshot already reflects — only stale archive results from prior seasons. Did not re-run the full reconciliation against the ~330-row snapshot-absence backlog (unchanged, known condition). Circuit breaker check: 0 removals against 501 prior rows (0%).
+
+
+## Nov 21, 2026, 11:10 AM ET
+
+**New injuries (Friday's final Week 11 injury reports):**
+- Isaiah Simmons (S, Panthers) — knee; ruled out for Sunday's game against the Ravens.
+- Tarheeb Still (CB, Chargers) — ankle; late addition to Friday's report, questionable for Sunday's game against the Jets.
+- Jaylin Simpson (S, Dolphins) — knee; doubtful for Sunday's game against the Bills.
+- Isaiah Rodgers (CB, Vikings) — quadriceps; questionable for Sunday's game against the 49ers in Mexico City.
+- Jordan James (RB, 49ers) — calf; questionable for Sunday's game against the Vikings in Mexico City.
+
+**Removals:**
+- Kevin Winston Jr. (S, Titans) — removed: full Friday practice "was enough for him to avoid an injury tag heading into the weekend."
+- Talanoa Hufanga (S, Broncos) — removed: three straight full practices, "clearing him of any injury designation."
+- JuJu Brents (CB, Dolphins) — removed: full Friday session "was enough for the fourth-year defensive back to avoid an injury tag."
+- Michael Carter II (CB, Eagles) — removed: full Friday practice "was enough for him to avoid an injury tag."
+- Jonathan Jones (CB, Eagles) — removed: full Friday practice "was enough for him to avoid an injury designation and return from a one-game absence."
+- Riley Moss (CB, Broncos) — removed: "has cleared the NFL's five-step concussion protocol and is all set to suit up."
+- Dee Alford (CB, Bills) — removed: "has been cleared by an independent neurologist and is all set to suit up."
+- Amani Hooker (S, Bills) — removed: full Friday session "was enough for him to avoid an injury tag."
+- Antonio Johnson (S, Jaguars) — removed: "has done enough to avoid an injury tag ahead of Sunday's contest."
+- Ji'Ayir Brown (S, 49ers) — removed: full Friday session "was enough for him to avoid an injury tag."
+- Travon Walker (DE, Jaguars) — removed: full Friday practice "was enough... to avoid an injury tag heading into Sunday's contest" — first unhedged clearance language after many sweeps of recurring playing-through-it status.
+- Donovan Ezeiruaku (LB, Cowboys) — removed: "avoided an injury tag for Week 11 after logging a full practice Friday."
+- Andrew Van Ginkel (LB, Vikings) — removed: full Friday session "was enough for the veteran edge rusher to avoid an injury tag."
+- Nolan Smith Jr. (LB, Eagles) — removed: full Friday session "was enough for him to avoid an injury tag."
+- Justin Eboigbe (DT, Chargers) — removed: full Friday practice "was enough for him to avoid an injury tag."
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-21T12:44:19Z (current, ~26min old at run start). Reviewed 56 active-status candidate rows; the 15 removals above carried unhedged "avoid an injury tag/designation" or explicit protocol-clearance language, while the remaining 41 carried blank comments, stat recaps, or hedge/inference language ("appears," "looks like," "should," "seems," "indicates that... should be available," "the lack of an injury tag indicates"), including Cody Barton (inference-pattern language, kept) and the recurring playing-through-it cases Quincy Williams, Jake Hummel, and Bhayshul Tuten (still unresolved per Friday's report), kept unchanged. Reviewed 22 new snapshot candidates; 17 were bare "questionable"/"doubtful"/"out" entries with no injury description or the recurring Marlon Humphrey non-injury benching, excluded; the 5 additions above carried real injury descriptions from Friday's final reports. Circuit breaker check: 15 removals against 501 prior rows (3.0%), well under the 25% threshold.
