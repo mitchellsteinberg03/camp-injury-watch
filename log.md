@@ -9758,3 +9758,18 @@ No new injuries, status changes, or removals at the six tracked positions this w
 ## Nov 21, 2026, 8:10 PM ET
 
 No new injuries, status changes, or removals at the six tracked positions this run — the snapshot (fetched 2026-11-21T20:33:49Z, current, ~3h40min old at run start) was essentially unchanged from Saturday's official reports already reflected on the board, as expected for a Saturday evening window with no new practice/injury reports; WebSearch turned up no dated, current breaking news, only stale archive results from prior seasons. Of 42 active-status candidates reviewed, none carried unhedged clearance language (all blank, stat recaps, or hedge/inference phrasing), including the recurring playing-through-it cases and a new Tony Adams (Titans S) entry explicitly not yet cleared from concussion protocol. Of 17 new-candidate entries, all were bare status words or the recurring Marlon Humphrey non-injury benching. Aged off the NEW badge on 7 rows past the 24h window from the Nov 20, 8:10 PM ET sweep. Circuit breaker check: 0 removals against 491 prior rows (0%).
+
+
+## Nov 22, 2026, 11:10 AM ET
+
+**New injuries:**
+- Kyren Williams (RB, Rams) — toe; coach said Saturday he's tending to a sore toe during the Week 11 bye, questionable but expected to play Wednesday's game against the Packers.
+- Lucas Patrick (G, Commanders) — concussion; questionable for Monday's game against the Bengals despite the head coach saying he cleared protocol, re-added since the official designation is not a guarantee.
+- Amik Robertson (CB, Commanders) — ankle, suffered in Friday's practice; questionable for Monday's game against the Bengals.
+
+**Removals:**
+- Tony Adams (S, Titans) — removed: "now out of the league's concussion protocol after passing an evaluation from an independent neurologist."
+- Quan Martin (S, Commanders) — removed: full Saturday session "was enough for him to avoid an injury tag for Monday night's game."
+- C.J. West (DT, 49ers) — removed: "the Niners also removed West's questionable tag, so he should be ready to play Sunday night against Minnesota."
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-22T12:39:01Z (current, ~28min old at run start). Reviewed 40 active-status candidate rows; the 3 removals above carried explicit unhedged protocol-clearance or tag-removal language, while the remainder carried blank comments, stat recaps, or hedge/inference language, including the recurring playing-through-it cases Quincy Williams, Jake Hummel, and Bhayshul Tuten, kept unchanged. Reviewed 20 new snapshot candidates; 17 were bare status words or the recurring Marlon Humphrey non-injury benching, excluded; the 3 additions above carried real injury descriptions. WebSearch turned up no dated, current breaking news beyond what the snapshot reflects. Circuit breaker check: 3 removals against 491 prior rows (0.6%), well under the 25% threshold.
