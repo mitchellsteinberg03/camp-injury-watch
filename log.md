@@ -9773,3 +9773,39 @@ No new injuries, status changes, or removals at the six tracked positions this r
 - C.J. West (DT, 49ers) — removed: "the Niners also removed West's questionable tag, so he should be ready to play Sunday night against Minnesota."
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-22T12:39:01Z (current, ~28min old at run start). Reviewed 40 active-status candidate rows; the 3 removals above carried explicit unhedged protocol-clearance or tag-removal language, while the remainder carried blank comments, stat recaps, or hedge/inference language, including the recurring playing-through-it cases Quincy Williams, Jake Hummel, and Bhayshul Tuten, kept unchanged. Reviewed 20 new snapshot candidates; 17 were bare status words or the recurring Marlon Humphrey non-injury benching, excluded; the 3 additions above carried real injury descriptions. WebSearch turned up no dated, current breaking news beyond what the snapshot reflects. Circuit breaker check: 3 removals against 491 prior rows (0.6%), well under the 25% threshold.
+
+## Nov 22, 2026, 4:10 PM ET
+
+Sunday 5 PM ET sweep — 1 PM ET slate inactives and in-game injuries at the six tracked positions.
+
+**New injuries (inactives and in-game designations from the 1 PM ET slate):**
+- Smael Mondon Jr. (LB, Eagles) — ankle; inactive for Sunday's game against the Steelers.
+- Jaishawn Barham (LB, Cowboys) — hip/groin; inactive for Sunday's game against the Titans.
+- Ennis Rakestraw Jr. (CB, Lions) — shoulder; inactive for Sunday's game against the Buccaneers.
+- Tony Adams (S, Titans) — illness; ruled out for the rest of Sunday's game against the Cowboys.
+- Dee Winters (LB, Cowboys) — knee; questionable to return to Sunday's game against the Titans.
+- Cor'Dale Flott (CB, Titans) — neck; questionable to return to Sunday's game against the Cowboys.
+- Jacob Parrish (CB, Buccaneers) — back; ruled out for the rest of Sunday's game against the Lions.
+- Alex Highsmith (LB, Steelers) — ankle; ruled out from returning to Sunday's game against the Eagles.
+- Terrell Burgess (S, Titans) — ankle; questionable to return to Sunday's game against the Cowboys.
+- Roschon Johnson (RB, Bears) — ankle; ruled out for the rest of Sunday's game against the Saints.
+- Cody Simon (LB, Cardinals) — calf; questionable to return to Sunday's game against the Chiefs.
+- Benjamin Morrison (CB, Buccaneers) — hamstring; ruled out for the rest of Sunday's game against the Lions.
+
+**Status/designation changes:**
+- Dante Trader Jr. (S, Dolphins) — upgraded from doubtful to inactive for Sunday's game against the Bills (shoulder/groin).
+- Tarheeb Still (CB, Chargers) — upgraded from questionable to inactive for Sunday's game against the Jets (ankle).
+- Pete Werner (LB, Saints), Brandon Jones (S, Broncos), and Trevin Wallace (LB, Jets) — stale opponent/game references refreshed to this week's matchups (Saints–Bears, Broncos–Raiders, Jets–Chargers); all three remain inactive this week with their existing injuries (hamstring, hamstring, groin respectively).
+- Omarr Norman-Lott (DT, Chiefs) — resolved prediction ("out at least the first four games," from an Aug 31 PUP move) refreshed; remains on Reserve/PUP and inactive for Sunday's game against the Cardinals.
+
+**Removals:**
+- Will Shipley (RB, Eagles) — removed: active for Sunday's game, confirming activation off injured reserve (foot).
+- Mike Jackson (CB, Panthers) — removed: active for Sunday's game against the Ravens, confirming activation off injured reserve (groin) — the dashboard row already noted he was pending activation.
+- Trey Pipkins III (OT, Chargers) — removed: active for Sunday's game against the Jets, confirming activation off injured reserve (knee).
+- Darrell Baker Jr. (CB, Dolphins) — removed: active for Sunday's game against the Bills, confirming his return after being out since the preseason (knee).
+- Ed Oliver (DT, Bills) — removed: active for Sunday's game against the Dolphins; the Oct 4 knee issue that had him questionable has long since resolved (he's been playing weekly since).
+- Isas Waxter (CB, Chargers) — removed: active for Sunday's game against the Jets; the early-November ankle exit against the Texans has resolved (playing weekly since).
+- DeShon Elliott (S, Steelers) — removed: active for Sunday's game against the Eagles; the Nov 16 pregame knee issue that benched him for one game has resolved.
+- Anthony Hill Jr. (LB, Titans) — removed: active for Sunday's game against the Cowboys; the Nov 11 neck issue is stale with no renewed concern, consistent with weeks of playing through it.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-22T20:44:39Z (current, ~23min old at run start). Last-sweep cutoff was 2026-11-22T16:10Z (11:10 AM ET). Filtered the snapshot to tracked-position entries dated after the cutoff to isolate the 1 PM ET slate's inactives and in-game events: of 105 dated-today entries, the majority were bare "inactive"/"active" game-day status words with no injury description (excluded per scope) or coach's-decision inactives (excluded, non-injury — e.g. Adam Randall, Audric Estime, Nicholas Singleton), 3 confirmed already-tracked rows at their current-week opponent with no change needed, 6 carried real injury descriptions matching existing rows and prompted the status updates above, 12 carried real injury descriptions for players not yet tracked and were added above, and 8 "Active" entries against previously tracked rows (4 of them explicit IR/long-term-absence activations, 4 single-game or stale day-to-day issues resolved by ongoing weekly play) were removed above. WebSearch for the IR-activation cases (Shipley, Jackson, Pipkins, Baker) found supporting context (Panthers beat reporters expected Jackson back for this game; Shipley's 21-day practice window had opened Nov 16) but no outlet had yet confirmed today's activations at research time — today's own injury report showing them "Active" for a game already underway is the most current and direct evidence, since IR status makes "Active" impossible without a prior activation. Circuit breaker check: 8 removals against 495 prior rows (1.6%), well under the 25% threshold.
