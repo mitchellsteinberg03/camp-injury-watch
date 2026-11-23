@@ -9809,3 +9809,25 @@ Sunday 5 PM ET sweep — 1 PM ET slate inactives and in-game injuries at the six
 - Anthony Hill Jr. (LB, Titans) — removed: active for Sunday's game against the Cowboys; the Nov 11 neck issue is stale with no renewed concern, consistent with weeks of playing through it.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-22T20:44:39Z (current, ~23min old at run start). Last-sweep cutoff was 2026-11-22T16:10Z (11:10 AM ET). Filtered the snapshot to tracked-position entries dated after the cutoff to isolate the 1 PM ET slate's inactives and in-game events: of 105 dated-today entries, the majority were bare "inactive"/"active" game-day status words with no injury description (excluded per scope) or coach's-decision inactives (excluded, non-injury — e.g. Adam Randall, Audric Estime, Nicholas Singleton), 3 confirmed already-tracked rows at their current-week opponent with no change needed, 6 carried real injury descriptions matching existing rows and prompted the status updates above, 12 carried real injury descriptions for players not yet tracked and were added above, and 8 "Active" entries against previously tracked rows (4 of them explicit IR/long-term-absence activations, 4 single-game or stale day-to-day issues resolved by ongoing weekly play) were removed above. WebSearch for the IR-activation cases (Shipley, Jackson, Pipkins, Baker) found supporting context (Panthers beat reporters expected Jackson back for this game; Shipley's 21-day practice window had opened Nov 16) but no outlet had yet confirmed today's activations at research time — today's own injury report showing them "Active" for a game already underway is the most current and direct evidence, since IR status makes "Active" impossible without a prior activation. Circuit breaker check: 8 removals against 495 prior rows (1.6%), well under the 25% threshold.
+
+
+## Nov 22, 2026, 8:10 PM ET
+
+**New injuries:**
+- Matt Dickerson (DE, Jaguars) — neck; inactive for Sunday's game against the Giants, not cleared by medical staff to play; next chance is Week 12 against the Titans.
+
+**Status/designation changes:**
+- Jaylon Moore (OT, Chiefs) — stale "exited the second half against the Jets" reference refreshed; out for Sunday's game against the Cardinals (ankle).
+- Trey Smith (G, Chiefs) — stale "against the Falcons" opponent reference refreshed; ruled out for Sunday's game against the Cardinals (concussion).
+
+**Removals:**
+- Damar Hamlin (S, Bills) — removed: "cleared by medical staff to play Sunday following pregame warmups."
+- Yaya Diaby (LB, Buccaneers) — removed: coming off the bye, "is ready to fit back into his starting linebacker role."
+- Patrick Queen (LB, Steelers) — removed: "given the green light by medical staff to play Sunday."
+- Folorunso Fatukasi (DT, Raiders) — removed: "now been cleared by medical staff to play Sunday."
+- Harrison Phillips (DT, Jets) — removed: "has been cleared to suit up for Sunday's contest."
+- Jonah Savaiinaea (G, Dolphins) — removed: "back on the field for the start of the second half" after an in-game ankle injury.
+- Dylan Parham (G, Jets) — removed: "given the green light to play Sunday after going through pregame warmups."
+- Sione Vaki (RB, Lions) — removed: "active status confirmed for Week 11."
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-22T20:44:39Z (same snapshot as the preceding 5 PM ET sweep — no newer fetch yet available, still current at ~4h26min old). Reviewed 40 active-status candidate rows; the 8 removals above carried unhedged medical-clearance/green-light/confirmed-active language, while the remainder carried blank comments, stat recaps, or hedge/inference language, including the recurring playing-through-it cases Quincy Williams, Jake Hummel, and Bhayshul Tuten, kept unchanged. Reviewed 55 new-candidate snapshot entries, nearly all today's bare "inactive" game-day designations with no injury description or explicit coach's-decision inactives (both excluded per scope); only Matt Dickerson carried a real injury description and was added above. Cross-referenced WebSearch results on today's Week 11 Sunday injuries against the dashboard: Alex Highsmith, Dee Winters, and Roschon Johnson were already added by the 5 PM sweep and needed no further change; Kenneth Walker III's existing row already reflected the correct Cardinals matchup; Jaylon Moore's and Trey Smith's rows carried stale opponent references from earlier weeks and were refreshed above (same ongoing injuries, not new events). Circuit breaker check: 8 removals against 495 prior rows (1.6%), well under the 25% threshold.
