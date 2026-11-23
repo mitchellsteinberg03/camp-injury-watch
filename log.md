@@ -9811,7 +9811,32 @@ Sunday 5 PM ET sweep — 1 PM ET slate inactives and in-game injuries at the six
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-22T20:44:39Z (current, ~23min old at run start). Last-sweep cutoff was 2026-11-22T16:10Z (11:10 AM ET). Filtered the snapshot to tracked-position entries dated after the cutoff to isolate the 1 PM ET slate's inactives and in-game events: of 105 dated-today entries, the majority were bare "inactive"/"active" game-day status words with no injury description (excluded per scope) or coach's-decision inactives (excluded, non-injury — e.g. Adam Randall, Audric Estime, Nicholas Singleton), 3 confirmed already-tracked rows at their current-week opponent with no change needed, 6 carried real injury descriptions matching existing rows and prompted the status updates above, 12 carried real injury descriptions for players not yet tracked and were added above, and 8 "Active" entries against previously tracked rows (4 of them explicit IR/long-term-absence activations, 4 single-game or stale day-to-day issues resolved by ongoing weekly play) were removed above. WebSearch for the IR-activation cases (Shipley, Jackson, Pipkins, Baker) found supporting context (Panthers beat reporters expected Jackson back for this game; Shipley's 21-day practice window had opened Nov 16) but no outlet had yet confirmed today's activations at research time — today's own injury report showing them "Active" for a game already underway is the most current and direct evidence, since IR status makes "Active" impossible without a prior activation. Circuit breaker check: 8 removals against 495 prior rows (1.6%), well under the 25% threshold.
 
 
-## Nov 22, 2026, 8:10 PM ET
+## Nov 23, 2026, 11:10 AM ET
+
+**New injuries (Sunday's games and postgame reports):**
+- Colton McKivitz (OT, 49ers) — lower leg; carted off the field Sunday night against the Vikings, diagnosis pending.
+- Walker Little (OT, Jaguars) — knee; questionable to return to Sunday's game against the Giants.
+- Dan Moore Jr. (OT, Titans) — knee; questionable to return to Sunday's game against the Cowboys.
+- Jarrian Jones (CB, Jaguars) — chest; ruled out for the rest of Sunday's game against the Giants.
+- JuJu Brents (CB, Dolphins) — shoulder; questionable to return to Sunday's game against the Bills.
+- Jay Ward (S, Vikings) — knee; inactive for Sunday night's game against the 49ers.
+- Kam Curl (S, Rams) — toe; did not practice Sunday ahead of the Week 12 game.
+- Greg Newsome II (CB, Giants) — ankle; ruled out for the remainder of Sunday evening's game against the Jaguars.
+- Jonathan Jones (CB, Eagles) — foot; spotted in a walking boot following Sunday's win over the Steelers.
+- Quinyon Mitchell (CB, Eagles) — hamstring; ruled out for the rest of Sunday's game against the Steelers.
+- Akheem Mesidor (LB, Chargers) — ankle; questionable to return to Sunday's game against the Jets.
+- Myles Garrett (DE, Rams) — knee; limited in Sunday's practice ahead of the Week 12 game.
+- Khalid Kareem (DE, 49ers) — ankle; inactive for Sunday night's game against the Vikings.
+- JJ Pegues (DT, Raiders) — forearm; questionable to return to Sunday's game against the Broncos.
+- Tim Keenan III (DT, Raiders) — knee; ruled out for the rest of Sunday's game against the Broncos.
+- Adam Butler (DT, Raiders) — concussion; ruled out for the remainder of Sunday's game against the Broncos.
+- Ben VanSumeren (FB, Chiefs) — knee; ruled out for the rest of Sunday's game against the Cardinals.
+- Saquon Barkley (RB, Eagles) — left arm; said after Sunday's win over the Steelers he believes he'll play Thursday at Dallas.
+
+**Removals:**
+- Jordan James (RB, 49ers) — removed: "is good to go for Week 11 after dealing with a calf injury."
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-23T14:47:49Z (current, ~20min old at run start). Reviewed 32 active-status candidate rows; the 1 removal above carried unhedged "good to go" language, while the remainder carried blank comments, stat recaps, or hedge/inference language, including the recurring playing-through-it cases Quincy Williams and Jake Hummel, kept unchanged. Reviewed 73 new-candidate snapshot entries, the large majority bare "inactive" game-day designations from Sunday's slate with no injury description or explicit coach's-decision inactives (both excluded per scope, e.g. Adam Randall, Audric Estime, Nicholas Singleton); the 18 additions above carried real injury descriptions from Sunday's games and postgame reports. Verified via WebSearch that Myles Garrett and Kam Curl's "Rams" team tag is correct, not a data error — Garrett was traded from the Browns to the Rams in a June 2026 deal, and Curl signed with the Rams in March 2026. Keaton Mitchell (RB, Chargers, back) was checked but not added — he re-entered Sunday's game after the injury, with no indication it's an ongoing concern. WebSearch found no other dated breaking news beyond what the snapshot reflects. Circuit breaker check: 1 removal against 488 prior rows (0.2%).
 
 **New injuries:**
 - Matt Dickerson (DE, Jaguars) — neck; inactive for Sunday's game against the Giants, not cleared by medical staff to play; next chance is Week 12 against the Titans.
