@@ -9843,6 +9843,30 @@ Sunday 5 PM ET sweep — 1 PM ET slate inactives and in-game injuries at the six
 
 No new injuries, status changes, or removals at the six tracked positions this run. The snapshot (fetched 2026-11-23T14:47:49Z) had not refreshed since the Nov 23, 11:10 AM ET sweep — ~9h23min old at run start, outside the normal 2-hour Actions cadence but still inside the 6–24h usable-with-note window, so reconciliation ran against the same data already processed last run with no new candidates surfacing. WebSearch for Monday night's game and breaking news turned up no dated, current results, only stale articles from prior seasons. Aged off the NEW badge on 15 rows past the 24h window from the Nov 22, 8:10 PM ET sweep. Circuit breaker check: 0 removals against 505 prior rows (0%).
 
+
+## Nov 24, 2026, 11:10 AM ET
+
+**New injuries (Monday's practice/injury reports, short Thanksgiving week):**
+- Greg Rousseau (LB, Bills) — back, picked up in Sunday's win over the Dolphins; limited for Monday's estimated practice, questionable for Thanksgiving's game against the Chiefs.
+- DJ Wonnum (LB, Lions) — back, picked up in Sunday's win over the Buccaneers; did not participate in Monday's walkthrough, questionable for Thursday's game against the Bears.
+- Chuck Clark (S, Lions) — hamstring, picked up in Sunday's win over the Buccaneers; non-participant at Monday's walkthrough, questionable for Thursday's game against the Bears.
+- Deommodore Lenoir (CB, 49ers) — foot, sustained in Week 9; still being managed per head coach Kyle Shanahan, played through it again in Week 11.
+- Elijah Simmons (DT, Buccaneers) — concussion; entered the NFL's protocol following Sunday's loss to the Lions.
+- Will Shipley (RB, Eagles) — foot/illness; limited on Monday's injury report, questionable for Thanksgiving's game against the Cowboys.
+
+**Removals:**
+- Brandon Cisse (CB, Packers) — removed: "is ready to go for Wednesday's game" after exiting Week 10 early.
+- Dax Hill (CB, Bengals) — removed: "he is now good to go for Monday Night Football."
+- Swayze Bozeman (LB, Bengals) — removed: designated to return from IR Nov. 19, "set to suit up for his first game" since Week 5.
+- Blake Cashman (LB, Vikings) — removed: "returned from the one-game absence to play 93 percent of the defensive snaps Sunday."
+- Brian Parker II (OT, Bengals) — removed: "returned to the active roster after being placed on IR," set to suit up for his first regular-season contest.
+- Lucas Patrick (G, Commanders) — removed: "cleared the NFL's five-step concussion protocol in time for Monday night's contest."
+- Jacory Croskey-Merritt (RB, Commanders) — removed: "making his return from a four-game absence due to a groin injury," played and scored Monday night.
+- Rachaad White (RB, Commanders) — removed: "confirmed to be available" for Monday night's game.
+- Kyren Williams (RB, Rams) — removed: "quelled any concern about his status for Wednesday's game" by taking full practice reps.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-24T14:56:18Z (current, ~11min old at run start; fetch cadence back to normal after Monday's gap). Reviewed 36 active-status candidate rows; the 9 removals above carried unhedged return/clearance/activation language explicitly tied to the known injury, while the remainder carried blank comments, stat recaps with no explicit injury tie (including Nick Bolton and CJ Donaldson, whose recaps describe Sunday's game stats without connecting to their earlier injury designations), or hedge/inference language, including the recurring playing-through-it cases Quincy Williams and Jake Hummel, kept unchanged. Reviewed 16 new-candidate snapshot entries; 9 were bare "questionable" entries with no injury description or Marlon Humphrey's explicit coach's-decision return-to-facility note (excluded, non-injury) or Keaton Mitchell's same-game re-entry (excluded, resolved); the 6 additions above carried real injury descriptions. Circuit breaker check: 9 removals against 505 prior rows (1.8%), well under the 25% threshold.
+
 **New injuries:**
 - Matt Dickerson (DE, Jaguars) — neck; inactive for Sunday's game against the Giants, not cleared by medical staff to play; next chance is Week 12 against the Titans.
 
