@@ -9909,3 +9909,33 @@ No new injuries, status changes, or removals at the six tracked positions this r
 - Sione Vaki (RB, Lions) — removed: "active status confirmed for Week 11."
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-22T20:44:39Z (same snapshot as the preceding 5 PM ET sweep — no newer fetch yet available, still current at ~4h26min old). Reviewed 40 active-status candidate rows; the 8 removals above carried unhedged medical-clearance/green-light/confirmed-active language, while the remainder carried blank comments, stat recaps, or hedge/inference language, including the recurring playing-through-it cases Quincy Williams, Jake Hummel, and Bhayshul Tuten, kept unchanged. Reviewed 55 new-candidate snapshot entries, nearly all today's bare "inactive" game-day designations with no injury description or explicit coach's-decision inactives (both excluded per scope); only Matt Dickerson carried a real injury description and was added above. Cross-referenced WebSearch results on today's Week 11 Sunday injuries against the dashboard: Alex Highsmith, Dee Winters, and Roschon Johnson were already added by the 5 PM sweep and needed no further change; Kenneth Walker III's existing row already reflected the correct Cardinals matchup; Jaylon Moore's and Trey Smith's rows carried stale opponent references from earlier weeks and were refreshed above (same ongoing injuries, not new events). Circuit breaker check: 8 removals against 495 prior rows (1.6%), well under the 25% threshold.
+
+
+## Nov 25, 2026, 5:10 PM ET
+
+**New injuries:**
+- Derrick Henry (RB, Ravens) — concussion, placed back in protocol after symptoms surfaced following Sunday's loss to the Panthers; limited Wednesday, expected available for Sunday's game against the Texans.
+
+**Status/designation changes:**
+- Brady Christensen (G, Panthers) — reverted to season-ending injured reserve Nov 25 after his 21-day practice window closed without activation; severity upgraded mid → high.
+- Colton McKivitz (OT, 49ers) — placed on injured reserve Nov 25 (lower leg, carted off Sunday night against the Vikings); out at least four games.
+- Kenneth Walker III (RB, Chiefs) — ruled out for Thursday's game against the Bills, a third straight missed game (groin); stale "Cardinals" opponent reference refreshed.
+- Jaylon Moore (OT, Chiefs) — stale "Sunday's game against the Cardinals" reference refreshed; out for Thursday's game against the Bills (ankle).
+- Trey Smith (G, Chiefs) — full participant in Tuesday's practice; head coach Andy Reid anticipates he'll be available Thursday against the Bills (concussion protocol).
+- Bhayshul Tuten (RB, Jaguars) — downgraded to a non-participant in Wednesday's practice (ankle/foot); Week 12 status to be clarified on Thursday's report.
+- Woody Marks (RB, Texans) — back on the practice field Wednesday, trending positive for Sunday's game against the Ravens (concussion).
+- Christian Benford (CB, Bills) — limited in Tuesday's walkthrough (groin); availability for Thanksgiving's game against the Chiefs in question.
+- Dorian Williams (LB, Bills) — limited in Monday's estimated practice (calf); availability for Thanksgiving's game against the Chiefs in question; stale "Dolphins" opponent reference refreshed.
+- Alex Highsmith (LB, Steelers) — doubtful for Friday's game against the Broncos (ankle), per head coach Mike McCarthy; stale "Eagles" opponent reference refreshed.
+- Greg Rousseau (LB, Bills) — upgraded to a full participant in Tuesday's walkthrough, trending toward playing Thanksgiving's game against the Chiefs.
+- Saquon Barkley (RB, Eagles) — full practice participant Tuesday, on track to play Thursday against the Cowboys.
+- Jonathan Jones (CB, Eagles) — officially out for Thursday's game against the Cowboys (foot); previously only noted in a walking boot.
+- Roschon Johnson (RB, Bears) — stale "rest of Sunday's game against the Saints" reference refreshed; ruled out for Thursday's game against the Lions (ankle).
+- Olaivavega Ioane (G, Ravens) — upgraded to a full practice participant Nov 20; stale Nov 1 "doubtful, no return timetable" text refreshed; severity downgraded mid → low.
+- Brandon Jones (S, Broncos) — stale "inactive for Sunday's game against the Raiders" reference refreshed; logged a full practice Tuesday, continuing to manage the hamstring injury.
+
+**Removals:**
+- Will Shipley (RB, Eagles) — removed: "doesn't have an injury designation for Thursday's game against the Cowboys."
+- Kam Curl (S, Rams) — removed: "has no injury designation for Wednesday night's matchup against the Packers."
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-25T21:46:21Z (current, ~24min old at run start). Reviewed every dashboard row for presence in the snapshot and scanned for clearance/return language; 18 rows matched clearance-adjacent keywords ("full participant," "no injury designation," "designated to return," etc.) and were individually reviewed above — 2 carried unhedged clearance language and were removed, the rest carried hedged practice-participation or IR-progress language and were updated or left unchanged (including the recurring playing-through-it cases Devin Moore, Jake Hummel, Elijah Simmons, and DJ Wonnum, kept unchanged with no new information this window). Reviewed all ~46 snapshot entries at the six positions dated after the 11:10 AM ET last-sweep stamp; most were bare game-day "questionable"/"out"/"active" designations with no injury description or roster-move/stat-recap entries with no injury content (both excluded per scope — e.g., Salvon Ahmed's practice-squad elevation and Emmett Johnson's/Andrew Beck's stat notes, excluded as non-injury depth/recap items); the 1 new addition and several existing-row updates above carried real injury descriptions. ~192 rows had no corresponding snapshot entry at all; this reflects the ESPN feed's recency-based nature (older, unchanged injury situations roll off the feed over time) rather than a resolution signal, consistent with prior runs, so no removals were made on absence alone this run. WebSearch for additional Nov 25 breaking news (IR placements, cart-offs, settlements) at the six positions turned up nothing beyond the snapshot — only generic hub pages and recycled articles from prior seasons, discarded after date-consistency checks. Aged off the NEW badge on 5 rows (Chuck Clark, Greg Rousseau, DJ Wonnum, Deommodore Lenoir, Elijah Simmons) past the 24h window from the Nov 24, 11:10 AM ET sweep. Circuit breaker check: 2 removals against 508 prior rows (0.4%), well under the 25% threshold.
