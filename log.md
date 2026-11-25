@@ -9867,6 +9867,17 @@ No new injuries, status changes, or removals at the six tracked positions this r
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-24T14:56:18Z (current, ~11min old at run start; fetch cadence back to normal after Monday's gap). Reviewed 36 active-status candidate rows; the 9 removals above carried unhedged return/clearance/activation language explicitly tied to the known injury, while the remainder carried blank comments, stat recaps with no explicit injury tie (including Nick Bolton and CJ Donaldson, whose recaps describe Sunday's game stats without connecting to their earlier injury designations), or hedge/inference language, including the recurring playing-through-it cases Quincy Williams and Jake Hummel, kept unchanged. Reviewed 16 new-candidate snapshot entries; 9 were bare "questionable" entries with no injury description or Marlon Humphrey's explicit coach's-decision return-to-facility note (excluded, non-injury) or Keaton Mitchell's same-game re-entry (excluded, resolved); the 6 additions above carried real injury descriptions. Circuit breaker check: 9 removals against 505 prior rows (1.8%), well under the 25% threshold.
 
+
+## Nov 24, 2026, 8:10 PM ET
+
+**New injuries:**
+- Skyler Gill-Howard (DT, Lions) — knee; needs season-ending surgery, per head coach Dan Campbell, out for the rest of the year.
+- Caden Curry (LB, Colts) — undisclosed; placed on injured reserve.
+
+**Removals:** None this run — of 31 active-status candidate rows reviewed, none carried unhedged clearance/return language; all had blank comments, stat recaps with no explicit injury tie, or hedge language, including the recurring playing-through-it cases Quincy Williams and Jake Hummel, kept unchanged.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-25T00:49:13Z (current, ~18min old at run start). Reviewed 11 new-candidate snapshot entries; 7 were bare "questionable"/"out" entries with no injury description (excluded) or Keaton Mitchell's same-game re-entry (excluded, resolved); J.K. Dobbins (RB, Broncos) was excluded as a one-game suspension for conduct detrimental to the team, not an injury, despite an "Out" status; Marlon Humphrey (CB, Ravens) remains a non-injury team matter (returned to the facility, decision pending on his status, stemming from the earlier podcast-comment benching); the 2 additions above carried real injury descriptions, including a confirmed IR placement. WebSearch found no additional dated breaking news. Circuit breaker check: 0 removals against 502 prior rows (0%).
+
 **New injuries:**
 - Matt Dickerson (DE, Jaguars) — neck; inactive for Sunday's game against the Giants, not cleared by medical staff to play; next chance is Week 12 against the Titans.
 
