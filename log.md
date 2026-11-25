@@ -9878,6 +9878,19 @@ No new injuries, status changes, or removals at the six tracked positions this r
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-25T00:49:13Z (current, ~18min old at run start). Reviewed 11 new-candidate snapshot entries; 7 were bare "questionable"/"out" entries with no injury description (excluded) or Keaton Mitchell's same-game re-entry (excluded, resolved); J.K. Dobbins (RB, Broncos) was excluded as a one-game suspension for conduct detrimental to the team, not an injury, despite an "Out" status; Marlon Humphrey (CB, Ravens) remains a non-injury team matter (returned to the facility, decision pending on his status, stemming from the earlier podcast-comment benching); the 2 additions above carried real injury descriptions, including a confirmed IR placement. WebSearch found no additional dated breaking news. Circuit breaker check: 0 removals against 502 prior rows (0%).
 
+
+## Nov 25, 2026, 11:10 AM ET
+
+**New injuries (short-week Thanksgiving/Wednesday-Friday practice reports):**
+- Elijah Hicks (S, Bears) — concussion; ruled out for Thursday's Thanksgiving game against the Lions.
+- Sai'vion Jones (DE, Broncos) — hamstring; did not participate in Tuesday's walkthrough, status in question for Friday's game against the Steelers.
+- Arnold Ebiketie (LB, Eagles) — oblique; non-participant on Tuesday's injury report, availability for Thanksgiving's game against the Cowboys in question.
+- Travis Glover (OT, Packers) — shoulder; officially questionable for Wednesday's game against the Rams.
+
+**Removals:** None this run — of 28 active-status candidate rows reviewed, none carried unhedged clearance/return language; all had blank comments, stat recaps with no explicit injury tie, or hedge/inference language (including "indicates" for Greg Rousseau), including the recurring playing-through-it cases Quincy Williams and Jake Hummel, kept unchanged.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-25T11:24:38Z (current, ~43min old at run start). Reviewed 9 new-candidate snapshot entries; 3 were bare "questionable" entries with no injury description or non-injury matters (J.K. Dobbins' one-game suspension, Marlon Humphrey's ongoing non-injury team-decision situation, Keaton Mitchell's same-game re-entry), all excluded; the 4 additions above carried real injury descriptions from Tuesday's short-week practice reports. WebSearch found no additional dated 2026 breaking news — only recycled 2025 Thanksgiving-week articles, including a same-name "Elijah Hicks" item confirmed to be from last season and unrelated to today's genuine snapshot-sourced entry. Circuit breaker check: 0 removals against 504 prior rows (0%).
+
 **New injuries:**
 - Matt Dickerson (DE, Jaguars) — neck; inactive for Sunday's game against the Giants, not cleared by medical staff to play; next chance is Week 12 against the Titans.
 
