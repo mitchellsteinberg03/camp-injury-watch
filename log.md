@@ -9944,3 +9944,40 @@ No new injuries, status changes, or removals at the six tracked positions this r
 ## Nov 25, 2026, 8:10 PM ET
 
 No new injuries, status changes, or removals at the six tracked positions this run. Snapshot fetched 2026-11-25T21:46:26Z (current, ~21min old at run start) — same snapshot already thoroughly processed by the preceding 6 PM ET sweep. Reviewed 36 active-status candidate rows; none carried unhedged clearance language beyond what the 6 PM sweep already addressed, including the recurring playing-through-it cases Quincy Williams and Jake Hummel, kept unchanged. Reviewed 19 new-candidate snapshot entries; all were bare "questionable"/"out" entries with no injury description, non-injury matters (J.K. Dobbins' suspension, Marlon Humphrey's ongoing team situation), the same-game Keaton Mitchell re-entry, or a pure stat recap (Abdul Carter) with no injury content — all excluded. WebSearch found no additional dated breaking news. Circuit breaker check: 0 removals against 507 prior rows (0%).
+
+
+## Nov 26, 2026, 11:10 AM ET
+
+**New injuries (Wednesday's final practice reports ahead of Thanksgiving/Friday/Sunday games):**
+- Taylor Rapp (S, Broncos) — quadriceps; ruled out for Friday's game against the Steelers.
+- Tyrique Stevenson Sr. (CB, Bears) — groin; questionable for Thursday's game against the Lions.
+- Barryn Sorrell (DE, Packers) — thumb; questionable to return to Wednesday night's game against the Rams.
+- James Pearce Jr. (LB, Falcons) — back; limited participant in Wednesday's practice.
+- Mike Green (LB, Ravens) — knee; limited participant in Wednesday's practice.
+- Isaiah McGuire (DE, Browns) — calf; did not participate in Wednesday's practice.
+- Tuli Tuipulotu (LB, Chargers) — ankle; did not participate in Wednesday's practice.
+- Dalvin Tomlinson (DT, Chargers) — knee; did not participate in Wednesday's practice.
+- Keaton Mitchell (RB, Chargers) — knee; did not practice Wednesday (new injury, distinct from the back issue earlier this week).
+- Harrison Smith (S, Vikings) — thigh; did not practice Wednesday.
+- Dru Phillips (CB, Giants) — illness; did not participate in Wednesday's practice.
+- Abdul Carter (LB, Giants) — ankle; did not participate in Wednesday's practice.
+- Arvell Reese (LB, Giants) — back; limited participant in Wednesday's practice.
+- Harrison Phillips (DT, Jets) — ankle; listed as a DNP on Wednesday's estimated practice report.
+- DeShon Elliott (S, Steelers) — knee; limited participant in Wednesday's practice.
+- Ernest Jones IV (LB, Seahawks) — knee; limited participant in Wednesday's practice.
+
+**Removals:**
+- Quinyon Mitchell (CB, Eagles) — removed: "the couple days of rest was enough for him to be available for Thanksgiving Day in Dallas."
+- Micah Parsons (EDGE, Packers) — removed: activated from Reserve/PUP, "gained clearance to return," confirmed to play roughly 50% of defensive snaps in his season debut Wednesday night against the Lions.
+- Smael Mondon Jr. (LB, Eagles) — removed: full practice "was enough... to avoid an injury tag ahead of Thanksgiving Day."
+- Jaishawn Barham (LB, Cowboys) — removed: full session "was enough for him to avoid a designation for Thanksgiving Day."
+- Dee Winters (LB, Cowboys) — removed: full practice "was enough for him to avoid a designation ahead of Thanksgiving Day."
+- Kobie Turner (DT, Rams) — removed: "officially cleared by medical staff to return from a four-game absence."
+- JJ Pegues (DT, Raiders) — removed: full participation and "injury clearance" in Week 12's first prep session.
+- Travis Glover (OT, Packers) — removed: "given the green light by medical staff to play Wednesday."
+- Justin Dedich (G, Rams) — removed: "cleared by medical staff to play Wednesday."
+- Sean Rhyan (G, Packers) — removed: "cleared by medical staff to play Wednesday," reclaiming his starting spot.
+- Kevin Zeitler (G, Packers) — removed: "cleared to play Wednesday."
+- Trey Smith (G, Chiefs) — removed: "cleared the NFL's five-step concussion protocol and is all set to reclaim his role" Thursday.
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-26T13:58:03Z (current, ~1h09min old at run start). Reviewed 42 active-status candidate rows; the 12 removals above carried unhedged clearance/activation language, while the remainder carried blank comments, stat recaps, or hedge/inference language ("appears," "should," "indicates," "all set to practice" without a corresponding game-availability confirmation), including the recurring playing-through-it cases Quincy Williams-equivalent entries and Jake Hummel, kept unchanged. Reviewed 49 new-candidate snapshot entries; 33 were bare "questionable"/"inactive" entries with no injury description, J.K. Dobbins' entry now explicitly confirmed as "Suspension" status (reserve/suspended list, not an injury), or the recurring Marlon Humphrey non-injury situation, all excluded; the 16 additions above carried real injury descriptions from Wednesday's practice reports. WebSearch for Thanksgiving Day breaking news turned up no dated 2026 results, only recycled prior-season articles. Circuit breaker check: 12 removals against 507 prior rows (2.4%), well under the 25% threshold.
