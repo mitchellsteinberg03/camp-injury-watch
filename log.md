@@ -9981,3 +9981,23 @@ No new injuries, status changes, or removals at the six tracked positions this r
 - Trey Smith (G, Chiefs) — removed: "cleared the NFL's five-step concussion protocol and is all set to reclaim his role" Thursday.
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-26T13:58:03Z (current, ~1h09min old at run start). Reviewed 42 active-status candidate rows; the 12 removals above carried unhedged clearance/activation language, while the remainder carried blank comments, stat recaps, or hedge/inference language ("appears," "should," "indicates," "all set to practice" without a corresponding game-availability confirmation), including the recurring playing-through-it cases Quincy Williams-equivalent entries and Jake Hummel, kept unchanged. Reviewed 49 new-candidate snapshot entries; 33 were bare "questionable"/"inactive" entries with no injury description, J.K. Dobbins' entry now explicitly confirmed as "Suspension" status (reserve/suspended list, not an injury), or the recurring Marlon Humphrey non-injury situation, all excluded; the 16 additions above carried real injury descriptions from Wednesday's practice reports. WebSearch for Thanksgiving Day breaking news turned up no dated 2026 results, only recycled prior-season articles. Circuit breaker check: 12 removals against 507 prior rows (2.4%), well under the 25% threshold.
+
+## Nov 26, 2026, 5:10 PM ET
+
+**New injuries:**
+- O'Cyrus Torrence (G, Bills) — ankle; questionable for Thursday's Thanksgiving game against the Chiefs, per the Bills' Thanksgiving injury report.
+
+**Status/designation changes (official Thanksgiving Day practice/game reports):**
+- Chuck Clark (S, Lions) — ruled out for Thursday's game against the Bears after a limited Wednesday practice (hamstring); upgraded from Wednesday's questionable tag.
+- DJ Wonnum (LB, Lions) — ruled out for Thursday's game against the Bears after a limited Wednesday practice (back); upgraded from Wednesday's questionable tag.
+- Ennis Rakestraw Jr. (CB, Lions) — inactive for Thursday's game against the Bears (shoulder); stale "Sunday's game against the Buccaneers" reference refreshed.
+- Kyler Gordon (CB, Bears) — ruled out for Thursday's game against the Lions, his second straight missed game (shoulder, first suffered Week 9); stale "Sunday's game against the Saints" reference refreshed.
+- P.J. Locke (S, Cowboys) — in concussion protocol, ruled out for Thursday's game against the Eagles; stale "Sunday's game against the Titans" reference refreshed.
+- Tyler Booker (G, Cowboys) — ruled out for Thursday's game against the Eagles (ankle); stale "hurt during Sunday's loss to the 49ers" reference refreshed.
+- Arnold Ebiketie (LB, Eagles) — ruled out for Thursday's game against the Cowboys (oblique), confirmed on the Eagles' Thanksgiving inactives list.
+- T.J. Sanders (DT, Bills) — now dealing with a shoulder injury, questionable for Thursday's game against the Chiefs; severity downgraded mid → low. Stale Sept/Oct appendectomy-recovery text (since resolved) replaced.
+- Omarr Norman-Lott (DT, Chiefs) — stale "still inactive for Sunday's game against the Cardinals" reference refreshed to "not yet activated off the list" (remains on Reserve/PUP; no status change confirmed this run).
+
+**Removals:** None this run.
+
+**Reconciliation / snapshot health:** data/espn-injuries.json was last fetched 2026-11-26T13:58:03Z — the same snapshot already fully processed by the preceding 11:10 AM ET sweep (its most recent entry dates to 2026-11-26 12:31 UTC, before that sweep's cutoff); zero new six-position entries appeared in it for this window, so a full reconciliation pass against it was not repeated. Instead this run targeted WebSearch at the three Thanksgiving Day games (Bears–Lions, Eagles–Cowboys, Chiefs–Bills) and cross-checked each team's released inactive/injury list against existing dashboard rows at the six positions. Several additional Thanksgiving inactives turned up with no confirmed injury reason in available reporting — Tyrus Wheat, Keith Abney II (Lions); Isaac Yiadom, Jayden Loving, Jordan McFadden (Bears); Jonathan Bullard, Jaishawn Barham (Cowboys) — and were excluded per scope (coach's-decision/healthy-scratch inactives, or insufficient confirmation of an injury reason). No clearance/return-to-practice news surfaced for any tracked player this window. Circuit breaker check: 0 removals against 511 prior rows (0%).
