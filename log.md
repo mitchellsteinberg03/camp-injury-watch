@@ -10017,3 +10017,23 @@ No new injuries, status changes, or removals at the six tracked positions this r
 - D'Marco Jackson (LB, Bears) — removed: "he's going to suit up Thursday."
 
 **Reconciliation / snapshot health:** Snapshot fetched 2026-11-26T23:01:51Z (current, ~1h06min old at run start). Reviewed 39 active-status candidate rows; the 3 removals above carried unhedged game-availability statements, while the remainder carried blank comments, stat recaps, or hedge/inference language, including the recurring playing-through-it case Jake Hummel, kept unchanged. Reviewed 49 new-candidate snapshot entries; the large majority were bare "questionable"/"inactive" entries with no injury description, non-injury matters (J.K. Dobbins' suspension, Jaishawn Barham's already-cleared status reiterated), all excluded; the 4 additions above carried real injury descriptions, including a new IR placement and an in-game injury from Wednesday night's Rams-Packers game. WebSearch for the Thanksgiving night Bills-Chiefs game turned up no dated results yet (game still in progress/too recent for indexed coverage) — only recycled 2025 Thanksgiving articles. Circuit breaker check: 3 removals against 512 prior rows (0.6%), well under the 25% threshold.
+
+
+## Nov 27, 2026, 11:10 AM ET
+
+**New injuries (Thanksgiving Day in-game injuries and Friday short-week reports):**
+- Quinnen Williams (DT, Cowboys) — back; not cleared to return to Thursday's game against the Eagles (back spasms), extra rest before the Dec 7 Week 13 game against the Seahawks.
+- Trey Smith (G, Chiefs) — ankle; sustained an ankle sprain in Thursday's loss in Buffalo, per head coach Andy Reid (new injury, distinct from the earlier-cleared concussion).
+- Gabe Hall (DT, Eagles) — wrist; questionable to return to Thursday's game against the Cowboys.
+- Marcus Epps (S, Eagles) — foot; ruled out for the remainder of Thursday's game against the Cowboys.
+- Cole Holcomb (LB, Steelers) — heel; questionable for Friday's game against the Broncos.
+- Anthony Bradford (G, Seahawks) — knee; limited participant in Thursday's practice estimate.
+
+**Removals:**
+- Dorian Williams (LB, Bills) — removed: "has been cleared by medical staff to play Thursday."
+- Danny Striggow (DE, Jaguars) — removed: "will be good to go for Sunday's matchup... after clearing the league's concussion protocol."
+- Nick Herbig (LB, Steelers) — removed: "is set to make his return" from a hip injury.
+- T.J. Sanders (DT, Bills) — removed: "officially cleared to return from a one-game absence."
+- Peter Woods (DT, Chiefs) — removed: "cleared by medical staff to return from a three-game absence."
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-27T08:43:31Z (current, ~2h27min old at run start). Reviewed 40 active-status candidate rows; the 5 removals above carried unhedged clearance/return language, while the remainder carried blank comments, stat recaps, or hedge/inference language, including the recurring playing-through-it case Jake Hummel, kept unchanged. Reviewed 55 new-candidate snapshot entries; the large majority were bare "questionable"/"inactive" entries with no injury description, non-injury matters (J.K. Dobbins' suspension, Jaishawn Barham's already-cleared status reiterated), all excluded; the 6 additions above carried real injury descriptions from Thanksgiving Day's games. WebSearch found no additional dated 2026 breaking news. Circuit breaker check: 5 removals against 513 prior rows (1.0%), well under the 25% threshold.
