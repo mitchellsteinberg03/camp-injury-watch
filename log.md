@@ -10001,3 +10001,19 @@ No new injuries, status changes, or removals at the six tracked positions this r
 **Removals:** None this run.
 
 **Reconciliation / snapshot health:** data/espn-injuries.json was last fetched 2026-11-26T13:58:03Z — the same snapshot already fully processed by the preceding 11:10 AM ET sweep (its most recent entry dates to 2026-11-26 12:31 UTC, before that sweep's cutoff); zero new six-position entries appeared in it for this window, so a full reconciliation pass against it was not repeated. Instead this run targeted WebSearch at the three Thanksgiving Day games (Bears–Lions, Eagles–Cowboys, Chiefs–Bills) and cross-checked each team's released inactive/injury list against existing dashboard rows at the six positions. Several additional Thanksgiving inactives turned up with no confirmed injury reason in available reporting — Tyrus Wheat, Keith Abney II (Lions); Isaac Yiadom, Jayden Loving, Jordan McFadden (Bears); Jonathan Bullard, Jaishawn Barham (Cowboys) — and were excluded per scope (coach's-decision/healthy-scratch inactives, or insufficient confirmation of an injury reason). No clearance/return-to-practice news surfaced for any tracked player this window. Circuit breaker check: 0 removals against 511 prior rows (0%).
+
+
+## Nov 26, 2026, 8:10 PM ET
+
+**New injuries:**
+- Cooper DeJean (CB, Eagles) — concussion; entered the protocol and ruled out for the rest of Thursday's game against the Cowboys.
+- Bill Murray (G, Rams) — leg; exited the locker room in a walking boot and on crutches after Wednesday night's game against the Packers.
+- Deane Leonard (CB, Chargers) — groin; placed on injured reserve Thursday.
+- Kendal Daniels (LB, Falcons) — Achilles; limited participant in Thursday's practice.
+
+**Removals:**
+- Tyrique Stevenson Sr. (CB, Bears) — removed: "he'll be able to push through the injury and suit up against Detroit."
+- DeShon Elliott (S, Steelers) — removed: full Thursday practice "was enough for him to avoid an injury tag ahead of Friday's contest."
+- D'Marco Jackson (LB, Bears) — removed: "he's going to suit up Thursday."
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-26T23:01:51Z (current, ~1h06min old at run start). Reviewed 39 active-status candidate rows; the 3 removals above carried unhedged game-availability statements, while the remainder carried blank comments, stat recaps, or hedge/inference language, including the recurring playing-through-it case Jake Hummel, kept unchanged. Reviewed 49 new-candidate snapshot entries; the large majority were bare "questionable"/"inactive" entries with no injury description, non-injury matters (J.K. Dobbins' suspension, Jaishawn Barham's already-cleared status reiterated), all excluded; the 4 additions above carried real injury descriptions, including a new IR placement and an in-game injury from Wednesday night's Rams-Packers game. WebSearch for the Thanksgiving night Bills-Chiefs game turned up no dated results yet (game still in progress/too recent for indexed coverage) — only recycled 2025 Thanksgiving articles. Circuit breaker check: 3 removals against 512 prior rows (0.6%), well under the 25% threshold.
