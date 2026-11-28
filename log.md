@@ -10060,3 +10060,37 @@ No new injuries at the six tracked positions this window. Friday's Black Friday 
 ## Nov 27, 2026, 8:10 PM ET
 
 No new injuries, status changes, or removals at the six tracked positions this run. Snapshot fetched 2026-11-27T19:29:52Z (current, ~2h38min old at run start) — same snapshot already thoroughly processed by the preceding 6 PM ET sweep, including its backlog review. Reviewed 32 active-status candidate rows; none carried unhedged clearance/return language, all blank, stat recaps, or hedge/inference phrasing, including the recurring playing-through-it case Jake Hummel, kept unchanged. Reviewed 53 new-candidate snapshot entries; all were bare "questionable"/"out"/"inactive" entries with no injury description, or non-injury matters (J.K. Dobbins' suspension, Jaishawn Barham's already-cleared status reiterated), all excluded. WebSearch for the Steelers-Broncos Friday night game turned up a Patrick Queen "injury" lead that traced back to 2024/2025 articles, not this week — discarded after date-consistency check; no other breaking news found. Aged off the NEW badge on 1 row past the 24h window. Circuit breaker check: 0 removals against 507 prior rows (0%).
+
+
+## Nov 28, 2026, 11:10 AM ET
+
+**New injuries (Friday night's game and Saturday's official injury reports ahead of Week 12 Sunday):**
+- DeMarcco Hellams (S, Falcons) — foot; ruled out for Sunday's game against the Vikings.
+- Matthew Bergeron (G, Falcons) — back; ruled out for Sunday's game against the Vikings.
+- Jackson Powers-Johnson (G, Raiders) — Achilles; ruled out for Sunday's game against the Browns.
+- Austin Barber (OT, Browns) — knee; questionable for Sunday's game against the Raiders.
+- Christian Darrisaw (OT, Vikings) — shoulder; ruled out for Sunday's game against the Falcons.
+- Derek Barnett (DE, Browns) — hamstring; ruled out for Sunday night's game against the Raiders.
+- Jack Sawyer (LB, Steelers) — knee; ruled out for the rest of Friday's game against the Broncos.
+- Christian Barmore (DT, Patriots) — knee; questionable for Sunday's game against the Chargers.
+- Shelby Harris (DT, Giants) — illness; ruled out for Sunday's game against the Colts.
+- Reggie Gilliam (FB, Patriots) — knee; questionable for Sunday's game against the Chargers.
+
+**Removals:**
+- Dante Trader Jr. (S, Dolphins) — removed: "he's now back to full strength."
+- Tony Adams (S, Titans) — removed: "he's been cleared to play in Week 12... and he will return to a starting role."
+- Dru Phillips (CB, Giants) — removed: "enough for the Giants to clear the third-year defensive back for Sunday's contest."
+- Robert Spillane (LB, Patriots) — removed: "is fine coming out of the team's Week 11 bye."
+- Matt Dickerson (DE, Jaguars) — removed: "has been cleared by medical staff to play in Sunday's AFC South game."
+- Abdul Carter (LB, Giants) — removed: "enough for the second-year edge rusher to avoid an injury designation ahead of Sunday's road game."
+- Arvell Reese (LB, Giants) — removed: "full session Friday was enough for him to avoid an injury tag ahead of Sunday's road tilt."
+- Ernest Jones IV (LB, Seahawks) — removed: "is fine for the divisional showdown with San Francisco."
+- Kendal Daniels (LB, Falcons) — removed: "full practice participation Friday was enough... to avoid an injury tag for Week 12."
+- Leonard Williams (DT, Seahawks) — removed: "will be returning from a two-game absence against San Francisco."
+- Sheldon Rankins (DT, Texans) — removed: "Friday's full practice was enough for him to avoid an injury tag ahead of Sunday's contest."
+- Walker Little (OT, Jaguars) — removed: "he's been cleared to play Sunday... and will start at left tackle."
+- Wyatt Teller (G, Texans) — removed: "he's been cleared by medical staff to play in Sunday's contest."
+- Woody Marks (RB, Texans) — removed: "now has gained clearance to rejoin the lineup after being sidelined for one game."
+- Derrick Henry (RB, Ravens) — removed: "has cleared concussion protocol after practicing without limitations Thursday and Friday."
+
+**Reconciliation / snapshot health:** Snapshot fetched 2026-11-28T13:08:57Z (current, ~2h01min old at run start). Reviewed 54 active-status candidate rows; the 15 removals above carried unhedged clearance/return/full-strength language, while the remainder carried blank comments, stat recaps, or hedge/inference language, including the recurring playing-through-it case Quincy Williams, kept unchanged. Reviewed 44 new-candidate snapshot entries; the large majority were bare "questionable"/"inactive" entries with no injury description or non-injury matters (J.K. Dobbins' suspension, Jaishawn Barham's already-cleared status), all excluded; the 10 additions above carried real injury descriptions from Friday night's game and Saturday's official reports. WebSearch found no additional dated 2026 breaking news. Circuit breaker check: 15 removals against 507 prior rows (3.0%), well under the 25% threshold.
